@@ -1,0 +1,112 @@
+!!!!SEGMENT: T802_Bri-w27p24h3m1-3.krn
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Four Interludes of Peter Grimes for orchestra Op. 33a
+!!!OMV: II: Sunday Morning
+!!!OMD:
+!!!AGN: Orchestral; Programmatic
+!!!AGN-sub: Programmatic
+!!!CNT: English
+!!!ODT: 1945
+!!!OPR: Four Interludes of Peter Grimes for orchestra Op. 33a
+!!!filename: T802_Bri-w27p24h3m1-3.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Itromt	*	*Itromt	*	*Itromp	*	*Itromp	*	*Icor	*	*Icor	*	*Iclars	*	*Iclars	*	*Ioboe	*	*Ipicco	*	*Iflt	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Trombone 3	*	*I"Trombone 1, 2	*	*I"Trumpet in D 3	*	*I"Trumpet in C 1, 2	*	*I"Horn in F 3, 4	*	*I"Horn in F 1, 2	*	*I"Clarinet in Eb 2	*	*I"Clarinet in A 1	*	*I"Oboe 1, 2	*	*I"Piccolo	*	*I"Flute 1	*
+*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'tn	*	*I'tn	*	*I'tp	*	*I'tp	*	*I'cor-fr	*	*I'cor-fr	*	*I'cl	*	*I'cl	*	*I'ob	*	*I'picc	*	*I'fl	*
+*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-1c-2	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*ITrd-2c-3	*	*ITrd2c3	*	*	*	*ITrd-7c-12	*	*	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*
+*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*	*A:	*
+!!LO:TX:omd:tempo:a:t=[Allegro spiritoso]\n[[half]=80]
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+!!LO:REH:t=3
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:TX:a:rj:t=[unis.]	!	!LO:TX:a:rj:t=[unis.]	!	!LO:TX:a:rj:t=[unis.]	!	!LO:TX:a:rj:t=[unis.]	!	!	!LO:DY:t=%s sosten.	!	!LO:DY:t=%s sosten.	!LO:TX:a:rj:t=Solo	!	!LO:TX:a:rj:t=Solo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8a`L	ff	8dd`L	ff	8ee`L	ff	8aa`L	ff	[1d	sfp	[1d [1f#	sfp	8a^	ff	8a^	1re	ff	1r	.	1r	.	16ddd'LL	ff	16aa'LL	ff	16dd'LL 16ee	ff	16aaa'LL	ff	16eee'LL	ff
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'JJ	.	16aa'JJ	.	16dd'JJ 16ee	.	16aaa'JJ	.	16eee'JJ	.
+8d`	.	8a`	.	8aa`	.	8eee`	.	.	.	.	.	8r	.	8rff	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	8ee^	.	8ee^	.	.	.	.	.	.	16ddd'LL	.	16aa'LL	.	16dd'LL 16ee	.	16aaa'LL	.	16eee'LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'JJ	.	16aa'JJ	.	16dd'JJ 16ee	.	16aaa'JJ	.	16eee'JJ	.
+8e`J	.	8aa`J	.	8dd`J	.	8aaa`J	.	.	.	.	.	8r	.	8rff	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+8a`L	.	8dd`L	.	8ee`L	.	8aa`L	.	.	.	.	.	8dd^	.	8dd^	.	.	.	.	.	.	16ddd'LL	.	16aa'LL	.	16dd'LL 16ee	.	16aaa'LL	.	16eee'LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'JJ	.	16aa'JJ	.	16dd'JJ 16ee	.	16aaa'JJ	.	16eee'JJ	.
+8d`	.	8a`	.	8aa`	.	8eee`	.	.	.	.	.	8r	.	8raa	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	8aa^	.	8aa^	.	.	.	.	.	.	16ddd'LL	.	16aa'LL	.	16dd'LL 16ee	.	16aaa'LL	.	16eee'LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'JJ	.	16aa'JJ	.	16dd'JJ 16ee	.	16aaa'JJ	.	16eee'JJ	.
+8e`J	.	8aa`J	.	8dd`J	.	8aaa`J	.	.	.	.	.	8r	.	8raa	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:rj:t=Solo	!	!	!	!	!	!LO:DY:t=%s sosten.	!	!	!	!	!	!	!	!	!	!
+8g#`L	.	8dd`L	.	8ee`L	.	8aa`L	.	1d_	.	1d] 1f#]	.	8a^	.	2rff	8a^	ff	[1e [1g#	sfp	[1e [1g#	sfp	16ddd'LL	.	16gg#Z'LL	.	16cc#'LL 16dd	.	16ggg#Z'LL	.	16eee'LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'JJ	.	16gg#'JJ	.	16cc#'JJ 16dd	.	16ggg#'JJ	.	16eee'JJ	.
+8d`	.	8a`	.	8gg#`	.	8eee`	.	.	.	.	.	8r	.	.	8r	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	8ee^L	.	.	8ee^L	.	.	.	.	.	16ddd'LL	.	16gg#'LL	.	16cc#'LL 16dd	.	16ggg#'LL	.	16eee'LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'J	.	16gg#'J	.	16cc#'J 16dd	.	16ggg#'J	.	16eee'J	.
+8e`J	.	8gg#`J	.	8dd`J	.	8ggg#Z`J	.	.	.	.	.	8dd^J	.	.	8dd^J	.	.	.	.	.	16ddd'L	.	16gg#'L	.	16cc#'L 16dd	.	16ggg#'L	.	16eee'L	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'JJ	.	16gg#'JJ	.	16cc#'JJ 16dd	.	16ggg#'JJ	.	16eee'JJ	.
+8g#`L	.	8dd`L	.	8ee`L	.	8aa`L	.	.	.	.	.	8gg#^	.	4r	8gg#^	.	.	.	.	.	16ddd'LL	.	16gg#'LL	.	16cc#'LL 16dd	.	16ggg#'LL	.	16eee'LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'JJ	.	16gg#'JJ	.	16cc#'JJ 16dd	.	16ggg#'JJ	.	16eee'JJ	.
+8d`	.	8a`	.	8gg#`	.	8eee`	.	.	.	.	.	8r	.	.	8rb	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	8a^L	.	8a^L	4r^	.	.	.	.	.	16ddd'LL	.	16gg#'LL	.	16cc#'LL 16dd	.	16ggg#'LL	.	16eee'LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'J	.	16gg#'J	.	16cc#'J 16dd	.	16ggg#'J	.	16eee'J	.
+8e`J	.	8gg#`J	.	8dd`J	.	8ggg#`J	.	.	.	.	.	8ee^J	.	8ee^J	.	.	.	.	.	.	16ddd'L	.	16gg#'L	.	16cc#'L 16dd	.	16ggg#'L	.	16eee'L	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'JJ	.	16gg#'JJ	.	16cc#'JJ 16dd	.	16ggg#'JJ	.	16eee'JJ	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8a`L	.	8dd`L	.	8ee`L	.	8aa`L	.	1d_	.	[1f# [1a	sfp	8r^	.	8rff	2re	.	1e] 1g#]	.	1e] 1g#]	.	8r'	.	8r'	.	8r'	.	8r'	.	8r'	.
+8d`	.	8a`	.	8aa`	.	8eee`	.	.	.	.	.	8dd^	.	8dd^	.	.	.	.	.	.	16ddd'LL	.	16aa'LL	.	16dd'LL 16ee	.	16aaa'LL	.	16eee'LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'J	.	16aa'J	.	16dd'J 16ee	.	16aaa'J	.	16eee'J	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	8aa^	.	8aa^	.	.	.	.	.	.	16ddd'L	.	16aa'L	.	16dd'L 16ee	.	16aaa'L	.	16eee'L	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'JJ	.	16aa'JJ	.	16dd'JJ 16ee	.	16aaa'JJ	.	16eee'JJ	.
+8e`J	.	8aa`J	.	8dd`J	.	8aaa`J	.	.	.	.	.	8r^	.	8raa	.	.	.	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.
+8a`L	.	8dd`L	.	8ee`L	.	8aa`L	.	.	.	.	.	8a^>	.	2rff	8a^	.	.	.	.	.	16ddd'LL	.	16aa'LL	.	16dd'LL 16ee	.	16aaa'LL	.	16eee'LL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd'JJ	.	16aa'JJ	.	16dd'JJ 16ee	.	16aaa'JJ	.	16eee'JJ	.
+8d`	.	8a`	.	8aa`	.	8eee`	.	.	.	.	.	8r^	.	.	8r	.	.	.	.	.	8r'	.	8r'	.	8r'	.	8r'	.	8r'	.
+8A`	.	8ee`	.	8a`	.	8ddd`	.	.	.	.	.	[4ee~	.	.	[4ee~	.	.	.	.	.	16ddd'KL	.	16aa'KL	.	16dd'KL 16ee	.	16aaa'KL	.	16eee'KL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[8.ddd~J	.	[8.aa~J	.	[8.dd~J [8.ee	.	[8.aaa~J	.	[8.eee~J	.
+8e`J	.	8aa`J	.	8dd`J	.	8aaa`J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3[(s4,s5)])][([(s6,s7)][(s8,s9)][(s10,s11)])][(s12,s13,s14,s15)]
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: > =above
+!!!EED:Jason Lee
+!!!EEV:2022/01/12
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Bri-27
+!!!Suter_Example_Number: 802
+!!!Suter_Example_ID: Bri-27/24/[3]1-3
+!!!Premiere_Location: Cheltenham,England
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 3:41
+!!!First_Publication_Year: 1946
+!!!First_Public_Performance_Year: 1945
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 4
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 1:48
+!!!Example_Start_Tempo_Expression: [Allegro spiritoso]
+!!!Example_Start_Notated_Beat_Rate: [80]
+!!!Example_Start_Notated_Beat: [half]
+!!!Example_Start_Measure: 67
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:52
+!!!Example_End_Measure: 69
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [half=80] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Allegro spiritoso] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Aldeburgh,England
+!!!Death_Date: 4-Dec-1976
+!!!Changing_Tsig: no
+!!!Birth_Place: Lowestoft,England
+!!!Birth_Date: 22-Nov-1913
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/27

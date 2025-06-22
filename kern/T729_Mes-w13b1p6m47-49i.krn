@@ -1,0 +1,178 @@
+!!!!SEGMENT: T729_Mes-w13b1p6m47-49i.krn
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Poèmes pour Mi (Poems for Mi) for Soprano and Orchestra, First and Second Books
+!!!OMV: No. 1: Action de grâces (Thanksgiving)
+!!!OMV: No. 1: Action de grâces (Thanksgiving)
+!!!example: 729
+!!!work: Mes-13
+!!!AGN-sub: Solo
+!!!OPR: Poèmes pour Mi (Poems for Mi) for Soprano and Orchestra, First and Second Books
+!!!filename: T729_Mes-w13b1p6m47-49i.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**text
+*grp:A	*	*grp:A	*	*grp:B	*	*
+*part2	*	*part2	*	*part1	*	*
+*staff3	*	*staff2	*	*staff1	*	*
+*ICklav	*	*	*	*ICvox	*	*
+*Ipiano	*	*	*	*Isoprn	*	*
+*I"Piano	*	*	*	*I"Solo Soprano	*	*
+*I'pf	*	*	*	*I's	*	*
+*clefG2	*	*clefG2	*	*clefG2	*	*
+*k[f#c#g#d#a#e#]	*	*k[f#c#g#d#a#e#]	*	*k[f#c#g#d#a#e#]	*	*
+*MM121	*	*MM121	*	*MM121	*	*
+=47	=47	=47	=47	=47	=47	=47
+!!LO:TX:omd:tempo:a:t=Très modéré\n{[quarter]=45}
+!LO:T:lv	!LO:DY:a:t=%s (très brouillé de pédale)	!	!LO:DY:t=%s expressif	!	!	!
+[16c#L	pp	16aa#L	p	1a#X_	.	[Dieu-
+!LO:T:lv	!	!	!	!	!	!
+[16f#	.	16bb#X	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16d#	.	16aa#	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16a#J	.	16bb#J	.	.	.	.
+!LO:T:lv	!	!	!	!	!LO:HP:a	!
+[16f#L	.	16ff#L	.	.	>	.
+!LO:T:lv	!	!	!	!	!	!
+[16cc#	.	16bb#	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16a#	.	16aa#	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16dd#J	.	16aanJ	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16cc#L/	.	16ggnL	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16dd#	.	16aa	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16a#	.	16aa#X	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16cc#J	.	16ccc#J	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16f#L	.	16bb#XL	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16a#	.	16aa#	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16d#	.	16aan	.	.	.	.
+!LO:T:lv	!	!	!	!	!	!
+[16f#J	.	16bb#J	.	.	.	.
+16c#L	.	16ff#L	.	8a#]	]	-]
+16d#	.	16een	.	.	.	.
+16f#	.	16aa#X	.	8r	.	.
+16d#J	.	16aanJ	.	.	.	.
+16f#L	.	16ggnL	.	4r	.	.
+16a#	.	16aa#X	.	.	.	.
+16f#	.	16ccc#	.	.	.	.
+16a#J	.	16bb#XJ	.	.	.	.
+16cc#L/	.	16eenL	.	4r	.	.
+16a#	.	16aa#	.	.	.	.
+16cc#	.	16ff#	.	.	.	.
+16dd#J	.	16ggJ	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48
+16f#L	.	16eenL	.	2r	.	.
+16a#	.	16aa#	.	.	.	.
+16cc#	.	16aan	.	.	.	.
+16d#J	.	16bb#XJ	.	.	.	.
+16f#L	.	16ff#L	.	.	.	.
+16a#	.	16aa#X	.	.	.	.
+16c#	.	16aan	.	.	.	.
+16d#J	.	16bb#J	.	.	.	.
+16f#L	.	16ff#L	.	2r	.	.
+16a#	.	16aa#X	.	.	.	.
+16d#	.	16aan	.	.	.	.
+16f#J	.	16bb#J	.	.	.	.
+16a#L/	.	16ff#L	.	.	.	.
+16cc#	.	16aa#X	.	.	.	.
+16dd#	.	16aan	.	.	.	.
+16cc#J	.	16bb#J	.	.	.	.
+16a#L	.	16ff#L	.	4r	.	.
+16f#	.	16aa#X	.	.	.	.
+16d#	.	16aan	.	.	.	.
+16c#J	.	16bb#J	.	.	.	.
+16d#L	.	16aa#XL	.	8r	.	.
+16f#	.	16aan	.	.	.	.
+!	!	!	!	!	!LO:DY:t=%s expressif, avec une joie sereine	!
+16d#	.	16ggn	.	(4a#i	mf	Al-
+16f#J	.	16ccc#J	.	.	.	.
+16a#L	.	16eeenL	.	.	.	.
+16f#	.	16bb#X	.	.	.	.
+16a#	.	16ff#	.	8f#	.	.
+16cc#J	.	16ccc#J	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49
+16a#L	.	16bb#XL	.	8gnL/	.	.
+16cc#	.	16aa#X	.	.	.	.
+16dd#	.	16bb#	.	16a#	.	.
+16f#J	.	16eeenJ	.	[16b#XJ	.	.
+16a#L	.	16ddd#L	.	16b#L]	.	.
+16cc#	.	16aan	.	[8.ff#J	.	.
+16d#	.	16ff#	.	.	.	.
+16f#J	.	16ggnJ	.	.	.	.
+16a#L	.	16aa#XL	.	16ff#k]L	.	.
+16c#	.	16een	.	8een	.	.
+16f#	.	16ff#	.	.	.	.
+16d#J	.	16ccc#J	.	[16a#J	.	-le-
+16a#L	.	16bb#XL	.	16a#KL]	.	.
+16f#	.	16aan	.	8.b#XJ	.	-lu-
+16cc#	.	16dd#	.	.	.	.
+16a#J	.	16eeJ	.	.	.	.
+16dd#L/	.	16ggnL	.	[4a#	.	-ia
+16cc#	.	16aa#X	.	.	.	.
+16dd#	.	16ccc#	.	.	.	.
+16a#J	.	16bb#J	.	.	.	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
+!!!CDT: 1908/12/10-1992/04/27
+!!!CBL: Avignon, France
+!!!CDL: Paris, France
+!!!CNT: French
+!!!OMD:
+!!!AGN: Vocal; Solo
+!!!MCN: Désormière, Roger
+!!!MDT: 1937/06/04
+!!!MGN: Orchestre de la Société des Concerts du Conservatoire
+!!!MLC: Paris, France
+!!!MPD: 1937
+!!!MPN: Bunlet, Marcelle
+!!!ODT: 1937
+!!!PDT: 1939
+!!!excerpt-start-measure: 47
+!!!excerpt-end-measure: 49
+!!!excerpt-start-time: 4:29
+!!!excerpt-end-time: 4:52
+!!!ONB: Converted from MusicXML on 2020/01/27
+!!!EED: Jason Lee
+!!!EEV: 2023/01/18
+!!!EED2: Bryan Bell
+!!!Suter_Work_ID: Mes-13
+!!!Suter_Example_Number: 729
+!!!Suter_Example_ID: Mes-13^1/6/47-49 début
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:36
+!!!First_Publication_Year: 1939
+!!!First_Public_Performance_Year: 1937
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 28
+!!!Example_Start_Tsig_Type: unmetered
+!!!Example_Start_Tsig_Mean_Beat_Rate: 45
+!!!Example_Start_Tsig_Beat_Rate: 45
+!!!Example_Start_Tsig_Beat: {quarter}
+!!!Example_Start_Tsig: {7/4}
+!!!Example_Start_Timestamp: 4:50
+!!!Example_Start_Tempo_Expression: Très modéré
+!!!Example_Start_Notated_Beat_Rate: {45}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 47
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:18
+!!!Example_End_Measure: 49
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. The example contains all of measure 49. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=45} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=SWR19421CD). Full Unit Start Time Signature {9/4} based on a calculation of the number of quarter beats in the first unmetered measure, which subsequently changes. Full Unit Start Tsig Type (none) is used as there are no regular groupings of beats. ^1 = Livre 1 (of 2); Suter's example is a piano reduction.
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Apr-1992
+!!!Changing_Tsig: no
+!!!Birth_Place: Avignon,France
+!!!Birth_Date: 10-Dec-1908
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2023/01/19
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

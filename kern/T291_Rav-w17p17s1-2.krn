@@ -1,0 +1,141 @@
+!!!!SEGMENT: T291_Rav-w17p17s1-2.krn
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Gaspard de la nuit (Gaspard of the Night) for Piano
+!!!OMV: II: Le Gibet (The Gibbet)
+!!!OMD:
+!!!AGN: Instrumental; Keyboard
+!!!AGN-sub: Keyboard
+!!!CNT: French
+!!!ODT: 1908
+!!!OPR: Gaspard de la nuit (Gaspard of the Night) for Piano
+!!!filename: T291_Rav-w17p17s1-2.krn
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*
+*staff2	*staff1	*staff1/2
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*I"Piano	*I"Piano	*
+*I'pf	*I'pf	*
+*clefF4	*clefG2	*
+*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]	*
+*G-:	*G-:	*
+!!LO:TX:omd:tempo:a:t=Très lent; Sans presser ni ralentir jusqu'à la fin\n{[quarter]=32}
+*M4/4	*M4/4	*
+=1	=1	=1
+!LO:TX:b:i:t=Sourdine durant toute la pièce	!	!
+1r	4r	.
+.	8r	.
+!	!	!LO:DY
+.	(>[8B-'>^> 8b-	pp
+.	4B-'>] 4b-)	.
+.	(>[8B-'>^> 8b-	.
+.	8B-'>L_ [8b-)	.
+=2	=2	=2
+1r	8B-J] 8b-]	.
+.	4b-~>/	.
+.	(>[8B-'>^> 8b-	.
+.	4B-'>] 4b-)	.
+.	(>[8B-'>^> 8b-	.
+.	8B-'>L_ [8b-)	.
+=3	=3	=3
+*	*^	*
+!	!LO:TX:b:i:t=un peu marqué	!	!
+*grp:A	*grp:B	*grp:A	*
+([2EE- [2BB- [2F	8b-J]	(2B-_ [2f	.
+.	4b-~	.	.
+.	(8B-'^ 8b-	.	.
+8EE-L] 8BB-] 8F]	4b-')	8B-L] 8f]	.
+8CC- 8GG- 8D-	.	8G- 8d-	.
+8.DD- 8.AA- 8.E-	(8B-'^ 8b-	8.A- [8.e-	.
+.	[/8b-'L)	.	.
+16AA-Jk 16E- 16B-	.	16c-Jk 16e-]	.
+=4	=4	=4	=4
+[2EE- [2BB- [2F	8b-J]	[2B- [2f	.
+.	4b-~	.	.
+.	(8B-'^ 8b-	.	.
+8EE-L] 8BB-] 8F]	4b-')	8B-L] 8f]	.
+8CC- 8GG- 8D-	.	8G- 8d-	.
+8.DD- 8.AA- 8.E-	(8B-'^ 8b-	8.A- 8.e-	.
+.	[8b-'L)	.	.
+16AA-Jk 16E- 16B-	.	16c-Jk 16e-	.
+=5	=5	=5	=5
+*^	*	*	*
+2.ryy	1EE- 1BB- 1F)	8b-J]/	1B- 1f)	.
+.	.	4b-~>/	.	.
+.	.	(>[8B-'>^>/ 8b-/	.	.
+.	.	4B-'>]/ 4b-)/	.	.
+*clefG2	*	*	*	*
+(>[<8B-<'^ 8b-<	.	4ra	.	.
+8B-<'L_< [8b-<)	.	.	.	.
+*v	*v	*	*	*
+=6	=6	=6	=6
+*grp:B	*grp:A	*grp:A	*
+!	!	!	!LO:DY:c:t=%s expressif
+8B-<J] 8b-<]	(8.dd-L	(<8.d-L	p
+4B-<~ 4b-<	.	.	.
+.	16ee-Jk	16e-Jk	.
+.	4dd-	4d-	.
+(>[<8B-<'^ 8b-<	.	.	.
+4B-<'] 4b-<)	8ff-XL	8f-XL	.
+.	8ee-	8e-	.
+(>[<8B-<'^ 8b-<	8.ccn	8.cn	.
+8B-<'L_< [8b-<)	.	.	.
+.	16ee-Jk	16e-Jk	.
+=7	=7	=7	=7
+*^	*	*^	*
+*grp:B	*grp:B	*grp:A	*grp:B	*grp:A	*
+8B-<J] 8b-<]	4e-	4ee-\	2.ryy	2f-	.
+4B-<~ 4b-<	.	.	.	.	.
+.	2.d-)	2.dd-\)	.	.	.
+(>[<8B-<'^ 8b-<	.	.	.	.	.
+4B-<'] 4b-<)	.	.	.	2ryy	.
+(>[<8B->'>^>/ 8b->	.	.	4ra<	.	.
+8B->'>]/ [>8b->)	.	.	.	.	.
+*v	*v	*	*	*	*
+*	*v	*v	*v	*
+*clefF4	*	*
+=	=	=
+*-	*-	*-
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/13
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/08
+!!!EED3: Jason Lee
+!!!EEV3: 2022/10/19
+!!!EED4: Bryan Bell
+!!!Suter_Work_ID: Rav-17
+!!!Suter_Example_Number: 291
+!!!Suter_Example_ID: Rav-17/17/lignes 1 et 2
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:30
+!!!First_Publication_Year: 1909
+!!!First_Public_Performance_Year: 1909
+!!!Example_Total_Measures: 7
+!!!Example_Timestamp_Duration: 52
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 32
+!!!Example_Start_Tsig_Beat_Rate: 32
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 0:00
+!!!Example_Start_Tempo_Expression: Très lent; Sans presser ni ralentir jusqu'à la fin
+!!!Example_Start_Notated_Beat_Rate: {32}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 1
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:52
+!!!Example_End_Measure: 7
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=32} calculated from recording (https://ubc-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=HTCA-6005).
+!!!Death_Place: Paris,France
+!!!Death_Date: 28-Dec-1937
+!!!Changing_Tsig: no
+!!!Birth_Place: Ciboure,France
+!!!Birth_Date: 7-Mar-1875
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV4: 2023/05/31

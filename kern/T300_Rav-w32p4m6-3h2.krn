@@ -1,0 +1,122 @@
+!!!!SEGMENT: T300_Rav-w32p4m6-3h2.krn
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Chansons madécasses (Songs of Madagascar) for Voice, Piano, Flute, and Violincello
+!!!OMV: No. 1: Nahandove
+!!!OMD:
+!!!AGN: Vocal; Solo
+!!!AGN-sub: Solo
+!!!CNT: French
+!!!ODT: 1926
+!!!OPR: Chansons madécasses (Songs of Madagascar) for Voice, Piano, Flute, and Violincello
+!!!filename: T300_Rav-w32p4m6-3h2.krn
+**kern	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:B	*
+*part4	*part4	*part4	*part3	*part3	*	*part2	*part2	*part1	*part1
+*staff5	*staff4	*staff4/5	*staff3	*	*	*staff2	*	*staff1	*
+*ICklav	*ICklav	*	*ICvox	*	*	*ICstr	*	*ICww	*
+*Ipiano	*Ipiano	*	*Ivox	*	*	*Icello	*	*Iflt	*
+*I"Piano	*I"Piano	*	*I"Voice	*	*	*I"Violoncello	*	*I"Flute	*
+*I'pf	*I'pf	*	*I'v	*	*	*I'vc	*	*I'fl	*
+*clefF4	*clefG2	*	*clefG2	*	*	*clefF4	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*	*	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Più animato]\n[[eighth]=138]
+*M6/8	*M6/8	*	*M6/8	*	*	*M6/8	*	*M6/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:T:n=3:a	!LO:DY:t=[ %s ]	!	!LO:DY:a:t=[ %s ]	!	!	!LO:DY:t=[ %s ]	!LO:TX:t=P:problem:broken beams not showing correctly	!LO:DY:t=[ %s ]
+!	!LO:T:n=4:a	!	!	!	!	!	!	!	!
+(8CC^	4e] 4g] 4b] 4dd]	f	4dd]	f	[c'est]	16bLL]	f	(16fff#X^LL	f
+.	.	.	.	.	.	16aJ	.	16eee)J	.
+4GGG)	.	.	.	.	.	8f)	.	16rL	.
+.	.	.	.	.	.	.	.	16eeeJ	.
+!	!LO:S:b	!	!	!	!	!	!	!	!
+.	8d 8f 8a 8cc)	.	32cc	.	Na-	8cJ	.	(16fff#^L	.
+.	.	.	16.ee	.	-han-	.	.	.	.
+.	.	.	.	.	.	.	.	16eeeJJ)	.
+(8CC^	(4e^ 4g 4b 4dd	.	[4.dd	.	-do-	(8.b^L	.	16r	.
+.	.	.	.	.	.	.	.	(16fff#^	.
+4GGG)	.	.	.	.	.	.	.	16eeeLL)	.
+.	.	.	.	.	.	16aL)	.	16rJ	.
+.	8d 8f 8a 8cc)	.	.	.	.	(16f	.	(16fff#^L	.
+.	.	.	.	.	.	16cJJ)	.	16eeeJJ)	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+(8CC^	(4e^ 4g 4b 4dd	.	8dd]	.	.	(16b^LL	.	(16fff#X^LL	.
+.	.	.	.	.	.	16aJ	.	16eee)J	.
+4GGG)	.	.	8dd)	.	-ve,	8f)	.	16rL	.
+.	.	.	.	.	.	.	.	16eeeJ	.
+.	8d 8f 8a 8cc)	.	(8cc	.	la	8cJ	.	(16fff#^L	.
+.	.	.	.	.	.	.	.	16eeeJJ)	.
+(8CC^	(4e^ 4g 4b 4dd	.	8a	.	bel-	(8.b^L	.	16r	.
+.	.	.	.	.	.	.	.	(16fff#^	.
+4GGG)	.	.	8a	.	-le	.	.	16eeeLL)	.
+.	.	.	.	.	.	16aL)	.	16r	.
+.	8d 8f 8a 8cc)	.	32cc	.	Na-	(16f	.	(16fff#^	.
+.	.	.	16.ee	.	-han-	.	.	.	.
+.	.	.	.	.	.	16cJJ)	.	16eeeJJ)	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+(8CC^	(4e^ 4g 4b 4dd	.	[4.dd	.	-do-	(8.b^L	.	(16fff#X^LL	.
+.	.	.	.	.	.	.	.	16eee)J	.
+4GGG)	.	.	.	.	.	.	.	16rL	.
+.	.	.	.	.	.	16aL)	.	16eeeJ	.
+.	8d 8f 8a 8cc)	.	.	.	.	(16f	.	(16fff#^L	.
+.	.	.	.	.	.	16cJJ)	.	16eeeJJ)	.
+(8CC^	(4e^ 4g 4b 4dd	.	4dd]	.	.	(8.b^L	.	16r	.
+.	.	.	.	.	.	.	.	(16fff#^	.
+4GGG)	.	.	.	.	.	.	.	16eeeLL)	.
+.	.	.	.	.	.	16aL)	.	16rJ	.
+.	8d 8f 8a 8cc)	.	8dd)	.	-ve!	(16f	.	(16fff#^L	.
+.	.	.	.	.	.	16cJJ)	.	16eeeJJ)	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+(8CC^	(4e^ 4g 4b 4dd	.	4%3r	.	.	(8.b^L	.	16r	.
+.	.	.	.	.	.	.	.	(16fff#X^	.
+4GGG)	.	.	.	.	.	.	.	16eee)	.
+.	.	.	.	.	.	16aL)	.	16r	.
+.	8d 8f 8a 8cc)	.	.	.	.	(16f	.	16r	.
+.	.	.	.	.	.	16cJJ)	.	16eee	.
+(8CC^	(4e^ 4g 4b 4dd	.	.	.	.	(8.b^L	.	(16fff#^LL	.
+.	.	.	.	.	.	.	.	16eee)J	.
+4GG)	.	.	.	.	.	.	.	8r	.
+.	.	.	.	.	.	16aL)	.	.	.
+.	8d 8f 8a 8cc)	.	.	.	.	(16f	.	(16fff#^L	.
+.	.	.	.	.	.	16cJJ)	.	16eee)JJ	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]s3[({(s4,s5)})]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2021/11/26
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Rav-32
+!!!Suter_Example_Number: 300
+!!!Suter_Example_ID: Rav-32/4/6-3[2]
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 5:22
+!!!First_Publication_Year: 1932
+!!!First_Public_Performance_Year: 1926
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 10
+!!!Example_Start_Tsig_Type: compound duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 46
+!!!Example_Start_Tsig_Beat_Rate: 46
+!!!Example_Start_Tsig_Beat: dotted-quarter
+!!!Example_Start_Tsig: 6/8
+!!!Example_Start_Timestamp: 1:45
+!!!Example_Start_Tempo_Expression: [Più animato]
+!!!Example_Start_Notated_Beat_Rate: [138]
+!!!Example_Start_Notated_Beat: [eighth]
+!!!Example_Start_Measure: 29
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:55
+!!!Example_End_Measure: 32
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [eighth=138] based on most recent notated beat rate (SWFU, m. 19). Example Start Tempo Expression [Più animato] based on most recent notated tempo expression (SWFU, m. 19).
+!!!Death_Place: Paris,France
+!!!Death_Date: 28-Dec-1937
+!!!Changing_Tsig: no
+!!!Birth_Place: Ciboure,France
+!!!Birth_Date: 7-Mar-1875
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/06

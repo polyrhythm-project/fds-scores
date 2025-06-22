@@ -1,0 +1,159 @@
+!!!!SEGMENT: T539_Mai-w11p2m1-h1m1.krn
+!!!COM: Martin, Frank
+!!!OTL: Trio sur des mélodies populaires irlandaises (Trio on Popular Irish Melodies) for Violin, Violincello and Piano
+!!!OMV: I: Allegro moderato
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Swiss
+!!!ODT: 1925
+!!!OPR: Trio sur des mélodies populaires irlandaises (Trio on Popular Irish Melodies) for Violin, Violincello and Piano
+!!!filename: T539_Mai-w11p2m1-h1m1.krn
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:B	*	*grp:B	*
+*part3	*part3	*	*part2	*	*part1	*
+*staff4	*staff3	*	*staff2	*	*staff1	*
+*I"Piano	*I"Piano	*	*I"Violoncello	*	*I"Violin	*
+*I'pf	*I'pf	*	*I'vc	*	*I'vn	*
+*ICklav	*ICklav	*	*ICstr	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Icello	*	*Ivioln	*
+*clefF4	*clefG2	*	*clefF4	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*F:	*	*F:	*	*F:	*
+!!LO:TX:omd:tempo:a:t=Allegro moderato\n[quarter]=116
+*M3/4	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1
+4r	4r	.	4%3r	.	4%3r	.
+4r	4r	.	.	.	.	.
+*lig	*lig	*	*	*	*	*
+[4GGG^^	[4b-^^ [4ff	ppp	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+!	!LO:TX:b:i:t=rythmez très légèrement	!	!	!	!	!
+4GGG]	4b-] 4ff]	.	4%3r	.	4%3r	.
+2GGG	2b- 2ff	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+4GGG	4b- 4ff	.	4%3r	.	4%3r	.
+*Xlig	*Xlig	*	*	*	*	*
+*lig	*lig	*	*	*	*	*
+2GGG^^	2b-^^ 2ff	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+2GGG	2b- 2ff	.	4r	.	4r	.
+.	.	.	4r	.	4r	.
+!	!	!	!LO:TUP:a	!	!LO:TUP:a	!
+4GGG	4b- 4ff	.	(12DL	pp	(12ddL	pp
+*Xlig	*Xlig	*	*	*	*	*
+.	.	.	12E	.	12ee	.
+.	.	.	12FJ	.	12ffJ	.
+=5	=5	=5	=5	=5	=5	=5
+*lig	*lig	*	*	*	*	*
+2GGG^^	2b-^^ 2ff	.	8GL	.	8ggL	.
+.	.	.	8B-	.	8bb-	.
+.	.	.	8A	.	8aa	.
+.	.	.	8G	.	8gg	.
+[4GGG	[4b- [4ff	.	8F	.	8ff	.
+.	.	.	8GJ)	.	8ggJ)	.
+=6	=6	=6	=6	=6	=6	=6
+4GGG]	4b-] 4ff]	.	(8AL	.	(8aaL	.
+.	.	.	8e	.	8eee	.
+4GGG	4b- 4ff	.	8f	.	8fff	.
+*Xlig	*Xlig	*	*	*	*	*
+.	.	.	8g	.	8ggg	.
+*lig	*lig	*	*	*	*	*
+[4GGG^^	[4b-^^ [4ff	.	8f	.	8fff	.
+.	.	.	8dJ)	.	8dddJ)	.
+=7	=7	=7	=7	=7	=7	=7
+4GGG]	4b-] 4ff]	.	((8dL	.	((8dddL	.
+.	.	.	8c	.	8ccc	.
+2GGG	2b- 2ff	.	8B-	.	8bb-	.
+.	.	.	8G)	.	8gg)	.
+.	.	.	(8G	.	(8gg	.
+.	.	.	8EJ))	.	8eeJ))	.
+=8	=8	=8	=8	=8	=8	=8
+4GGG	4b- 4ff	.	(4F~	.	(4ff~	.
+*Xlig	*Xlig	*	*	*	*	*
+*lig	*lig	*	*	*	*	*
+2GGG^^	2b-^^ 2ff	.	4F~)	.	4ff~)	.
+!	!	!	!LO:TUP:a	!	!LO:TUP:a	!
+.	.	.	(12DL	.	(12ddL	.
+.	.	.	12E	.	12ee	.
+.	.	.	12FJ	.	12ffJ	.
+=9	=9	=9	=9	=9	=9	=9
+2GGG	2b- 2ff	.	8GL	.	8ggL	.
+.	.	.	8B-	.	8bb-	.
+.	.	.	8A	.	8aa	.
+.	.	.	8G	.	8gg	.
+4GGG	4b- 4ff	.	8F	.	8ff	.
+*Xlig	*Xlig	*	*	*	*	*
+.	.	.	8GJ)	.	8ggJ)	.
+=10	=10	=10	=10	=10	=10	=10
+*lig	*lig	*	*	*	*	*
+2GGG^^	2b-^^ 2ff	.	(8AL	.	(8aaL	.
+.	.	.	8e	.	8eee	.
+.	.	.	8f	.	8fff	.
+.	.	.	8g	.	8ggg	.
+[4GGG	[4b- [4ff	.	8f	.	8fff	.
+.	.	.	8dJ)	.	8dddJ)	.
+=11	=11	=11	=11	=11	=11	=11
+4GGG]	4b-] 4ff]	.	((8dL	.	((8dddL	.
+.	.	.	8c	.	8ccc	.
+4GGG	4b- 4ff	.	8B-)	.	8bb-)	.
+*Xlig	*Xlig	*	*	*	*	*
+.	.	.	(8G~	.	(8gg~	.
+*lig	*lig	*	*	*	*	*
+[4GGG^^	[4b-^^ [4ff	.	8G~	.	8gg~	.
+.	.	.	8G~J))	.	8gg~J))	.
+=12	=12	=12	=12	=12	=12	=12
+4GGG]	4b-] 4ff]	.	2G	.	2gg	.
+2GGG	2b- 2ff	.	.	.	.	.
+*	*	*	*clefC4	*	*	*
+!	!	!	!LO:TUP:a	!	!LO:TUP:a	!
+.	.	.	(12dL	.	(12dddL	.
+.	.	.	12e	.	12eee	.
+.	.	.	12fJ	.	12fffJ	.
+!!LO:REH:t=1
+=13	=13	=13	=13	=13	=13	=13
+4GGG	4b- 4ff	.	4g)	.	4ggg)	.
+*Xlig	*Xlig	*	*	*	*	*
+*lig	*lig	*	*	*	*	*
+2CC^^	2a 2ee^^	.	(8gL	.	(8gggL	.
+.	.	.	8f	.	8fff	.
+.	.	.	8d	.	8ddd	.
+.	.	.	8eJ)	.	8eeeJ)	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[({(s3,s4)})]
+!!!EED: Claudio de Freitas
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Mai-11
+!!!Suter_Example_Number: 539
+!!!Suter_Example_ID: Mai-11/2/1-[1]1
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:48
+!!!First_Publication_Year: 1955
+!!!First_Public_Performance_Year: 1926
+!!!Example_Total_Measures: 13
+!!!Example_Timestamp_Duration: 20
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 116
+!!!Example_Start_Tsig_Beat_Rate: 116
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 0:00
+!!!Example_Start_Tempo_Expression: Allegro moderato
+!!!Example_Start_Notated_Beat_Rate: 116
+!!!Example_Start_Notated_Beat: quarter
+!!!Example_Start_Measure: 1
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:20
+!!!Example_End_Measure: 13
+!!!Example_Dataset: T
+!!!Editorial_Comments:
+!!!Death_Place: Naarden,Netherlands
+!!!Death_Date: 21-Nov-1974
+!!!Changing_Tsig: no
+!!!Birth_Place: Geneva,Switzerland
+!!!Birth_Date: 15-Sep-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/02/17

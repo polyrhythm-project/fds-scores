@@ -1,0 +1,142 @@
+!!!!SEGMENT: T622_Hin-w21p11m62-66.krn
+!!!COM: Hindemith, Paul
+!!!OTL: Kleine Sonate (Small Sonata) Op. 25, No. 2 for Viola d'amore and Piano
+!!!OMV: III: Sehr lebhaft (Very Lively)
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: German
+!!!ODT: 1922
+!!!OPR: Kleine Sonate (Small Sonata) Op. 25, No. 2 for Viola d'amore and Piano
+!!!filename: T622_Hin-w21p11m62-66.krn
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:B	*
+*part2	*part2	*	*part1	*
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*I"Piano	*	*I"Viola d'Amore	*
+*I'pf	*I'pf	*	*I'vla-amo	*
+*ICklav	*ICklav	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Iviola	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Leicht bewegt und sehr schlicht]\n{[half-dot]=60; [half]=60}
+*M3/2	*M3/2	*	*M3/2	*
+*M4/4	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1
+*Xtuplet	*Xtuplet	*	*	*
+!	!	!	!LO:TX:t=P:problem: Two Time Signatures should be displayed here, both 4/4 and 3/2	!
+!	!	!LO:DY:t=%s ([half] = [half-dot] vorher)	!LO:TX:a:t=([half] = [half-dot] vorher)	!
+(12AnL	(>12cc-XL	pp	(4cc#X~ 4ee	mf
+12cn	12b-X	.	.	.
+12d	12f	.	.	.
+12e-XJ	12g-XJ	.	4cc#~ 4ee)	.
+12AL	12cc-L	.	.	.
+12c	12b-	.	.	.
+12d	12f	.	(4ff#X~ 4aa	.
+12e-J	12g-J	.	.	.
+12G#XL	12anL	.	.	.
+12B	12gn	.	4ff#~ 4aa)	.
+12c#X	12e	.	.	.
+12dJ	12fJ	.	.	.
+=2	=2	=2	=2	=2
+12G#XL	12aL	.	(4bb	<
+12B	12g	.	.	.
+12c#X	12e	.	.	.
+12dJ	12fJ	.	8aa#XL	.
+12DL	12a-XL	.	.	.
+.	.	.	8bbJ)	.
+12A-X	12g-X	.	.	.
+12B-X	12d	<	(4.cccn	.
+12cnJ	12e-XJ	.	.	.
+12DL	12a-L	.	.	.
+12A-	12g-	.	.	.
+12B-	12d	.	.	.
+.	.	.	8ddd)	.
+12cJ)	12e-J)	.	.	.
+=3	=3	=3	=3	=3
+(12AnL	(>12cc-XL	.	(4aa	.
+12cn	12b-X	.	.	.
+12d	12f	.	.	.
+12e-XJ	12g-XJ	.	8gg#XL	.
+12AL	12cc-L	.	.	.
+.	.	.	8aaJ)	.
+12c	12b-	.	.	.
+12d	12f	.	(4.bb-X	.
+12e-J	12g-J	.	.	.
+12G#XL	12anL	.	.	.
+12B	12gn	.	.	.
+12c#X	12e	.	.	.
+.	.	.	8ccc)	.
+12dJ	12fJ	[[	.	[[
+=4	=4	=4	=4	=4
+12G#XL	12aL	mf <	(4gg	f <
+12B	12g	.	.	.
+12c#X	12e	.	.	.
+12dJ	12fJ	.	4ee	.
+12DL	12a-XL	.	.	.
+12A-X	12g-X	.	.	.
+12B-X	12d	.	4cc#X	.
+12cnJ	12e-XJ	.	.	.
+12DL	12a-L	.	.	.
+12A-	12g-	.	4dd)	.
+12B-	12d	.	.	.
+12cJ)	12e-J)	[	.	[[
+=5	=5	=5	=5	=5
+(12AnL	(>12cc-XL	>	(8ffL	>
+12cn	12b-X	.	.	.
+.	.	.	8ee	.
+12d	12f	.	.	.
+12e-XJ	12g-XJ	.	8ff	.
+12AL	12cc-L	.	.	.
+.	.	.	8ggJ	.
+12c	12b-	.	.	.
+12d	12f	.	4.aa	.
+12e-J	12g-J	.	.	.
+12G#XL	12anL	.	.	.
+12B	12gn	.	.	.
+12c#X	12e	.	.	.
+.	.	.	8bb)	]
+12dJ)	12fJ)	]	.	.
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: > = above
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/08/26
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Hin-21
+!!!Suter_Example_Number: 622
+!!!Suter_Example_ID: Hin-21/11/62-66
+!!!Premiere_Location: Heidelberg,Germany
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:20
+!!!First_Publication_Year: 1929
+!!!First_Public_Performance_Year: 1922
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 10
+!!!Example_Start_Tsig_Type: unmetered
+!!!Example_Start_Tsig_Mean_Beat_Rate: 60
+!!!Example_Start_Tsig_Beat_Rate: 60;60
+!!!Example_Start_Tsig_Beat: {dotted-half};{half}
+!!!Example_Start_Tsig: {3/2};{2/2}
+!!!Example_Start_Timestamp: 1:48
+!!!Example_Start_Tempo_Expression: [Leicht bewegt und sehr schlicht]
+!!!Example_Start_Notated_Beat_Rate: {60};{60}
+!!!Example_Start_Notated_Beat: {dotted-half};{half}
+!!!Example_Start_Measure: 62
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:58
+!!!Example_End_Measure: 66
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {dotted-half=60;half=60} calculated from recording (https://ubc-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=BC94782). Example Start Tempo Expression [Leicht bewegt und sehr schlicht] based on most recent notated tempo expression (SWFU, m. 41). Editorial Note: Full Unit Start Time Signature {6/4} based on a calculation of the number of quarter beats in the second unmetered measure, which establishes a regular grouping of beats. Full Unit Start Tsig Type {compound} is used in correspondence with the Full Unit Start Time Signature. SWFU is unmetered, but the piano eighth notes beaming suggests 3/2, while the slurring in the viola d'amore's part as well as the metric modulation suggests 2/2. The dotted-half=half in the upper part at m. 62 (and the half=dotted-half in the lower part) is the result of a metric modulation in which the two part switch implied meter. Interpretation Note: The calculated Full Unit Start Time Signature and Full Unit Start Tsig Type are based on m. 2 rather than m. 1, as the latter contains only 2 quarter notes, whereas the rest of the first couple pages contain 6 quarter notes per bar; therefore, {6/4} is more indicative of the present meter, while the first measure acts as an incomplete bar.
+!!!Death_Place: Frankfurt,Germany
+!!!Death_Date: 28-Dec-1963
+!!!Changing_Tsig: no
+!!!Birth_Place: Hanau,Germany
+!!!Birth_Date: 16-Nov-1895
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/02/22
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

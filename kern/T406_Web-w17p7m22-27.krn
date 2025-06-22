@@ -1,0 +1,172 @@
+!!!!SEGMENT: T406_Web-w17p7m22-27.krn
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: Sechs Lieder (Six Songs) for Voice and Four Instruments, op. 14
+!!!OMV: No. 2: Abendland I (Occident I)
+!!!OMD:
+!!!AGN: Vocal; Solo
+!!!AGN-sub: Solo
+!!!CNT: Austrian
+!!!ODT: 1922
+!!!OPR: Sechs Lieder (Six Songs) for Voice and Four Instruments, op. 14
+!!!filename: T406_Web-w17p7m22-27.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*
+*part4	*	*part3	*	*part2	*	*part1	*	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*	*
+*ICstr	*	*ICstr	*	*ICww	*	*ICvox	*	*
+*Icello	*	*Ivioln	*	*Iclarb	*	*Ivox	*	*
+*I"Violoncello	*	*I"Violin	*	*I"Bass Clarinet in Bb\n[sounds as written]	*	*I"Voice	*	*
+*I'vc	*	*I'vn	*	*I'b-cl	*	*I'v	*	*
+*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*
+*C:	*	*C:	*	*C:	*	*C:	*	*
+!!LO:TX:omd:tempo:a:t=[drängend]\n[[eighth]=120]
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!LO:TX:t=[quarter] = [quarter-dot]	!	!LO:DY:ed=brack
+4%3r	.	4%3r	.	8.r	.	(12e-XL	Schat-	pp >
+.	.	.	.	.	.	12ddnJ)	-ten.	.
+!	!	!	!	!	!	!LO:TX:B:t=accel.	!	!
+.	.	.	.	.	.	12r	.	]
+.	.	.	.	(32d-XLLL	p <	.	.	.
+.	.	.	.	32cnJJJ	.	.	.	.
+.	.	.	.	32AnLLL<	.	4r	.	.
+.	.	.	.	32AA-X)	.	.	.	.
+.	.	.	.	32Fn'	.	.	.	.
+.	.	.	.	32EEnX'JJ	.	.	.	.
+.	.	.	.	(32BBn-LL	.	.	.	.
+.	.	.	.	32Gn	[[	.	.	.
+.	.	.	.	32BXJJJ)	f	.	.	.
+.	.	.	.	32r	[	.	.	.
+!	!	!	!	!	!	!LO:TX:B:t=lebhaft	!	!
+.	.	.	.	4r	.	12ccn^L	Zak-	f >
+.	.	.	.	.	.	12cc^	-ki-	.
+.	.	.	.	.	.	12cc#X^J	-ge	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!LO:TX:a:t=( [quarter] = ca 80 )	!	!
+6r	.	(28%3ggg#XL	pp	6r	.	(8dnL	Blit-	.
+.	.	28%3eeen	.	.	.	.	.	.
+.	.	.	.	.	.	8fnJ)	-ze	]
+6Cn~ 6F#X	ppp	.	.	(6c#X	ppp	.	.	.
+.	.	28%3ee-X	.	.	.	.	.	.
+.	.	.	.	.	.	8r	.	.
+.	.	28%3dddn)	.	.	.	.	.	.
+[6Fn~ [6en	<	.	.	[6BBX)	<	.	.	.
+.	.	.	.	.	.	(8ff#X	er-	p
+.	.	(28%3aan	<	.	.	.	.	.
+6F] 6e]	[[	.	.	6BB]	[[	12gnL	-hel-	.
+.	.	28%3cc#X	.	.	.	.	.	.
+.	.	.	.	.	.	12g#X	-len	.
+.	.	28%3cnJ)	[	.	.	.	.	.
+12r	.	.	.	12r	.	12cc#XJ	die	.
+*	*	*	*	*clefG2	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*
+4.GG#X^	pp >	4.Bn^ 4.f#X	pp >	(>12b-L	pp	6een	Schlä-	.
+.	.	.	.	12G	.	.	.	.
+.	.	.	.	12e-J	.	6ggn)	-fe	.
+*	*	*	*	*clefF4	*	*	*	*
+.	.	.	.	20dLL	<	.	.	.
+.	.	.	.	20a-X	.	.	.	.
+.	.	.	.	.	.	(6gg#X	die	< [
+.	.	.	.	20A	.	.	.	.
+8r	]	8r	]	.	.	.	.	.
+.	.	.	.	20C	.	.	.	.
+.	.	.	.	20d-XJJ	[	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*
+!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!	!
+4F#X 4en	p >	(8ee-XL 8gg	f >	4FF)	p >	8bbnL	im-	.
+.	.	8anJ 8ddn	.	.	.	8gg#X	-mer-	>
+.	.	8qB-X/	]	.	.	.	.	.
+4r	]	12c#XL)	.	12r	]	8ccn	-küh-	.
+.	.	(12bbn	p	(12aL	p >	.	.	.
+.	.	.	.	.	.	8gnJ)	-le,	]
+.	.	12fff#XJ	>	12G#XJ)	.	.	.	.
+*	*	*8va	*	*	*	*	*	*
+!	!	!LO:TX:a:i:t=verklingend	!	!	!	!	!	!
+16r	.	16bb-XLL 16aaan	.	16r	]	12r	.	pp <
+!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!
+16EE-X'LL 16AA-Xo	p >	16bbn 16eeen	.	16d'^LL	pp >	.	.	.
+.	.	.	.	.	.	(12c#XL	wenn	.
+!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!
+16EE-' 16AA-o	.	16bbb-X	.	16d'	.	.	.	.
+.	.	.	.	.	.	12f#XJ	am	[
+!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!
+16EE-'JJ 16AA-o	]	16ffffnJJ)	]	16d'JJ	]	.	.	.
+*	*	*X8va	*	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*
+!	!	!	!	!	!	!LO:TX:t=ruhig ( [quarter]= ca 56 )	!	!
+12r	ppp	12r	ppp	8r	.	10ddnL	grü-	.
+!LO:TX:b:rj:t=col legno	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!
+24En'^LL 24B-X	.	24Bn'^LL	.	.	.	.	.	.
+.	.	.	.	.	.	10bn	-nen-	.
+24E'J 24B-	.	24B'J	.	32c'^LLL	ppp	.	.	.
+.	.	.	.	32c'	.	.	.	.
+24E'L 24B-	.	24B'L	.	.	.	.	.	.
+.	.	.	.	32c'	.	.	.	.
+.	.	.	.	.	.	10e-X	-den	.
+24E'JJ 24B-	.	24B'JJ	.	.	.	.	.	.
+.	.	.	.	32c'JJJ	.	.	.	.
+24E'LL 24B-	>	24B'LL	>	32D-X'LLL	>	.	.	.
+.	.	.	.	32D-'	.	.	.	.
+24E'J 24B-	.	24B'J	.	.	.	.	.	.
+.	.	.	.	.	.	10cn	Hü-	>
+.	.	.	.	32A'	.	.	.	.
+24E'L 24B-	.	24B'L	.	.	.	.	.	.
+.	.	.	.	32A'JJJ	]	.	.	.
+24E'JJ 24B-	.	24B'JJ	.	8r	.	.	.	.
+.	.	.	.	.	.	10cc#XJ)	-gel	]
+12r	]	12r	]	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!	!	!	!LO:TX:a:B:t=rit.	!	!
+2r	.	2r	.	16r	.	(28eenLL	Früh-	ppp
+.	.	.	.	.	.	28b-X	-lings-	.
+.	.	.	.	8EE-^T	ppp >	.	.	.
+.	.	.	.	.	.	28fn	-ge-	.
+.	.	.	.	.	.	28Bn	-wit-	.
+.	.	.	.	.	.	28dn	-ter	.
+.	.	.	.	.	.	28cc#X	er-	.
+.	.	.	.	16r	]	.	.	.
+.	.	.	.	.	.	28g#XJJ)	-tönt.	.
+.	.	.	.	4r	.	4r	.	.
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2)][(s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Web-17
+!!!Suter_Example_Number: 406
+!!!Suter_Example_ID: Web-17/7/22-27
+!!!Premiere_Location: Donaueschingen,Germany
+!!!Other_Tsigs: 2/4,3/4,2/4
+!!!Full_Unit_Duration: 1:29
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1924
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 20
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 60
+!!!Example_Start_Tsig_Beat_Rate: 60
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 1:09
+!!!Example_Start_Tempo_Expression: [drängend]
+!!!Example_Start_Notated_Beat_Rate: [120]
+!!!Example_Start_Notated_Beat: [eighth]
+!!!Example_Start_Measure: 22
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:29
+!!!Example_End_Measure: 27
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [eighth=120] based on most recent notated beat rate (SWFU, m. 15). Example Start Tempo Expression [drängend] based on most recent notated tempo expression (SWFU, m. 20).
+!!!Death_Place: Mittersill,Austria
+!!!Death_Date: 15-Sep-1945
+!!!Changing_Tsig: yes
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 3-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/01

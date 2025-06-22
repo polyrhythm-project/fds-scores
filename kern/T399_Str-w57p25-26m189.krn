@@ -1,0 +1,143 @@
+!!!!SEGMENT: T399_Str-w57p25-26m189.krn
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: Threni: id est Lamentationes Jeremiae prophetae (The Lamentations of the Prophet Jeremia) for Solo Voices, Choir and Orchestra
+!!!OMV: De Elegia Tertia: 1. Querimonia (The Third Chapter: 1. Complaint)
+!!!OMD:
+!!!AGN: Orchestral; Programmatic
+!!!AGN-sub: Programmatic
+!!!CNT: Russian, French, American
+!!!ODT: 1958
+!!!OPR: Threni: id est Lamentationes Jeremiae prophetae (The Lamentations of the Prophet Jeremia) for Solo Voices, Choir and Orchestra
+!!!filename: T399_Str-w57p25-26m189.krn
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICvox	*	*ICvox	*	*ICvox	*	*ICvox	*
+*Ibass	*	*Ibass	*	*Itenor	*	*Itenor	*
+*I"Solo Bass 2	*	*I"Solo Bass 1	*	*I"Solo Tenor 2	*	*I"Solo Tenor 1	*
+*I'b	*	*I'b	*	*I't	*	*I't	*
+*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*
+*	*	*	*	*ITrd7c12	*	*ITrd7c12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[sempre stesso tempo]\n[[quarter]=56]
+*M2/2	*	*M2/2	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:a:B:t=[quarter] = [quarter]  Canon a4, duplex	!
+1D#X	Re-	1r	.	1r	.	1r	.
+=2:	=2:	=2:	=2:	=2:	=2:	=2:	=2:
+*M3/2	*	*M3/2	*	*	*	*	*
+1E	-cor-	2%3r	.	2%3r	.	2%3r	.
+(2AA	-da-	.	.	.	.	.	.
+=3:	=3:	=3:	=3:	=3:	=3:	=3:	=3:
+*	*	*	*	*M3/2	*	*M3/2	*
+2FF)	.	2F	Re-	2r	.	2%3r	.
+2BB-X	-re	2F	-cor-	1B-X	Re-	.	.
+[2GG	pau-	(4F	-da-	.	.	.	.
+.	.	4E)	.	.	.	.	.
+=4:	=4:	=4:	=4:	=4:	=4:	=4:	=4:
+2GG]	.	2E	-re	1Bn	-cor-	2d-X	Re-
+(1C	-per-	(2F	pau-	.	.	2d-	-cor-
+.	.	2E)	.	(2E	-da-	(4d-	-da-
+.	.	.	.	.	.	4c)	.
+=5:	=5:	=5:	=5:	=5:	=5:	=5:	=5:
+2A-X)	.	(2E	-per-	2C)	.	2c	-re
+2C-X	-ta-	2F)	.	2F	-re	(2d	pau-
+[2Dn	-tis	2F	-ta-	[2D	pau-	2c)	.
+=6:	=6:	=6:	=6:	=6:	=6:	=6:	=6:
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+4D]	.	(4A	-tis	2D]	.	(2c	-per-
+4r	.	2E)	.	.	.	.	.
+1r	.	.	.	(1G	-per-	2d)	.
+.	.	2.E	et	.	.	.	.
+.	.	.	.	.	.	2d	-ta-
+=7:	=7:	=7:	=7:	=7:	=7:	=7:	=7:
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*
+1r	.	(4A	trans-	2e-X)	.	4f	-tis,
+.	.	4E)	.	.	.	2c	.
+.	.	4E	-gres-	2G-X	-ta-	.	.
+.	.	2E	-sio-	.	.	2.c	et
+2C#X	et	.	.	[2An	-tis,	.	.
+.	.	4E	-nis	.	.	.	.
+=8:	=8:	=8:	=8:	=8:	=8:	=8:	=8:
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*
+4F#X	trans-	(4F#X	me-	4A]	.	(4fn	trans-
+4E-X	-gres-	4G)	.	4r	.	4c)	.
+2Dn	-sio-	2G	-ae,	1r	.	4c	-gres-
+.	.	.	.	.	.	2c	-sio-
+[2AAn	-nis	2C	ab-	.	.	.	.
+.	.	.	.	.	.	4c	-nis
+=9:	=9:	=9:	=9:	=9:	=9:	=9:	=9:
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+2AAn]	.	2A-X	-sin-	1r	.	(4dn	me-
+.	.	.	.	.	.	4e-X)	.
+2C#X	me-	4D-X	-thi-	.	.	2e-	-ae,
+.	.	2B-X	-i	.	.	.	.
+[2GG#X	-ae,	.	.	2A-X	et	2A-X	ab-
+.	.	4E-X	et	.	.	.	.
+=10:	=10:	=10:	=10:	=10:	=10:	=10:	=10:
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*
+2GG#]	.	2Bn	fel-	4d-X	trans-	2en	-sin-
+.	.	.	.	4B-X	-gres-	.	.
+2BB#X	ab-	2Dn	-lis.	2An	-sio-	4An	-thi-
+.	.	.	.	.	.	2f#X	-i
+2F#X	-sin-	2r	.	[2En	-nis	.	.
+.	.	.	.	.	.	4Bn	et
+=11:	=11:	=11:	=11:	=11:	=11:	=11:	=11:
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+1AA#X	-thi-	2%3r	.	2En]	.	2g	fel-
+.	.	.	.	2G#X	me-	2B-X	-lis.
+2GGn	-i	.	.	[2D#X	-ae,	2r	.
+=12:	=12:	=12:	=12:	=12:	=12:	=12:	=12:
+*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
+1En	et	2%3r	.	2D#]	.	2%3r	.
+.	.	.	.	2F#X	ab-	.	.
+[2Fn	fel-	.	.	2c#X	-sin-	.	.
+=13:	=13:	=13:	=13:	=13:	=13:	=13:	=13:
+2F]	.	2%3r	.	1Fn	-thi-	2%3r	.
+[1Cn	-lis.	.	.	.	.	.	.
+.	.	.	.	2Dn	-i	.	.
+=14:	=14:	=14:	=14:	=14:	=14:	=14:	=14:
+*M6/2	*	*M6/2	*	*M6/2	*	*M6/2	*
+1C_	.	1%3r	.	1Bn	et	1%3r	.
+1C_	.	.	.	1cn	fel-	.	.
+1C],	.	.	.	1Gn,	-lis.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/04/01
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Str-57
+!!!Suter_Example_Number: 399
+!!!Suter_Example_ID: Str-57/25-26/189
+!!!Premiere_Location: Venice,Italy
+!!!Other_Tsigs: {2/2},{3/2},{6/2}
+!!!Full_Unit_Duration: 6:52
+!!!First_Publication_Year: 1958
+!!!First_Public_Performance_Year: 1958
+!!!Example_Total_Measures: 1
+!!!Example_Timestamp_Duration: 44
+!!!Example_Start_Tsig_Type: unmetered
+!!!Example_Start_Tsig_Mean_Beat_Rate: 28
+!!!Example_Start_Tsig_Beat_Rate: 28
+!!!Example_Start_Tsig_Beat: {half}
+!!!Example_Start_Tsig: {3/2}
+!!!Example_Start_Timestamp: 4:41
+!!!Example_Start_Tempo_Expression: [sempre stesso tempo]
+!!!Example_Start_Notated_Beat_Rate: [56]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 24(189)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:25
+!!!Example_End_Measure: 24(189)
+!!!Example_Dataset: T
+!!!Editorial_Comments: The Source Work Full Unit (SWFU) begins on the written measure 166 and ends on measure 193. The Example Start Tsig is an interpretive {3/2} as the first measure of the example is unmeasured, but features a consistent half note pulse.
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Apr-1971
+!!!Changing_Tsig: {yes}
+!!!Birth_Place: Lomonosov (Oranienbaum),Russia
+!!!Birth_Date: 17-Jun-1882
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/06/01

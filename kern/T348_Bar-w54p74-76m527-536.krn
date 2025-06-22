@@ -1,0 +1,213 @@
+!!!!SEGMENT: T348_Bar-w54p74-76m527-536.krn
+!!!COM: Bartók, Béla
+!!!OTL: Piano Concerto No. 3
+!!!OMV: III: Allegro vivace
+!!!OMD:
+!!!AGN: Orchestral; Concerto
+!!!AGN-sub: Concerto
+!!!CNT: Hungarian
+!!!ODT: 1945
+!!!OPR: Piano Concerto No. 3
+!!!filename: T348_Bar-w54p74-76m527-536.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part16	*	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*	*staff12	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Itimpa	*	*Ituba	*	*Itromp	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclars	*	*Ioboe	*	*Iflt	*	*Ipicco	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*I"Piano	*	*I"Timpani	*	*I"Tuba	*	*I"Trumpet in C 1, 2	*	*I"Horn in F 2, 4	*	*I"Horn in F 1, 3	*	*I"Bassoon 1	*	*I"Clarinet in A 1, 2	*	*I"Oboe 1, 2	*	*I"Flute 1	*	*I"Piccolo	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'pf	*I'pf	*	*I'timp	*	*I'tb	*	*I'tp	*	*I'cor-fr	*	*I'cor-fr	*	*I'bn	*	*I'cl	*	*I'ob	*	*I'fl	*	*I'picc	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*grp:	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd2c3	*	*	*	*	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[f#c#g#]	*	*k[]	*	*k[]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=[Allegro vivace]\n[[quarter-dot]=92]
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=527
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*^	*	*	*	*	*
+*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:S:dot	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:t=[non div.]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t= senza sord.	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC#X	f	4C#X	f	(32g#X (32bLLL	f	8ee	f	8eee	f	4E 4e	4ee 4eee	ff	4C#X	f	8%3r	.	8%3r	.	[4.G#X [4.BX	f	[4.e#X	f	8e	8e	f	8ee	f	8ee	8ee	f	8eee	f	8eee	f
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	4ee	.	4eee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8C#XL	8CC#XL	.	8r	.	8r	8ryy	.	8r	.	8r	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+[8GGG#XL	.	[8GG#XL	.	32g#X 32b	.	.	.	.	.	8r	8r	.	8r	.	.	.	.	.	.	.	.	.	[8GG#XJ	[8GG#J	.	8r	.	8r	8ryy	.	8r	.	8r	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g# 32bJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8GGG#J]	.	8GG#J]	.	32g#X) 32bLLL)	.	4dd#X	.	4ddd#X	.	8%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	.	4.G#] 4.B]	.	4.e#]	.	8GG#]	8GG#]	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4CC#X	.	4C#X	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4C#X	4CC#X	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	8ee	.	8eee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32bJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!LO:S:dot	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8CC#X	.	8C#X	.	(32f#X (32aLLL	.	4ee	.	4eee	.	8%3r	8%3r	.	4FF#X	.	8%3r	.	8%3r	.	[4.F#X [4.A	.	[4.f#X	.	8C#X	8CC#X	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4FFF#X	.	4FF#X	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4FF#X	4FF#	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	8cc#X	.	8ccc#X	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32aJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4CC#X	.	4C#X	.	32f#X) 32aLLL)	.	8b	.	8bb	.	8%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	.	4.F#] 4.A]	.	4.f#]	.	4C#X	4CC#X	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	4cc#X	.	4ccc#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FFF#X	.	8FF#X	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8FF#X	8FF#	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32aJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!LO:S:dot	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC#X	.	4C#X	.	(32g#X (32bLLL	.	8ee	.	8eee	.	8%3r	8%3r	.	4C#X	.	8%3r	.	8%3r	.	[4.G#X [4.BX	.	[4.e#X	.	4C#X	4CC#X	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	4ee	.	4eee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+[8GGG#XL	.	[8GG#XL	.	32g#X 32b	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	[8GG#XL/	[8GG#L\	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32bJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8GGG#J]	.	8GG#J]	.	32g#X) 32bLLL)	.	4ff##X	.	4fff##X	.	8%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	.	4.G#] 4.B]	.	4.e#]	.	8GG#J]	8GG#J]	.	8%3r	.	8%3r	.	8%3r	.	8%3r	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4CC#X	.	4C#X	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4C#X	4CC#X	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	8ee	.	8eee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32bJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*	*	*
+!	!	!	!	!LO:S:dot	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8CC#X	.	8C#X	.	(32f#X (32aLLL	.	4cc#X	.	4ccc#X	.	8%3r	8%3r	.	4FF#X	.	8%3r	.	8%3r	.	[4.F#X [4.A	.	[4.f#X	.	8C#X	8CC#X	.	8F#L	4.rB	ff	8r	4.rc	.	8r	.	8%3r	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4FFF#X	.	4FF#X	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4FF#X	4FF#	.	8A	.	.	8r	.	.	8aL	ff	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	8a	.	8aa	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	8c#J	.	.	8c#X	.	ff	8cc#XJ	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32aJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4CC#X	.	4C#X	.	32f#X) 32aLLL)	.	8g#X	.	8gg#X	.	8%3r	8%3r	.	8%3r	.	8%3r	.	8%3r	.	4.F#] 4.A]	.	4.f#]	.	4C#X	4CC#X	.	8f#L	4.r	.	8f#XL	4.rc	.	8ff#XL	.	8r	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	4f#X	.	4ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8a	.	.	8a	.	.	8aa	.	8aaL	ff
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FFF#X	.	8FF#X	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8FF#X	8FF#	.	8cc#J	.	.	8cc#XJ	.	.	8ccc#XJ	.	8ccc#XJ	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f#X 32aJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*v	*v	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+!	!	!	!	!LO:S:dot	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a 2	!	!LO:TX:a:t=a 2	!	!	!	!LO:TX:a:t=a 2	!	!LO:TX:a:t=a 2	!	!LO:TX:a:t=a 2	!	!	!	!	!
+4CC#X	ff	4C#X	ff	(32g#X (32bLLL	ff	8e	ff	8ee	ff	8%3r	8%3r	.	4.C#Xtt	ff	4CC#X	ff	[4.e#X	ff	[4.G#X	ff	[4.BX	ff	4C#X	ff	8ee	.	8ee	.	8eee	.	8eee	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	32g#X 32b	.	16eeLL	.	16eeeLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ee	.	4ee	.	4eee	.	4eeee	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	16ee	.	16eee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+[8GGG#XL	.	[8GG#XL	.	32g#X 32b	.	16ee	.	16eee	.	.	.	.	.	.	[8GGG#XL	.	.	.	.	.	.	.	[8GG#XL	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	16eeJJ	.	16eeeJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32bJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8GGG#J]	.	8GG#J]	.	32g#X) 32bLLL)	.	16dd#XLL	.	16ddd#XLL	.	8%3r	8%3r	.	8C#X	.	8GGG#J]	.	4.e#]	.	4.G#]	.	4.B]	.	8GG#J]	.	4dd#X	.	4dd#X	.	4ddd#X	.	4dddd#X	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	16dd#	.	16ddd#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4CC#X	.	4C#X	.	32g#X 32b	.	16dd#	.	16ddd#	.	.	.	.	8r	.	4CC#X	.	.	.	.	.	.	.	4C#X	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	16dd#JJ	.	16ddd#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	32g#X 32b	.	16eeLL	.	16eeeLL	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	8ee	.	8ee	.	8eee	.	8eeee	.
+.	.	.	.	32g#X 32b	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32b	.	16eeJJ	.	16eeeJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32g#X 32bJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*Xtremolo	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9)]<s10>[({(s11,s12)})][(s13,s14,s15,s16,s17)]
+!!!EED: Claudio de Freitas
+!!!EEV: 2022/01/28
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Bar-54
+!!!Suter_Example_Number: 348
+!!!Suter_Example_ID: Bar-54/74/527-536
+!!!Premiere_Location: Philadelphia,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:23
+!!!First_Publication_Year: 1947
+!!!First_Public_Performance_Year: 1946
+!!!Example_Total_Measures: 10
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 276
+!!!Example_Start_Tsig_Beat_Rate: 276
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 4:04
+!!!Example_Start_Tempo_Expression: [Allegro vivace]
+!!!Example_Start_Notated_Beat_Rate: [92]
+!!!Example_Start_Notated_Beat: [dotted-quarter]
+!!!Example_Start_Measure: 390(527)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:10
+!!!Example_End_Measure: 399(536)
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-quarter=92] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Allegro vivace] based on most recent notated tempo expression (SWFU, m. 1). Note that Suter refers to measure numbers that count throughout the entire work and do not re-start with each movement. The measure count without subdvisions into movements is shown in parentheses.
+!!!Death_Place: New York,United States
+!!!Death_Date: 26-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Sînnicolau Mare (Nagyszentmiklós),Romania (Hungary)
+!!!Birth_Date: 25-Mar-1881
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/14

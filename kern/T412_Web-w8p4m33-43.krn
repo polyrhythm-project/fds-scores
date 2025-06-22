@@ -1,0 +1,172 @@
+!!!!SEGMENT: T412_Web-w8p4m33-43.krn
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: Fünf Sätze (Five Movements) for String Quartet, op. 5
+!!!OMV: I: Heftig bewegt (Moving Heavily)
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Austrian
+!!!ODT: 1909 (rev. 1929)
+!!!OPR: Fünf Sätze (Five Movements) for String Quartet, op. 5
+!!!filename: T412_Web-w8p4m33-43.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[a tempo (Etwas ruhiger)]\n[[quarter]=88]
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=33	=33	=33	=33	=33	=33	=33	=33
+!	!	!	!	!	!	!LO:TX:vgrp=1:a:B:t=poco rit. - - - -  	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=[mit Dämpfer]	!LO:DY:ed=brack
+2FF#X_	ppp	4.G 4.e))	pp>	4.g 4.cc))	pp >	8ffL])	pp
+.	.	.	.	.	.	(8ggn	.
+.	.	.	]	.	]	8ffn	>
+.	.	((8Gn 8d#X	>	((8f#X 8ccn	>	[8eenJ	]
+=34	=34	=34	=34	=34	=34	=34	=34
+!	!	!	!	!	!	!LO:TX:vgrp=1:t=- - - - - - - - - - 	!
+4FF#]	.	2G#X 2en))	]	2gn 2cc#X))	]	8ee])	.
+.	.	.	.	.	.	[4.ffn	pp > ]
+([4BBn	.	.	.	.	.	.	.
+!!LO:REH:t=35
+=35	=35	=35	=35	=35	=35	=35	=35
+!	!	!	!	!	!	!LO:TX:vgrp=1:t=- - - - - - - - - - - - - - - -	!
+4BB]	.	[2Gn [2d#X	>	[2f#X [2ccn	>	8ff]	<
+.	.	.	.	.	.	(4een	.
+[4FF#X	.	.	.	.	.	.	.
+.	.	.	.	.	.	[8ffn	[ >
+=36	=36	=36	=36	=36	=36	=36	=36
+4FF#])	.	4G] 4d#]	.	4f#] 4cc]	.	4ff])	.
+!	!	!	!	!	!	!LO:TX:vgrp=1:t=Tempo II\n([quarter]=88)	!
+!	!	!	!	!	!	!LO:TX:a:t=am Steg - - - - - - - - - - - - ┐	!
+4r	.	4r	]	4r	]	8r	]
+.	.	.	.	.	.	(8gg-X	ppp <
+=37	=37	=37	=37	=37	=37	=37	=37
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+!	!	!LO:TX:a:t=am Steg - - ┐	!	!LO:TX:a:t=am Steg - - ┐	!	!	!
+4%3r	.	(4an	ppp >	(4dd-X	ppp >	8bb-XL	.
+.	.	.	.	.	.	8ggnJ	[ >
+.	.	4a-X)	]	4ccn)	]	4aan)	.
+!	!	!	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	4r	.	8r	.	8r	]
+.	.	.	.	8bb-X'"	ppp	(8bbb-X	ppp
+=38	=38	=38	=38	=38	=38	=38	=38
+*tremolo	*	*	*	*	*	*	*
+*	*	*tremolo	*	*	*	*	*
+!LO:TX:a:t=am Steg - - ┐	!	!LO:TX:a:t=am Steg - - ┐	!	!	!	!	!
+32cnLLL	ppp >	32enLLL	ppp >	8bn'L"	>	8bbnL)	.
+32cn	.	32en	.	.	.	.	.
+32cn	.	32en	.	.	.	.	.
+32cn	.	32en	.	.	.	.	.
+32cn	.	32en	.	8cc#X'J"	] >	([8ccc#XJ	<
+32cn	.	32en	.	.	.	.	.
+32cn	.	32en	.	.	.	.	.
+32cnJJJ	.	32enJJJ	.	.	.	.	.
+*	*	*Xtremolo	*	*	*	*	*
+*Xtremolo	*	*	*	*	*	*	*
+8dn~L	.	8f#X~L	.	16r	.	16ccc#LL]	[ >
+.	.	.	.	16gn'"	]	16ggnJJ)	.
+16r	]	16r	]	8r	.	8r	]
+!LO:TX:a:i:t=espress.	!	!	!	!	!	!	!
+([16CnJk	pp	(16EnJk	pp <	.	.	.	.
+!	!	!LO:TX:a:i:t=espress.	!	!	!	!LO:TX:a:i:t=begleitend	!
+16CLL]	<	16ELL	.	4r	.	(8.ccc#XL	ppp
+16DnJ	.	16F#XJ	.	.	.	.	.
+[8AnJ)	[	[>8fnJ)	[	.	.	.	.
+.	.	.	.	.	.	16ggnJk)	.
+=39	=39	=39	=39	=39	=39	=39	=39
+4A]	.	4f]	.	4%3r	.	(8ggg#XL	.
+.	.	.	.	.	.	8eeenJ	.
+(8G#XL	>	(8enL	>	.	.	8.ggnL)	.
+8DnJ)	.	8B-XJ)	.	.	.	.	.
+.	.	.	.	.	.	(16ggg#XJk	<
+16r	]	16r	]	.	.	8eeenL	.
+(>8CnL	p <	(>8EnL	p <	.	.	.	.
+.	.	.	.	.	.	8ggnJ)	[
+16DnJk	.	16F#XJk	[	.	.	.	.
+!!LO:REH:t=40
+=40	=40	=40	=40	=40	=40	=40	=40
+4.An)	[ >	4.fn)	>	4%3r	.	(8.ggg#XL	pp <
+.	.	.	.	.	.	16eeenJk	.
+.	.	.	.	.	.	8ggnL)	[
+(>8Gn	]	(>8en	]	.	.	(8ggg#XJ	<
+8DnL	<	8B-XL	<	.	.	8.eeenL)	.
+8CnJ)	[	8A-XJ)	[	.	.	.	.
+.	.	.	.	.	.	(16aaanJk	p [ >
+=41	=41	=41	=41	=41	=41	=41	=41
+(8G-XL	>	(8dnL	>	4r	.	8.bb-XL)	.
+8FnJ)	.	8AnJ)	.	.	.	.	.
+.	.	.	.	.	.	(16gggnJk	] <
+8r	]	8r	]	4r	.	8ggg-XL	.
+(8EnL	p <	(>8A-XL	p <	.	.	8eee-XJ	.
+!	!	!	!	!LO:TX:a:t=arco	!	!	!
+8B-X	.	8dn	.	8.r	.	8ggnL)	[
+[8BnJ	[	[8e-XJ	[	.	.	16r	.
+.	.	.	.	(16ggn	mf >	(16gggnJk	mf
+=42	=42	=42	=42	=42	=42	=42	=42
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+8BL]	>	8e-L]	>	4gg-X	.	4ggg-X	>
+8CnJ)	.	8EnJ)	.	.	.	.	.
+8r	]	4r	]	8ffn)	.	8fffn)	]
+(/8G-XL	mf <	.	.	8r	]	8r	.
+!	!	!	!	!	!	!LO:TX:a:t=Dämpfer ab	!
+!	!	!	!	!	!	!LO:TX:a:B:t=accel. - - - - - - - - - - - - - - - - - - -	!
+8E-X	.	8r	.	8r	.	4r	.
+8GGnJ)	[	([8cn 8a-X	f	([8fff#X	f >	.	.
+=43	=43	=43	=43	=43	=43	=43	=43
+4E-X	.	4c] 4gn)	>	8fff#L]	.	4%3r	.
+.	.	.	.	8eeenJ)	]	.	.
+(/8G-XL	f <	8r	]	8r	.	.	.
+8E-X	.	([4cn 4a-X	f >	([8fffn	f >	.	.
+8GGn)	[	.	.	8.fffL]	.	.	.
+[>8G-XJ	< [	8c] 8gn)	]	.	.	.	.
+.	.	.	.	16eeenJk)	]	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/29
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Web-8
+!!!Suter_Example_Number: 412
+!!!Suter_Example_ID: Web-8/4/33-43
+!!!Premiere_Location: Vienna,Austria
+!!!Other_Tsigs: 3/4
+!!!Full_Unit_Duration: 2:36
+!!!First_Publication_Year: 1922
+!!!First_Public_Performance_Year: 1910
+!!!Example_Total_Measures: 11
+!!!Example_Timestamp_Duration: 28
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 88
+!!!Example_Start_Tsig_Beat_Rate: 88
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 1:32
+!!!Example_Start_Tempo_Expression: [a tempo (Etwas ruhiger)]
+!!!Example_Start_Notated_Beat_Rate: [88]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 33
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:00
+!!!Example_End_Measure: 43
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=88] based on most recent notated beat rate (SWFU, m. 27). Example Start Tempo Expression [a tempo (II)] based on most recent notated tempo expression (SWFU, m. 32).
+!!!Death_Place: Mittersill,Austria
+!!!Death_Date: 15-Sep-1945
+!!!Changing_Tsig: yes
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 3-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/02/09
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/02

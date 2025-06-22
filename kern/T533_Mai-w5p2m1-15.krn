@@ -1,0 +1,145 @@
+!!!!SEGMENT: T533_Mai-w5p2m1-15.krn
+!!!COM: Martin, Frank
+!!!OTL: Piano Quintet
+!!!OMV: I: Andante con moto
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Swiss
+!!!ODT: 1919
+!!!OPR: Piano Quintet
+!!!filename: T533_Mai-w5p2m1-15.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*	*F:	*
+!!LO:TX:omd:tempo:a:t=Andante con moto\n{[quarter]=66}
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+4%3r	.	4ee^	f >	4ff^	f >	4aa^	f >
+.	.	4ee~	.	4ff~	.	4aa~	.
+.	.	4ee~	]	4ff~	]	4aa~	]
+*clefC4	*	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2
+!	!LO:DY:t= %s molto espress.	!	!	!	!	!	!
+2dd^	f	(4ee~	mf	(4ff~	mf	(4aa~	mf
+.	.	4ee~	.	4ff~	.	4aa~	.
+[4d	.	4ee~)	.	4ff~)	.	4aa~)	.
+=3	=3	=3	=3	=3	=3	=3	=3
+8d]	.	(4ee~	.	(4ff~	.	(4aa~	.
+8r	.	.	.	.	.	.	.
+8r	.	4ee~	.	4ff~	.	4aa~	.
+(4a	.	.	.	.	.	.	.
+.	.	4dd~)	.	4ff~)	.	4ff~)	.
+8b-)	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+[2.a	< [	(4cc#X~	.	(4ee~	.	(4ff~	.
+.	.	4ccn~	.	4ee~	.	4ff~	.
+.	.	4bn~)	.	4ee~)	.	4ff~)	.
+=5	=5	=5	=5	=5	=5	=5	=5
+8a]	.	(4b-X~	.	(4ee~	.	(4ff~	.
+(4g	>	.	.	.	.	.	.
+.	.	4b-~	.	4dd~	.	4ff~	.
+8f)	.	.	.	.	.	.	.
+(8gL	]	4b-~)	.	4dd~)	.	4ee~)	.
+8aJ)	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+([2f	.	(4a~	.	(4dd~	.	(4ee~	.
+.	.	4a~	.	4cc#X~	.	4ee~	.
+8fL]	.	4a~)	.	4ccn~)	.	4dd~)	.
+8gJ)	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+[2.e	> ]	(4a~	.	(4b-~	.	(4dd~	.
+.	.	4a~	.	4b-~	.	4dd~	.
+.	.	4g~)	.	4b-~)	.	4dd~)	.
+=8	=8	=8	=8	=8	=8	=8	=8
+8e]	.	(4d~	<	(4b-~	<	(4b-~	<
+8r	.	.	.	.	.	.	.
+4r	.	(4.c#X~	.	4a~	.	4b-~	.
+4r	.	.	.	4g~)	.	4b-~)	.
+.	.	8A))	[	.	[	.	[
+=9	=9	=9	=9	=9	=9	=9	=9
+4%3r	.	(4e~	>	(4f~	>	(4a~	>
+.	.	4e~	.	4f~	.	4a~	.
+.	.	4e~)	]	4f~)	]	4a~)	]
+!!LO:REH:t=10
+=10	=10	=10	=10	=10	=10	=10	=10
+2dd^	f	(4e~	.	(4f~	.	(4a~	.
+.	.	4e~	.	4f~	.	4a~	.
+[4d	.	4e~)	.	4f~)	.	4a~)	.
+=11	=11	=11	=11	=11	=11	=11	=11
+8dL]	.	(4d~	.	(4f~	.	(4a~	.
+(8e	.	.	.	.	.	.	.
+8f	.	4c#X~	.	4e~	.	4a~	.
+8gJ)	.	.	.	.	.	.	.
+([4a	.	4cn~)	.	4e~)	.	4f~)	.
+=12	=12	=12	=12	=12	=12	=12	=12
+8aL]	.	(4Bn~	.	(4e~	.	(4f~	.
+8bnJ)	.	.	.	.	.	.	.
+(4.cc	.	4A~	.	4e~	.	4f~	.
+.	.	4G#X~)	.	4e~)	.	4f~)	.
+8b)	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+(8bn	.	(4G#X~	.	(4d~	.	(4f~	.
+4b-X	.	.	.	.	.	.	.
+.	.	4Gn~	.	4d~	.	4f~	.
+8a)	.	.	.	.	.	.	.
+(8aL	.	4G~)	.	4d~)	.	4e~)	.
+8b-J)	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14
+(4.a	.	(4G~	.	(4c~	.	(4e~	.
+.	.	4F#X~	.	4c~	.	4d~	.
+8g)	.	.	.	.	.	.	.
+[4g	.	4Fn~)	.	4c~)	.	4d~)	.
+=15	=15	=15	=15	=15	=15	=15	=15
+8gL]	.	4F~	.	(4Bn~	.	(4d~	.
+(8Bn	.	.	.	.	.	.	.
+8c#X	.	(8EL	.	4B-X~	.	4g~	.
+8dJ)	.	8DJ)	.	.	.	.	.
+(8eL	.	4C#X~	.	4B-~)	.	4g~)	.
+8fJ)	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!EED: Claudio de Freitas
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Mai-5
+!!!Suter_Example_Number: 533
+!!!Suter_Example_ID: Mai-5/2/1-15
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:54
+!!!First_Publication_Year: 1922
+!!!First_Public_Performance_Year: 1919
+!!!Example_Total_Measures: 15
+!!!Example_Timestamp_Duration: 41
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 66
+!!!Example_Start_Tsig_Beat_Rate: 66
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 0:00
+!!!Example_Start_Tempo_Expression: Andante con moto
+!!!Example_Start_Notated_Beat_Rate: {66}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 1
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:41
+!!!Example_End_Measure: 15
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=66} calculated from recording (https://www.youtube.com/watch?v=6-hOXQuTJcI); tempo for audio synthesis was calculated {quarter=68} using a Digital Audio Workstation (DAW).
+!!!Death_Place: Naarden,Netherlands
+!!!Death_Date: 21-Nov-1974
+!!!Changing_Tsig: no
+!!!Birth_Place: Geneva,Switzerland
+!!!Birth_Date: 15-Sep-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/02/17

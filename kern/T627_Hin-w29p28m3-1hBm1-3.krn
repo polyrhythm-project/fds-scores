@@ -1,0 +1,155 @@
+!!!!SEGMENT: T627_Hin-w29p28m3-1hBm1-3.krn
+!!!COM: Hindemith, Paul
+!!!OTL: Konzertmusik (Concert Music) Op. 41 for Wind Orchestra
+!!!OMV: II: Sechs Variationen über das Lied "Prinz Eugen, der edle Ritter" (6 Variations on the Song "Prince Eugen, the Noble Knight")
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: German
+!!!ODT: 1926
+!!!OPR: Konzertmusik (Concert Music) Op. 41 for Wind Orchestra
+!!!filename: T627_Hin-w29p28m3-1hBm1-3.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Clarinet in Bb 3	*	*I"Clarinet in Bb 2	*	*I"Clarinet in Bb 1	*	*I"Oboe	*	*I"Flute	*
+*I'cl	*	*I'cl	*	*I'cl	*	*I'ob	*	*I'fl	*
+*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Iclars	*	*Iclars	*	*Iclars	*	*Ioboe	*	*Iflt	*
+*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd1c2	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=[Dieselben Achtel]\n{[quarter]=98}
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8g'L	p	4.cc]	mp	8r	.	[2.ee-X	p	8ccc#X'L	p
+8d'J	.	.	.	(32ff#XLLL	pp	.	.	16ccc#'L	.
+.	.	.	.	32gg	.	.	>	.	.
+.	.	.	.	32ff#	.	.	.	16ccc#'JJ	.
+.	.	.	.	32ee#XJJJ	.	.	.	.	.
+8A'L	.	.	.	8ff#')	.	.	.	(16ccc#LL	.
+.	.	.	.	.	.	.	.	16eee)	.
+8BX'J	.	16a-X'LL	.	4.bbX~	.	.	]	16ddd'	.
+.	.	16g'JJ	.	.	.	.	.	16ccc#'JJ	.
+8F#X'L	.	8a-'L	.	.	.	.	.	(16ccc#LL	.
+.	.	.	.	.	.	.	.	16bb)	.
+8EX'J	.	8b-'J	<	.	.	.	.	16bb'	.
+.	.	.	.	.	.	.	.	16aa'JJ	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8d-X'L	.	(16ccLL	.	8r	.	8ee-]	.	8bb~L	.
+.	.	16ee-JJ)	.	.	.	.	.	.	.
+8A-X'J	.	4ee-	[	16ee-'LL	p	8r	.	16aa'L	.
+.	.	.	.	16ff'JJ	.	.	.	16gg#X'JJ	.
+8r	.	.	.	8ff#X'L	.	8r	.	16aa'LL	.
+.	.	.	.	.	.	.	.	16ff#X'J	.
+8f	.	16dd-X'LL	.	16ff#'L	.	(32aaLLL	pp	[8ddd~J	.
+.	.	.	.	.	.	32bb	.	.	.
+.	.	16cc'JJ	.	16ff#'JJ	.	32aa	.	.	.
+.	.	.	.	.	.	32gg#XJJJ	.	.	.
+8B-'L	.	8b-'L	.	(16ff#LL	.	8aa'L)	.	16dddLL]	.
+.	.	.	.	16aa)	.	.	.	16ccc#X'	.
+8e-'J	.	8a-X'J	.	16gg'	.	[8dddJ	.	16bb'	.
+.	.	.	.	16ff#'JJ	.	.	.	16fff#X'JJ	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8c'L	.	8b-'	.	(16ff#XLL	.	8ddd]	.	16eee#X'LL	.
+.	.	.	.	16eeX)	.	.	.	16ggg#X'	.
+8g'J	.	4cc^	.	16ee'	.	8r	.	16ddd#X'	.
+.	.	.	.	16dd'JJ	.	.	.	16fff#X'JJ	.
+8d'L	.	.	.	[2ee	.	4r	.	8eeen~L	.
+8A'J	.	16dd-X'LL	.	.	.	.	.	16cccn'L	.
+.	.	16cc'JJ	.	.	.	.	.	16dddn'JJ	.
+8BX'L	.	[4b-	.	.	.	4r	.	16ddd#X'LL	.
+.	.	.	.	.	.	.	.	16fff#X'	.
+8F#X'J	.	.	.	.	.	.	.	16ccc#X'	.
+.	.	.	.	.	.	.	.	16eee'JJ	.
+!!LO:REH:t=B
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8EX'L	.	2.b-_	.	8eeL]	.	8r	.	16cccn'LL	.
+.	.	.	.	.	.	.	.	16eee-X'J	.
+8d-X'J	.	.	.	16cc'L	mp	(32ggLLL	.	8bb-X'J	.
+.	.	.	.	.	.	32aa-X	.	.	.
+.	.	.	.	16dd'JJ	.	32gg	.	.	.
+.	.	.	.	.	.	32ff#XJJJ	.	.	.
+8A-X'	.	.	.	8ee-'L	.	8gg')	.	8r	.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!
+8r	.	.	.	16ee-'L	.	4.ccc	.	8ee-X'	mp
+.	.	.	.	16ee-'JJ	.	.	.	.	.
+8f'L	mp	.	.	(16ee-LL	.	.	.	[4aa-X~	.
+.	.	.	.	16gg-X)	.	.	.	.	.
+8B-'J	.	.	.	16ff-X'	.	.	.	.	.
+.	.	.	.	16ee-'JJ	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8e-'L	.	4b-_	.	(16ee-LL	.	8r	.	8aa-L]	.
+.	.	.	.	16dd-X)	.	.	.	.	.
+8c'J	.	.	.	16dd-'	.	16ee'LL	mp	(32aa-XLL	.
+.	.	.	.	.	.	.	.	32bb-X	.
+.	.	.	.	16cc-X'JJ	.	16ff#X'JJ	.	32aa-	.
+.	.	.	.	.	.	.	.	32ggJJJ	.
+8g'L	.	16b-LL]	.	8dd-'L	.	8gg#X'L	.	8aa-'L)	.
+.	.	16a'	.	.	.	.	.	.	.
+8d'J	.	16a-X'	.	16cc-X'L	.	16gg#'L	.	8bb-'J	.
+.	.	16g-X'JJ	.	16b-'JJ	.	16gg#'JJ	.	.	.
+8A'L	.	[4f-X	.	16cc-'LL	.	(16gg#LL	.	[4ccc	.
+.	.	.	.	16a-X'J	.	16bb)	.	.	.
+8BX'J	.	.	.	[8ff-X~J	.	16aa'	.	.	.
+.	.	.	.	.	.	16gg#'JJ	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8F#X'L	.	4.f-]	.	16ff-LL]	.	(16gg#XLL	.	4.ccc]	.
+.	.	.	.	16ee-'	.	16ff#X)	.	.	.
+8EX'J	.	.	.	16dd-X'	.	16ff#'	.	.	.
+.	.	.	.	16aa-X'JJ	.	16ee'JJ	.	.	.
+8d-X'L	.	.	.	16ggn'LL	.	8cc#X'L	.	.	.
+.	.	.	.	16bb-'	.	.	.	.	.
+8A-X'J	.	16e-'LL	.	16ff'	.	16ddn'L	.	(32aa-XLLL	.
+.	.	.	.	.	.	.	.	32bb-X	.
+.	.	16d-X'JJ	.	16aa-X'JJ	.	16ee'JJ	.	32aa-	.
+.	.	.	.	.	.	.	.	32ggJJJ	.
+8r	.	[4c-X	.	16ee-'LL	.	8ff#X'L	.	8aa-'L)	<
+.	.	.	.	16dd'J	.	.	.	.	.
+8f'	.	.	.	[8ee-J	.	16ff#'L	.	8bb-'J	.
+.	.	.	.	.	.	16ff#'JJ	.	.	[[
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[(s3,s4,s5)]
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/08/26
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/22
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Hin-29
+!!!Suter_Example_Number: 627
+!!!Suter_Example_ID: Hin-29/28/3-1[B]1-3
+!!!Premiere_Location: Donaueschingen,Germany
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:33
+!!!First_Publication_Year: 1927
+!!!First_Public_Performance_Year: 1926
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 11
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 98
+!!!Example_Start_Tsig_Beat_Rate: 98
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 0:32
+!!!Example_Start_Tempo_Expression: [Dieselben Achtel]
+!!!Example_Start_Notated_Beat_Rate: {98}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 14
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:43
+!!!Example_End_Measure: 19
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=98} calculated from recording (https://ubc-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=2L102SABD); tempo for audio synthesis {quarter=83} was calculated using a Digital Audio Workstation (DAW). Example Start Tempo Expression [Dieselben Achtel] based on most recent notated tempo expression (SWFU, m. 11).
+!!!Death_Place: Frankfurt,Germany
+!!!Death_Date: 28-Dec-1963
+!!!Changing_Tsig: no
+!!!Birth_Place: Hanau,Germany
+!!!Birth_Date: 16-Nov-1895
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/06/09
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

@@ -1,0 +1,171 @@
+!!!!SEGMENT: T600_Hon-w38p74-75h15m1-5.krn
+!!!COM: Honegger, Arthur
+!!!OTL: Symphony No. 4 "Deliciae basiliensis" (Pleasures of Basel) for Chamber Orchestra
+!!!OMV: III: Allegro - Adagio - Tempo I - Adagio - Allegro
+!!!OMD: [Allegro [quarter]=[quarter-dot]=126]
+!!!OMD:
+!!!AGN: Orchestral; Symphonic
+!!!AGN-sub: Symphonic
+!!!CNT: Swiss, French
+!!!ODT: 1946
+!!!OPR: Symphony No. 4 \"Deliciae basiliensis\" (Pleasures of Basel) for Chamber Orchestra
+!!!filename: T600_Hon-w38p74-75h15m1-5.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part17	*	*part16	*	*part15	*	*part14	*	*part13	*	*part12	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff18	*	*staff17	*	*staff16	*	*staff15	*	*staff14	*	*staff13	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Itambn	*	*Iglock	*	*Itromp	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclars	*	*Iclars	*	*Ioboe	*	*Iflt	*	*Ipicco	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*	*	*I"Tambourine	*	*I"Glockenspiel	*	*I"Trumpet in C	*	*I"Horn in C 2	*	*I"Horn in C 1	*	*I"Bassoon	*	*I"Clarinet in C 2	*	*I"Clarinet in C 1	*	*I"Oboe	*	*I"Flute 1	*	*I"Piccolo	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'pf	*	*	*I'tamb	*	*I'glock	*	*I'tp	*	*I'cor-fr	*	*I'cor-fr	*	*I'bn	*	*I'cl	*	*I'cl	*	*I'ob	*	*I'fl	*	*I'picc	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefX	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*ITrd-14c-24	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=[Tempo I (Allegro)]\n[[quarter-dot]=126; [quarter]=126]
+*M9/8	*	*M3/4	*	*M9/8	*	*M9/8	*	*M9/8	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M9/8	*	*M3/4	*	*M3/4	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*	*ICidio	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*Xtuplet	*	*Itambn	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:rj:t=[pizz.]	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+6AAA	f	4An	f	6e	f	6ee	f	6ee^	f	4AAA 4AA	8een^ 8eeen	f	8rO	.	2.r	.	8cc	f	4A	f	8cc)	f	4An)	f	8ccc	f	8ccc)	f	6een^	f	8eee'	f	8.r	f
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[Basler Morgenstreich]	!LO:DY:t=%s poco a poco cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:t= 	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	8r	.	[8ReOO\	p <	.	.	8r	.	.	.	8r	.	.	.	8r	.	8r	.	.	.	16r	.	.	.
+12r	.	.	.	12r	.	12r	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[Basler Morgenstreich]	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eee	.	16eeee	.
+3.r^	.	4r	.	3.r^	.	6a	.	6a^	.	4r	4a^	.	8Re'\LOO]	.	.	.	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.	6an^	.	8.aaanL	.	8.aaaanL	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8Re\OOJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	12r	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aaaJ	.	16aaaaJ	.
+.	.	.	.	.	.	.	.	(<8qccc#X/	.	.	(<8qccc#X/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(<8qccc#X/	.	.	.	.	.
+.	.	4r	.	.	.	6ddd	.	6ddd^)	.	4r	4ddd^)	.	8Re'\LOO]	.	.	.	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.	6ddd^)	.	8.ggg#XL	.	8.gggg#XL	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8Re\OOJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	12r	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ggg#J	.	16gggg#J	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*M9/8	*	*	*	*	*	*	*	*	*
+2.r	.	2.r	.	6f#X^	.	6ccc#X	.	12ccc#XL	.	2.ryy	4f#X^	.	4Re'\OO]	.	2.r	.	2.r	.	2.r	.	2.r	.	2.r	.	6g-X^	.	2.r	.	12ccc#XL	.	(4aaa	.	(4aaaa	.
+.	.	.	.	.	.	.	.	12bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12bb	.	.	.	.	.
+.	.	.	.	12r	.	12r	.	12aaJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	.	.	12aaJ	.	.	.	.	.
+.	.	.	.	6B^	.	6gg#X	.	12gg#XL	.	.	4B<^>	.	8Re\OOL	.	.	.	.	.	.	.	.	.	.	.	6c-X^	.	.	.	12gg#XL	.	8eeeL)	.	8eeeeL)	.
+.	.	.	.	.	.	.	.	12ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ff#X	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8Re\OOJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16r	.	16r	.
+.	.	.	.	12r	.	12r	.	12eeJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	.	.	12eeJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eeeJk	.	16eeeeJk	.
+.	.	.	.	(<8qb#X/	.	.	.	.	.	.	(<8qb#X/	.	.	.	.	.	.	.	.	.	.	.	.	.	(<8qccn/	.	.	.	.	.	.	.	.	.
+.	.	.	.	6cc#X^)	.	6dd	.	12ddL	.	.	4cc#X^)	.	4Re'\OO]	.	.	.	.	.	.	.	.	.	.	.	6dd-X^)	.	.	.	12ddL	.	(4fff#X	.	(4ffff#X	.
+.	.	.	.	.	.	.	.	12ee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ee	.	.	.	.	.
+.	.	.	.	12r	.	12r	.	12ff#J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	.	.	12ff#J	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+6EE	.	6E^	.	12bnL	.	6gg#X	.	12gg#XL	.	4ryy	4E<	.	8Re\OOL	.	2.r	.	2.r	.	2.r	.	2.r	.	6E^	.	12bnL	.	2.r	.	12gg#XL	.	8eeeL)	.	8eeeeL)	.
+.	.	.	.	12a	.	.	.	12aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12a	.	.	.	12aa	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8Re\OOJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16r	.	16r	.
+12r	.	12r	.	12g#XJ	.	12r	.	12bbJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	12g#XJ	.	.	.	12bbJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eeeJ	.	16eeeeJk	.
+6AAA	.	6AA^	.	12f#XL	.	6cc#X	.	12ccc#XL	.	4ryy	4AA<	.	8Re'\LOO]	.	.	.	.	.	.	.	.	.	6AA^	.	12f#XL	.	.	.	12ccc#XL	.	8.aaaL	.	8.aaaaL	.
+.	.	.	.	12e	.	.	.	12ddd	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12e	.	.	.	12ddd	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8Re\OOJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12r	.	12r	.	12f#J	.	12r	.	12ccc#J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	12f#J	.	.	.	12ccc#J	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aaaJk	.	16aaaaJk	.
+.	.	(<8qc#X/	.	.	.	.	.	.	.	.	(<8qc#X/	.	.	.	.	.	.	.	.	.	.	.	(<8qc#X/	.	.	.	.	.	.	.	.	.	.	.
+6D	.	6d^)	.	12g#L	.	6bb	.	12bbL	.	4ryy	4d)	.	8Re'\LOO]	.	.	.	.	.	.	.	.	.	6d^)	.	12g#L	.	.	.	12bbL	.	8.ggg#XL	.	8.gggg#XL	.
+.	.	.	.	12a	.	.	.	12ccc#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12a	.	.	.	12ccc#	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8Re\OOJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12r	.	12r	.	12bJ	.	12r	.	12bbJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	.	12bJ	.	.	.	12bbJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ggg#Jk	.	16gggg#Jk	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+6C#X	.	12c#XL	.	12cc#XL	.	6aa	.	12aaL	.	2.r	4a	.	4Re\OO]	.	2.r	.	2.r	.	2.r	.	2.r	.	12c#XL	.	12cc#XL	.	2.r	.	12aaL	.	(4aaa	.	(4aaaa	.
+.	.	12B	.	12dd	.	.	.	12gg#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12B	.	12dd	.	.	.	12gg#X	.	.	.	.	.
+12r	.	12AJ	.	12eeJ	.	12r	.	12ff#XJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12AJ	.	12eeJ	.	.	.	12ff#XJ	.	.	.	.	.
+6GG#X	.	12G#XL	.	12cc#L	.	6gg#X	.	12gg#L	.	.	4r	.	8Re\OOL	.	.	.	.	.	.	.	.	.	12G#XL	.	12cc#L	.	.	.	12gg#L	.	8eeeL)	.	8eeeeL)	.
+.	.	12F#X	.	12dd	.	.	.	12bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12F#X	.	12dd	.	.	.	12bb	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8Re\OOJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16r	.	16r	.
+12r	.	12EJ	.	12cc#J	.	12r	.	12gg#J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12EJ	.	12cc#J	.	.	.	12gg#J	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eeeJk	.	16eeeeJk	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+6DD	.	12DL	.	12bL	.	6r	.	12aaL	.	.	4r	.	8Re\]OOL	.	.	.	.	.	.	.	.	.	12DL	.	12bL	.	.	.	12aaL	.	8fff#XL	.	(8ffff#XL	.
+.	.	12BB	.	12dd	.	.	.	12gg#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12BB	.	12dd	.	.	.	12gg#	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	16Re\OOL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16eeeL	.	16eeeeL	.
+12r	.	12DJ	.	12aJ	.	12r	.	12ff#J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12DJ	.	12aJ	.	.	.	12ff#J	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	16Re\OOJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dddJJ	.	16ddddJJ	.
+*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*	*	*	*	*	*grp:A	*	*	*	*	*	*	*
+!	!	!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+6EE	.	12EL	.	12f#XL	.	6ee^	.	6ee	.	8.r	8.r	.	8Re\OOL	.	8.r	.	8.r	.	2.r	.	2.r	.	12EL	.	12f#XL	.	6ee^	.	6ee	.	8ccc#XL)	.	8cccc#XL)	.
+.	.	12F#X	.	12e	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12F#X	.	12e	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8Re\OOJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8bbJ	.	8bbbJ	.
+12r	.	12G#XJ	.	12dJ	.	12r	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12G#XJ	.	12dJ	.	12r	.	12r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16eee	16eeee	.	.	.	16eeee	.	16ee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+6FF#X	.	12F#L	.	12eL	.	6a^	.	6a	.	8.aaaL	8.aaaaL	.	8Re\LOO]	.	8.aaaaL	8aaaL	.	8.aaL	.	.	.	.	.	12F#L	.	12eL	.	6a^	.	3.r	.	8aa	.	8aaa	.
+.	.	12G#	.	12d	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12G#	.	12d	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8Re\OOJ	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.
+12r	.	12AJ	.	12c#XJ	.	12r	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12AJ	.	12c#XJ	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16aaaJk	16aaaaJk	.	.	.	16aaaaJk	.	.	16aaJk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(<8qccc#X/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(<8qccc#X/	.	.	.	.	.	.	.
+6BB	.	12BL	.	12B	.	6ddd^)	.	6ddd	.	8.ggg#XL	8.gggg#XL	.	8Re\LOO]	.	8.gggg#XL	8ggg#XJ	.	8.gg#XL	.	.	.	.	.	12BL	.	12B	.	6ddd^)	.	.	.	4r	.	4r	.
+.	.	12A	.	6r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12A	.	6r	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem2	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8Re\OOJ	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+12r	.	12BJ	.	.	.	12r	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12BJ	.	.	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ggg#Jk	16gggg#Jk	.	.	.	16gggg#Jk	.	.	16gg#Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)],[(s6)],[(s7,s8)],[(s9)],[(s10,s11)],{(s12,s13)},[(s14,s15,s16,s17,s18)]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!RDF**kern: O = tremolo
+!!!EED: Jason Lee
+!!!EEV: 2022/04/15
+!!!EED2: Bryan Bell
+!!!EEV2: 2022/10/20
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Hon-38
+!!!Suter_Example_Number: 600
+!!!Suter_Example_ID: Hon-38/74-75/[15]1-5
+!!!Premiere_Location: Basel,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 8:40
+!!!First_Publication_Year: 1947
+!!!First_Public_Performance_Year: 1947
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: polydurational
+!!!Example_Start_Tsig_Mean_Beat_Rate: 126
+!!!Example_Start_Tsig_Beat_Rate: 126;126
+!!!Example_Start_Tsig_Beat: dotted-quarter;quarter
+!!!Example_Start_Tsig: 9/8;3/4
+!!!Example_Start_Timestamp: 6:59
+!!!Example_Start_Tempo_Expression: [Tempo I (Allegro)]
+!!!Example_Start_Notated_Beat_Rate: [126];[126]
+!!!Example_Start_Notated_Beat: [dotted-quarter];[quarter]
+!!!Example_Start_Measure: 255
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 7:05
+!!!Example_End_Measure: 259
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-quarter;quarter=126;126] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Tempo I (Allegro)] based on most recent notated tempo expressions (SWFU, m. 180 and m.1).
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Nov-1955
+!!!Changing_Tsig: no
+!!!Birth_Place: Le Havre,France
+!!!Birth_Date: 10-Mar-1892
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/06/06

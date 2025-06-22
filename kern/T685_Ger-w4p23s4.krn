@@ -1,0 +1,95 @@
+!!!!SEGMENT: T685_Ger-w4p23s4.krn
+!!!COM: Gershwin, George
+!!!OTL: Lady Be Good, Excerpt Arranged for Voice and Piano
+!!!OMV: Fascinating Rhythm
+!!!OMD:
+!!!AGN: Vocal; Solo
+!!!AGN-sub: Solo
+!!!CNT: American
+!!!ODT: 1924
+!!!OPR: Lady Be Good, Excerpt Arranged for Voice and Piano
+!!!filename: T685_Ger-w4p23s4.krn
+**kern	**kern	**dynam	**kern	**dynam	**text	**mxhm
+*grp:A	*grp:B	*	*grp:B	*	*	*grp:B
+*part2	*part2	*	*part1	*	*	*part1
+*staff3	*staff2	*staff2/3	*staff1	*	*	*staff1
+*ICklav	*ICklav	*	*ICvox	*	*	*
+*Ipiano	*Ipiano	*	*Isoprn	*	*	*
+*I"Piano	*I"Piano	*	*I"Solo Soprano	*	*	*I"Soprano Solo
+*I'pf	*I'pf	*	*I's	*	*	*
+*clefF4	*clefG2	*	*clefG2	*	*	*
+*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*	*
+*E-:	*E-:	*	*E-:	*	*	*
+!!LO:TX:omd:tempo:a:t=[Moderato]\n{[quarter]=160}
+*M4/4	*M4/4	*	*M4/4	*	*	*
+=29	=29	=29	=29	=29	=29	=29
+!	!	!LO:DY:ed=brack	!	!	!	!
+(4AA-	4r	mf	4r	.	.	A- major
+4A-)	(>4c 4e-	.	4e-	.	Each	.
+(4GG	4c 4e- 4a-	.	4a-	.	morn-	.
+4G)	4c 4e- 4b-)	.	4b-	.	-ing	.
+=30	=30	=30	=30	=30	=30	=30
+(4FF	(4e- 4a- 4cc	.	4cc	.	I	F minor-seventh
+4F	8b-L	.	8b-L	.	get	.
+.	[8dZJ [8g [8ddZ	.	[8ddJ	.	up	.
+4BB-	8dL] 8g] 8dd]	.	8ddL]	.	.	G minor
+.	8b-J	.	8b-J	.	with	.
+4A-)	4d 4f#X 4cc	.	4cc	.	the	B- dominant-ninth+5
+=31	=31	=31	=31	=31	=31	=31
+4EE-'	1B- 1e- 1g)	.	1g	.	sun,	E- major
+4BB-'	.	.	.	.	.	.
+4BBB-'	.	.	.	.	.	.
+4BB-'	.	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32
+4EE-'	8d-X'^L 8e- 8b-	.	8b-L	.	(Start	E- dominant
+.	8B-' 8e- 8g	.	8g	.	a	.
+4BB-'	8B-' 8e- 8g	.	8g	.	hop-	.
+.	8B-J 8e- 8g	.	8gJ	.	-ping	.
+4BBB-'	8d-'^L 8e- 8b-	.	8b-L	.	nev-	.
+.	8B-' 8e- 8g	.	8g	.	-er	.
+4BB-'	8B-' 8e- 8g	.	8g	.	stop-	.
+.	8B-'J 8e-' 8g'	.	8gJ	.	-ping)	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: Z = editorial accidental, parentheses
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/12/17
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Ger-4
+!!!Suter_Example_Number: 685
+!!!Suter_Example_ID: Ger-4/23/ligne 4
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:17
+!!!First_Publication_Year: unknown
+!!!First_Public_Performance_Year: 1924
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat_Rate: 80
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 0:52
+!!!Example_Start_Tempo_Expression: [Moderato]
+!!!Example_Start_Notated_Beat_Rate: {160}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 29
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:58
+!!!Example_End_Measure: 32
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=160} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=CRC2322). Example Start Tempo Expression [Moderato] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Hollywood,United States
+!!!Death_Date: 11-Jul-1937
+!!!Changing_Tsig: no
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 26-Sep-1898
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/27
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

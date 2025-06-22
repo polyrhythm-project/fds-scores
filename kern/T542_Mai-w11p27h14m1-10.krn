@@ -1,0 +1,149 @@
+!!!!SEGMENT: T542_Mai-w11p27h14m1-10.krn
+!!!COM: Martin, Frank
+!!!OTL: Trio sur des mélodies populaires irlandaises (Trio on Popular Irish Melodies) for Violin, Violincello and Piano
+!!!OMV: III: Gigue
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Swiss
+!!!ODT: 1925
+!!!OPR: Trio sur des mélodies populaires irlandaises (Trio on Popular Irish Melodies) for Violin, Violincello and Piano
+!!!filename: T542_Mai-w11p27h14m1-10.krn
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:B	*
+*part2	*part2	*	*part1	*
+*staff3	*staff2	*	*staff1	*
+*I"Piano	*I"Piano	*	*I"Violoncello	*
+*I'pf	*I'pf	*	*I'vc	*
+*ICklav	*ICklav	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Icello	*
+*clefG2	*clefG2	*	*clefF4	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Più mosso]\n[[half]=108]
+*M4/4	*M4/4	*	*M4/4	*
+*met(c)	*met(c)	*	*met(c)	*
+!!LO:REH:t=14
+=1	=1	=1	=1	=1
+!	!	!LO:DY:t= meno %s	!	!
+4e-X' 4g-X 4cc-X	2gg-X 2eee-X)	pp	2C]	p
+8e-'L 8g- 8b-X	.	.	.	.
+8e-'J 8g- 8b-	.	.	.	.
+4e-' 4g- 4cc-	(4ff 4ddd-X	.	[2D-X	.
+8e-'L 8g- 8b-	4gg- 4eee-	.	.	.
+8e-'J 8g- 8b-	.	.	.	.
+=2	=2	=2	=2	=2
+4e-X' 4g-X 4cc-X	4ff 4ddd-X)	.	4D-]	.
+4e-' 4g- 4b-X	2ee-X 2cccn	.	2E-X	.
+4e-' 4g- 4cc-	.	.	.	.
+4e-' 4g- 4b-	(4dd-X 4bb-X	.	[4F	.
+=3	=3	=3	=3	=3
+4e-X' 4g-X 4cc-X	4ee-X 4ccc	.	2F]	.
+8e-'L 8g- 8b-X	4ff 4ddd-X)	.	.	.
+8e-'J 8g- 8b-	.	.	.	.
+4e-' 4g- 4cc-	(4gg-X 4eee-X	.	(2G-X	.
+8e-'L 8g- 8b-	4aa-X 4fff)	.	.	.
+8e-'J 8g- 8b-	.	.	.	.
+=4	=4	=4	=4	=4
+4e-X' 4g-X 4cc-X	(8gg-XL 8eee-X	.	4F)	.
+.	8aa-XJ 8fff	.	.	.
+4e-' 4g- 4ccn	2bb-X 2ggg-X)	.	2E-X	.
+4e-' 4g- 4dd-X	.	.	.	.
+4e-' 4g- 4cc	[4ccc [4aaa-X	.	[4D-X	.
+=5	=5	=5	=5	=5
+*grp:A	*grp:B	*	*grp:B	*
+4e-X' 4g-X 4cc-X	4ccc] 4aaa-]	.	4D-]	.
+!	!LO:TUP:a	!	!	!
+4e-' 4g- 4b-X	(12bb-XL 12ggg-X	.	(4E-X	.
+.	12aaa-X	.	.	.
+.	12ggg-J	.	.	.
+!	!LO:TUP:a	!	!	!
+4e-' 4g- 4cc-	12aa-XL 12fff	.	4F)	.
+.	12ggg-	.	.	.
+.	12fffJ	.	.	.
+4e-' 4g- 4b-	[4gg-X [4eee-X	.	[4G-X	.
+=6	=6	=6	=6	=6
+4e-X' 4g-X 4cc-X	8gg-XL] 8eee-X])	.	4G-X]	.
+.	8ff'J 8ddd-X	.	.	.
+4d-X' 4g- 4b	2ee-X 2ccc	.	(4A-X	<
+4cn' 4g- 4a-X	.	.	4B-X)	.
+*clefF4	*	*	*	*
+4CC 4C	(>16enLL	>	(8A-L	.
+.	16f	.	.	.
+.	16f#X	.	8B-J)	[
+.	16gnJJ	]	.	.
+=7	=7	=7	=7	=7
+*grp:A	*grp:A	*	*grp:B	*
+!	!	!	!LO:TX:b:i:t=dolce	!
+4FFF 4FF	4An 4e-X 4a-X)	ppp	2c	.
+4CC 4C	8AL 8e- 8g	.	.	.
+.	8AJ 8e- 8g	.	.	.
+4FFF 4FF	4A 4e- 4a-	.	(4B-X	.
+4CC 4C	8AL 8e- 8g	.	4c	.
+.	8AJ 8e- 8g	.	.	.
+=8	=8	=8	=8	=8
+4FFF 4FF	4A 4e-X 4a-X	.	4B-X)	.
+4CC 4C	4A 4e- 4g	.	2An	.
+4FFF 4FF	4A 4e- 4a-	.	.	.
+4CCC 4CC	(>16enLL	.	(4G	.
+.	16f	.	.	.
+.	16f#X	.	.	.
+.	16gJJ	.	.	.
+=9	=9	=9	=9	=9
+4FFF 4FF	4A 4e-X 4a-X)	.	4A	.
+4CC 4C	8AL 8e- 8g	.	4B-X)	<
+.	8AJ 8e- 8g	.	.	.
+4FFF 4FF	4A 4e- 4a-	.	(4c	.
+4CC 4C	8AL 8e- 8g	.	4d)	.
+.	8AJ 8e- 8g	.	.	.
+=10	=10	=10	=10	=10
+4FFF 4FF	4A 4e-X 4a-X	.	(8cL	.
+.	.	.	8dJ	[
+4CC 4C	4A 4e- 4g	.	2e-X)	.
+4FFF 4FF	4A 4e- 4a-	.	.	.
+4CCC 4CC	(16enLLi	.	[4fN>	.
+.	16f	.	.	.
+.	16f#X	.	.	.
+.	16gJJ	.	.	.
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: N = hairpin accent
+!!!RDF**kern: > = above
+!!!EED: Claudio de Freitas
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/17
+!!!EED3: Bryan Bell
+!!!EEV3: 2023/06/23
+!!!Suter_Work_ID: Mai-11
+!!!Suter_Example_Number: 542
+!!!Suter_Example_ID: Mai-11/27/[14]1-10
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 5:11
+!!!First_Publication_Year: 1955
+!!!First_Public_Performance_Year: 1926
+!!!Example_Total_Measures: 10
+!!!Example_Timestamp_Duration: 11
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 216
+!!!Example_Start_Tsig_Beat_Rate: 216
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 2:22
+!!!Example_Start_Tempo_Expression: [Più mosso]
+!!!Example_Start_Notated_Beat_Rate: [108]
+!!!Example_Start_Notated_Beat: [half]
+!!!Example_Start_Measure: 127
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:33
+!!!Example_End_Measure: 136
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [half=108] based on most recent notated beat rate (SWFU, m. 117). Example Start Tempo Expression [Più mosso] based on most recent notated tempo expression (SWFU, m. 117).
+!!!Death_Place: Naarden,Netherlands
+!!!Death_Date: 21-Nov-1974
+!!!Changing_Tsig: no
+!!!Birth_Place: Geneva,Switzerland
+!!!Birth_Date: 15-Sep-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:

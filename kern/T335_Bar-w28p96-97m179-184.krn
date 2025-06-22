@@ -1,0 +1,195 @@
+!!!!SEGMENT: T335_Bar-w28p96-97m179-184.krn
+!!!COM: Bartók, Béla
+!!!OTL: Táncszvit (Dance Suite) for Orchestra
+!!!OMV: VI: Finale
+!!!OMD:
+!!!AGN: Orchestral; Symphonic
+!!!AGN-sub: Symphonic
+!!!CNT: Hungarian
+!!!ODT: 1923
+!!!OPR: Táncszvit (Dance Suite) for Orchestra
+!!!filename: T335_Bar-w28p96-97m179-184.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Itimpa	*	*Ituba	*	*Itromt	*	*Itromp	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Ipicco	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Timpani	*	*I"Tuba	*	*I"Trombone	*	*I"Trumpet in Bb	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"English Horn	*	*I"Oboe	*	*I"Piccolo	*	*I"Flute	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'timp	*	*I'tb	*	*I'tn	*	*I'tp	*	*I'bn	*	*I'cl	*	*I'cor-en	*	*I'ob	*	*I'picc	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*ITrd-7c12	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[]	*	*k[b-e-]	*	*k[b-]	*	*k[]	*	*k[]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=[Allegro molto]\n[[quarter]=160]
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179
+*tremolo	*	*tremolo	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s marc.	!LO:TX:a:i:t=marc.	!	!	!	!	!LO:DY:t=%s marc.	!	!	!	!
+32BBB-X^^<LLL	f	32FF^^<LLL	f	32D^^<LLL	f	(8ddL	f	(8dddL	f	[2FFTT	p	2r	.	2r	.	2r	.	4.BBB-X 4.FF	f	4.D 4.d	f	4.r	.	4.d	f	(8ddddL	p	2r	.
+32BBB-X^^	.	32FF^^	.	32D^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32BBB-X^^	.	32FF^^	.	32D^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32BBB-X^^	.	32FF^^	.	32D^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32BBB-X^^	.	32FF^^	.	32D^^	.	8cc)	.	8ccc)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cccc)	.	.	.
+32BBB-X^^	.	32FF^^	.	32D^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32BBB-X^^	.	32FF^^	.	32D^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32BBB-X^^	.	32FF^^	.	32D^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32BBB-X^^	.	32FF^^	.	32D^^	.	8aJ 8aa	.	8aaJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aaaJ	.	.	.
+32BBB-X^^	.	32FF^^	.	32D^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32BBB-X^^	.	32FF^^	.	32D^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32BBB-X^^JJJ	.	32FF^^JJJ	.	32D^^JJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s marc.	!	!	!	!	!	!
+32CC^^<LLL	.	32CC^^<LLL 32GG	.	32E^^<LLL	.	(>8ccL	.	(8cccL	.	.	.	.	.	.	.	.	.	[8CC [8GG	.	[8EX [8eX	.	[8E	f	[8e	.	8r	.	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC^^JJJ	.	32CC^^JJJ 32GG	.	32E^^JJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	180
+32CCLLL	.	32CC 32GGLLL	.	32ELLL	.	\8aJ)	.	8aaJ)	.	2FF_TTT	.	2r	.	2r	.	2r	.	4CC] 4GG]	.	4E] 4e]	.	4E]	.	4e]	.	8r	.	2r	.
+32CC	.	32CC 32GG	.	32E	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC	.	32CC 32GG	.	32E	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC	.	32CC 32GG	.	32E	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC	.	32CC 32GG	.	32E	.	(8ddL	.	(8dddL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8ddddL	.	.	.
+32CC	.	32CC 32GG	.	32E	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC	.	32CC 32GG	.	32E	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CCJJJ	.	32CC 32GGJJJ	.	32EJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^LLL	.	32DD^^< 32AALLL	.	32F^^<LLL	.	8cc)	.	8ccc)	.	.	.	.	.	.	.	.	.	[4DD [4AA	.	[4F [4f	.	[4F	.	[4f	.	8cccc)	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	8aJ 8aa	.	8aJ 8aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aaaJ	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^JJJ	.	32DD^^ 32AAJJJ	.	32F^^JJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181	=181
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=P:problem: Dynamic Text not displaying under trill	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+32DDLLL	.	32DD 32AALLL	.	32FLLL	.	(8ccL	.	(8cccL	.	2FF_TTT	<	2r	.	2r	.	2r	.	8DD] 8AA]	.	8F] 8f]	.	8F]	.	8f]	.	4r	.	2r	.
+32DD	.	32DD 32AA	.	32F	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD	.	32DD 32AA	.	32F	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DDJJJ	.	32DD 32AAJJJ	.	32FJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC^^<LLL	.	32CC^^< 32GGLLL	.	32E^^<LLL	.	\8aJ)	.	8aaJ)	.	.	.	.	.	.	.	.	.	4.CC 4.GG	.	4.EX 4.eX	.	4.E	.	4.e	.	.	.	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	(8ddL	.	(8dddL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8ddddL	mf	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	8cc)	.	8ccc)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cccc)	.	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC^^	.	32CC^^ 32GG	.	32E^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32CC^^JJJ	.	32CC^^ 32GGJJJ	.	32E^^JJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182	=182
+32DD^^LLL	.	32DD^^< 32AALLL	.	32F^^<LLL	.	8aJ 8aa	.	8aJ 8aa	.	2FF_TTT	.	2r	.	2r	.	2r	.	4.DD 4.AA	.	4.F 4.f	.	4.F	.	4.f	.	8aaaJ	.	2r	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	(8ccL	.	(8cccL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	8aJ 8aa)	.	8aJ 8aa)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD^^JJJ	.	32DD^^ 32AAJJJ	.	32F^^JJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^LLL	.	32EE^^< 32BBLLL	.	32G^^<LLL	.	(8ddL	.	(8dddL	.	.	.	.	.	.	.	.	.	[8EE [8BB	.	[8G [8g	.	[8G	.	[8g	.	[8ddddL	<	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^JJJ	.	32EE^^ 32BBJJJ	.	32G^^JJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183	=183
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*
+32EELLL	.	32EE 32BBLLL	.	32GLLL	.	8ccJ)	.	8cccJ)	.	2FF_TTT	.	4r	.	4r	.	4r	2rB	.	4EE] 4BB]	.	4G] 4g]	.	4G]	.	4g]	.	8ddddJ]	.	4r	.
+32EE	.	32EE 32BB	.	32G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE	.	32EE 32BB	.	32G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE	.	32EE 32BB	.	32G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE	.	32EE 32BB	.	32G	.	(8eeL	.	(8eeeL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4.eeee	.	.	.
+32EE	.	32EE 32BB	.	32G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE	.	32EE 32BB	.	32G	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EEJJJ	.	32EE 32BBJJJ	.	32GJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!LO:TX:a:B:t=a2	!	!	!	!	!	!	!	!	!
+32DD^^LLL	.	32DD^^< 32AALLL	.	32F^^<LLL	.	8b)	.	8bb)	.	.	.	[4DD	p	[4D [4F	p	[4A	.	p	[4DD [4AA	.	(32fLLL	<	8F	.	8f	.	.	.	8r	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32g	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32g#X	.	.	.	.	.	.	.	.	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32a	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1.	!
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	8aJ 8aa	.	8aaJ	.	.	.	.	.	.	.	.	.	.	.	.	32bX	.	8r	.	8r	.	.	.	(40aaLLL	<
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40bb	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cc	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40ccc	.
+32DD^^	.	32DD^^ 32AA	.	32F^^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32dd	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40ddd	.
+32DD^^JJJ	.	32DD^^ 32AAJJJ	.	32F^^JJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32eeXJJJ	[[	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	40eeeJJJ	[
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
+=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184	=184
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*tremolo	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+32DDLLL	.	32DD 32AALLL	.	32FLLL	.	32ffLLL	p	32fffLLL	p	2.FFTTT]	.	4DD]	.	4D] 4F]	.	4A]	4rC	.	4DD] 4AA]	.	8ffL	ff	(8ffL	ff	(8ffL	ff	(8ffffL	ff	8fffL	ff
+32DD	.	32DD 32AA	.	32F	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD	.	32DD 32AA	.	32F	.	32ff	<	32fff	<	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD	.	32DD 32AA	.	32F	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD	.	32DD 32AA	.	32F	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	8dd)	.	8dd)	.	8dd)	.	8dddd)	.	8ddd)	.
+32DD	.	32DD 32AA	.	32F	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DD	.	32DD 32AA	.	32F	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32DDJJJ	.	32DD 32AAJJJ	.	32FJJJ	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^LLL	<	32EE^^< 32BBLLL	<	32G^^ 32gLLL	<	32ff	.	32fff	.	.	.	2EE	mf	2E 2G	mf	2B	2B	mf	2EE 2BB	.	8bbXJ	.	8bXJ	.	8bJ	.	8bbbJ	.	8bbJ	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	(8dddL	.	(8ddL	.	(8ddL	.	(8ddddL	.	(8dddL	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32ff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32ffJJJ	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32fffLLL	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	8ccc)	.	8cc)	.	8cc)	.	8cccc)	.	8cccc)	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	8aaJ	.	8aJ	.	8aJ	.	8aaaJ	.	8aaaJ	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^	.	32EE^^ 32BB	.	32G^^ 32g	.	32fff	.	32fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32EE^^JJJ	[	32EE^^ 32BBJJJ	[	32G^^ 32gJJJ	[	32fffJJJ	.	32fffJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*Xtremolo	*	*Xtremolo	*	*Xtremolo	*	*Xtremolo	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9)](s10)[(s11,s12,s13,s14,s15)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/22
+!!!EED2: Jason Lee
+!!!EEV2: 2022/01/28
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Bar-28
+!!!Suter_Example_Number: 335
+!!!Suter_Example_ID: Bar-28/96-97/179-184
+!!!Premiere_Location: Budapest,Hungary
+!!!Other_Tsigs: 3/4
+!!!Full_Unit_Duration: 4:06
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1923
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 4:50
+!!!Example_Start_Tempo_Expression: [Allegro molto]
+!!!Example_Start_Notated_Beat_Rate: [160]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 179
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:55
+!!!Example_End_Measure: 184
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=160] based on most recent notated beat rate (SWFU, m. 178). Example Start Tempo Expression [Allegro molto] based on most recent notated tempo expression (SWFU, m. 178).
+!!!Death_Place: New York,United States
+!!!Death_Date: 26-Sep-1945
+!!!Changing_Tsig: yes
+!!!Birth_Place: Sînnicolau Mare (Nagyszentmiklós),Romania (Hungary)
+!!!Birth_Date: 25-Mar-1881
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/06/01

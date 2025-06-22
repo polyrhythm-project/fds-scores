@@ -1,0 +1,138 @@
+!!!!SEGMENT: T795_Bri-w26p27h21m6-14.krn
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Serenade for Solo Tenor, Horn and Strings, op. 31
+!!!OMV: No. 6: Hymn (Ben Jonson)
+!!!OMD:
+!!!AGN: Vocal; Solo
+!!!AGN-sub: Solo
+!!!CNT: English
+!!!ODT: 1943
+!!!OPR: Serenade for Solo Tenor, Horn and Strings, op. 31
+!!!filename: T795_Bri-w26p27h21m6-14.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*
+*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*	*
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICvox	*	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Icor	*	*Itenor	*	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Horn in F	*	*I"Solo Tenor	*	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'cor-fr	*	*I't	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd7c12	*	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*	*
+*B-:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*	*B-:	*	*
+!!LO:TX:omd:tempo:a:t=[Presto e leggiero]\n[[quarter]=168&#8211;176]
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M6/8	*	*M2/4	*	*
+*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*
+!LO:TX:a:t=[sempre pizz.]	!LO:DY:t=[ %s ]	!LO:TX:a:t=[sempre pizz.]	!LO:DY:t=[ %s ]	!LO:TX:a:t=[sempre pizz.]	!LO:DY:t=[ %s ]	!LO:TX:a:t=[sempre pizz.]	!LO:DY:t=[ %s ]	!LO:TX:a:t=[sempre pizz.]	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]	!
+4r	pp	4r	pp	4r	pp	4r	pp	4r	pp	(12FL	pp	4r	pp	.
+.	.	.	.	.	.	.	.	.	.	12e-X)	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12dJ	.	.	.	.
+8r	.	8r	.	8r	.	8r	.	8r	.	[6.c	.	8c'	.	Now
+8CC	.	8CC	.	8G	.	8c	.	8en	.	.	.	8d'	.	the
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+8FF	.	8FF	.	8A	.	8c	.	8f	.	12cL]	.	8e-'	.	sun
+.	.	.	.	.	.	.	.	.	.	12c	.	.	.	.
+8r	.	8r	.	8r	.	8r	.	8r	.	.	.	8d'	.	is
+.	.	.	.	.	.	.	.	.	.	12dJ	.	.	.	.
+8r	.	8r	.	8r	.	8r	.	8r	.	[6.e-	.	8c'	.	laid
+8CC	.	8CC	.	8G	.	8c	.	8en	.	.	.	8d'	.	to
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+8FF	.	8FF	.	8A	.	8c	.	8f	.	12e-L]	.	4e-	.	sleep,
+.	.	.	.	.	.	.	.	.	.	12e-	.	.	.	.
+8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12dJ	.	.	.	.
+8AAA-X	sf	8AA-X	sf	8E-	sf	8A-X	sf	8c	sf	12cL	<	4r	.	.
+.	.	.	.	.	.	.	.	.	.	12d	.	.	.	.
+8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12e-J	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+4r	.	4r	.	4r	.	4r	.	4r	.	12fL	.	2r	.	.
+.	.	.	.	.	.	.	.	.	.	12g	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12aJ	.	.	.	.
+8GG^	pp	8BB-^L	pp	8d^	pp	8g^	pp	8b-^	pp	12b-L	sf [	.	.	.
+.	.	.	.	.	.	.	.	.	.	12b-J	pp	.	.	.
+8r	.	8DJ	.	8r	.	8r	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+8AA	.	8C	.	8cL	.	8f	.	8a	.	12aL	.	4.B-	.	Sea-
+.	.	.	.	.	.	.	.	.	.	12aJ	.	.	.	.
+8r	.	8r	.	8dJ	.	8r	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.
+8BB-	.	8D	.	8B-	.	8e-	.	8gL	.	12gL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12gJ	.	.	.	.
+8r	.	8r	.	8r	.	8r	.	8b-J	.	.	.	8B-	.	-ted
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+8EE-^L	.	8BB-^	.	8c^	.	8f^	.	8a^	.	12a^L	.	8c	.	in
+.	.	.	.	.	.	.	.	.	.	12aJ	.	.	.	.
+8CCJ	.	8r	.	8r	.	8r	.	8r	.	.	.	8r	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.
+8FF	.	8C	.	8B-	.	8e-L	.	8g	.	12gL	.	8d	.	thy
+.	.	.	.	.	.	.	.	.	.	12gJ	.	.	.	.
+8r	.	8r	.	8r	.	8dJ	.	8r	.	.	.	8r	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+8GG	.	8DL	.	8A	.	8c	.	8f	.	12fL	.	8e-	.	sil-
+.	.	.	.	.	.	.	.	.	.	12fJ	.	.	.	.
+8r	.	8GJ	.	8r	.	8r	.	8r	.	.	.	8r	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.
+8AA	.	8En	.	8A	.	8c#X	.	8enL	.	12eL	.	8f	.	-ver
+.	.	.	.	.	.	.	.	.	.	12eJ	.	.	.	.
+8r	.	8r	.	8r	.	8r	.	8aJ	.	.	.	8r	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+8D	.	8F#XL	<	8AL	<	8dL	<	8dL	<	([6.d	.	4.f#X	.	chair,
+8r	.	8AAJ	.	8GJ	.	8AJ	.	8enJ	.	.	.	.	.	.
+4r	.	8D	[	8F#X	[	8A	.	8d	.	12dL]	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12a)	.	.	.	.
+.	.	8r	.	8r	.	8r	[	8r	[	.	.	8r	.	.
+.	.	.	.	.	.	.	.	.	.	12f#XJ	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+2r	.	8r	.	8r	.	8r	.	8r	.	([6.d	.	2r	.	.
+.	.	8AA	<	8G	<	8A	<	8en	<	.	.	.	.	.
+.	.	8D	[	8F#X	.	8A	.	8d	.	12dL]	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12a)	.	.	.	.
+.	.	8r	.	8r	[	8r	[	8r	[	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12f#XJ	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[(s3,s4,s5,s6,s7)]
+!!!EED:Jason Lee
+!!!EEV:2022/01/27
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Bri-26
+!!!Suter_Example_Number: 795
+!!!Suter_Example_ID: Bri-26/27/[21]6-14
+!!!Premiere_Location: London,England
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:01
+!!!First_Publication_Year: 1944
+!!!First_Public_Performance_Year: 1943
+!!!Example_Total_Measures: 9
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: polydurational
+!!!Example_Start_Tsig_Mean_Beat_Rate: 172
+!!!Example_Start_Tsig_Beat_Rate: 172;172
+!!!Example_Start_Tsig_Beat: quarter;dotted-quarter
+!!!Example_Start_Tsig: 2/4;6/8
+!!!Example_Start_Timestamp: 0:15
+!!!Example_Start_Tempo_Expression: [Presto e leggiero]
+!!!Example_Start_Notated_Beat_Rate: [168-176]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 19
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:22
+!!!Example_End_Measure: 27
+!!!Example_Dataset: T
+!!!Editorial_Comments:
+!!!Death_Place: Aldeburgh,England
+!!!Death_Date: 4-Dec-1976
+!!!Changing_Tsig: no
+!!!Birth_Place: Lowestoft,England
+!!!Birth_Date: 22-Nov-1913
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/10
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/04

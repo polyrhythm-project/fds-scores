@@ -1,0 +1,142 @@
+!!!!SEGMENT: T603_Hon-w24p3h1m1-7.krn
+!!!COM: Honegger, Arthur
+!!!OTL: Symphony No. 1
+!!!OMV: I: Allegro marcato
+!!!OMD:
+!!!AGN: Orchestral; Symphonic
+!!!AGN-sub: Symphonic
+!!!CNT: Swiss, French
+!!!ODT: 1930
+!!!OPR: Symphony No. 1
+!!!filename: T603_Hon-w24p3h1m1-7.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Itromt	*	*Itromt	*	*Itromp	*	*Itromp	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclarb	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Trombone	*	*I"Trombone	*	*I"Trumpet	*	*I"Trumpet	*	*I"Horn in F	*	*I"Horn in F	*	*I"Bassoon	*	*I"Bass Clarinet in Bb	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'tn	*	*I'tn	*	*I'tp	*	*I'tp	*	*I'cor-fr	*	*I'cor-fr	*	*I'bn	*	*I'b-cl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefF4	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*	*k[b-]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*
+!!LO:TX:omd:tempo:a:t=[Allegro marcato]\n[[half]=112]
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=1
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:B:t=sempre f	!
+!LO:TX:a:t=pizz.	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s	!	!	!LO:DY:t=sempre %s	!	!LO:DY:t=sempre %s
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+4CC	f	4CC	f	4E-X	f	4Gn	f	4c	f	1r	f	4AA-X^> 4C	f	4B-^>	f	1r	f	1r	f	4r	f	4CC	4CC	f	4r	f
+4BBn	.	4r	.	4r	.	4r	.	4r	.	.	.	4r	.	4r	.	.	.	.	.	4F#X^	.	4r	4BBn	.	4BBX	.
+4DD-X	.	4r	.	4r	.	4r	.	4r	.	.	.	2r	.	2r	.	.	.	.	.	4G	.	4DD-X	4DD-	.	4r	.
+*	*	*clefC4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4C	.	(4c	.	(4cc	.	(4cc	.	(4cc	.	.	.	.	.	.	.	.	.	.	.	4A-X	.	4C	4r	.	/4C	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=mettez les sourdines	!	!	!	!LO:TX:a:t=mettez les sourdines	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rep	*rep	*	*rep	*
+4CC	.	4.b-X)	.	4.een)	.	4.aa-X)	.	4.ddd-X)	.	1r	.	1r	.	1r	.	1r	.	4F#X^>	.	2r	.	4CC	4CC	.	4r	.
+4BBn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4G	.	.	.	4r	4BBn	.	4BBX	.
+.	.	[8g#X	.	[8dd	.	[8ff#X	.	[8ddd-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4DD-X	.	4..g#]	.	4..dd]	.	4..ff#]	.	4..ddd-]	.	.	.	.	.	.	.	.	.	4A-X	.	4r	.	4DD-X	4DD-	.	4r	.
+4C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.	4F#X^	.	4C	4C	.	/4C	.
+.	.	[16an	.	[16ee-X	.	[16gg	.	[16ddd-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrep	*Xrep	*	*Xrep	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+4CC	.	2anX]	.	2ee-X]	.	2gg]	.	2ddd-X]	.	1r	.	1r	.	1r	.	1r	.	2r	.	4G	.	4CC	4CC	.	4r	.
+4BBn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4A-X	.	4r	4BB	.	4BBX	.
+!	!	!LO:TUP:a	!	!LO:TUP:a	!	!LO:TUP:a	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4DD-X	.	(6b-X	.	(6een	.	(6aa-X	.	(6ccc	.	.	.	.	.	.	.	.	.	4F#X	.	2r	.	4DD-X	4DD-	.	4r	.
+.	.	6bn)	.	6dd)	.	6gg)	.	6bb-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4G	.	.	.	4C	4r	.	/4C	.
+.	.	(6c	.	(6cc	.	(6cc	.	(6cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+*rep	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rep	*rep	*	*rep	*
+4CC	.	4.a-X)	.	4.dd)	.	4.gg)	.	4.ccc)	.	1r	.	1r	.	1r	.	1r	.	4A-X	.	4r	.	4CC	4CC	.	4r	.
+4BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.	4F#X	.	4r	4BB	.	4BBX	.
+.	.	[8an	.	[8dd-X	.	[8gg-X	.	[8ccc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4DD-X	.	4a]	.	4dd-]	.	4gg-]	.	4ccc]	.	.	.	.	.	.	.	.	.	2r	.	4G	.	4DD-X	4DD-	.	4r	.
+4C	.	[4b-X	.	[4een	.	[4ff	.	[4ccc	.	.	.	.	.	.	.	.	.	.	.	4A-X	.	4C	4r	.	/4C	.
+*Xrep	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrep	*Xrep	*	*Xrep	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+*rep	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rep	*rep	*	*rep	*
+4CC	.	4.b-]	.	4.een]	.	4.ff]	.	4.ccc]	.	1r	.	1r	.	1r	.	1r	.	4F#X	.	2r	.	4CC	4CC	.	4r	.
+4BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4G	.	.	.	4r	4BB	.	4BBX	.
+.	.	([8bn	.	([8ddn	.	([8ggn	.	([8bb-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4DD-X	.	8bL]	.	8ddL]	.	8ggL]	.	8bb-L]	.	.	.	.	.	.	.	.	.	4A-X	.	4r	.	4DD-X	4DD-	.	4r	.
+.	.	8ccJ)	.	8ee-XJ)	.	8ffJ)	.	8aa-XJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4C	.	(4c	.	(4cc	.	(4cc	.	(4cc	.	.	.	.	.	.	.	.	.	4r	.	4F#X	.	4C	4r	.	/4C	.
+*Xrep	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrep	*Xrep	*	*Xrep	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+*rep	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rep	*rep	*	*rep	*
+4CC	.	2.g-X)	.	2.cc 2.een)	.	2.een 2.ggn)	.	2.bb-X)	.	1r	.	1r	.	1r	.	1r	.	2r	.	4G	.	4CC	4CC	.	4r	.
+4BB	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4A-X	.	4r	4BB	.	4BBX	.
+4DD-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4F#X	.	2r	.	4DD-X	4DD-	.	4r	.
+4C	.	[4a-X	.	[4bn	.	[4dd [4ff#X	.	[4bb-X	.	.	.	.	.	.	.	.	.	4G	.	.	.	4C	4C	.	4C	.
+*Xrep	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrep	*Xrep	*	*Xrep	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+*rep	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*rep	*rep	*	*rep	*
+4CC	.	4a-]	.	4b]	.	4dd] 4ff#]	.	4bb-]	.	1r	.	1r	.	1r	.	1r	.	4A-X	.	4r	.	4CC	4CC	.	4r	.
+4BB	.	2an	.	2cc	.	2ee-X 2gg-X	.	2cc 2aa-X	.	.	.	.	.	.	.	.	.	4r	.	4F#X	.	4r	4BB	.	4BBX	.
+4DD-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2r	.	4G	.	4DD-X	4DD-	.	4r	.
+4C	.	[4b-X	.	[4bn	.	[4dd-X [4ffn	.	[4dd-X [4gg	.	.	.	.	.	.	.	.	.	.	.	4A-X	.	4C	4C	.	4C	.
+*Xrep	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xrep	*Xrep	*	*Xrep	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4)][(s5,s6)][(s7,s8)][(s9,s10,s11,s12,s13)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/20
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/02/17
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Hon-24
+!!!Suter_Example_Number: 603
+!!!Suter_Example_ID: Hon-24/3/[1]1-7
+!!!Premiere_Location: Boston,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:35
+!!!First_Publication_Year: 1930
+!!!First_Public_Performance_Year: 1931
+!!!Example_Total_Measures: 7
+!!!Example_Timestamp_Duration: 9
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 112
+!!!Example_Start_Tsig_Beat_Rate: 112
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 0:18
+!!!Example_Start_Tempo_Expression: [Allegro marcato]
+!!!Example_Start_Notated_Beat_Rate: [112]
+!!!Example_Start_Notated_Beat: [half]
+!!!Example_Start_Measure: 14
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:27
+!!!Example_End_Measure: 20
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [half=112] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Allegro marcato] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Nov-1955
+!!!Changing_Tsig: no
+!!!Birth_Place: Le Havre,France
+!!!Birth_Date: 10-Mar-1892
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/06/06
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/02

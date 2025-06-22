@@ -1,0 +1,150 @@
+!!!!SEGMENT: T133_Jan-w16p12m15-21.krn
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: Po zarostlém chodníčku (On the Overgrown Path), Book I
+!!!OMV: Book I, No. 5: Štěbetaly Jak Laštovicky (They Chattered like Swallows)
+!!!OMD:
+!!!AGN: Instrumental; Keyboard
+!!!AGN-sub: Keyboard
+!!!CNT: Czech
+!!!ODT: 1911
+!!!OPR: Po zarostlém chodníčku (On the Overgrown Path), Book I
+!!!filename: T133_Jan-w16p12m15-21.krn
+**kern	**kern	**dynam
+*grp:A	*grp:A	*
+*part1	*part1	*
+*staff2	*staff1	*
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*I"Piano	*I"Piano	*
+*I'pf	*I'pf	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*E:	*E:	*
+!!LO:TX:omd:tempo:a:t=[Con moto]\n[[quarter]=184]
+*M4/8	*M4/8	*
+=1	=1	=1
+*^	*	*
+!	!	!LO:TX:a:t=2	!LO:DY:t=[ %s ]
+*ped	*	*	*
+4ryy	8E-XL	2b-X	f
+.	8G-X	.	.
+!LO:T:b	!	!	!
+[4G-	8G-	.	.
+!	!LO:T:a	!	!
+.	[8e-XJ	.	.
+=2	=2	=2	=2
+!	!	!LO:TX:a:t=1	!
+2G-] 2e-]\	2ryy	8e-XL	.
+!	!	!LO:TX:a:t=2	!
+.	.	8b-X	.
+!	!	!LO:TX:a:t=1	!
+.	.	8ee-X	.
+.	.	8eee-XJ	.
+*v	*v	*	*
+=3:||	=3:||	=3:||
+*k[]	*k[]	*
+*C:	*C:	*
+*^	*	*
+*	*	*grp:B	*
+!	!LO:TX:a:i:t=espress.	!LO:TX:a:B:t=Meno mosso	!
+*ped	*	*	*
+!	!	!LO:TX:a:t=1	!
+4ryy	8E-XL	10cc-XL	.
+!	!	!LO:TX:a:t=2	!
+.	.	10ee-X	.
+!	!LO:TX:b:t=2	!	!
+.	8c-X	.	.
+!	!	!LO:TX:a:t=1	!
+.	.	10ee-	.
+!LO:T:b	!LO:TX:b:t=4	!	!
+[4c-	8c-	.	.
+.	.	[10eee-X	.
+!	!LO:T:a	!	!
+.	[8gnJ	.	.
+.	.	10eee-J]	.
+=4	=4	=4	=4
+*	*	*grp:A	*
+!	!	!LO:TX:a:t=3	!
+2g] 2c-]\	2ryy	(8fnL	.
+.	.	8d-XJ	.
+.	.	4e-X)	.
+=5	=5	=5	=5
+*ped	*	*grp:B	*
+!	!	!LO:TX:a:t=1	!
+8E-XL\	4ryy	10cc-XL	.
+!	!	!LO:TX:a:t=2	!
+.	.	10ee-X	.
+!LO:TX:b:t=2	!	!	!
+8c-X	.	.	.
+!	!	!LO:TX:a:t=1	!
+.	.	10ee-	.
+8c-	4c-/	.	.
+.	.	[10eee-X	.
+8e-XJ	.	.	.
+.	.	10eee-J]	.
+*v	*v	*	*
+=6	=6	=6
+*	*^	*
+*	*Xtuplet	*	*
+!	!	!LO:TX:a:t=1	!
+8AA-XL	5ryyy	10dd-XL	.
+!	!	!LO:TX:a:t=3	!
+.	.	10ff-X	.
+!LO:TX:b:t=2	!	!	!
+8F-X	.	.	.
+!	!LO:TX:a:t=2	!	!
+!	!LO:T:b	!	!
+!	!LO:N:vis=5	!	!
+.	[5.ff-	10ff-	.
+8F-	.	.	.
+!	!	!LO:TX:a:t=4	!
+!	!	!LO:T:a	!
+.	.	[10aa-X	.
+8c-XJ	.	.	.
+.	.	10aa-J_>	.
+=7	=7	=7	-7
+(8B-XL	2ff-N] 2aa-]\	2ryy	.
+8G-XJ	.	.	.
+4A-X)	.	.	.
+*	*v	*v	*
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED:Jason Lee
+!!!EEV:2021/10/05
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Jan-16
+!!!Suter_Example_Number: 133
+!!!Suter_Example_ID: Jan-16/12/15-21
+!!!Premiere_Location: Brno,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:10
+!!!First_Publication_Year: 1911
+!!!First_Public_Performance_Year: 1905
+!!!Example_Total_Measures: 7
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 184
+!!!Example_Start_Tsig_Beat_Rate: 184
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/8
+!!!Example_Start_Timestamp: 0:18
+!!!Example_Start_Tempo_Expression: [Con moto]
+!!!Example_Start_Notated_Beat_Rate: [184]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 15
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:24
+!!!Example_End_Measure: 21
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-quarter=184] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Con moto] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Moravaská Ostrava,Czech Republic
+!!!Death_Date: 12-Aug-1928
+!!!Changing_Tsig: no
+!!!Birth_Place: Hukvaldy,Moravia
+!!!Birth_Date: 3-Jul-1854
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/10

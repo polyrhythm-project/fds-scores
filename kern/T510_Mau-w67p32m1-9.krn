@@ -1,0 +1,124 @@
+!!!!SEGMENT: T510_Mau-w67p32m1-9.krn
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Piano Quartet
+!!!OMV: III: Allegretto poco moderato
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Czech
+!!!ODT: 1942
+!!!OPR: Piano Quartet
+!!!filename: T510_Mau-w67p32m1-9.krn
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*
+*staff2	*staff1	*
+*ICklav	*	*
+*Ipiano	*	*
+*I"Piano	*	*
+*I'pf	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+!!LO:TX:omd:tempo:a:t=Allegretto poco moderato\n[quarter]=72(66)
+*M6/8	*M6/8	*
+=1	=1	=1
+(4.BBB-X	(4B-X 4d 4b-X	p
+.	[8c [8e-X [8cc	.
+4BB-X	8c] 8e-] 8cc]	.
+.	4d 4f)	.
+[8B-X	.	.
+=2	=2	=2
+*	*^	*
+8B-])	(>4c 4e-X 4b-X	4ryy	.
+(4BBB-X	.	.	.
+.	[8b-	8e- 8g	.
+4BB-X	4b-])	4d 4f	.
+*	*v	*v	*
+[8B-y	(>[8c [8e- [8b-	.
+=3	=3	=3
+8B-])	8cL] 8e-] 8b-]	.
+(<4BBB-X\	8B-X 8d	.
+.	[>8A<J [8f	<
+4BB-X	8A<] 8f]	.
+.	4G<~> 4e-X)	.
+[8B-X	.	.
+=4	=4	=4
+8B-])	(>8F< 8d	.
+8rBB	4A< 4c<)	[
+([8BBB-X	.	.
+8BBB-]	4G<~ 4B-X<	.
+4BB-X	.	.
+.	[8F< [8d	.
+=5	=5	=5
+4.B-X)	4.F<_ 4.d_	.
+(<4BBB-X	8F<] 8d]	.
+.	(4B-X 4d [4b-X	mp
+[<8BB-X\	.	.
+=6	=6	=6
+8BB-X]	4c 4e-X 4b-X])	.
+[4B-X	.	.
+.	(8d 8f	.
+8B-])	4g 4b-y 4dd	<
+(4EE-X	.	.
+.	[8f [8a [8dd	.
+=7	=7	=7
+4.E-X)	8fL] 8a] 8dd]	.
+.	8e-X 8g'>)	.
+.	([8gJ [8b-X [8dd	[
+(4CC	8g] 8b-] 8dd]	.
+.	4f 4a 4dd)	.
+[8C	.	.
+=8	=8	=8
+8C]	(4f 4a 4cc	.
+4BB-X	.	.
+.	[8e-X [8g [8cc	.
+4B-X)	8e-L] 8g] 8cc]	.
+.	8d 8f)	<
+([8AAA-X [8AA-X	([8gJ [8b-X	/
+=9	=9	=9
+8AAA-] 8AA-]	8g] 8b-]	[
+4AA-X 4A-X	4f 4a-X	.
+4BB-X~ 4B-X)	8e-X' 8g)	>
+.	4d~ 4f	.
+[8FF [8F	.	]
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Mau-67
+!!!Suter_Example_Number: 510
+!!!Suter_Example_ID: Mau-67/32/1-9
+!!!Premiere_Location: Lenox,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 8:27
+!!!First_Publication_Year: 1951
+!!!First_Public_Performance_Year: 1942
+!!!Example_Total_Measures: 9
+!!!Example_Timestamp_Duration: 16
+!!!Example_Start_Tsig_Type: compound duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 69
+!!!Example_Start_Tsig_Beat_Rate: 69
+!!!Example_Start_Tsig_Beat: dotted-quarter
+!!!Example_Start_Tsig: 6/8
+!!!Example_Start_Timestamp: 0:00
+!!!Example_Start_Tempo_Expression: Allegretto poco moderato
+!!!Example_Start_Notated_Beat_Rate: 72(66)
+!!!Example_Start_Notated_Beat: quarter
+!!!Example_Start_Measure: 1
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:16
+!!!Example_End_Measure: 9
+!!!Example_Dataset: T
+!!!Editorial_Comments: Editorial Note: The notated tempo, quarter=72 (66), is interpreted as a range, with a calculated mean of 69.
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: no
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/02/08

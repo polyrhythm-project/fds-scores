@@ -1,0 +1,104 @@
+!!!!SEGMENT: T489_Mau-w74p13-14m12-15.krn
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Five Madrigal Stanzas for Violin and Piano
+!!!OMV: III: Andante moderato
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Czech
+!!!ODT: 1943
+!!!OPR: Five Madrigal Stanzas for Violin and Piano
+!!!filename: T489_Mau-w74p13-14m12-15.krn
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:B	*
+*part2	*part2	*	*part1	*
+*staff3	*staff2	*	*staff1	*
+*ICklav	*	*	*ICstr	*
+*Ipiano	*	*	*Ivioln	*
+*I"Piano	*	*	*I"Violin	*
+*I'pf	*	*	*I'vn	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Andante moderato]\n{[quarter]=102}
+*M6/4	*M6/4	*	*M6/4	*
+=12	=12	=12	=12	=12
+*	*^	*	*	*
+!	!	!	!	!	!LO:DY:t=%s espress.
+(<4Bn 4d	(2gg	4bn 4dd	>	2ddd`	f
+4G 4B	.	4g 4b	.	.	.
+4F 4A	4ryy@	4f 4a 4ff	.	2.ddd	.
+!	!	!	!LO:DY:t=meno %s	!	!
+4E 4G	4ryy@	4e 4g 4ee	] f	.	.
+4G 4B	4ryy@	4g 4b 4gg	.	.	.
+4F 4A	4ryy@	4f 4a 4ff	.	4ccc~	.
+*	*v	*v	*	*	*
+=13	=13	=13	=13	=13
+*M5/4	*M5/4	*	*M5/4	*
+*	*^	*	*	*
+4E 4G	4%5ryy	/4e 4g 4ee	.	4ccc~	.
+4G 4B	.	4g 4b 4gg	.	4ddd~	<
+4F 4A	.	4f 4a 4ff	.	(4ddd	.
+4E 4G)	.	/4e 4g 4ee)	.	4eee)	[
+(<4G 4B	.	(>4g 4b 4gg	.	4ccc~	.
+*	*v	*v	*	*	*
+=14	=14	=14	=14	=14
+*M6/4	*M6/4	*	*M6/4	*
+*	*^	*	*	*
+4F 4A	1.ryy	4f 4a 4ff	.	2dddu	.
+4E 4G	.	/4e 4g 4ee	.	.	.
+4G 4B	.	4g 4b 4gg	.	(2.ddd	.
+4F 4A	.	4f 4a 4ff	.	.	.
+4E 4G	.	/4e 4g 4ee	.	.	.
+4G 4B	.	4g 4b 4gg	.	4ccc)	.
+*	*v	*v	*	*	*
+=15	=15	=15	=15	=15
+*M5/4	*M5/4	*	*M5/4	*
+*	*^	*	*	*
+4F 4A	4%5ryy	4f 4a 4ff	.	4ccc~	.
+4E 4G	.	/4e 4g 4ee	< <	4ddd~	<
+4G 4B	.	4g 4b 4gg	.	(4ddd	.
+4F 4A	.	4f 4a 4ff	.	4bb)	.
+4E 4G)	.	/4e 4g 4ee)	[ [	4aa~	[
+*	*v	*v	*	*	*
+=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/04
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Mau-74
+!!!Suter_Example_Number: 489
+!!!Suter_Example_ID: Mau-74/13-14/12-15
+!!!Premiere_Location: unknown
+!!!Other_Tsigs: 5/4,6/4,5/4
+!!!Full_Unit_Duration: 2:33
+!!!First_Publication_Year: 1950
+!!!First_Public_Performance_Year: unknown
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 13
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 34
+!!!Example_Start_Tsig_Beat_Rate: 34
+!!!Example_Start_Tsig_Beat: dotted-half
+!!!Example_Start_Tsig: 6/4
+!!!Example_Start_Timestamp: 0:37
+!!!Example_Start_Tempo_Expression: [Andante moderato]
+!!!Example_Start_Notated_Beat_Rate: {102}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 12
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:50
+!!!Example_End_Measure: 15
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=102} calculated from recording (https://ubc-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=MD3342); tempo for audio synthesis {quarter=94} was calculated using a Digital Audio Workstation (DAW). Example Start Tempo Expression [Andante moderato] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: yes
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/02/05

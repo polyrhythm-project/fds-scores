@@ -1,0 +1,122 @@
+!!!!SEGMENT: T736_Mes-w18p11m83-84.krn
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Visions de l'Amen (Visions of the Amen) for Two Pianos
+!!!OMV: II: Amen des étoiles, de la planète à l'anneau (Amen of the Stars and the Ringed Planet)
+!!!OMD:
+!!!AGN: Instrumental; Keyboard
+!!!AGN-sub: Keyboard
+!!!CNT: French
+!!!ODT: 1943
+!!!OPR: Visions de l'Amen (Visions of the Amen) for Two Pianos
+!!!filename: T736_Mes-w18p11m83-84.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+*part2	*	*part2	*	*part1	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*	*ICklav	*	*ICklav	*
+*Ipiano	*	*Ipiano	*	*Ipiano	*	*Ipiano	*
+*I"Piano 2	*	*I"Piano 2	*	*I"Piano 1	*	*I"Piano 1	*
+*I'pf	*	*I'pf	*	*I'pf	*	*I'pf	*
+*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Un peu plus vif]\n[[quarter]=80]
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+*	*	*8va	*	*	*	*	*
+=83	=83	=83	=83	=83	=83	=83	=83
+*^	*	*	*	*^	*	*	*
+!	!LO:T:b	!LO:DY:a	!	!LO:DY:a	!	!	!	!	!
+16aan'LL	2a-X_	mf	(40aaanLLL	p	8ccn~L	4re	.	8ccc#X~L 8aaan	f
+.	.	.	40ggg#X	.	.	.	.	.	.
+.	.	.	40gggn	.	.	.	.	.	.
+16gg#X'	.	.	.	.	.	.	.	.	.
+.	.	.	40eee	.	.	.	.	.	.
+.	.	.	40ccc#XJJ)	.	.	.	.	.	.
+16ggn'	.	.	(40aaaLL	.	8cc#X~J	.	.	8cccn~J 8ggg#X	.
+.	.	.	40ggg#X	.	.	.	.	.	.
+.	.	.	40gggn	.	.	.	.	.	.
+16ee'JJ	.	.	.	.	.	.	.	.	.
+.	.	.	40eee	.	.	.	.	.	.
+.	.	.	40ccc#JJJ)	.	.	.	.	.	.
+16cc#X'LL	.	.	(40aaaLLL	.	8dd~L	4g#X^	.	8bb~L 8gggn	.
+.	.	.	40ggg#X	.	.	.	.	.	.
+.	.	.	40gggn	.	.	.	.	.	.
+16aan'	.	.	.	.	.	.	.	.	.
+.	.	.	40eee	.	.	.	.	.	.
+.	.	.	40ccc#JJ)	.	.	.	.	.	.
+16gg#X'	.	.	(40aaaLL	.	8dd#X~J	.	.	8bb-X~J 8eee	.
+.	.	.	40ggg#X	.	.	.	.	.	.
+.	.	.	40gggn	.	.	.	.	.	.
+16ggn'JJ	.	.	.	.	.	.	.	.	.
+.	.	.	40eee	.	.	.	.	.	.
+.	.	.	40ccc#JJJ)	.	.	.	.	.	.
+*	*	*	*	*	*v	*v	*	*	*
+=84	=84	=84	=84	=84	=84	=84	=84	=84
+16ee'LL	4a-X]	.	(40aaanLLL	.	/8g#X^L 8ee	.	8aa^L 8ccc#X	.
+.	.	.	40ggg#X	.	.	.	.	.
+.	.	.	40gggn	.	.	.	.	.
+16cc#X'	.	.	.	.	.	.	.	.
+.	.	.	40eee	.	.	.	.	.
+.	.	.	40ccc#XJJ)	.	.	.	.	.
+16aa'	.	.	(40aaaLL	>	8g#J 8ee	.	8aaJ 8ccc#	p
+.	.	.	40ggg#X	.	.	.	.	.
+.	.	.	40gggn	.	.	.	.	.
+16gg#X'JJ	.	.	.	.	.	.	.	.
+.	.	.	40eee	.	.	.	.	.
+.	.	.	40ccc#JJJ)	.	.	.	.	.
+16ggn'LL	4re	.	(40aaaLLL	.	8A#X~L 8cn 8fn 8a#X	.	8ddn~L 8aa-X 8ccc#X 8eeen	f
+.	.	.	40ggg#X	.	.	.	.	.
+.	.	.	40gggn	.	.	.	.	.
+16ee'	.	.	.	.	.	.	.	.
+.	.	.	40eee	.	.	.	.	.
+.	.	.	40ccc#JJ)	.	.	.	.	.
+16cc#X'	.	.	(40aaaLL	.	8dn~J 8f#X 8bn 8ddn	.	8cc#X~J 8ggn 8bb-X 8eee-X	.
+.	.	.	40ggg#X	.	.	.	.	.
+.	.	.	40gggn	.	.	.	.	.
+16gg'JJ	.	.	.	.	.	.	.	.
+.	.	.	40eee	.	.	.	.	.
+.	.	.	40ccc#JJJ)	.	.	.	.	.
+*	*	*	*X8va	*	*	*	*	*
+*v	*v	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!RDF**dynam: >=dim.
+!!!EED: Daniel Wright
+!!!EEV: 2021/10/1
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Mes-18
+!!!Suter_Example_Number: 736
+!!!Suter_Example_ID: Mes-18/11/83-84
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 5:07
+!!!First_Publication_Year: 1950
+!!!First_Public_Performance_Year: 1943
+!!!Example_Total_Measures: 2
+!!!Example_Timestamp_Duration: 3
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 40
+!!!Example_Start_Tsig_Beat_Rate: 40
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 1:59
+!!!Example_Start_Tempo_Expression: [Un peu plus vif]
+!!!Example_Start_Notated_Beat_Rate: [80]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 83
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:02
+!!!Example_End_Measure: 84
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=80] based on most recent notated beat rate (SWFU, m. 80). Example Start Tempo Expression [Un peu plus vif] based on most recent notated tempo expression (SWFU, m. 80).
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Apr-1992
+!!!Changing_Tsig: no
+!!!Birth_Place: Avignon,France
+!!!Birth_Date: 10-Dec-1908
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/31
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

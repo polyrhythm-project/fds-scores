@@ -1,0 +1,107 @@
+!!!!SEGMENT: T181_Deb-w48p5h3m28-31.krn
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: Sonata for Violin and Piano
+!!!OMV: I: Allegro vivo
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: French
+!!!ODT: 1917
+!!!OPR: Sonata for Violin and Piano
+!!!filename: T181_Deb-w48p5h3m28-31.krn
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:B	*	*grp:A	*
+*staff3	*staff2	*	*staff1	*
+*ICklav	*ICklav	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Ivioln	*
+*I"Piano	*I"Piano	*	*I"Violin	*
+*I'pf	*I'pf	*	*I'vn	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Poco meno, Tempo I° (Allegro vivo)]\n[half-dot]=55
+*M3/4	*M3/4	*	*M3/4	*
+*	*Xtuplet	*	*	*
+!!LO:REH:t=3
+=1	=1	=1	=1	=1
+!	!LO:N:vis=5%3.	!LO:DY:rj:t=[ %s ]	!	!
+2.E-_< 2.B-yy	(20%3B-<'L	pp	(4g-X~	p
+.	20%3e-X	.	.	.
+.	.	.	4g-~	.
+.	20%3b-X	.	.	.
+.	20%3e-	.	.	.
+.	.	.	4g-~	.
+.	20%3B-<J)	.	.	.
+=2	=2	=2	=2	=2
+!	!LO:N:vis=5%3.	!	!	!
+2.E-_ 2.B-yy	(20%3B-<'L	.	4g-X~	.
+.	20%3e-X	.	.	.
+.	.	.	4g-~	.
+.	20%3b-X	.	.	.
+.	20%3e-	.	.	.
+.	.	.	4g-~	.
+.	20%3B-<J)	.	.	.
+=3	=3	=3	=3	=3
+!	!LO:N:vis=5%3.	!	!	!
+2.E-] 2.B-yy	(20%3B-<L	.	4g-X~	.
+.	20%3e-X	.	.	.
+.	.	.	4g-~	.
+.	20%3b-X	.	.	.
+.	20%3e-	.	.	.
+.	.	.	4g-~)	.
+.	20%3B-<J)	.	.	.
+=4	=4	=4	=4	=4
+!	!	!	!LO:TX:t=P:problem: glissando from g- to a-	!
+!	!LO:N:vis=5%3.	!	!LO:TX:t=[gliss.----]	!
+[2.E- 2.B-yy	(20%3B-<~L	.	(>4.g-XHi	<
+.	20%3e-X	<	.	.
+.	20%3b-X	.	.	.
+.	.	.	(8qqgn/	.
+!	!	!	!LO:TX:t=P:problem: glissando from a- to g-	!
+!	!	!	!LO:TX:t=[gliss.--------]	!
+.	.	.	4.a-hX~)	[
+.	20%3e-	.	.	.
+!	!	!	!LO:TX:t=P:problem: partial hairpin	!
+.	.	.	.	>
+.	20%3B-<J)	[	.	]]
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1,{(s2,s3)}
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2021/10/15
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Deb-48
+!!!Suter_Example_Number: 181
+!!!Suter_Example_ID: Deb-48/5/[3]28-31
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 5:22
+!!!First_Publication_Year: 1917
+!!!First_Public_Performance_Year: 1917
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 165
+!!!Example_Start_Tsig_Beat_Rate: 165
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: (3/4)
+!!!Example_Start_Timestamp: 2:40
+!!!Example_Start_Tempo_Expression: [Poco meno, Tempo I° (Allegro vivo)]
+!!!Example_Start_Notated_Beat_Rate: 55
+!!!Example_Start_Notated_Beat: dotted-half
+!!!Example_Start_Measure: 133
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:45
+!!!Example_End_Measure: 136
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-half=55] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Poco meno, Tempo I° (Allegro vivo)] based on most recent notated tempo expressions (SWFU, m. 128, m. 120, and m. 1). The Example Start Notated Tsig is written above the staff in parentheses.
+!!!Death_Place: Paris,France
+!!!Death_Date: 25-Mar-1918
+!!!Changing_Tsig: no
+!!!Birth_Place: St Germain-en-Laye,France
+!!!Birth_Date: 22-Aug-1862
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/26

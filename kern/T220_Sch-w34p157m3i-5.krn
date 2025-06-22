@@ -1,0 +1,99 @@
+!!!!SEGMENT: T220_Sch-w34p157m3i-5.krn
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Drei Lieder (Three Songs) for Low Voice and Piano, op. 48
+!!!OMV: II: Tot (Death)
+!!!OMD:
+!!!AGN: Vocal; Solo
+!!!AGN-sub: Solo
+!!!CNT: Austrian
+!!!ODT: 1933
+!!!OPR: Drei Lieder (Three Songs) for Low Voice and Piano, op. 48
+!!!filename: T220_Sch-w34p157m3i-5.krn
+**kern	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*grp:B	*	*grp:A	*	*
+*part2	*part2	*	*part1	*	*
+*staff3	*staff2	*	*staff1	*	*
+*ICklav	*ICklav	*	*ICvox	*	*
+*Ipiano	*Ipiano	*	*Isoprn	*	*
+*I"Piano	*I"Piano	*	*I"Solo Soprano	*	*
+*I'pf	*I'pf	*	*I's	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[]	*k[]	*	*k[]	*	*
+*C:	*C:	*	*C:	*	*
+!!LO:TX:omd:tempo:a:t=[Etwas langsam]\n[[quarter]=76]
+*M4/4	*M4/4	*	*M4/4	*	*
+=1	=1	=1	=1	=1	=1
+!LO:T:n=2:a	!	!LO:DY:ed=brack	!	!	!
+4FF#X] 4BBn]	(8GL 8d-X	p <	2r	.	.
+.	[8A-XJ [8gn	.	.	.	.
+2Cn~ 2Fn	2A-] 2g])	[ >	.	.	.
+.	.	.	4r	.	.
+4r	4r	]	8r	.	.
+.	.	.	8dn	Ist	p
+=2	=2	=2	=2	=2	=2
+*M3/4	*M3/4	*	*M3/4	*	*
+*	*^	*	*	*	*
+8EEnL 8BB-X	(2fn	(4.cn	.	8e-XL	al-	.
+8A-X	.	.	.	8anJ	-les	.
+8.GnN>	.	.	.	2cc#X	eins,	.
+.	.	4.Bn)	.	.	.	.
+16EEnk 16BB-X	.	.	.	.	.	.
+!	!	!	!LO:HP:a	!	!	!
+8A-X^>	[4g-X	.	< [	.	.	.
+8GnJ	.	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=3	=3	=3	=3	=3	=3
+*M4/4	*M4/4	*	*M4/4	*	*
+*	*^	*	*	*	*
+!	!	!	!LO:HP:a	!	!	!
+(8CC#XL	2g-]	(4Bn	> ]	8r	.	.
+8AAn	.	.	< [	8b-XL	was	.
+8E-X)	.	4.cn)	> ]	8.en	liegt	.
+(8dnJN	.	.	.	.	.	.
+.	.	.	.	16g#XJk	da-	.
+8C#XL	2fn)	.	.	2gn	-ran!	.
+8An')	.	(8Bn	< [	.	.	.
+(8EE-X	.	4cn)	> ]	.	.	.
+8DnJ')	.	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!RDF**kern: N = hairpin accent
+!!!RDF**kern: > = above
+!!!EED: Gabriella Vici
+!!!EEV: 2021/11/24
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Sch-34
+!!!Suter_Example_Number: 220
+!!!Suter_Example_ID: Sch-34/157/fin 3-5
+!!!Premiere_Location: Los Angeles,United States
+!!!Other_Tsigs: 3/4,4/4
+!!!Full_Unit_Duration: 1:30
+!!!First_Publication_Year: 1952
+!!!First_Public_Performance_Year: 1950
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 10
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 76
+!!!Example_Start_Tsig_Beat_Rate: 76
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 0:08
+!!!Example_Start_Tempo_Expression: [Etwas langsam]
+!!!Example_Start_Notated_Beat_Rate: [76]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 3
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:18
+!!!Example_End_Measure: 5
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=76] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Etwas langsam] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: yes
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/15

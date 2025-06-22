@@ -1,0 +1,133 @@
+!!!!SEGMENT: R534_Mai-w6p2m1-5.krn
+!!!COM: Martin, Frank
+!!!OTL: Esquisses (Sketches) for Small Orchestra
+!!!OMV: unavailable
+!!!example: 534
+!!!work: Mai-6
+!!!OMD: Andante con moto
+!!!AGN-sub: Symphonic
+!!!OPR: Esquisses (Sketches) for Small Orchestra
+!!!filename: R534_Mai-w6p2m1-5.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*grp:A	*
+*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff3	*	*staff2	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICstr	*ICstr	*
+*Icbass	*	*Icello	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ipiano	*	*Iarpa	*Iarpa	*
+*I"Solo Contrabass\n[stand 1]	*	*I"Violoncello\n[stand 2, 3]	*	*I"Violoncello\n[stand 1]	*	*I"8 Violas	*	*I"Violin II\n[stand 5, 6]	*	*I"Violin II\n[stand 4]	*	*I"Violin II\n[stand 3]	*	*I"Violin II\n[stand 1, 2]	*	*I"Violin I\n[stand 5, 6]	*	*I"Violin I\n[stand 3, 4]	*	*I"Violin I\n[stand 1, 2]	*	*I"Piano	*	*I"Harp	*I"Harp	*
+*I'cb	*	*I'vc	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'pf	*	*I'arp	*I'arp	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[f#]	*	*k[b-e-a-d-g-c-f-]	*k[b-e-a-d-g-c-f-]	*
+*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*G:	*	*C-:	*C-:	*
+!!LO:TX:omd:tempo:a:t=Andante con moto\n[quarter]=108
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
+!	!	!	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!	!	!
+8r	.	8r	.	8r	.	8ee	pp	8r	.	8ee	pp	8gg	pp	8bb	pp	8ee	pp	8gg	pp	8bb	pp	8r	.	8r	8r	.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!LO:TX:a:t=con sord.	!	!LO:TX:a:t=con sord.	!	!	!	!LO:TX:a:t=con sord.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+1r	.	[1GGr [1Cr [1gyy	pp	[1Ar [1er [1aayy	pp	((8ddL	.	[1Gr [1cr [1ggyy	pp	(4ee	.	(4gg	.	(4aa#X	.	(4ee	.	(4gg	.	(4aa#X	.	2g: 2gg:	pp	1r	1r	.
+.	.	.	.	.	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
+.	.	.	.	.	.	((8ddL	.	.	.	(4ee	.	(4gg	.	(4aa#	.	(4ee	.	(4gg	.	(4aa#	.	2g: 2gg:	.	.	.	.
+.	.	.	.	.	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=laisse sonner	!
+!	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!
+1r	.	1GGr_ 1Cr_ 1gyy_	.	1Ar_ 1er_ 1aayy_	.	((8ddL	.	1Gr_ 1cr_ 1ggyy_	.	(4ee	.	(4gg	.	(4aa#X	.	(4ee	.	(4gg	.	(4aa#X	.	2g: 2gg:	.	2r	8r	.
+.	.	.	.	.	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4.B- 4.b-	mf
+.	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
+.	.	.	.	.	.	((8ddL	.	.	.	(4ee	.	(4gg	.	(4aa#	.	(4ee	.	(4gg	.	(4aa#	.	2g: 2gg:	.	4r	2r	.
+.	.	.	.	.	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	4C- 4c-	.	.
+.	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+1r	.	1GGr_ 1Cr_ 1gyy_	.	1Ar_ 1er_ 1aayy_	.	((8ddL	.	1Gr_ 1cr_ 1ggyy_	.	(4ee	.	(4gg	.	(4aa#X	.	(4ee	.	(4gg	.	(4aa#X	.	2g: 2gg:	.	2r	1r	.
+.	.	.	.	.	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
+.	.	.	.	.	.	((8ddL	.	.	.	(4ee	.	(4gg	.	(4aa#	.	(4ee	.	(4gg	.	(4aa#	.	2g: 2gg:	.	8r	.	.
+.	.	.	.	.	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4.EE- 4.E-	.	.
+.	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!LO:TX:a:t=1st Stand Solo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!LO:N:n=2:head=dia	!	!LO:N:n=2:head=dia	!	!	!	!LO:N:n=2:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+[2EEro [2Eyy	pp	8GGr] 8Cr] 8gyy]	.	8Ar] 8er] 8aayy]	.	((8ddL	.	8Gr] 8cr] 8ggyy]	.	(4ee	.	(4gg	.	(4aa#X	.	(4ee	.	(4gg	.	(4aa#X	.	2g: 2gg:	.	1FFF- 1FF-	1r	.
+.	.	8r	.	8r	.	8cc	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4r	.	4r	.	8b')	.	4r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
+8EEr] 8Eyy]	.	2r	.	2r	.	((8ddL	.	2r	.	(4ee	.	(4gg	.	(4aa#	.	(4ee	.	(4gg	.	(4aa#	.	2g: 2gg:	.	.	.	.
+8r	.	.	.	.	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8b')	.	.	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	8ee'J)	.	.	.	8ee)	.	8gg)	.	8bb)	.	8ee)	.	8gg)	.	8bb)	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})][([(s5,s6,s7)][(s8,s9,s10,s11)]s12[(s13,s14)]s15)]
+!!!CDT: 1890/09/15-1974/11/21
+!!!CBL: Geneva, Switzerland
+!!!CDL: Naarden, Netherlands
+!!!CNT: Swiss
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Ansermet, Ernest
+!!!MDT: 1920/10/30
+!!!MGN: Orchestre de la Suisse Romande
+!!!MLC: Geneva, Switzerland
+!!!MPD: 1920
+!!!MPN:
+!!!ODT: 1920
+!!!PDT: unknown
+!!!excerpt-start-measure: 0
+!!!excerpt-end-measure: 4
+!!!excerpt-start-time: 0:00
+!!!excerpt-end-time:
+!!!excerpt-duration-sec:
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: quarter
+!!!excerpt-tempo-rate: 108
+!!!excerpt-meter-type: simple quadruple
+!!!excerpt-beat-group: G3
+!!!excerpt-beat-subgroup: G2
+!!!experiment: none
+!!!EEV: 2020/07/28
+!!!Suter_Work_ID: Mai-6
+!!!Suter_Example_Number: 534
+!!!Suter_Example_ID: Mai-6/2/1-5
+!!!Premiere_Location: Geneva,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: unavailable
+!!!First_Publication_Year: unknown
+!!!First_Public_Performance_Year: 1920
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: unavailable
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 108
+!!!Example_Start_Tsig_Beat_Rate: 108
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: unavailable
+!!!Example_Start_Tempo_Expression: Andante con moto
+!!!Example_Start_Notated_Beat_Rate: 108
+!!!Example_Start_Notated_Beat: quarter
+!!!Example_Start_Measure: 0
+!!!Example_Metadata_Validated: N
+!!!Example_End_Timestamp: unavailable
+!!!Example_End_Measure: 4
+!!!Example_Dataset: R
+!!!Editorial_Comments: Missing sources (score and recording). Based on Frank Martin website (https://www.frankmartin.org/compositions/symphonic-works/), the work title is 'Esquisse pour orchestre' (Sketch for orchestra). After extensive research, we have been unable to locate a published score of the orchestral version; Suter's example is in manuscript form and includes only 4 complete measures (he appears to be counting the incomplete first measure as 1). The work seems to have been published by Éditions Henn (now Labatiaz) and is available for rental; request made to Labatiaz on July 31, 2020 and Frank Martin Society contacted for information on recording on August 17, 2020 without success. No notated tempo. Full Unit Start Notated Beat, Full Unit Start Notated Beat Rate, and Full Unit Start Notated Mean Beat Rate are not available.
+!!!Death_Place: Naarden,Netherlands
+!!!Death_Date: 21-Nov-1974
+!!!Changing_Tsig: no
+!!!Birth_Place: Geneva,Switzerland
+!!!Birth_Date: 15-Sep-1890
+!!!Audio_Example_Quarter_Note_Tempo: unavailable
+!!!Audio_Example_Duration: unavailable
+!!!ONB: Converted from MusicXML on 2020/07/28
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/01/08

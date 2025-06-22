@@ -1,0 +1,148 @@
+!!!!SEGMENT: T327_Bar-w4p16m7-1h14.krn
+!!!COM: Bartók, Béla
+!!!OTL: Suite No. 2 for Orchestra, op. 4
+!!!OMV: I: Comodo
+!!!OMV: I: Comodo
+!!!example: 327
+!!!work: Bar-4
+!!!AGN-sub: Symphonic
+!!!OPR: Suite No. 2 for Orchestra, op. 4
+!!!filename: T327_Bar-w4p16m7-1h14.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part9	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*staff9/10	*staff9	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Iarpa	*	*Iarpa	*	*Itromp	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclars	*	*Ioboe	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Harp 1, 2	*	*I"Harp 1, 2	*	*I"Trumpet in Bb 1	*	*I"Horn in F 2	*	*I"Horn in F 1, 3	*	*I"Bassoon 1, 2	*	*I"Clarinet in Bb 1, 2	*	*I"Oboe 1, 2	*	*I"Flute 1, 2	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'arp	*	*I'arp	*	*I'tp	*	*I'cor-fr	*	*I'cor-fr	*	*I'bn	*	*I'cl	*	*I'ob	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*	*	*	*
+!!LO:TX:omd:tempo:a:t=[a tempo (Poco meno mosso)]\n[[eighth]=100]
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+*MM50	*	*MM50	*	*MM50	*	*MM50	*	*MM50	*	*MM50	*	*MM50	*	*MM50	*	*MM50	*	*MM50	*	*MM50	*	*MM50	*	*MM50	*	*MM50	*
+=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136
+!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a2	!LO:DY:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+(8.EELL	pp	(8.ELL	pp	(8.eLL	pp	4g]	>	4gg	>	/8EE 8EL	pp	8ryy	.	[4.en	pp	[4.B-	pp	[4.c#X [4.g	pp	[4.EE [4.C#	pp	[4.b- [4.cc#X	pp	[4.gg [4.bb-	pp	[4.eee [4.ggg	pp
+.	.	.	.	.	.	.	.	.	.	\8B-X> 8d-X> 8g>J	.	8b-X 8dd-X 8gg	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16f#	.	.	]	.	]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16EE	.	16E	.	16e	.	8r	p	8r	p	8ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BBJJ)	.	16BJJ)	.	16BJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137
+(16EELL	.	(16ELL	.	(16eLL	.	(16eLL	pp	4.r	.	/8EE 8EL	.	8ryy	.	4.en_	.	4.B-_	.	4.c#_ 4.g_	.	4.EE_ 4.C#_	.	4.b-_ 4.cc#_	.	4.gg_ 4.bb-_	.	4.eee_ 4.ggg_	.
+16FF#	.	16F#	.	16f#	.	16f#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG	.	16G	.	16g	.	16g	.	.	.	\8B-X> 8d-X> 8g>J	.	8b-X 8dd-X 8gg	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16f#	.	16f#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16EE	.	16E	.	16g	.	16g	.	.	.	8ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BBJJ)	.	16BBJJ)	.	16BJJ)	.	16BJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138
+*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+(16AALL	.	(16ALL	.	(16aLL	.	(16aLL	.	4.r	.	/8EE 8EL	.	8ryy	.	4.en_	.	4.B-_	.	4.c#_ 4.g_	.	4.EE] 4.C#]	.	4.b-_ 4.cc#_	.	4.gg_ 4.bb-_	.	4.eee_ 4.ggg_	.
+16GG	.	16G	.	16g	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#X	.	16F#X	.	16f#X	.	16f#X	.	.	.	\8B-X> 8d-X> 8g>J	.	8b-X 8dd-X 8gg	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16EEJJ)	.	16EJJ)	.	16eJJ)	.	16eJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+(16AALL	.	(16ALL	.	(16aLL	.	(16aLL	.	.	.	8ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG	.	16G	.	16g	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=a2	!	!	!	!	!	!	!
+16FF#X	.	16F#X	.	16f#X	.	16f#X	.	4.r	.	/8EE 8EL	.	8ryy	.	4.en_	.	4.B-_	.	4.c#_ 4.g_	.	[4.BB-X	.	4.b-_ 4.cc#_	.	4.gg_ 4.bb-_	.	4.eee_ 4.ggg_	.
+16EEJJ)	.	16EJJ)	.	16eJJ)	.	16eJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+(16BBBLL	.	(16BBLL	.	(16BLL	.	(16BLL	.	.	.	\8B-X> 8d-X> 8g>J	.	8b-X 8dd-X 8gg	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16AAA#X	.	16AA#X	.	16A#X	.	16A#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16DD#X	.	16D#X	.	16d#X	.	16d#X	.	.	.	8ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#JJ	.	16F#JJ	.	16f#JJ	.	16f#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*grp:B	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+16GG)	.	16GGLL/	.	16GLL	.	16gLL	.	4.r	.	8ryy	.	8r	.	4.en_	.	4.B-_	.	4.c#_ 4.g_	.	4.BB-_	.	4.b-_ 4.cc#_	.	4.gg_ 4.bb-_	.	4.eee_ 4.ggg_	.
+16r	.	16C	.	16c	.	16cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	16D-X	.	16d-X	.	16dd-X	.	.	.	8d-X> 8e> 8g> 8b-X> 8dd-X>	.	/8ee 8gg 8bb-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16F	.	16f	.	16ff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	16E	.	16e	.	16ee	.	.	.	8ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16AJJ	.	16aJJ	.	16aaJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141
+!	!	!LO:TUP:a	!	!LO:TUP:a	!	!LO:TUP:a	!	!LO:TX:t=div.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:vgrp=1:B:t=poco rit.	!
+4.r	.	20B-XLL	.	20b-XLL	.	20bb-XLL	.	4.e 4.b-X 4.dd-X 4.ee 4.bb-X	pp	8e> 8g> 8b-X> 8dd-X>	.	8ee 8gg 8bb-X 8ddd-X	.	4.en]	.	4.B-]	.	4.c#] 4.g]	.	4.BB-]	.	4.b-] 4.cc#]	.	4.gg] 4.bb-]	.	4.eee] 4.ggg]	.
+.	.	20d-X	.	20dd-X	.	20ddd-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	20f	.	20ff	.	20fff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ryy	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	20f#X	.	20ff#X	.	20fff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	20gJJ)	.	20ggJJ)	.	20gggJJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8r	.	8r	.	8r	.	.	.	8ee> 8gg> 8bb-X> 8ddd-X>	.	8eee 8bbb-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:vgrp=1:B:t=Tempo I	!
+8r	.	8r	.	4.r	.	4.r	.	4.r	.	4.r	.	4.r	.	4.r	.	4.r	.	4.r	.	8r	.	4.r	.	4.r	.	4.r	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.
+!LO:TUP:a	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:b	!	!	!	!	!	!	!
+(48GGnLL	ff	(48GnLL	ff	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(48GGnLL	ff	.	.	.	.	.	.
+48GG#	.	48G#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48GG#	.	.	.	.	.	.	.
+48AA#	.	48A#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48AA#	.	.	.	.	.	.	.
+48BB	.	48B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48BB	.	.	.	.	.	.	.
+48C#	.	48c#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48C#	.	.	.	.	.	.	.
+48D#JJ)	.	48d#JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	48D#JJ)	.	.	.	.	.	.	.
+*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7)][(s8)]{(s9,s10)}[(s11,s12,s13,s14,s15)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2022/08/19
+!!!EED2: Jason Lee
+!!!EEV2: 2022/10/19
+!!!EED3: Bryan Bell
+!!!EEV3: 2023/06/01
+!!!CDT: 1881/03/25-1945/09/26
+!!!CBL: Sînnicolau Mare (Nagyszentmiklós), Romania (Hungary)
+!!!CDL: New York, United States
+!!!CNT: Hungarian
+!!!OMD:
+!!!AGN: Orchestral; Symphonic
+!!!MCN: Kerner, István
+!!!MDT: 1909/11/22
+!!!MGN: Budapest Philharmonic
+!!!MLC: Budapest, Hungary
+!!!MPD: 1909
+!!!MPN:
+!!!ODT: 1905 (rev. 1943)
+!!!PDT: 1907
+!!!excerpt-start-measure: 136
+!!!excerpt-end-measure: 142
+!!!excerpt-start-time: 4:27
+!!!excerpt-end-time: 4:41
+!!!EEV: 2020/01/27
+!!!Suter_Work_ID: Bar-4
+!!!Suter_Example_Number: 327
+!!!Suter_Example_ID: Bar-4/16/7-1[14]
+!!!Premiere_Location: Budapest,Hungary
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 7:51
+!!!First_Publication_Year: 1907
+!!!First_Public_Performance_Year: 1909
+!!!Example_Total_Measures: 7
+!!!Example_Timestamp_Duration: 15
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 4:23
+!!!Example_Start_Tempo_Expression: [a tempo (Poco meno mosso)]
+!!!Example_Start_Notated_Beat_Rate: [100]
+!!!Example_Start_Notated_Beat: [eighth]
+!!!Example_Start_Measure: 136
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:38
+!!!Example_End_Measure: 142
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [eighth=100] based on most recent notated beat rate (SWFU, m. 122). Example Start Tempo Expression [a tempo (Poco meno mosso)] based on most recent notated tempo expressions (SWFU, m. 131 and m. 122)
+!!!Death_Place: New York,United States
+!!!Death_Date: 26-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Sînnicolau Mare (Nagyszentmiklós),Romania (Hungary)
+!!!Birth_Date: 25-Mar-1881
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!ONB: Converted from MusicXML on 2020/01/27

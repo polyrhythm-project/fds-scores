@@ -1,0 +1,139 @@
+!!!!SEGMENT: T382_Str-w24p12m42-49.krn
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: Serenade in A for Piano
+!!!OMV: III: Rondoletto
+!!!OMD:
+!!!AGN: Instrumental; Keyboard
+!!!AGN-sub: Keyboard
+!!!CNT: Russian, French, American
+!!!ODT: 1925
+!!!OPR: Serenade in A for Piano
+!!!filename: T382_Str-w24p12m42-49.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*
+*part1	*	*part1	*	*part1	*
+*staff3	*	*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*	*ICklav	*
+*Ipiano	*	*Ipiano	*	*Ipiano	*
+*I"Piano	*	*I"Piano	*	*I"Piano	*
+*I'pf	*	*I'pf	*	*I'pf	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Allegretto]\n[[quarter]=100]
+*M2/4	*	*M2/4	*	*M2/4	*
+=42	=42	=42	=42	=42	=42
+!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack
+16c#XLL	p	2ryy	.	(8ff#XL 8aa	p
+16D	.	.	.	.	.
+16B	.	.	.	8bJ	.
+16C#XJJ	.	.	.	.	.
+16ALL	.	.	.	8.ff#L 8.aa	.
+16BB	.	.	.	.	.
+16B	.	.	.	.	.
+16AAJJ	.	.	.	16bJk)	.
+=43	=43	=43	=43	=43	=43
+16ALL	.	2ryy	.	(16ff#XLL 16aa	.
+16GG#X	.	.	.	16bJ	.
+16A	.	.	.	8ff#J 8aa)	.
+16AAJJ	.	.	.	.	.
+16C#XLL	.	.	.	(16eeLL 16gg#X	.
+16E	.	.	.	16aJ	.
+16A	.	.	.	8eeJ 8gg#)	.
+16c#XJJ	.	.	.	.	.
+=44	=44	=44	=44	=44	=44
+!	!	!LO:TX:t=P:problem: Middle Staff disappears when it is moved to a subsequent system, as it is an empty staff.	!	!	!
+16FLL	.	2ryy	.	(8ee-XL 8ggn	.
+16B-	.	.	.	.	.
+16e-X>	.	.	.	16dd'Jk 16bb-X)	.
+16GJJ	.	.	.	16r	.
+/16c>LL	.	.	.	8r	.
+16f>	.	.	.	.	.
+16A-	.	.	.	8dd-X' 8gg	.
+16d->XJJ	.	.	.	.	.
+=45	=45	=45	=45	=45	=45
+/16g>LL	.	2ryy	.	8cc'L 8ee-X	.
+16B-	.	.	.	.	.
+16e->X	.	.	.	8a-X'J 8cc	.
+16a->XJJ	.	.	.	.	.
+/16A-LL	.	.	.	4b-X 4dd-XT	.
+16d->X	.	.	.	.	.
+16g>	.	.	.	.	.
+16GJJ	.	.	.	.	.
+=46	=46	=46	=46	=46	=46
+/16cLL	.	2ryy	.	(8aL 8cc	.
+16f>	.	.	.	.	.
+16A-	.	.	.	16a-X'Jk 16ff)	.
+16d->XJJ	.	.	.	16r	.
+/16g>LL	.	.	.	8r	.
+16B-	.	.	.	.	.
+16e->X	.	.	.	8f' 8b-X	.
+16a->XJJ	.	.	.	.	.
+=47	=47	=47	=47	=47	=47
+16c>LL	.	2ryy	.	(8dd-XL 8ff 8aa-X	.
+16f>	.	.	.	.	.
+16b->X	.	.	.	16cc'Jk 16ddd-X)	.
+16B->JJ	.	.	.	16r	.
+/16e->XLL	.	.	.	8r	.
+16a->X	.	.	.	.	.
+16A-	.	.	.	8ee-X 8gg 8bb-X	.
+16d->XJJ	.	.	.	.	.
+=48	=48	=48	=48	=48	=48
+/16g>LL	.	2ryy	.	(8ccL 8ee-X	.
+16B-	.	.	.	.	.
+16e->X	.	.	.	8aa-XJ 8ccc)	.
+16a->XJJ	.	.	.	.	.
+/16A-LL	.	.	.	(8b-XL 8dd-X	.
+16d->X	.	.	.	.	.
+16g>	.	.	.	8ggJ 8bb-X)	.
+16GJJ	.	.	.	.	.
+=49	=49	=49	=49	=49	=49
+/16c>LL	.	2ryy	.	(8aL 8cc	.
+16f>	.	.	.	.	.
+16A	.	.	.	16ffJk 16aa)	.
+16c>JJ	.	.	.	16r	.
+/16f>LL	.	.	.	8r	.
+16B-	.	.	.	.	.
+16d>	.	.	.	8bn 8dd	.
+16f>JJ	.	.	.	.	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2,s3)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2022/02/10
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Str-24
+!!!Suter_Example_Number: 382
+!!!Suter_Example_ID: Str-24/12/42-49
+!!!Premiere_Location: Frankfurt,Germany
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:37
+!!!First_Publication_Year: 1926
+!!!First_Public_Performance_Year: 1925
+!!!Example_Total_Measures: 8
+!!!Example_Timestamp_Duration: 9
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat_Rate: 100
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 0:50
+!!!Example_Start_Tempo_Expression: [Allegretto]
+!!!Example_Start_Notated_Beat_Rate: [100]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 42
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:59
+!!!Example_End_Measure: 49
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=100] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Allegretto] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Apr-1971
+!!!Changing_Tsig: no
+!!!Birth_Place: Lomonosov (Oranienbaum),Russia
+!!!Birth_Date: 17-Jun-1882
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV: 2022/10/22

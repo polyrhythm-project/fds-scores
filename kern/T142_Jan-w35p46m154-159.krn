@@ -1,0 +1,141 @@
+!!!!SEGMENT: T142_Jan-w35p46m154-159.krn
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: Taras Bulba, Rhapsody for Large Orchestra
+!!!OMV: II: Smrt Ostapova (The Death of Ostap)
+!!!OMD:
+!!!AGN: Orchestral; Programmatic
+!!!AGN-sub: Programmatic
+!!!CNT: Czech
+!!!ODT: 1918
+!!!OPR: Taras Bulba, Rhapsody for Large Orchestra
+!!!filename: T142_Jan-w35p46m154-159.krn
+**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*grp:A	*grp:B	*grp:B	*grp:A	*	*grp:A	*grp:A	*grp:A	*	*grp:A	*
+*part10	*part9	*part8	*part7	*part6	*part5	*	*part4	*part3	*part2	*	*part1	*
+*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*	*staff4	*staff3	*staff2	*	*staff1	*
+*ICstr	*ICstr	*ICstr	*ICstr	*ICstr	*ICidio	*	*ICbras	*ICbras	*ICww	*	*ICww	*
+*Icbass	*Icello	*Iviola	*Ivioln	*Ivioln	*Itimpa	*	*Icor	*Icor	*Iclars	*	*Ioboe	*
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Timpani	*	*I"Horn in F 3, 4	*I"Horn in F 1, 2	*I"Clarinet in Bb 1, 2	*	*I"Oboe 1, 2	*
+*I'cb	*I'vc	*I'vla	*I'vn	*I'vn	*I'timp	*	*I'cor-fr	*I'cor-fr	*I'cl	*	*I'ob	*
+*clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*	*clefG2	*clefG2	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*ITrd4c7	*ITrd4c7	*ITrd1c2	*	*	*
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[b-]	*k[b-]	*k[b-e-]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=[Più mosso]\n[eighth]=174
+*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*	*M3/8	*M3/8	*M3/8	*	*M3/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!LO:TX:a:t=a2	!
+*	*	*	*	*	*	*	*^	*	*	*	*	*
+[4.BB^^	[4.a^^	[4.d#X^^ [4.f#X	16gggLLL)	16gggLLL)	8%3r	.	16r	4.re	8r	[4.bXTT	f	[4.bTT	f
+.	.	.	32r	32r	.	.	16BX	.	.	.	.	.	.
+.	.	.	(32eee-XJJ	(32eee-XJJ	.	.	.	.	.	.	.	.	.
+.	.	.	16ddd-XLL)	16ddd-XLL)	.	.	[4d#X	.	[4BX [4a	.	.	.	.
+.	.	.	32r	32r	.	.	.	.	.	.	.	.	.
+.	.	.	(32eeenJJ	(32eeenJJ	.	.	.	.	.	.	.	.	.
+.	.	.	16gggLL)	16gggLL)	.	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	.	.	.	.	.	.	.	.	.
+.	.	.	(32eee-XJJJ	(32eee-XJJJ	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4.BB_	4.a_	4.d#_ 4.f#_	16ddd-XLLL)	16ddd-XLLL)	8%3r	.	4.d#_	4.re	4.B_ 4.a_	4.b_TTT	.	4.b_TTT	.
+.	.	.	32r	32r	.	.	.	.	.	.	.	.	.
+.	.	.	(32eeenJJ	(32eeenJJ	.	.	.	.	.	.	.	.	.
+.	.	.	16gggLL)	16gggLL)	.	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	.	.	.	.	.	.	.	.	.
+.	.	.	(32eee-XJJ	(32eee-XJJ	.	.	.	.	.	.	.	.	.
+.	.	.	16ddd-XLL)	16ddd-XLL)	.	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	.	.	.	.	.	.	.	.	.
+.	.	.	(32eeenJJJ	(32eeenJJJ	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*
+4BB]	4a]	4d#] 4f#]	16gggLLL)	16gggLLL)	32BBnLLL	mf	4d#]	4.re	4B] 4a]	(16bLL]	ff	(16bLL]	ff
+.	.	.	.	.	32BBn	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	32BBn	.	.	.	.	16g-XJ	.	16f#XJ	.
+.	.	.	(32eee-XJJ	(32eee-XJJ	32BBn	.	.	.	.	.	.	.	.
+.	.	.	16ddd-XLL)	16ddd-XLL)	32BBn	.	.	.	.	8ee-	.	8dd#X	.
+.	.	.	.	.	32BBn	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	32BBn	.	.	.	.	.	.	.	.
+.	.	.	(32eeenJJ	(32eeenJJ	32BBn	.	.	.	.	.	.	.	.
+8r	8r	8r	16gggLL)	16gggLL)	32BBn	.	8r	.	8r	16dd-XL	.	16cc#XL	.
+.	.	.	.	.	32BBn	.	.	.	.	.	.	.	.
+.	.	.	32r	32r	32BBn	.	.	.	.	16b-JJ)	.	16a#XJJ)	.
+.	.	.	(32eee-XJJJ	(32eee-XJJJ	32BBnJJJ	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8%3r	8%3r	8%3r	16ddd-LLL)	16ddd-LLL)	32BBLLL	.	8%3r	8%3r	(16cc-XLL	.	(16bLL	.
+.	.	.	.	.	32BBn	.	.	.	.	.	.	.
+.	.	.	32r	32r	32BBn	.	.	.	16g-XJ	.	16f#XJ	.
+.	.	.	(32eeenXJJ	(32eeenXJJ	32BBn	.	.	.	.	.	.	.
+.	.	.	16gggLL)	16gggLL)	32BBn	.	.	.	8ee-	.	8dd#X	.
+.	.	.	.	.	32BBn	.	.	.	.	.	.	.
+.	.	.	32r	32r	32BBn	.	.	.	.	.	.	.
+.	.	.	(32eee-JJ	(32eee-JJ	32BBn	.	.	.	.	.	.	.
+.	.	.	16ddd-LL)	16ddd-LL)	32BBn	.	.	.	16dd-XL	.	16cc#XL	.
+.	.	.	.	.	32BBn	.	.	.	.	.	.	.
+.	.	.	32r	32r	32BBn	.	.	.	16b-JJ)	.	16a#XJJ)	.
+.	.	.	(32eeenXJJJ	(32eeenXJJJ	32BBnJJJ	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8%3r	8%3r	8%3r	16gggLLL)	16gggLLL)	32E-XLLL	<	8%3r	8%3r	(16cc-XLL	.	(16bLL	.
+.	.	.	.	.	32E-X	.	.	.	.	.	.	.
+.	.	.	32r	32r	32E-X	.	.	.	16gJ	.	16gnJ	.
+.	.	.	(32eee-XJJ	(32eee-XJJ	32E-X	.	.	.	.	.	.	.
+.	.	.	16ddd-XLL)	16ddd-XLL)	32E-X	.	.	.	8ee-	.	8ee-X	.
+.	.	.	.	.	32E-X	.	.	.	.	.	.	.
+.	.	.	32r	32r	32E-X	.	.	.	.	.	.	.
+.	.	.	(32eeenJJ	(32eeenJJ	32E-X	.	.	.	.	.	.	.
+.	.	.	16gggLL)	16gggLL)	32E-X	.	.	.	16dd-XL	.	16dd-XL	.
+.	.	.	.	.	32E-X	.	.	.	.	.	.	.
+.	.	.	32r	32r	32E-X	.	.	.	16b-JJ)	.	16b-XJJ)	.
+.	.	.	(32eee-XJJJ	(32eee-XJJJ	32E-XJJJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	[	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8%3r	8%3r	8%3r	16ddd-LLL)	16ddd-LLL)	32E-XLLL	.	8%3r	8%3r	(16cc-XLL	.	(16bnLL	.
+.	.	.	.	.	32E-X	.	.	.	.	.	.	.
+.	.	.	32r	32r	32E-X	.	.	.	16gJ	.	16gJ	.
+.	.	.	(32eeenXJJ	(32eeenXJJ	32E-X	.	.	.	.	.	.	.
+.	.	.	16gggLL)	16gggLL)	32E-X	.	.	.	8ee-	.	8ee-X	.
+.	.	.	.	.	32E-X	.	.	.	.	.	.	.
+.	.	.	32r	32r	32E-X	.	.	.	.	.	.	.
+.	.	.	(32eee-JJ	(32eee-JJ	32E-X	.	.	.	.	.	.	.
+.	.	.	16ddd-LL)	16ddd-LL)	32E-X	.	.	.	16dd-XL	.	16dd-XL	.
+.	.	.	.	.	32E-X	.	.	.	.	.	.	.
+.	.	.	32r	32r	32E-X	.	.	.	16b-JJ)	.	16b-XJJ)	.
+.	.	.	(32eeenXJJJii	(32eeenXJJJii	32E-XJJJ	.	.	.	.	.	.	.
+*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][([(s3,s4)])]s5[([(s6,s7)]s8,s9,s10)]
+!!!EED: Jason Lee
+!!!EEV: 2021/10/08
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Jan-35
+!!!Suter_Example_Number: 142
+!!!Suter_Example_ID: Jan-35/46/154-159
+!!!Premiere_Location: Brno,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 5:10
+!!!First_Publication_Year: 1927
+!!!First_Public_Performance_Year: 1921
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 174
+!!!Example_Start_Tsig_Beat_Rate: 174
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 4:18
+!!!Example_Start_Tempo_Expression: [Più mosso]
+!!!Example_Start_Notated_Beat_Rate: 174
+!!!Example_Start_Notated_Beat: eighth
+!!!Example_Start_Measure: 154
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:24
+!!!Example_End_Measure: 159
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [eighth=174] based on most recent notated beat rate (SWFU, m. 126). Example Start Tempo Expression [Piu mosso] based on most recent notated tempo expression (SWFU, m. 126).
+!!!Death_Place: Moravaská Ostrava,Czech Republic
+!!!Death_Date: 12-Aug-1928
+!!!Changing_Tsig: no
+!!!Birth_Place: Hukvaldy,Moravia
+!!!Birth_Date: 3-Jul-1854
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/24

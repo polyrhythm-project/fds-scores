@@ -1,0 +1,145 @@
+!!!!SEGMENT: T216_Sch-w33p120-121m759-762.krn
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Moses und Aron (Moses and Aaron), Opera
+!!!OMV: Act I, Scene 4: 
+!!!OMD:
+!!!AGN: Stage; Opera
+!!!AGN-sub: Opera
+!!!CNT: Austrian
+!!!ODT: 1932
+!!!OPR: Moses und Aron (Moses and Aaron), Opera
+!!!filename: T216_Sch-w33p120-121m759-762.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*	*grp:B	*	*	*grp:A	*	*	*grp:B	*	*	*grp:A	*	*	*grp:B	*	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*
+*part16	*	*part15	*	*part14	*	*part13	*	*	*part12	*	*	*part11	*	*	*part10	*	*	*part9	*	*	*part8	*	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff16	*	*staff15	*	*staff14	*	*staff13	*	*	*staff12	*	*	*staff11	*	*	*staff10	*	*	*staff9	*	*	*staff8	*	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Icello	*	*Iviola	*	*Ibass	*	*	*Ibarit	*	*	*Itenor	*	*	*Ialto	*	*	*Imezzo	*	*	*Isoprn	*	*	*Ituba	*	*Itromt	*	*Itromp	*	*Itromp	*	*Iclars	*	*Iclars	*	*Ipicco	*
+*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Bass	*	*	*I"Baritone	*	*	*I"Tenor	*	*	*I"Alto	*	*	*I"Mezzo-soprano	*	*	*I"Soprano	*	*	*I"Tuba	*	*I"Trombone 2, 3	*	*I"Trumpet in Bb 2, 3	*	*I"Trumpet in Bb 1	*	*I"Clarinet in Bb 1, 2	*	*I"Clarinet in Eb\n[sounds as written]	*	*I"Piccolo 1, 2, 3	*
+*I'vc	*	*I'vc	*	*I'vla	*	*I'b	*	*	*I'bar	*	*	*I't	*	*	*I'a	*	*	*I'm-s	*	*	*I's	*	*	*I'tb	*	*I'tn	*	*I'tp	*	*I'tp	*	*I'cl	*	*I'cl	*	*I'picc	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*	*	*clefF4	*	*	*clefGv2	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Rasch]\n[[quarter]=112]
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+!!!ONB: All parts are notated in concert pitch
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:a:t=3 fach get.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8.r	.	8.r	.	32cn 32b-X 32ff#XLLL	ff	4r	.	.	2cn	Aus-	f	4r	.	.	2b-X	Aus-	f	4r	.	.	2ff#X	Aus-	f	4GGGn	ff	8r	.	2r	.	2r	.	2r	.	2r	.	2r	.
+.	.	.	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=2. 3.	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8CC#X' 8BBn	ff	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!LO:TX:a:t=get.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16An	ff	16fn 16ee-X/	ff	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+32ALLL	.	32f 32ee-LLL/	.	32cn 32b-X 32ff#X	.	[4An	Aus-	f	.	.	.	[4f	Aus-	f	.	.	.	[4ee-X	Aus-	f	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.
+32A	.	32f 32ee-	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32A	.	32f 32ee-	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32A	.	32f 32ee-	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32A	.	32f 32ee-	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8GGG#X'	.	8DDn' 8BBn	.	.	.	.	.	.	.	.	.	.	.
+32A	.	32f 32ee-	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32A	.	32f 32ee-	.	32cn 32b-X 32ff#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+32AJJJ	.	32f 32ee-JJJ	.	32cn 32b-X 32ff#XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8AnL`	.	8fnL 8ee-X`	.	8En 8dn 8gg#X	.	8AL]	.	.	8En	-satz!	.	8fL]	.	.	8dn	-satz!	.	8ee-L]	.	.	8gg#X	-satz!	.	4r	.	4r	.	8r	.	8r	.	2r	.	2r	.	2r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=m.D.	!	!LO:TX:a:t=m.D.	!	!	!	!	!	!	!
+8BBnJ`	.	8gnJ 8dd-X`	.	16r	.	8BBnJ	-satz!	.	8r	.	.	8gnJ	-satz!	.	8r	.	.	8dd-XJ	-satz!	.	8r	.	.	.	.	.	.	8c'L 8b-	pp	8ff#X'L	pp	.	.	.	.	.	.
+.	.	.	.	16fn 16ee-X 16aan	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	4r	.	32f 32ee- 32aaLLL	.	4r	.	.	[4fn	Aus-	.	4r	.	.	[4ee-X	Aus-	.	4r	.	.	[4aan	Aus-	.	4GGGn	.	8r	.	8BX'J 8c#X	.	8gn'J	.	.	.	.	.	.	.
+.	.	.	.	32f 32ee- 32aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f 32ee- 32aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f 32ee- 32aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f 32ee- 32aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG#X' 8Dn	.	8r	.	8r	.	.	.	.	.	.	.
+.	.	.	.	32f 32ee- 32aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f 32ee- 32aa	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32f 32ee- 32aaJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:rj:t=a3	!
+!LO:TX:a:t=stschl.	!	!LO:TX:a:t=stschl.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=poco a poco dim. e rit. -   -   -   -   -   -	!
+8BnL	.	8gnL 8dd-X	.	32fn 32ee-X 32aanLLL	.	8BnL	Aus-	.	4f]	.	.	8gnL	Aus-	.	4ee-]	.	.	8dd-XL	Aus-	.	4aa]	.	.	2r	.	2r	.	2r	.	2r	.	8.r	.	8.r	.	16r	.
+.	.	.	.	32fn 32ee-X 32aan	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*8va	*
+.	.	.	.	32fn 32ee-X 32aan	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16gggg#XLL	p
+.	.	.	.	32fn 32ee-X 32aan	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CnJ	.	8B-XJ 8g-X	.	32fn 32ee-X 32aan	.	8CnJ	-satz!	.	.	.	.	8B-XJ	-satz!	.	.	.	.	8g-XJ	-satz!	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dddd	.
+.	.	.	.	32fn 32ee-X 32aan	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!	!	!	!
+.	.	.	.	32fn 32ee-X 32aan	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16fffnLL	p	(16fffnLL	p	16eeeJJ)	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*X8va	*
+.	.	.	.	32fn 32ee-X 32aanJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:t=dim.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8r	.	8r	.	8dn 8a-X 8ee-X	.	8r	.	.	8dn	-satz!	.	8r	.	.	8a-X	-satz!	.	8r	.	.	8ee-X	-satz!	>	.	.	.	.	.	.	.	.	16bbnX	.	16bbnX	.	16r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:t=dim.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cc#XJJ)	.	16cc#XJJ)	.	(16bbb-XLL	>
+!	!	!	!	!LO:TX:a:t=am Steg	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8GnL	.	8c#X 8bnL	.	8r	.	8GnL	Aus-	.	8r	.	.	8c#XL	Aus-	.	8r	.	.	8bnL	Aus-	.	8r	.	.	.	.	.	.	.	.	.	.	16r	.	16r	.	16ggg	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:HP:t=dim.	!	!LO:HP:t=dim.	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16aanLL	>	(16aanXLL	>	16cccJJ)	.
+*	*	*	*	*clefC3	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8CnJ	.	8B-X 8g-XJ	.	32A-X 32e-X 32ddnLLL	.	8CnJ	-satz!	.	4A-X	Aus-	mp >	8B-XJ	-satz!	.	4e-X	Aus-	mp >	8f#XJ	-satz!	.	4ddn	Aus-	mf >	2r	.	2r	.	2r	.	2r	.	16eenX	.	16eenX	.	16r	.
+.	.	.	.	32A-X 32e-X 32ddn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32A-X 32e-X 32ddn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16fnJJ)	.	16fnJJ)	.	(16bbLL	.
+.	.	.	.	32A-X 32e-X 32ddn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8r	.	32A-X 32e-X 32ddn	.	8r	.	.	.	.	.	8r	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	16r	.	16gg	.
+.	.	.	.	32A-X 32e-X 32ddn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32A-X 32e-X 32ddn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16ee-LL	.	16cc#XJJ)	.
+.	.	.	.	32A-X 32e-X 32ddnJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8BBnL	.	8c#XL 8f#X	.	32Fn 32en 32anLLL	.	8BBnL	Aus-	p	8Fn	-satz!	]]	8c#XL	Aus-	p	8en	-satz!	]]	8f#XL	Aus-	p	8an	-satz!	]]	.	.	.	.	.	.	.	.	16r	.	16ddX	.	4r	.
+.	.	.	.	32Fn 32en 32an	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1.	!	!	!	!	!
+.	.	.	.	32Fn 32en 32an	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16enXLL	.	16a-JJ)	.	.	.
+.	.	.	.	32Fn 32en 32an	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8BB-XJ	.	8GnJ 8cn	.	32Fn 32en 32an	.	8BB-XJ	-satz!	.	8r	.	.	8GnJ	-satz!	.	8r	.	.	8cnJ	-satz!	.	8r	.	.	.	.	.	.	.	.	.	.	16dn	.	8r	.	.	.
+.	.	.	.	32Fn 32en 32an	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32Fn 32en 32an	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16G#XJJ)	.	.	.	.	.
+.	.	.	.	32Fn 32en 32anJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5,s6,s7)][(s8,s9,s10,s11,s12,s13)][(s14[(s15,s16)])]
+!!!EED: Gabriella Vici
+!!!EEV: 2022/01/26
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Sch-33
+!!!Suter_Example_Number: 216
+!!!Suter_Example_ID: Sch-33/120-121/759-762
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 24:59
+!!!First_Publication_Year: 1957
+!!!First_Public_Performance_Year: 1957
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 112
+!!!Example_Start_Tsig_Beat_Rate: 112
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 13:59
+!!!Example_Start_Tempo_Expression: [Rasch]
+!!!Example_Start_Notated_Beat_Rate: [112]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 317
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 14:06
+!!!Example_End_Measure: 320
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=112] based on most recent notated beat rate (SWFU, m. 309). Example Start Tempo Expression [Rasch] based on most recent notated tempo expression (SWFU, m. 309).
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/28

@@ -1,0 +1,110 @@
+!!!!SEGMENT: T650_Hin-w80p15h21m5-9.krn
+!!!COM: Hindemith, Paul
+!!!OTL: Sonata for Alto Saxophone and Piano
+!!!OMV: IV: Lebhaft (Lively)
+!!!OMD:
+!!!AGN: Instrumental; Keyboard
+!!!AGN-sub: Keyboard
+!!!CNT: German
+!!!ODT: 1943
+!!!OPR: Sonata for Alto Saxophone and Piano
+!!!filename: T650_Hin-w80p15h21m5-9.krn
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*
+*staff2	*staff1	*staff1/2
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*I"Piano	*I"Piano	*
+*I'pf	*I'pf	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+!!LO:TX:omd:tempo:a:t=[Lebhaft]\n[[dotted-quarter+dotted-eighth]=60]
+*M9/16	*M9/16	*
+=31	=31	=31
+*^	*	*
+!	!	!	!LO:DY:ed=brack
+8.rc	[4.BB-X [4.E-X	16ee-XLL	mf
+.	.	16b-X	.
+.	.	16aa-XJJ	.
+8.FnL	.	8ffL	.
+.	.	16ccJk	.
+8.A-XJ	8.BB-] 8.E-]	8bb-XL)	.
+.	.	(16ggJk	.
+=32	=32	=32	=32
+8.rc	[4.AA-X [4.D-X	16ff#XLL	.
+.	.	16bbn	.
+.	.	16eenJJ	.
+8.A-XL	.	16ee-XLL	.
+.	.	16b-X	.
+.	.	16aa-XJJ	.
+8.B-XJ	8.AA-] 8.D-]	8ffnL	.
+.	.	16ccJk	.
+=33	=33	=33	=33
+8.rc	[4.GG [4.C	8bb-XL)	.
+.	.	(16ggJk	.
+8.A-XL	.	16ff#XLL	.
+.	.	16bbn	.
+.	.	16eeJJ	.
+8.GJ	8.GG_ 8.C_	16ee-XLL	.
+.	.	16b-X	.
+.	.	16aa-XJJ	.
+=34	=34	=34	=34
+8.c	8.GGL] 8.C]	8ffnL	.
+.	.	16ccJk	.
+8.rc	8.FF	8bb-XL)	.
+.	.	(16ggJk	.
+8.rc	8.C-XJ	16ff#XLL	.
+.	.	16bbn	.
+.	.	16eeJJ	.
+=35	=35	=35	=35
+8.rc	[4.EE-X [4.BB-X	16ee-XLL	f
+.	.	16b-X	.
+.	.	16aa-XJJ	.
+8.D-XL	.	8ffL	.
+.	.	16ccJk	.
+8.E-XJ	8.EE-] 8.BB-]	8bb-XL)	.
+.	.	(16ggJki	.
+*v	*v	*	*
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/09/02
+!!!EED2: Daniel Wright
+!!!Suter_Work_ID: Hin-80
+!!!Suter_Example_Number: 650
+!!!Suter_Example_ID: Hin-80/15/[24]5-9
+!!!Premiere_Location: unknown
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:51
+!!!First_Publication_Year: 1956
+!!!First_Public_Performance_Year: unknown
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: compound triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 180
+!!!Example_Start_Tsig_Beat_Rate: 180
+!!!Example_Start_Tsig_Beat: dotted-eighth
+!!!Example_Start_Tsig: 9/16
+!!!Example_Start_Timestamp: 0:29
+!!!Example_Start_Tempo_Expression: [Lebhaft]
+!!!Example_Start_Notated_Beat_Rate: [60]
+!!!Example_Start_Notated_Beat: [dotted-quarter+dotted-eighth]
+!!!Example_Start_Measure: 31
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:34
+!!!Example_End_Measure: 35
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-quarter+dotted-eight=60] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Lebhaft] based on most recent notated tempo expression (SWFU, m. 1).  Editorial Notes: Suter's ID appears to have a typo, i.e., showing rehearsal 21 instead as 24; error was corrected in Suter ID and filename. Suter example scan shows the example beginning in the 5th bar of rehearsal 24, which has been confirmed against a published score (see pages 13-14: http://petruccimusiclibrary.ca/linkhandler.php?path=/imglnks/caimg/a/a9/IMSLP310401-PMLP501600-Hindemith_-_Althorn_Sonata.pdf). Counting the smaller measures, there are a total of 140 measures, but (when counting the larger polymetric measures), there are only 105 measures.
+!!!Death_Place: Frankfurt,Germany
+!!!Death_Date: 28-Dec-1963
+!!!Changing_Tsig: no
+!!!Birth_Place: Hanau,Germany
+!!!Birth_Date: 16-Nov-1895
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/03
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

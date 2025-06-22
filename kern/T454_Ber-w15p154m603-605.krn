@@ -1,0 +1,98 @@
+!!!!SEGMENT: T454_Ber-w15p154m603-605.krn
+!!!COM: Berg, Alban (Maria Johannes)
+!!!OTL: Lulu, Unfinished Opera
+!!!OMV: Act I, Scene 2
+!!!OMD:
+!!!AGN: Stage; Opera
+!!!AGN-sub: Opera
+!!!CNT: Austrian
+!!!ODT: 1935
+!!!OPR: Lulu, Unfinished Opera
+!!!filename: T454_Ber-w15p154m603-605.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**kern	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*grp:A	*	*grp:A	*grp:A	*	*grp:A	*	*grp:A	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*	*part7	*	*part6	*part6	*	*part5	*	*part5	*part4	*	*part3	*	*part2	*	*part1	*
+*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*	*staff9	*	*staff8	*staff7	*	*staff6	*	*staff5	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*ICklav	*ICklav	*	*ICstr	*	*ICstr	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Iheltn	*	*	*Idrmsp	*	*Ipiano	*Ipiano	*	*Iarpa	*	*Iarpa	*Ifagot	*	*IsaxA	*	*Iclars	*	*Iclars	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"DR SCHÖN	*	*	*I"LULU	*	*I"Piano	*I"Piano	*	*I"Harp	*	*I"Harp	*I"Bassoon	*	*I"Alto Saxophone	*	*I"Clarinet in Bb	*	*I"Clarinet in Bb	*
+*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'SCHÖN	*	*	*I'LULU	*	*I'pf	*I'pf	*	*I'arp	*	*I'arp	*I'bn	*	*I'a-sax	*	*I'cl	*	*I'cl	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*	*clefG2	*	*clefF4	*clefG2	*	*clefF4	*	*clefG2	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd5c9	*	*ITrd1c2	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[b-e-a-]	*	*k[b-e-]	*	*k[b-e-]	*
+!!LO:TX:omd:tempo:a:t=[(a tempo di Gavotta])\n[[quarter]=69]
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=[m. D.]	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!
+16r	.	(4a	p	(4ccn	p	(4ee-X	p	16r	.	.	2r	.	2r	2r	.	2r	.	2r	2r	.	8.gL]	p	2r	.	2r	.
+!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*haupt	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+(16FnKL	p	.	.	.	.	.	.	16FnL	nicht	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+[8B-XJ	.	.	.	.	.	.	.	[8B-HXJ	mehr	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16f#XJk	.	.	.	.	.
+!LO:TX:t=P:problem:glissando and grace notes beaming	!	!	!	!	!	!	!	!LO:TX:t=P:problem:glissando	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8B-L]H	.	4fn)	> ]	[4bn	> ]	[4ddn	> ]	8B-]L	.	.	.	.	.	.	.	.	.	.	.	.	16g#XLL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aX)	.	.	.	.	.
+.	.	.	.	.	.	.	.	8qc#hX/	so	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8c#X'J)h	.	.	.	.	.	.	.	8c#J	.	.	.	.	.	.	.	.	.	.	.	.	(16f#X	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gJJ	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+([2G#X	.	8en~L	pp	2b_	pp	2dd_	pp	8G#XL	ernst-	.	2r	.	2r	2r	.	2r	.	2r	2r	.	16aXLL)	.	2r	.	2r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16f#X	.	.	.	.	.
+.	.	8e-X~	.	.	.	.	.	8G#	-haft	.	.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aXJJ)	.	.	.	.	.
+.	.	8d-X~	.	.	.	.	.	8G#	durch	.	.	.	.	.	.	.	.	.	.	.	(16f#XLL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.	.
+.	.	8cn~J	.	.	.	.	.	8G#J	den	.	.	.	.	.	.	.	.	.	.	.	16aX)	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16f#XJJ	.	.	.	.	.
+!!LO:REH:t=605
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=begleitend	!	!	!	!LO:T:lv=4	!	!	!
+4G#]	.	[4Bn~	<	4b]	.	4.dd])	.	(16G#XLL	Kopf.	>	4r	.	4r	4r	.	4r	.	2r	4r	.	16gLL	.	[8A-XL	p >	4r	.
+.	.	.	.	.	.	.	.	[16fnJ	.	.	.	.	.	.	.	.	.	.	.	.	16aX)	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:T:lv	!	!	!
+.	.	.	.	.	.	.	.	8fJ])	.	]	.	.	.	.	.	.	.	.	.	.	(16f#X	.	[8fJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=(à la musette)	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:a	!	!	!	!	!	!	!	!	!
+8Gn)	.	8B'L]	mp [	8a-X)	.	.	.	4r	.	.	8ddnL	Trotz-	8Bn'L	8a-X'L 8ddn	p	(8GnL	p	.	(8GnL	mp	8a-'L)	mp	4r)	]	8dd'L	mf
+!	!	!	!	!	!	!LO:TX:a:i:t=(à la Musette)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8r	.	8B'J	.	8r	.	8r	.	.	.	.	8ddJ	-dem	8B'J	8a-'J 8dd	.	8fnJ)	.	.	8fnJ)	.	8a-'J	.	.	.	8dd'J	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][({(s5,s6)})][({(s7,s8)})][(s9,s10)][(s11,s12,s13,s14)]
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Ber-15
+!!!Suter_Example_Number: 454
+!!!Suter_Example_ID: Ber-15/154/603-605
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 23:31
+!!!First_Publication_Year: 1936
+!!!First_Public_Performance_Year: 1937
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 69
+!!!Example_Start_Tsig_Beat_Rate: 69
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 3:26
+!!!Example_Start_Tempo_Expression: [(a tempo di Gavotta])
+!!!Example_Start_Notated_Beat_Rate: [69]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 197(603)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:32
+!!!Example_End_Measure: 199(605)
+!!!Example_Dataset: T
+!!!Editorial_Comments: Act I, Scene 2 begins on the written measure 407 on the following perusal score: https://www.universaledition.com/alban-berg-51/works/lulu-3480. Full Unit Duration calculated from Disc 1 Track 4 (0:00) to Disc 1 Track 8 (4:00) (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=OC205). Example Start and End Time based on Disc 1 Track 6 \"Act I: Was tut denn Ihr Vater da?\" (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=OC205).
+!!!Death_Place: Vienna,Austria
+!!!Death_Date: 24-Dec-1935
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 9-Feb-1885
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/02

@@ -1,0 +1,121 @@
+!!!!SEGMENT: T742_Mes-w19p11m7-5h5.krn
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Trois petites liturgies de la Présence Divine (Three Small Liturgies of the Divine Presence) for Female Choir, Piano, Ondes Martenot and Orchestra
+!!!OMV: I: Antienne de la Conversation intérieure (Antiphon of the Inner Conversation)
+!!!OMD:
+!!!AGN: Vocal; Choral
+!!!AGN-sub: Choral
+!!!CNT: French
+!!!ODT: 1944
+!!!OPR: Trois petites liturgies de la Présence Divine (Three Small Liturgies of the Divine Presence) for Female Choir, Piano, Ondes Martenot and Orchestra
+!!!filename: T742_Mes-w19p11m7-5h5.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*	*	*grp:A	*	*grp:B	*
+*part7	*	*part6	*	*part5	*	*part4	*	*part4	*	*part3	*	*	*part2	*	*part1	*
+*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*	*ICklav	*	*ICvox	*	*	*ICidio	*	*ICidio	*
+*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*	*Ipiano	*	*Icoro	*	*	*Imarac	*	*Ivibra	*
+*I"Viola	*	*I"Violin II	*	*I"Solo Violin I	*	*I"Piano	*	*I"Piano	*	*I"Choir	*	*	*I"Maracas	*	*I"Vibraphone	*
+*I'vla	*	*I'vn	*	*I'vn	*	*I'pf	*	*I'pf	*	*I'coro	*	*	*I'marac	*	*I'vib	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*stria5	*	*	*
+*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*clefX	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*	*
+!!LO:TX:omd:tempo:a:t=[Modéré, un peu vif]\n[[eighth]=120]
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*	*M3/4	*	*M3/4	*
+*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*ped	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:t=3	!LO:DY:t=[ %s (spiccato)]	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=  (Ped. par note)	!LO:DY:rj
+8r	.	8r	.	16gggn'LL	f	8r	.	4bb^ 4fffn 4aaa#X 4ccccn	mf	4e)	--re,	>	8r	.	4cccn^	p
+.	.	.	.	16ggg'JJ	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:TX:a:t=pizz. 	!LO:DY:rj	!LO:TX:a:t=pizz.	!LO:DY:rj	!	!	!	!	!	!	!	!	!	!	!LO:DY:rj	!	!
+8e"n^' 8an" 8dd-"X	p	8en"^>' 8an" 8dd-"X	p	4ggg^u	.	[8en^ [8an [8dd-X	mf	.	.	.	.	]	[8Ra^/	pp	.	.
+4r	.	4r	.	.	.	4e] 4a] 4dd-]	.	4aa#X 4eee 4ggg#X 4bbb	.	8r	.	.	4Ra/]	.	4bb	.
+!	!	!	!	!LO:TX:t=2	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	16fff#X'LL	.	.	.	.	.	8eeL	D'un	mf	.	.	.	.
+!	!	!	!	!LO:TX:t=4	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	16ggg#X'JJ	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:t=3	!	!	!	!	!	!	!	!	!	!	!	!
+4e"' 4a" 4dd-"	.	4e"' 4a" 4dd-"	.	16gggn'LL	.	[4e [4a [4dd-	.	4gg#X 4dddn 4fff#X 4aaa#X	.	8dd#X	bai-	.	[4Ra/	.	4aa#X	.
+.	.	.	.	16ggg#X'	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16gggn'	.	.	.	.	.	8b-XJ	-ser	.	.	.	.	.
+.	.	.	.	([16ggg^uJJ	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8r	.	8r	.	16gggLL]	.	8enXL] 8anX] 8dd-X]	.	8ff#X 8cccn 8fffn 8ggg#X	.	8aL	vo-	.	8Ra/L]	.	8gg#X	.
+.	.	.	.	16fff#XJ)	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*ped	*	*	*	*	*	*	*	*	*	*
+!LO:TX:a:rj:t=pizz.	!	!LO:TX:a:rj:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8f"' 8b" 8een"	.	8f"' 8b" 8een"/	.	(8ggg^vJ	.	[8fnJ [8b [8een	.	4ffn 4bb 4eee 4fff#X	.	16cc#XL	-tre	.	[8Ra/J	.	4ff#X	.
+.	.	.	.	.	.	.	.	.	.	[16gnJJ	main	.	.	.	.	.
+4r	.	4r	.	16fff#XLL)	.	4f] 4b] 4ee]	.	.	.	16gnKL],	.	.	4Ra/]	.	.	.
+.	.	.	.	16ggg'	.	.	.	.	.	8ccn	dé-	.	.	.	.	.
+.	.	.	.	16fff#'	.	.	.	8ff#X 8ccc 8fffn 8ggg#X	.	.	.	.	.	.	8gg#	.
+.	.	.	.	[16fff#^uJJ	.	.	.	.	.	[16bnJk	-pas-	.	.	.	.	.
+*	*	*	*	*	*	*ped	*	*	*	*	*	*	*	*	*	*
+8.e"'nL 8.an" 8.ee-"X	.	8.e"'nL 8.an" 8.ee-"X	.	8fff#L]	.	8.enL 8.an 8.ee-X	.	8gg#XL 8dddn 8fff#X 8aaa#X	.	16bKL]	.	.	8.Ra/L	.	8aa#XL	.
+.	.	.	.	.	.	.	.	.	.	8f#X	-se	.	.	.	.	.
+.	.	.	.	16ddd'L	.	.	.	8aa#XJ 8eee 8ggg#X 8bbb	.	.	.	.	.	.	8bbJ	.
+*	*	*	*	*	*	*ped	*	*	*	*	*	*	*	*	*	*
+16e-"X'Jk 16a-"X 16dd-"X	.	16e-"X'Jk 16a-"X 16dd-"X	.	16fff#'JJ	.	[16e-XJk [16a-X [16dd-X	.	.	.	[16fnJk	le_	.	[16Ra/Jk	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4r	.	4r	.	8ddd~L	.	4e-X_ 4a-X_ 4dd-X_	.	8bb 8fffn 8aaa#X 8ccccn	.	16fLL]	.	.	4Ra/_	.	8cccn	.
+.	.	.	.	.	.	.	.	.	.	16b-XJ	ta-	.	.	.	.	.
+!	!	!	!	!LO:TX:t=1	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	16ccc#X'L	.	.	.	4ccc^ 4fff#X 4bbb 4dddd	.	8eJ,	-bleau,	.	.	.	4ddd^	.
+!	!	!	!	!LO:TX:t=1	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	16ddd'JJ	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:t=3	!	!	!	!	!	!	!	!	!	!	!	!
+16r	.	16r	.	16ggg'LL	.	16e-KL] 16a-] 16dd-]	.	.	.	8gnL	Pa-	.	16Ra/KL]	.	.	.
+!	!	!	!	!LO:TX:t=4	!	!	!	!	!	!	!	!	!	!	!	!
+8.e-"X' 8.an" 8.een"	.	8.e-"X' 8.an" 8.een"	.	16ggg#X'J	.	8.e-XJ 8.an 8.een	.	.	.	.	.	.	8.Ra/J	.	.	.
+.	.	.	.	8gggn^uJ	.	.	.	4ff#X 4cccn 4fffn 4ggg#X	.	8a	-y-	.	.	.	4gg#X	.
+!	!	!	!	!LO:TX:t=1	!	!	!	!	!	!	!	!	!	!	!	!
+8.d-"X'L 8.an" 8.a-"X	.	8.d-"X'L 8.an" 8.a-"X	.	16eeev'KL	.	8.d-XL 8.an 8.a-X	.	.	.	8b-X	-sa-	.	8.Ra/L	.	.	.
+.	.	.	.	[8.fffn^~uJ	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	[8ff#X [8dddn [8fff#X [8aaa#X	.	8cc#XJ	-ge	.	.	.	[8aa#X	.
+*	*	*	*	*	*	*ped	*	*	*	*	*	*	*	*	*	*
+16c"'Jk 16g" 16b"	.	16c"'Jk 16gn" 16bn"	.	.	.	[16cJk [16gn [16b	.	.	.	.	.	.	[16Ra/Jk	.	.	.
+*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)],[(s3)],{(s4,s5)},[(s6,s7,s8)]
+!!!RDF**kern: > = above
+!!!EED: Jason Lee
+!!!EEV: 2021/12/23
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/04/27
+!!!EED3: Bryan Bell
+!!!EEV3: 2023/06/16
+!!!Suter_Work_ID: Mes-19
+!!!Suter_Example_Number: 742
+!!!Suter_Example_ID: Mes-19/11/7-5[5]
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 10:26
+!!!First_Publication_Year: 1952
+!!!First_Public_Performance_Year: 1945
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 60
+!!!Example_Start_Tsig_Beat_Rate: 60
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 4:20
+!!!Example_Start_Tempo_Expression: [Modéré, un peu vif]
+!!!Example_Start_Notated_Beat_Rate: [120]
+!!!Example_Start_Notated_Beat: [eighth]
+!!!Example_Start_Measure: 50
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:27
+!!!Example_End_Measure: 52
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [eighth=120] based on most recent notated beat rate (SWFU, m. 40). Example Start Tempo Expression [Modéré, un peu vif] based on most recent notated tempo expression (SWFU, m. 40).
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Apr-1992
+!!!Changing_Tsig: no
+!!!Birth_Place: Avignon,France
+!!!Birth_Date: 10-Dec-1908
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:

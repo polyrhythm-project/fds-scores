@@ -1,0 +1,103 @@
+!!!!SEGMENT: T522_Mau-w66p67m5-1h17.krn
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Concerto de camera (Chamber Concerto) for Violin, String Orchestra, Piano and Percussion
+!!!OMV: III: Poco allegro
+!!!OMD:
+!!!AGN: Orchestral; Concerto
+!!!AGN-sub: Concerto
+!!!CNT: Czech
+!!!ODT: 1941
+!!!OPR: Concerto de camera (Chamber Concerto) for Violin, String Orchestra, Piano and Percussion
+!!!filename: T522_Mau-w66p67m5-1h17.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICidio	*	*ICstr	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Itimpa	*	*Ivioln	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Timpani	*	*I"Solo Violin	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'timp	*	*I'vn	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=[Allegro]\n{[eighth]=225}
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:t=[pizz.]	!	!LO:TX:t=[pizz.]	!	!LO:TX:t=[pizz.]	!	!LO:TX:t=[pizz.]	!	!LO:TX:t=[pizz.]	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack
+8r	.	8r	.	8r	.	8r	.	8r	.	8C	p	16BLL	p
+.	.	.	.	.	.	.	.	.	.	.	.	16c	.
+8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	16G	.
+.	.	.	.	.	.	.	.	.	.	.	.	16c	.
+8CC'^	mf	8CC'^ 8GG	mf	8C'^ 8G 8e	mf	8c'^ 8g 8cc	mf	8G'^ 8e 8cc	mf	8r	.	16A	.
+.	.	.	.	.	.	.	.	.	.	.	.	16BJJ	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8CC'L	p	8C'L	p	8%3r	.	8r	.	8r	.	8%3r	.	16cLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	16d-X	.
+!	!	!	!	!	!	!LO:TX:a:rj:t=arco	!	!	!	!	!	!	!
+8DD-X'J	.	8D-X'J	.	.	.	16c'LL	p	8r	.	.	.	16e-X	.
+.	.	.	.	.	.	16cc'J	.	.	.	.	.	16c	.
+!	!	!	!	!	!	!	!	!LO:TX:a:rj:t=arco	!	!	!	!	!
+8r	.	8r	.	.	.	8c'J	.	16cc'LL	p	.	.	16d-	.
+.	.	.	.	.	.	.	.	16ccc'JJ	.	.	.	16e-JJ	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!
+8CC'L	.	8C'L	.	16C'LL	p	8r	.	8cc'	.	8%3r	.	16enLL	.
+.	.	.	.	16B-X'J	.	.	.	.	.	.	.	16f#X	.
+8BBB-X'J	.	8BB-X'J	.	8B-'J	.	16B-X'LL	.	8r	.	.	.	16g	.
+.	.	.	.	.	.	16b-X'J	.	.	.	.	.	16e	.
+8r	.	8r	.	8r	.	8B-'J	.	16b-X'LL	.	.	.	16f#	.
+.	.	.	.	.	.	.	.	16bb-X'JJ	.	.	.	16gJJ	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8BBB-X'L	.	8BB-X'L	.	16C'LL	.	8r	.	8b-X'	.	8%3r	.	16aLL	.
+.	.	.	.	16A'J	.	.	.	.	.	.	.	16b	.
+8AAA'J	.	8AA'J	.	8c'J	.	16e-X'LL	.	8r	.	.	.	16cc	.
+.	.	.	.	.	.	16f'J	.	.	.	.	.	16a	.
+8r	.	8r	.	8r	.	8a'J	.	16a'LL	.	.	.	16b	.
+.	.	.	.	.	.	.	.	16ff'JJ	.	.	.	16ccJJ	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8GGG'L	<	8GG'L	<	16GLL	<	8r	.	8a'	.	8%3r	.	16cc#XLL	<
+.	.	.	.	16B-XJ	.	.	.	.	.	.	.	16dd#X	.
+8CC#X'J	.	8C#X'J	.	8c#XJ	.	16c#XLL	<	8r	.	.	.	16ee	.
+.	[	.	[	.	[	16eJ	.	.	.	.	.	16cc#	.
+8r	.	8r	.	8r	.	8aJ	[	16gLL	<	.	.	16dd#	.
+.	.	.	.	.	.	.	.	16b-XJJ	[[	.	.	16eeJJ	[[
+=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2)][(s3,s4,s5,s6,s7)]
+!!!EED: Rafael Laurindo
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/16
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Mau-66
+!!!Suter_Example_Number: 522
+!!!Suter_Example_ID: Mau-66/67/5-1[17]
+!!!Premiere_Location: Basel,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 9:46
+!!!First_Publication_Year: 1955
+!!!First_Public_Performance_Year: 1942
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 4
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 225
+!!!Example_Start_Tsig_Beat_Rate: 225
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 8:38
+!!!Example_Start_Tempo_Expression: [Allegro]
+!!!Example_Start_Notated_Beat_Rate: {225}
+!!!Example_Start_Notated_Beat: {eighth}
+!!!Example_Start_Measure: 259
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 8:42
+!!!Example_End_Measure: 263
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {dotted-quarter=75} calculated from recording (https://ubc-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=M56821). Example Start Tempo Expression [Allegro] based on most recent notated tempo expression (SWFU, m. 249).
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: no
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/05/30

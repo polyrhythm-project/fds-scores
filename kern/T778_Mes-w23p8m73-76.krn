@@ -1,0 +1,104 @@
+!!!!SEGMENT: T778_Mes-w23p8m73-76.krn
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Cinq rechants (Five Rechants) for Twelve Unaccompanied Mixed Voices
+!!!OMV: No. 1: Les amoureux s'envolent (Lovers Fly Away)
+!!!OMD:
+!!!AGN: Vocal; Choral
+!!!AGN-sub: Choral
+!!!CNT: French
+!!!ODT: 1948
+!!!OPR: Cinq rechants (Five Rechants) for Twelve Unaccompanied Mixed Voices
+!!!filename: T778_Mes-w23p8m73-76.krn
+**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**text	**dynam
+*grp:A	*	*	*grp:A	*	*	*grp:A	*	*	*grp:A	*	*	*grp:A	*	*	*grp:B	*	*	*grp:B	*	*	*grp:B	*	*
+*part8	*	*	*part7	*	*	*part6	*	*	*part5	*	*	*part4	*	*	*part3	*	*	*part2	*	*	*part1	*	*
+*staff8	*	*	*staff7	*	*	*staff6	*	*	*staff5	*	*	*staff4	*	*	*staff3	*	*	*staff2	*	*	*staff1	*	*
+*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*	*ICvox	*	*
+*Ibass	*	*	*Ibass	*	*	*Itenor	*	*	*Ialto	*	*	*Ialto	*	*	*Isoprn	*	*	*Isoprn	*	*	*Isoprn	*	*
+*I"Solo Bass 2, 3	*	*	*I"Solo Bass 1	*	*	*I"3 Tenors	*	*	*I"Solo Alto 2, 3	*	*	*I"Solo Alto 1	*	*	*I"Solo Soprano 3	*	*	*I"Solo Soprano 2	*	*	*I"Solo Soprano 1	*	*
+*I'b	*	*	*I'b	*	*	*I't	*	*	*I'a	*	*	*I'a	*	*	*I's	*	*	*I's	*	*	*I's	*	*
+*clefF4	*	*	*clefF4	*	*	*clefC4	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*	*clefG2	*	*
+*	*	*	*	*	*	*Trd0c0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*	*k[]	*	*
+*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*	*C:	*	*
+!!LO:TX:omd:tempo:a:t=Presque vif\n{[eighth]=135}
+*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*
+!!!ONB: time signature shown as 2+2+3/16 in original score
+!!LO:TX:t=P:problem: time signature shown as 2+2+3/16 in original score
+!!LO:TX:t=[*M=2+2+3/16]
+!!LO:TX:a:i:t=Rechant
+!LO:TX:rj:a:t=2e et 3e	!	!	!	!	!	!	!	!	!LO:TX:a:rj:t=2e et 3e	!	!	!	!	!	!LO:TX:rj:i:t=(à bouche fermée)	!	!	!	!	!	!LO:N:vis=8	!	!
+8C#X	les	f	(8C#XL	les	f	8r	.	.	8c#X	les	f	(8c#XL	les	f	(16ee-XLL	um	p	8r	.	.	8r	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:t=à3	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:rj:i:t=(à bouche fermée)	!	!	!	!	!
+8r	.	.	16EnL	a-	.	8r	.	.	8r	.	.	16enL	a-	.	16dd-X	.	.	(16ee-XLL	um	p	8r	.	.
+.	.	.	16dnJJ	-mou-	.	.	.	.	.	.	.	16ddnJJ	-mou-	.	16ccnJJ	.	.	16ddJJ	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:rj:i:t=(à bouche fermée)	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:i:t=(souple)	!	!
+8.r	.	.	8fnL	-reux	.	(8fnL	reux	f	8.r	.	.	8ffnL	-reux	.	16a-XLL	.	.	16dd-XLL	.	.	(16ee-XLL	um	p
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16en	.	.	16ccn	.	.	16dd	.	.
+.	.	.	16dJk)	s’en-	.	16dJk)	s’en-	.	.	.	.	16ddJk)	s’en-	.	16anJJ	.	.	16a-XJJ	.	.	16dd-XJJ	.	.
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*M2/8	*	*	*M2/8	*	*	*M2/8	*	*	*M2/8	*	*	*M2/8	*	*	*M2/8	*	*	*M2/8	*	*	*M2/8	*	*
+(8c#X^L	vo-	.	(8c#X^L	-vo-	.	8c#X^	-vo	.	(8cc#X^L	vo-	.	(8cc#X^L	-vo-	.	16bnLL	.	.	16enLL	.	.	16ccnLL	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16b-X	.	.	16an	.	.	16a-X	.	.
+8D#X,J)	-lent	.	8D#X,J)	-lent	.	8r	.	.	8d#X,J)	-lent	.	8d#X,J)	-lent	.	16gn)	.	.	16bn	.	.	16en	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16ee-XJJ	.	.	16b-XJJ	.	.	16anJJ	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*
+8r	.	.	(16d#XLL	Bran-	.	(16d#XLL	Bran-	.	8r	.	.	(16dd#XLL	Bran-	.	16ddLL	.	.	16gnLL)	.	.	16bnLL	.	.
+.	.	.	16c#X	-gien	.	16c#X	-gien	.	.	.	.	16cc#X	-gien	.	16dd-X	.	.	(16ee-X	.	.	16b-X	.	.
+8r	.	.	16G#X	dans	.	16G#XJJ)	dans	.	8r	.	.	16g#X	dans	.	16cc	.	.	16dd	.	.	16gn)	.	.
+.	.	.	16DnJJ	l’es-	.	16r	.	.	.	.	.	16dnJJ	l’es-	.	16a-XJJ	.	.	16dd-XJJ	.	.	(16ee-XJJi	.	.
+(>16C#XLL	pa-	.	16C#XLL	-pa-	.	8.r	.	.	(>16c#XLL	pa-	.	16c#XLL	-pa-	.	16enLL	.	.	16ccLL	.	.	16ddLL	.	.
+16CnJJ)	-ce	.	16Cn	-ce	.	.	.	.	16cnJJ)	-ce	.	16cn	-ce	.	16an	.	.	16a-X	.	.	16dd-X	.	.
+16r	.	.	16G#XJJ)	tu	.	.	.	.	16r	.	.	16g#XJJ)	tu	.	16bnJJ	.	.	16enJJ	.	.	16ccJJ	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M2/8	*	*	*M2/8	*	*	*M2/8	*	*	*M2/8	*	*	*M2/8	*	*	*M2/8	*	*	*M2/8	*	*	*M2/8	*	*
+(8Dn^L	souf-	.	(8Dn^L	souf-	.	4r	.	.	(8dn^>L	souf-	.	(8dn^>L	souf-	.	16b-XLL	.	.	16anLL	.	.	16a-XLL	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16g)	.	.	16bn	.	.	16en	.	.
+8cn,J)	-fles	.	8cn,J)	-fles	.	.	.	.	8ccn,J)	-fles	.	8ccn,J)	-fles	.	(16ee-Xi	.	.	16b-X	.	.	16an	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddJJ	.	.	16gJJ)	.	.	16bnJJ	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*	*M7/16	*	*
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)]
+!!!RDF**kern: > = above
+!!!EED:Jason Lee
+!!!EEV:2022/01/03
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Mes-23
+!!!Suter_Example_Number: 778
+!!!Suter_Example_ID: Mes-23/8/73-76
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: 2/8,2'2'3/16,2/8
+!!!Full_Unit_Duration: 4:48
+!!!First_Publication_Year: 1949
+!!!First_Public_Performance_Year: 1950
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 4
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 270
+!!!Example_Start_Tsig_Beat_Rate: 270
+!!!Example_Start_Tsig_Beat: sixteenth
+!!!Example_Start_Tsig: 2'2'3/16
+!!!Example_Start_Timestamp: 3:56
+!!!Example_Start_Tempo_Expression: Presque vif
+!!!Example_Start_Notated_Beat_Rate: {135}
+!!!Example_Start_Notated_Beat: {eighth}
+!!!Example_Start_Measure: 73
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:00
+!!!Example_End_Measure: 76
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {eighth=135} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=COR16023); tempo for audio synthesis {eighth=132} was calculated using a Digital Audio Workstation (DAW). Editorial Note: Full Unit Start Time Signature {13/4} based on a calculation of the number of sixteenth beats in the first unmetered measure, which subsequently changes, and stabilizes in measure 3. Full Unit Start Tsig Type (none) is used as there are no regular groupings of beats within the first two measures. SWFU title is based on Naxos recording.
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Apr-1992
+!!!Changing_Tsig: yes
+!!!Birth_Place: Avignon,France
+!!!Birth_Date: 10-Dec-1908
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/09
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/04

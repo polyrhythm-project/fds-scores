@@ -1,0 +1,111 @@
+!!!!SEGMENT: T224_Sch-w35p76-77m354-358.krn
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Violin Concerto, op. 36
+!!!OMV: II: Andante grazioso
+!!!OMD:
+!!!AGN: Orchestral; Concerto
+!!!AGN-sub: Concerto
+!!!CNT: Austrian
+!!!ODT: 1936
+!!!OPR: Violin Concerto, op. 36
+!!!filename: T224_Sch-w35p76-77m354-358.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*
+*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*
+*Icello	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Iflt	*
+*I"Violoncello	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Solo Violin	*	*I"Flute 1	*
+*I'vc	*	*I'vc	*	*I'vla	*	*I'vla	*	*I'vn	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=[Poco più mosso]\n[[quarter]=66]
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+!!LO:REH:t=354
+=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89
+!	!	!	!	!	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]	!	!	!	!LO:DY:t=[ %s ]
+16r	.	16r	.	16cc#X	p	16cc#X	p	16r	.	16gg	p
+*	*	*	*	*clefC3	*	*clefC3	*	*	*	*	*
+!	!LO:DY:t=[ %s ]	!	!LO:DY:t=[ %s ]	!	!	!	!	!	!LO:DY:t=%s  dolce	!	!
+16EEn	p	16BBn	p	16Fn	.	16dn	.	(16bb-XLL	p	16r	.
+8r	.	8r	.	8r	.	8r	.	16an	.	8r	.
+.	.	.	.	.	.	.	.	16ggnJJ	.	.	.
+8r	.	8r	.	8r	.	8r	.	8.f#XL)	.	4r	.
+16DD-X	<	16AA-X	<	16E-X	<	16cn	<	.	.	.	.
+16r	.	16r	.	16r	.	16r	.	(16cc#XJk	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90
+16CCn	.	16GGn	.	16A-X	.	16g-X	.	16d#XLL)	.	2r	.
+16r	.	16r	.	16r	.	16r	.	(16bnJ	.	.	.
+16r	.	16r	.	16r	.	16r	.	8.dnJ)	.	.	.
+16BB-X	.	16Fn	.	16An	.	16en	.	.	.	.	.
+8r	[	8r	[	8r	[	8r	[	.	.	.	.
+.	.	.	.	.	.	.	.	(16ffnKL/	.	.	.
+16DDn	>	16AAn	>	16B-X	>	16cc-X	>	[8enJ	.	.	.
+16r	.	16r	.	16r	.	16r	.	.	.	.	.
+=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
+16r	.	16r	.	16r	.	16r	.	16eLL])	.	2r	.
+16FF#X	.	16C#X	.	16Gn	.	16e-X	.	(16a-XJ	.	.	.
+8r	.	8r	.	8r	.	8r	.	8.cnJ)	.	.	.
+16AAn	.	16En	.	16dn	]	16fn	]	.	.	.	.
+.	.	.	.	.	.	.	.	.	<	.	.
+16r	]	16r	]	16r	.	16r	.	(16c-XLL	[ >	.	.
+8r	.	8r	.	16r	.	16r	.	16B-X')	]	.	.
+.	.	.	.	16D-X	mf	16D-X	mf	16A-XJJ	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92
+16r	.	16r	.	(16D-XLL	>	(16D-XLL	>	8.GnL	.	2r	.
+!	!LO:DY:rj	!	!LO:DY:rj	!	!	!	!	!	!	!	!
+(16GG-XLL	mf	(16GG-XLL	mf	16CnJJ)	]	16CnJJ)	]	.	.	.	.
+.	<	.	<	.	.	.	.	.	.	.	.
+16EE-XJJ)	[ >	16EE-XJJ)	[ >	8r	.	8r	.	.	.	.	.
+16r	]	16r	]	.	.	.	.	(16c-XJk	.	.	.
+16r	.	16r	.	8r	.	8r	.	8.B-XL)	.	.	.
+(16FFnLL	.	(16FFnLL	.	.	.	.	.	.	.	.	.
+.	<	.	<	.	.	.	.	.	.	.	.
+16AAnJJ)	[ >	16AAnJJ)	[ >	(16ELL	>	(16EnLL	>	.	.	.	.
+16r	]	16r	]	16DnJJ)	]	16DnJJ)	]	16A-XJk	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93
+8.r	.	8.r	.	16r	.	16r	.	(8A-X	<	4.r	.
+.	.	.	.	.	.	.	.	.	[ >	.	.
+.	.	.	.	16D-XLL	.	16D-XLL	.	.	]	.	.
+.	.	.	.	(16D-	.	(16D-	.	4Gn)	.	.	.
+16GG-XLL	.	16GG-XLL	.	16CnJJ)	.	16CnJJ)	.	.	.	.	.
+(16GG-	.	(16GG-	.	8r	.	8r	.	.	.	.	.
+16EE-XJJ)	.	16EE-XJJ)	.	.	.	.	.	.	.	.	.
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][(s2)][([(s3,s4)][(s5,s6)])]
+!!!EED:Jason Lee
+!!!EEV:2021/10/19
+!!!EED2: Daniel Wright
+!!!Suter_Work_ID: Sch-35
+!!!Suter_Example_Number: 224
+!!!Suter_Example_ID: Sch-35/76-77/354-358
+!!!Premiere_Location: Philadelphia,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 8:02
+!!!First_Publication_Year: 1939
+!!!First_Public_Performance_Year: 1940
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 9
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 66
+!!!Example_Start_Tsig_Beat_Rate: 66
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 3:28
+!!!Example_Start_Tempo_Expression: [Poco più mosso]
+!!!Example_Start_Notated_Beat_Rate: [66]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 89(354)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:37
+!!!Example_End_Measure: 93(358)
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=66] based on most recent notated beat rate (SWFU, m. 79). Example Start Tempo Expression [Poco più mosso] based on most recent notated tempo expression (SWFU, m. 79). Note that Suter refers to measure numbers that count throughout the entire work and do not re-start at any point within the work.
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/01

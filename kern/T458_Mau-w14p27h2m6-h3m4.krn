@@ -1,0 +1,165 @@
+!!!!SEGMENT: T458_Mau-w14p27h2m6-h3m4.krn
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: La Revue de cuisine (The Kitchen Magazine), Suite for Small Ensemble
+!!!OMV: III: Charleston
+!!!OMD:
+!!!AGN: Orchestral; Symphonic
+!!!AGN-sub: Symphonic
+!!!CNT: Czech
+!!!ODT: 1927
+!!!OPR: La Revue de cuisine (The Kitchen Magazine), Suite for Small Ensemble
+!!!filename: T458_Mau-w14p27h2m6-h3m4.krn
+**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*grp:B	*	*grp:B	*
+*part5	*	*part4	*	*part3	*part2	*	*part1	*
+*staff5	*	*staff4	*	*staff3	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICbras	*ICww	*	*ICww	*
+*Icello	*	*Ivioln	*	*Itromp	*Ifagot	*	*Iclars	*
+*I"Violoncello	*	*I"Violin	*	*I"Trumpet in Bb	*I"Bassoon	*	*I"Clarinet in Bb	*
+*I'vc	*	*I'vn	*	*I'tp	*I'bn	*	*I'cl	*
+*clefF4	*	*clefG2	*	*clefG2	*clefF4	*	*clefG2	*
+*	*	*	*	*ITrd1c2	*	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Poco a poco allegro]\n{[half]=90}
+*M2/2	*	*M2/2	*	*M2/2	*M2/2	*	*M2/2	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*met(c|)	*	*met(c|)	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!LO:TX:a:t=accel.	!LO:DY:ed=brack
+!	!LO:DY:ed=brack	!	!	!	!	!	!	!LO:DY:t=poco %s
+4r	f	1r	.	1r	1r	.	8d#XL	f
+.	.	.	.	.	.	.	8eJ)	.
+(8qqF/	.	.	.	.	.	.	.	.
+4F#X)	.	.	.	.	.	.	(8cL	<
+.	.	.	.	.	.	.	8dJ	.
+4G	.	.	.	.	.	.	8d#XL	.
+.	.	.	.	.	.	.	8eJ)	.
+4r	.	.	.	.	.	.	(8cL	.
+.	.	.	.	.	.	.	8dJ	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+(8qqG/	.	.	.	.	.	.	.	.
+*	*	*	*	*	*clefC4	*	*	*
+4G#X)	.	1r	.	1r	4r	.	8d#XL	.
+.	.	.	.	.	.	.	8eJ)	[
+!	!	!	!	!	!	!LO:DY:ed=brack	!	!
+4A	.	.	.	.	(8c#XL	f <	4r	.
+.	.	.	.	.	8dJ	.	.	.
+4r	.	.	.	.	8eL	.	2r	.
+.	.	.	.	.	8fJ	.	.	.
+(8qqA/	.	.	.	.	.	.	.	.
+4A#X)	.	.	.	.	8f#XL	.	.	.
+.	.	.	.	.	8gJ)	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+4B	.	2r	.	1r	(8eL	.	2r	.
+.	.	.	.	.	8fJ	.	.	.
+4c	.	.	.	.	8f#XL	.	.	.
+.	.	.	.	.	8gJ	.	.	.
+2r	.	4r	.	.	8a)	[	(8aL	.
+.	.	.	.	.	8r	.	8a#XJ	.
+.	.	(8qqc/	.	.	.	.	.	.
+.	.	4c#X)	f	.	4r	.	8bL)	.
+.	.	.	.	.	.	.	(8gJ	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+1r	.	4d	.	1r	1r	.	8aL	<
+.	.	.	.	.	.	.	8a#XJ	.
+.	.	4r	.	.	.	.	8bL	.
+.	.	.	.	.	.	.	8ccJ	.
+.	.	(8qqd/	.	.	.	.	.	.
+.	.	4d#X)	.	.	.	.	8cc#XL	.
+.	.	.	.	.	.	.	8ddJ)	.
+.	.	4e	.	.	.	.	(8bL	.
+.	.	.	.	.	.	.	8ccJ	[
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+1r	.	4r	.	1r	1r	.	8cc#X')	.
+.	.	.	.	.	.	.	8r	.
+.	.	(8qqe/	.	.	.	.	.	.
+.	.	4f)	.	.	.	.	(8ddL	<
+.	.	.	.	.	.	.	8dd#XJ	.
+.	.	4f#X	.	.	.	.	8eeL	.
+.	.	.	.	.	.	.	8ccJ	.
+.	.	4r	.	.	.	.	8ddL	.
+.	.	.	.	.	.	.	8dd#XJ	[[
+!!LO:REH:t=3
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+.	.	(8qqf#X/	.	.	.	.	.	.
+1r	.	4g)	.	1r	1r	.	8ee')	f
+.	.	.	.	.	.	.	8r	.
+.	.	4g#X	.	.	.	.	(8ccL	<
+.	.	.	.	.	.	.	8ddJ	.
+.	.	4r	.	.	.	.	8dd#XL	.
+.	.	.	.	.	.	.	8eeJ	.
+.	.	(8qqg#/	.	.	.	.	.	.
+.	.	4a')	.	.	.	.	8ffL	.
+.	.	.	.	.	.	.	8ff#XJ	[
+*	*	*	*	*	*clefF4	*	*	*
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+1r	.	4a#X'	.	1r	1r	.	8gg')	.
+.	.	.	.	.	.	.	8r	.
+.	.	4r	.	.	.	.	(8ggL	.
+.	.	.	.	.	.	.	8eeJ	.
+.	.	(8qqa#/	.	.	.	.	.	.
+.	.	4b')	.	.	.	.	8ffL	.
+.	.	.	.	.	.	.	8ff#XJ	.
+.	.	4cc'	.	.	.	.	8ggL)	.
+.	.	.	.	.	.	.	(8eeJ	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+1r	.	4r	.	1r	1r	.	8ffL	<
+.	.	.	.	.	.	.	8ff#XJ	.
+.	.	(8qqcc/	.	.	.	.	.	.
+.	.	4cc#X')	.	.	.	.	8gg)	.
+.	.	.	.	.	.	.	8r	.
+.	.	4dd'	.	.	.	.	(8ggL	.
+.	.	.	.	.	.	.	8aaJ	.
+.	.	4r	.	.	.	.	8aa#XL	.
+.	.	.	.	.	.	.	8bbJ	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+.	.	(8qqdd/	<	.	.	.	.	.
+1r	.	4dd#X')	.	1r	1r	.	8cccL)	.
+.	.	.	.	.	.	.	(8ggJ	.
+.	.	4ee'	.	.	.	.	8aaL	.
+.	.	.	.	.	.	.	8bbJ	.
+.	.	4r	.	.	.	.	8cccL)	.
+!	!	!	!	!	!	!	!LO:TX:b:i:t=cresc.	!
+.	.	.	.	.	.	.	(8aa-XJ	.
+.	.	(8qqee/	[	.	.	.	.	.
+.	.	4ff')	.	.	.	.	8bb-L	.
+.	.	.	.	.	.	.	8cccJ)	[
+=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/11/19
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Mau-14
+!!!Suter_Example_Number: 458
+!!!Suter_Example_ID: Mau-14/27/[2]6-[3]4
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 3:19
+!!!First_Publication_Year: 1930
+!!!First_Public_Performance_Year: 1930
+!!!Example_Total_Measures: 9
+!!!Example_Timestamp_Duration: 12
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 90
+!!!Example_Start_Tsig_Beat_Rate: 90
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 1:08
+!!!Example_Start_Tempo_Expression: [Poco a poco allegro]
+!!!Example_Start_Notated_Beat_Rate: {90}
+!!!Example_Start_Notated_Beat: {half}
+!!!Example_Start_Measure: 25
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:20
+!!!Example_End_Measure: 33
+!!!Example_Dataset: T
+!!!Editorial_Comments: Missing sources. Suter's example is a piano reduction. No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {half=90} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=BIS-CD-653); tempo for audio synthesis {quarter=136=>192} was calculated using a Digital Audio Workstation (DAW). Example Start Tempo Expression [Poco a poco allegro] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: no
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/17

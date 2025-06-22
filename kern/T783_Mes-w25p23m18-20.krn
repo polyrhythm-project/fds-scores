@@ -1,0 +1,116 @@
+!!!!SEGMENT: T783_Mes-w25p23m18-20.krn
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Messe de la Pentecôte (Pentecost Mass) for Organ
+!!!OMV: V: Sortie: Le vent de l'Esprit (Exit: The Wind of the Spirit)
+!!!OMD:
+!!!AGN: Instrumental; Keyboard
+!!!AGN-sub: Keyboard
+!!!CNT: French
+!!!ODT: 1950
+!!!OPR: Messe de la Pentecôte (Pentecost Mass) for Organ
+!!!filename: T783_Mes-w25p23m18-20.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*
+*part2	*	*part1	*	*part1	*
+*staff3	*	*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*	*	*
+*Iorgan	*	*Iorgan	*	*	*
+*I"Pedals	*	*I"Organ Manual	*	*	*
+*I'org-ped	*	*I'org-man	*	*	*
+*clefF4	*	*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+=18	=18	=18	=18	=18	=18
+!!LO:TX:omd:tempo:a:t=Vif\n{[eighth]=163}
+!	!	!LO:TX:a:t=23	!	!LO:TX:B:t=(Choeur des alouettes)	!
+!	!	!LO:TX:a:B:t=R	!	!LO:TX:B:rj:t=G P R	!
+!	!	!	!	!LO:TX:t=G&colon; fonds 16, 8, 4, Plein-Jeu | Péd&colon; tirasse Pos seule	!
+!LO:TX:b:t=4	!	!	!	!LO:TX:t=R&colon; fonds et Anche 16, 8, 4, Mixtures | Pos&colon; Prestant 4, Flûte 4, Cornet, Mixtures et Piccolo | 	!
+!	!LO:DY:t=꙳ legato %s	!	!	!	!LO:DY:t= stacc. %s
+!LO:TX:t=P:problem: Organ Peddle Markings need to be added into VHV (U and V).	!	!	!LO:DY:b:t=non leg. %s	!	!
+\4env	f	[2DDn [2GG [2Cn	f	16ddd#XLL	ff
+.	.	.	.	16ddd#	.
+.	.	.	.	16ddd#	.
+!LO:TX:b:t=↑	!	!	!	!	!
+!LO:TX:b:t=(Durées chromatiques, de 4 [sixteenth] à 25)	!	!	!	!	!
+.	.	.	.	16ddd#JJ	.
+!LO:TX:b:t=5	!	!LO:TX:t=↓	!	!	!
+!LO:TX:b:t=꙳ Ces chiffres indiquent pour chaque durée sa valeur en doubles croches.	!	!LO:TX:a:t=(Durées chromatiques, de 23 [sixteenth] à 1)	!	!	!
+[8dnu	.	.	.	8een	.
+.	.	.	.	(<8qdd-X/	.
+8.dL]	.	.	.	(8cccn^L)	.
+.	.	8DD_ 8GG_ 8C_	.	8eeen'J)	.
+!LO:TX:b:t=6	!	!	!	!	!
+[16c#XvJk	.	.	.	.	.
+=19	=19	=19	=19	=19	=19
+4c#X_	.	2.DD_ 2.GG_ 2.C_	.	16ddd#XLL	.
+.	.	.	.	16ddd#	.
+.	.	.	.	16ddd#	.
+.	.	.	.	16ddd#JJ	.
+16c#LL]	.	.	.	8een	.
+!LO:TX:b:t=7	!	!	!	!	!
+[16cnuJJ	.	.	.	.	.
+.	.	.	.	(<8qdd-X/	.
+4c_	.	.	.	(8cccn^L)	.
+.	.	.	.	8eeen'J)	.
+.	.	.	.	(<8qccn/	.
+8cL]	.	.	.	(8ccc#X^L)	.
+!LO:TX:b:t=8	!	!	!	!	!
+[8A#XJv	.	16DDLL] 16GG] 16C]	.	8ddd#X'J)	.
+!	!	!LO:TX:a:t=22	!	!	!
+.	.	[16FFnJJ [16AA-X [16D-X	.	.	.
+=20	=20	=20	=20	=20	=20
+4A#X_	.	2.FF_ 2.AA-X_ 2.D-X_	.	16eenLL	.
+.	.	.	.	16ee	.
+.	.	.	.	16bb	.
+.	.	.	.	16eeJJ	.
+8A#L]	.	.	.	(8dddn~L	.
+!LO:TX:b:t=9	!	!	!	!	!
+[16G#XKv	.	.	.	16ee-X'k)	.
+8G#J_	.	.	.	8ee-J	.
+8.G#L_	.	.	.	(8eee-X~L	.
+.	.	.	.	16ddn'k)	.
+8G#J_	.	8FF_ 8AA-_ 8D-_	.	8ddJ	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2022/1/20
+!!!EED2: Jason Lee
+!!!EEV2: 2022/05/02
+!!!Suter_Work_ID: Mes-25
+!!!Suter_Example_Number: 783
+!!!Suter_Example_ID: Mes-25/23/18-20
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: {7/8}
+!!!Full_Unit_Duration: 3:06
+!!!First_Publication_Year: 1951
+!!!First_Public_Performance_Year: 1951
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: unmetered
+!!!Example_Start_Tsig_Mean_Beat_Rate: 163
+!!!Example_Start_Tsig_Beat_Rate: 163
+!!!Example_Start_Tsig_Beat: {eighth}
+!!!Example_Start_Tsig: {5/8}
+!!!Example_Start_Timestamp: 0:48
+!!!Example_Start_Tempo_Expression: Vif
+!!!Example_Start_Notated_Beat_Rate: {163}
+!!!Example_Start_Notated_Beat: {eighth}
+!!!Example_Start_Measure: 18
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:55
+!!!Example_End_Measure: 20
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {eighth=163} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=CLASSCD902).
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Apr-1992
+!!!Changing_Tsig: {yes}
+!!!Birth_Place: Avignon,France
+!!!Birth_Date: 10-Dec-1908
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/04

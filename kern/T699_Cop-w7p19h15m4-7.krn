@@ -1,0 +1,102 @@
+!!!!SEGMENT: T699_Cop-w7p19h15m4-7.krn
+!!!COM: Copland, Aaron
+!!!OTL: Symphonic Ode
+!!!OMV: single movement work
+!!!OMD:
+!!!AGN: Orchestral; Symphonic
+!!!AGN-sub: Symphonic
+!!!CNT: American
+!!!ODT: 1929 (rev. 1955)
+!!!OPR: Symphonic Ode
+!!!filename: T699_Cop-w7p19h15m4-7.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:A	*
+*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ifagot	*	*Iclars	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Bassoon 1, 2	*	*I"Clarinet in Bb 1, 2	*	*I"Clarinet in Eb	*	*I"English Horn	*	*I"Oboe 1, 2	*	*I"Flute 1, 2	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'bn	*	*I'cl	*	*I'cl	*	*I'cor-en	*	*I'ob	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd-2c-3	*	*ITrd4c7	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-e-a-]	*	*k[b-]	*	*k[]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=[Subito allegro]\n[[quarter]=168&#8211;176]
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
+4r	f	4r	f	8f#X	mp	4%3r	.	4%3r	.	8F#X	mp	4r	.	4%3r	.	4r	.	4%3r	.	4r	.
+=-	=-	=-	=-	=:	=:	=-	=-	=-	=-	=:	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-	=-
+.	.	.	.	8d^	.	.	.	.	.	8E^	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!	!	!	!	!	!	!	!
+8AAA#X^	.	8AA#X^	.	4r	.	.	.	.	.	4r	.	8r	.	.	.	8r	.	.	.	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=Soli	!	!	!	!	!	!	!	!LO:TX:a:rj:t=a2	!
+8r	.	8r	.	.	.	.	.	.	.	.	.	8b-^L'	mp	.	.	8b-^	mp	.	.	8e^L	mp
+4r	.	4r	.	4r	.	.	.	.	.	4r	.	8cc'	.	.	.	4r	.	.	.	8f#X	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=a2	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	8ddJ'	.	.	.	.	.	.	.	8g#XJ	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=Soli	!	!	!
+4%3r	.	4%3r	.	4%3r	.	8b-X'v	mp	4%3r	.	8r	.	8b-^	.	8gg-X^	mp	8b-^	.	8gg-X^L'	mp	8a#X^	.
+.	.	.	.	.	.	8r	.	.	.	8e-X'	p	8r	.	8r	.	8r	.	8aa-X'	.	8r	.
+.	.	.	.	.	.	8r	.	.	.	8A-X'	.	8r	.	4r	.	8r	.	8bb-XJ'	.	8r	.
+.	.	.	.	.	.	8d'v	.	.	.	8r	.	8a-X^L'	.	.	.	8a-X^	.	4gg-~	.	8d^L	.
+.	.	.	.	.	.	4r	.	.	.	4r	.	8b-'	.	4r	.	4r	.	.	.	8e	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ccJ'	.	.	.	.	.	8ff'	.	8f#XJ	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4%3r	.	4%3r	.	4%3r	.	8a-X'v	.	4%3r	.	8r	.	8a-X^	.	8gg-X^	.	8a-X^	.	8gg-XL^	.	8g#X^	.
+.	.	.	.	.	.	8r	.	.	.	8e-X'	.	8r	.	8r	.	8r	.	8aa-XJ'	.	8r	.
+.	.	.	.	.	.	8r	.	.	.	8A-X'	.	8r	.	4r	.	8r	.	4ff~	.	8r	.
+.	.	.	.	.	.	8c'v	.	.	.	8r	.	8g-X^L'	.	.	.	8g-X^	.	.	.	8c^L	.
+.	.	.	.	.	.	4r	.	.	.	4r	.	8a-'	.	8ee-^	.	4r	.	8ee-X^L'	.	8d	.
+.	.	.	.	.	.	.	.	.	.	.	.	8b-J'	.	8r	.	.	.	8ff'	.	8eJ	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4%3r	.	4%3r	.	4%3r	.	8g-X'v	.	4r	.	8r	.	8g-X^	.	8r^	.	8g-X^	.	8gg-XJ'	.	8f#X^	.
+.	.	.	.	.	.	8r	.	.	.	8e-X'	.	8r	.	8ee-^	.	8r	.	4ee-X^	.	8r	.
+.	.	.	.	.	.	4r	.	8r	.	8A-X'	.	4r	.	4r	.	4r	.	.	.	4r	.
+!	!	!	!	!	!	!	!	!LO:TX:a:i:rj:t=spicc.	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	8b-X^v	p	8r	.	.	.	.	.	.	.	8r	.	.	.
+.	.	.	.	.	.	4r	.	8cc'L	.	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.
+.	.	.	.	.	.	.	.	8dd'J	.	.	.	.	.	.	.	.	.	.	.	.	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1[(s2,s3)][(s4,s5)]s6)][([(s7,s8)]s9,s10,s11)]
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/09/17
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/03/01
+!!!EED3: Bryan Bell
+!!!EEV3: 2023/06/12
+!!!Suter_Work_ID: Cop-7
+!!!Suter_Example_Number: 699
+!!!Suter_Example_ID: Cop-7/19/[15]4-7
+!!!Premiere_Location: Boston,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 20:09
+!!!First_Publication_Year: 1957
+!!!First_Public_Performance_Year: 1932
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 3
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 172
+!!!Example_Start_Tsig_Beat_Rate: 172
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 5:23
+!!!Example_Start_Tempo_Expression: [Subito allegro]
+!!!Example_Start_Notated_Beat_Rate: [168-176]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 138
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:26
+!!!Example_End_Measure: 141
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=168-176] based on most recent notated beat rate (SWFU, m. 92). Example Start Tempo Expression [Subito allegro] based on most recent notated tempo expression (SWFU, m. 92).
+!!!Death_Place: North Tarrytown,United States
+!!!Death_Date: 2-Dec-1990
+!!!Changing_Tsig: no
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 14-Nov-1900
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

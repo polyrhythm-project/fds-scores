@@ -1,0 +1,164 @@
+!!!!SEGMENT: T191_Sch-w8p35m23-33.krn
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: String Quartet No. 1, op. 7
+!!!OMV: single movement work
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Austrian
+!!!ODT: 1905
+!!!OPR: String Quartet No. 1, op. 7
+!!!filename: T191_Sch-w8p35m23-33.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[langsamer werdend]\n[[half-dot]=55; [half]=55]
+*M3/4	*	*M3/4	*	*M2/4	*	*M2/4	*
+!	!	!	!	!LO:TX:a:t=[Mit Dämpfer]	!	!	!
+!LO:TX:a:t=[Mit Dämpfer]	!	!LO:TX:a:t=[Mit Dämpfer]	!	!LO:TX:b:t=	!	!	!
+!	!	!	!	!LO:TX:a:t=h = h.	!	!	!
+*	*	*Xtuplet	*	*Xtuplet	*	*	*
+!	!	!	!	!	!	!LO:TX:a:t=h = h.	!
+*	*	*	*	*	*	*Xtuplet	*
+!	!	!	!	!LO:TX:a:t=[Mit Dämpfer]	!	!LO:TX:a:t=[Mit Dämpfer]	!
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!
+!	!	!	!	!LO:TX:rj:t=[half]=[half-dot]  	!	!LO:TX:rj:t=[half]=[half-dot]  	!
+([2.EE)	pp	(8c^L	p	16%3aL	pp	16%3ff#XL	pp
+.	.	8BnJ)	.	.	.	.	.
+.	.	.	.	16%3f#X	.	16%3aa	.
+.	.	8B	.	.	.	.	.
+.	.	8r	.	16%3g#X	.	16%3ee#X	.
+.	.	(8d^L	.	.	.	.	.
+.	.	.	.	16%3e#XJ	.	16%3gg#XJ	.
+.	.	8c#XJ)	.	.	.	.	.
+=1	=1	=1	=1	=1	=1	=1	=1
+2.EE_	.	8c#X	.	16%3B-XL	.	16%3gnL	.
+.	.	8r	.	.	.	.	.
+.	.	.	.	16%3Gn	.	16%3b-X	.
+.	.	(8cn^L	.	.	.	.	.
+.	.	8BnJ)	.	16%3gn	.	16%3een	.
+.	.	8B	.	.	.	.	.
+.	.	.	.	16%3enJ	.	16%3ggnJ	.
+.	.	8r	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+2.EE_	.	(8B-X^L	.	16%3f#XL	.	16%3dd#XL	.
+.	.	8AnJ)	.	.	.	.	.
+.	.	.	.	16%3d#XJ	.	16%3ff#XJ	.
+.	.	8A	.	.	.	.	.
+.	.	8r	.	8%3r	.	8%3r	.
+.	.	(8c^L	.	.	.	.	.
+.	.	8BnJ)	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2.EE]	.	8B	.	4%3r	.	4%3r	.
+.	.	8r	.	.	.	.	.
+.	.	(8B^L	.	.	.	.	.
+.	.	8AJ)	.	.	.	.	.
+.	.	8A	.	.	.	.	.
+.	.	8r	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+*M2/4	*	*	*	*	*	*	*
+*Xtuplet	*	*	*	*	*	*	*
+!LO:TX:rj:t=[half]=[half-dot]  	!	!	!	!	!	!	!
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!
+16%3F#XL	.	((8A^L	.	4%3r	.	4%3r	.
+.	.	[8G#XJ)	.	.	.	.	.
+16%3Dn	.	.	.	.	.	.	.
+.	.	2G#]	.	.	.	.	.
+16%3E#X	.	.	.	.	.	.	.
+16%3C#XJ	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+16%3GG#XL	.	[2.G#Xi	.	4%3r	.	4%3r	.
+16%3EE#XJ	.	.	.	.	.	.	.
+16%3EnL	.	.	.	.	.	.	.
+16%3C#XJ	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*M3/4	*
+!	!	!	!	!	!	!LO:TX:a:t=Bogen	!
+!	!	!	!	!	!	!LO:TX:rj:t=[half]=[half-dot]  	!
+16%3D#XL	.	8G#])	.	16%3dd#XL	pp	2ff#X	p
+.	.	8r	.	.	.	.	.
+16%3BBJ	.	.	.	16%3bnJ	.	.	.
+.	.	4r	.	.	.	.	.
+8%3r	.	.	.	16%3ddnL	.	.	.
+.	.	4r	.	.	.	[4een	.
+.	.	.	.	16%3b-XJ	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+!	!	!LO:TX:a:t=Dämpfer weg	!	!	!	!	!
+4%3r	.	4%3r	.	16%3enL	.	4ee]	.
+.	.	.	.	16%3cnJ	.	.	.
+.	.	.	.	.	.	4g#X	.
+.	.	.	.	16%3cc#XL	.	.	.
+.	.	.	.	.	.	4a	.
+.	.	.	.	16%3anJ	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+16%3CnL	pp	4%3r	.	16%3ccnL	.	2ccn	.
+16%3EnJ	.	.	.	16%3a-XJ	.	.	.
+16%3D-XL	.	.	.	8%3r	.	.	.
+.	.	.	.	.	.	[4b-X	.
+16%3FnJ	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+16%3c-XL	.	4%3r	.	4%3r	.	4b-]	.
+16%3e-XJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	4a	.
+16%3DnL	.	.	.	.	.	.	.
+.	.	.	.	.	.	4g#X	.
+16%3F#XJ	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+*	*	*	*	*M3/4	*	*	*
+!	!	!	!	!LO:TX:a:t=Bogen	!	!	!
+!	!	!	!	!LO:TX:rj:t=[half]=[half-dot]  	!	!	!
+16%3E-XL	.	8r	.	[2.An	.	[2.an	.
+.	.	(8CL	pp <	.	.	.	.
+16%3GnJ	.	.	.	.	.	.	.
+.	.	8Dn	.	.	.	.	.
+8%3r	.	8E-X	.	.	.	.	.
+.	.	8Fn	.	.	.	.	.
+.	.	8GnJ)	[	.	.	.	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: i = editorial accidental
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Sch-8
+!!!Suter_Example_Number: 191
+!!!Suter_Example_ID: Sch-8/35/23-33
+!!!Premiere_Location: Vienna,Austria
+!!!Other_Tsigs: 2/4;3/4
+!!!Full_Unit_Duration: 46:26
+!!!First_Publication_Year: 1907
+!!!First_Public_Performance_Year: 1907
+!!!Example_Total_Measures: 11
+!!!Example_Timestamp_Duration: 12
+!!!Example_Start_Tsig_Type: polydurational
+!!!Example_Start_Tsig_Mean_Beat_Rate: 137.5
+!!!Example_Start_Tsig_Beat_Rate: 165;110
+!!!Example_Start_Tsig_Beat: quarter;quarter
+!!!Example_Start_Tsig: 3/4;2/4
+!!!Example_Start_Timestamp: 2:57
+!!!Example_Start_Tempo_Expression: [langsamer werdend]
+!!!Example_Start_Notated_Beat_Rate: [55];[55]
+!!!Example_Start_Notated_Beat: [dotted-half];[half]
+!!!Example_Start_Measure: 23(554)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:09
+!!!Example_End_Measure: 33(564)
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat [dotted-half=55;half=55] notated at example location, but and Example Start Notated Beat Rate based on most recent notated beat rate (m. 1). Example Start Tempo Expression [langsamer werdend] based on most recent notated tempo expression (SWFU m. 532). Full Unit Duration calculated from disc 2 track 1 (0:00) to track 4 (8:41) (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=V902846). Example Start and End Time based on disc 2 track 2 \"Kräftig (nicht zu rasch)\" (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=V902846). Interpretation Note: The notated measures are based on rehearsal numbers: the beginning has 96 measures, rehearsal A has 103, B has 101, C has 65, D has 33, E has 133, F has 141, G has 111, H has 88, I has 80, K has 79, L has 91, M has 59, N has 89, and O has 51. The measure numbers given in parentheses are based on a count of the work as a single movement.
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: yes
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/27
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/02

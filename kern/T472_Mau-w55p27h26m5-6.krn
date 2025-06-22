@@ -1,0 +1,139 @@
+!!!!SEGMENT: T472_Mau-w55p27h26m5-6.krn
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: String Quartet No. 5
+!!!OMV: III: Allegro vivo
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Czech
+!!!ODT: 1938
+!!!OPR: String Quartet No. 5
+!!!filename: T472_Mau-w55p27h26m5-6.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*
+*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Allegro vivo]\n{[quarter-dot]=90}
+*M9/8	*	*M9/8	*	*M9/8	*	*M9/8	*
+=1	=1	=1	=1	=1	=1	=1	=1
+*tremolo	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:DY:ed=brack
+(32d-XLLL	f	8ff#X'L	f	8g'L 8b-X	.	8ggL 8bb-X	f
+32e-X	.	.	.	.	.	.	.
+32d-X	.	.	.	.	.	.	.
+32e-X	.	.	.	.	.	.	.
+32d-X	.	8ee'	.	(16ggL	f	8r	.
+32e-X	.	.	.	.	.	.	.
+32d-X	.	.	.	16aa	.	.	.
+32e-X	.	.	.	.	.	.	.
+32d-X	.	8dd#X'J	.	16gg	.	8fff#X'J	.
+32e-X	.	.	.	.	.	.	.
+32d-X	.	.	.	16aaJJ)	.	.	.
+32e-XJJJ)	.	.	.	.	.	.	.
+*	*	*	*	*tremolo	*	*	*
+(32d-LLL	.	8cc#X'L	.	(32ggLLL	.	8ccc#X'L	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	8b#X'	.	32gg	.	8eee'	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	8ff#'J	.	32gg	.	8gg'J	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-JJJ)	.	.	.	32aa)JJJ	.	.	.
+(32d-LLL	.	8ee'L	.	(32ggLLL	.	8bb-X'L	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	8dd#'	.	32gg	.	8r'	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	8cc#'J	.	32gg	.	8fff#X'J	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-JJJ)	.	.	.	32aa)JJJ	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+(32d-XLLL	.	8b#X'L	.	(32ggLLL	.	8ccc#X'L	.
+32e-X	.	.	.	32aa	.	.	.
+32d-X	.	.	.	32gg	.	.	.
+32e-X	.	.	.	32aa	.	.	.
+32d-X	.	8ff#X'	.	32gg	.	8eee'	.
+32e-X	.	.	.	32aa	.	.	.
+32d-X	.	.	.	32gg	.	.	.
+32e-X	.	.	.	32aa	.	.	.
+32d-X	.	8ee'J	.	32gg	.	8gg'J	.
+32e-X	.	.	.	32aa	.	.	.
+32d-X	.	.	.	32gg	.	.	.
+32e-XJJJ)	.	.	.	32aa)JJJ	.	.	.
+(32d-LLL	.	8dd#X'L	.	(32ggLLL	.	8bb-X'L	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	8cc#X'	.	32gg	.	8r'	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	8b#X'J	.	32gg	.	8gggn'J	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-JJJ)	.	.	.	32aa)JJJ	.	.	.
+(32d-LLL	.	8ff#'L	.	(32ggLLL	.	8bb-'L	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	8ee'	.	32gg	.	8eee-X'	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	8dd#'J	.	32gg	.	8gg'J	.
+32e-	.	.	.	32aa	.	.	.
+32d-	.	.	.	32gg	.	.	.
+32e-JJJ)	.	.	.	32aa)JJJ	.	.	.
+*Xtremolo	*	*	*	*Xtremolo	*	*	*
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Mau-55
+!!!Suter_Example_Number: 472
+!!!Suter_Example_ID: Mau-55/27/[26]5-6
+!!!Premiere_Location: Los Angeles,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 5:17
+!!!First_Publication_Year: 1959
+!!!First_Public_Performance_Year: 1938
+!!!Example_Total_Measures: 2
+!!!Example_Timestamp_Duration: 4
+!!!Example_Start_Tsig_Type: compound triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 90
+!!!Example_Start_Tsig_Beat_Rate: 90
+!!!Example_Start_Tsig_Beat: dotted-quarter
+!!!Example_Start_Tsig: 9/8
+!!!Example_Start_Timestamp: 0:30
+!!!Example_Start_Tempo_Expression: [Allegro vivo]
+!!!Example_Start_Notated_Beat_Rate: {90}
+!!!Example_Start_Notated_Beat: {dotted-quarter}
+!!!Example_Start_Measure: 15
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:34
+!!!Example_End_Measure: 16
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {dotted-quarter=90} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=8.553784). Example Start Tempo Expression [Allegro vivo] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: no
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/23

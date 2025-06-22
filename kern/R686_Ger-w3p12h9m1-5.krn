@@ -1,0 +1,220 @@
+!!!!SEGMENT: R686_Ger-w3p12h9m1-5.krn
+!!!COM: Gershwin, George
+!!!OTL: Rhapsody in Blue for Orchestra
+!!!OMV: single movement work
+!!!example: 686
+!!!work: Ger-3
+!!!OMD: Molto moderato
+!!!AGN-sub: Concerto
+!!!OPR: Rhapsody in Blue for Orchestra
+!!!filename: R686_Ger-w3p12h9m1-5.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ibanjo	*	*Ipiano	*Ipiano	*	*Ibrush&Ibdrum	*	*Itromp	*	*Itromp	*	*Icor	*	*Ifagot	*	*Iclars	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Banjo	*	*I"Piano	*I"Piano	*	*I"Brush, Bass Drum	*	*I"Trumpet in Bb 3	*	*I"Trumpet in Bb 1, 2	*	*I"Horn in F 1, 2	*	*I"Bassoon 1, 2	*	*I"Clarinet in Bb 1	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'banjo	*	*I'pf	*I'pf	*	*I'brush, b-dr	*	*I'tp	*	*I'tp	*	*I'cor-fr	*	*I'bn	*	*I'cl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*	*	*k[]	*	*k[]	*	*	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*C:	*	*	*	*C:	*	*C:	*	*	*	*C:	*	*C:	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*ITrd4c7	*	*	*	*ITrd1c2	*
+!!LO:TX:omd:tempo:a:t=[Tempo giusto]\n{[quarter]=133}
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*	*MM133	*
+!!LO:REH:t=9
+=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*grp:B	*grp:A	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TX:t=Let strings snap	!	!	!LO:S:a	!	!LO:TX:b:t=B. D.	!LO:TX:a:t=Brush	!LO:DY:rj	!	!	!	!	!	!	!LO:TX:t=a2	!	!	!
+4CC'	mf	4CC' 4GG	mf	(8B-X^L	mf	4.c^ 4.e	mf	4c' 4g	mf	1ryy	(8bbb-X\L 8cccc\ 8eeee\	p	(8eeR^L'	4fR	mf	1r	.	(8cL 8cc	mf	4.c^ 4.e	mf	(8B-X^L	mf	1r	.
+.	.	.	.	8A	.	.	.	.	.	.	8aaa\	.	8eeR'	.	.	.	.	8eJ) 8ee	.	.	.	8A	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=L.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC'	.	4CC' 4GG	.	8G)	.	.	.	4c' 4g	.	.	8ggg</)	.	8eeR')	4fR	.	.	.	4g^ 4gg	.	.	.	8G)	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=R. H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	(8B-^J	.	[8c^ [8e	.	.	.	.	(8bb-XJ 8ccc 8eee\	.	(8eeR^J'	.	.	.	.	.	.	[8c^ [8e	.	(8B-^J	.	.	.
+4CC'	.	4CC' 4GG	.	8AL	.	4c] 4e]	.	4c' 4g	.	.	8aaL\	.	8eeR'L	4fR	.	.	.	4g^ 4gg	.	4c] 4e]	.	8AL	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=L.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	8GJ)	.	.	.	.	.	.	8gg<J/)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=R. H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC'	.	4CC' 4GG	.	(12B-^L	.	4c^ 4e	.	4c' 4g	.	.	(>12b-XL 12cc 12ee	.	(12ee'R^L	4fR	.	.	.	4g^ 4gg	.	4c^ 4e	.	(12B-^L	.	.	.
+.	.	.	.	12A	.	.	.	.	.	.	12a	.	12ee'R	.	.	.	.	.	.	.	.	12A	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=L.H.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	12GJ)	.	.	.	.	.	.	12g<J)	.	12ee'RJ)	.	.	.	.	.	.	.	.	12GJ)	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:c:i:t=simile	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!LO:S:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GG'	.	4GG' 4D	.	(8Bn^L	.	4.d^ 4.f	.	4d' 4g	.	1ryy	(8bbbnL\ 8dddd 8ffff	.	(8eeR^L'	4fR	.	1r	.	4g^ 4gg	.	4.d^ 4.f	.	(8Bn^L	.	1r	.
+.	.	.	.	8A	.	.	.	.	.	.	8aaa\	.	8eeR'	.	.	.	.	.	.	.	.	8A	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(8qg#X/ 8qgg#X	.	.	.	.	.	.	.
+4GG'	.	4GG' 4D	.	8G)	.	.	.	4d' 4g	.	.	8ggg</)	.	8eeR')	4fR	.	.	.	8a'L) 8aa	.	.	.	8G)	.	.	.
+.	.	.	.	(8B^J	.	[8d^ [8f	.	.	.	.	(8bbnJ/ 8ddd 8fff	.	(8eeR^J'	.	.	.	.	8gn'J 8ggn	.	[8d^ [8f	.	(8B^J	.	.	.
+4GG'	.	4GG' 4D	.	8AL	.	4d] 4f]	.	4d' 4g	.	.	8aaL\	.	8eeR'L	4fR	.	.	.	8fL' 8ff	.	4d] 4f]	.	8AL	.	.	.
+.	.	.	.	8GJ)	.	.	.	.	.	.	8gg<J/)	.	8eeR'J)	.	.	.	.	8e'J 8ee	.	.	.	8GJ)	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:TUP:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GG'	.	4GG' 4D	.	(12B^L	.	4d^ 4f	.	4d' 4g	.	.	(12bnL\ 12dd 12ff	.	(12eeR^L'	4fR	.	.	.	4d~ 4dd	.	4d^ 4f	.	(12B^L	.	.	.
+.	.	.	.	12A	.	.	.	.	.	.	12a\	.	12eeR'	.	.	.	.	.	.	.	.	12A	.	.	.
+.	.	.	.	12GJ)	.	.	.	.	.	.	12g<J/)	.	12eeRJ)'	.	.	.	.	.	.	.	.	12GJ)	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=flutter	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=flutter	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!LO:S:a	!	!	!	!	!LO:TX:t=flutter	!	!LO:TX:b:t=flutter	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem3	!	!LO:N:O=trem3	!	!	!	!	!	!	!
+4CC'	.	4CC' 4GG	.	(8B-X^L	.	4.c^ 4.e	.	4c' 4g	.	1ryy	(8bbb-XL 8cccc 8eeee	.	(8eeR^L'	4fR	.	(1cOOO	mf	(1c (1ccOOO	.	4.c^ 4.e	.	(8B-X^L	.	2r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8A	.	.	.	.	.	.	8aaa\	.	8eeR'	.	.	.	.	.	.	.	.	8A	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4CC'	.	4CC' 4GG	.	8G)	.	.	.	4c' 4g	.	.	8ggg</)	.	8eeR')	4fR	.	.	.	.	.	.	.	8G)	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(8B-^J	.	[8c^ [8e	.	.	.	.	(8bb-XJ\ 8ccc 8eee	.	(8eeR^J'	.	.	.	.	.	.	[8c^ [8e	.	(8B-^J	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4CC'	.	4CC' 4GG	.	8AL	.	4c] 4e]	.	4c' 4g	.	.	8aaL\	.	8eeR'L	4fR	.	.	.	.	.	4c] 4e]	.	8AL	.	4r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8GJ)	.	.	.	.	.	.	8gg<J/)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=Solo	!
+4CC'	.	4CC' 4GG	.	(12B-^L	.	4c^ 4e	.	4c' 4g	.	.	(>12b-XL 12cc 12ee	.	(12eeR^L'	4fR	.	.	.	.	.	4c^ 4e	.	(12B-^L	.	(12bb-L	mf
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12A	.	.	.	.	.	.	12a	.	12eeR'	.	.	.	.	.	.	.	.	12A	.	12aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12GJ)	.	.	.	.	.	.	12g<J)	.	12eeRJ)'	.	.	.	.	.	.	.	.	12GJ)	.	12ggJ)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*
+=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94
+!	!	!	!	!	!	!	!	!	!	!	!LO:S:a	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=gliss.	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:O=trem3	!	!	!	!	!	!	!	!	!
+4AAA-X'	.	4AA-X' 4E-X	.	(8B-n^L	.	4.c^ 4.e-X	.	4e-X' 4a-X	.	1ryy	(8bbb-XL\ 8cccc 8eeee-	.	(8eeR^L'	4fR	.	1cOOO)	.	1c) 1ccOOO)	.	4.c^ 4.e-X	.	(8B-n^L	.	(8cc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8A-	.	.	.	.	.	.	8aaa-\	.	8eeR'	.	.	.	.	.	.	.	.	8A-	.	4ccc^)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4AAA-'	.	4AA-' 4E-	.	8G-)	.	.	.	4e-' 4a-	.	.	8ggg-</)	.	8eeR')	4fR	.	.	.	.	.	.	.	8G-)	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:i:t=gliss.	!
+.	.	.	.	(8B-^J	.	[8c^ [8e-	.	.	.	.	(8bb-XJ 8ccc 8eee-	.	(8eeR^J'	.	.	.	.	.	.	[8c^ [8e-	.	(8B-^J	.	(8cc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4AAA-'	.	4AA-' 4E-	.	8A-L	.	4c] 4e-]	.	4e-' 4a-	.	.	8aa-\L	.	8eeR'L	4fR	.	.	.	.	.	4c] 4e-]	.	8A-L	.	4aa-X^)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8G-J)	.	.	.	.	.	.	8gg-</J)	.	8eeR'J)	.	.	.	.	.	.	.	.	8G-J)	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4AAA-'	.	4AA-' 4E-	.	(12B-^L	.	4c^ 4e-	.	4e-' 4a-	.	.	(>12b-XL 12cc 12ee-	.	(12eeR^L'	4fR	.	.	.	.	.	4c^ 4e-	.	(12B-^L	.	(8ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12A-	.	.	.	.	.	.	12a-	.	12eeR'	.	.	.	.	.	.	.	.	12A-	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ee-XJ)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	12G-J)	.	.	.	.	.	.	12g-<J)	.	12eeRJ)'	.	.	.	.	.	.	.	.	12G-J)	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
+!	!	!	!	!	!	!	!	!	!	!	!LO:S:a	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC'	.	4CC' 4GG	.	(8B-X^L	.	4.c^ 4.enX	.	4c' 4g	.	1ryy	(8bbb-XL\ 8cccc 8eeeen	.	(8eeR^L'	4fR	.	1r	.	(8cL 8cc	.	4.c^ 4.enX	.	(8B-X^L	.	4g	.
+.	.	.	.	8An	.	.	.	.	.	.	8aaan\	.	8eeR'	.	.	.	.	8eJ) 8ee	.	.	.	8An	.	.	.
+4CC'	.	4CC' 4GG	.	8Gn)	.	.	.	4c' 4g	.	.	8gggn</)	.	8eeR')	4fR	.	.	.	4g^ 4gg	.	.	.	8Gn)	.	4r	.
+.	.	.	.	(8B-^J	.	[8c^ [8e	.	.	.	.	(8bb-XJ\ 8ccc 8eee	.	(8eeR^J'	.	.	.	.	.	.	[8c^ [8e	.	(8B-^J	.	.	.
+4CC'	.	4CC' 4GG	.	8AL	.	4c] 4e]	.	4c' 4g	.	.	8aaL\	.	8eeR'L	4fR	.	.	.	4g^ 4gg	.	4c] 4e]	.	8AL	.	2r	.
+.	.	.	.	8GJ)	.	.	.	.	.	.	8gg<J/)	.	8eeR'J)	.	.	.	.	.	.	.	.	8GJ)	.	.	.
+4CC'	.	4CC' 4GG	.	(12B-^L	.	4c^ 4e	.	4c' 4g	.	.	(>12b-XL 12cc 12ee	.	(12eeR^L'	4fR	.	.	.	4g^ 4gg	.	4c^ 4e	.	(12B-^L	.	.	.
+.	.	.	.	12A	.	.	.	.	.	.	12a	.	12eeR'	.	.	.	.	.	.	.	.	12A	.	.	.
+.	.	.	.	12GJ)	.	.	.	.	.	.	12g<J)	.	12eeRJ)'	.	.	.	.	.	.	.	.	12GJ)	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!RDF**kern: O = tremolo
+!!!system-decoration: [(s1,s2)][(s3,s4,s5)]<s6>{(s7,s8)}s9[(s10,s11,s12,s13)]
+!!!CDT: 1898/09/26-1937/07/11
+!!!CBL: Brooklyn, United States
+!!!CDL: Hollywood, United States
+!!!CNT: American
+!!!AGN: Orchestral; Concerto
+!!!MCN: Whiteman, Paul
+!!!MDT: 1924/02/12
+!!!MGN: Paul Whiteman Band
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1924
+!!!MPN: Gerschwin, George
+!!!ODT: 1924
+!!!PDT: 1924
+!!!excerpt-start-measure: 91
+!!!excerpt-end-measure: 95
+!!!excerpt-start-time: 3:49
+!!!excerpt-end-time: 3:57
+!!!excerpt-duration-sec: 9
+!!!excerpt-time-signature: 4/4
+!!!excerpt-tempo-beat: {quarter}
+!!!excerpt-tempo-rate: {133}
+!!!excerpt-meter-type: simple quadruple
+!!!excerpt-beat-group: G4
+!!!excerpt-beat-subgroup: G2
+!!!experiment: none
+!!!EEV: 2020/01/27
+!!!Suter_Work_ID: Ger-3
+!!!Suter_Example_Number: 686
+!!!Suter_Example_ID: Ger-3/12/[9]1-5
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 16:49
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1924
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 9
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 133
+!!!Example_Start_Tsig_Beat_Rate: 133
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 3:49
+!!!Example_Start_Tempo_Expression: [Tempo giusto]
+!!!Example_Start_Notated_Beat_Rate: {133}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 91
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:57
+!!!Example_End_Measure: 95
+!!!Example_Dataset: R
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=133} calculated based on recording (https://ubc-nml3-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=5099960669155). Example Start Tempo Expression [Tempo giusto] based on most recent notated tempo expression (SWFU, m. 72).
+!!!Death_Place: Hollywood,United States
+!!!Death_Date: 11-Jul-1937
+!!!Changing_Tsig: no
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 26-Sep-1898
+!!!Audio_Example_Quarter_Note_Tempo: 147
+!!!Audio_Example_Duration: 8.186
+!!!ONB: Converted from MusicXML on 2020/01/27

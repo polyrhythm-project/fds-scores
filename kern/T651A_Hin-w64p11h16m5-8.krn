@@ -1,0 +1,108 @@
+!!!!SEGMENT: T651A_Hin-w64p11h16m5-8.krn
+!!!COM: Hindemith, Paul
+!!!OTL: Sonata in C Major for Violin and Piano
+!!!OMV: II: Slow
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: German
+!!!ODT: 1939
+!!!OPR: Sonata in C Major for Violin and Piano
+!!!filename: T651A_Hin-w64p11h16m5-8.krn
+**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:B	*
+*part2	*part2	*	*part1	*
+*staff3	*staff2	*staff2/3	*staff1	*
+*ICklav	*ICklav	*	*ICstr	*
+*Ipiano	*Ipiano	*	*Ivioln	*
+*I"Piano	*I"Piano	*	*I"Violin	*
+*I'pf	*I'pf	*	*I'vn	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*C:	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[A tempo (Lively)]\n[[eighth]=200]
+*M5/8	*M5/8	*	*M5/8	*
+=93	=93	=93	=93	=93
+(16cLL	(16ccLL	pp	4.cc	p
+16e-X)	16ee-X)	.	.	.
+16c'	16cc'	.	.	.
+16B-X'	16b-X'	.	.	.
+16A'	16a'	.	.	.
+16A-X'JJ	16a-X'JJ	.	.	.
+(16GLL	(16gLL	.	(8ffL	.
+16B-)	/16b-)	.	.	.
+16G'	16g'	.	8ddJ)	.
+16F'	16f'	.	.	.
+=94	=94	=94	=94	=94
+16E'	16e'	.	(16ccLL	.
+16E-X'JJ	16e-X'JJ	.	16a)	.
+(16DLL	(16dLL	.	16cc	.
+16F)	16f)	.	16aJJ	.
+16D'	16d'	.	((8gL	.
+\16C'	16c'	.	.	.
+\16BB'	16B'	.	8f)	.
+\16BB-X'JJ	16B-X'JJ	.	.	.
+*	*clefF4	*	*	*
+(16AALL	(16ALL	.	8e'J)	.
+16C)	16c)	.	.	.
+=95	=95	=95	=95	=95
+16AA'	16A'	.	(8e-XL	.
+16GG'	16G'	.	.	.
+16FF#X'	16F#X'	.	8cJ)	.
+16FFn'JJ	16Fn'JJ	.	.	.
+(16EELL	(16ELL	.	(4f	.
+16GG)	16G)	.	.	.
+16EE'	16E'	.	.	.
+16DD'	16D'	.	.	.
+16CC#X'	16C#X'	.	16e-XLL	.
+16CCn'JJ	16Cn'JJ	.	16fJJ)	.
+=96	=96	=96	=96	=96
+(16BBBLL	(16BBLL	.	(8a-XL	<
+16DD)	16D)	.	.	.
+16BBB'	16BB'	.	8fJ)	.
+16AAA'	16AA'	.	.	.
+16GGG#X'	16GG#X'	.	((8b-XL	.
+16GGGn'JJ	16GGn'JJ	.	.	.
+8FFF#X'	8FF#X'	.	8g)	.
+8r	8r	.	8b-'J)	[[
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/09/02
+!!!EED2: Daniel Wright
+!!!Suter_Work_ID: Hin-64
+!!!Suter_Example_Number: 651A
+!!!Suter_Example_ID: Hin-64/11/[16]5-8
+!!!Premiere_Location: Lisbon,Portugal
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:04
+!!!First_Publication_Year: 1940
+!!!First_Public_Performance_Year: 1944
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: unequal duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 200
+!!!Example_Start_Tsig_Beat_Rate: 200
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 5/8
+!!!Example_Start_Timestamp: 2:37
+!!!Example_Start_Tempo_Expression: [A tempo (Lively)]
+!!!Example_Start_Notated_Beat_Rate: [200]
+!!!Example_Start_Notated_Beat: [eighth]
+!!!Example_Start_Measure: 93
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:42
+!!!Example_End_Measure: 96
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [eighth=200 or even somewhat faster] based on most recent notated beat rate (SWFU, m. 25). Example Start Tempo Expression [A tempo (Lively)] based on most recent notated tempo expressions (SWFU, m. 61 and m. 25).
+!!!Death_Place: Frankfurt,Germany
+!!!Death_Date: 28-Dec-1963
+!!!Changing_Tsig: no
+!!!Birth_Place: Hanau,Germany
+!!!Birth_Date: 16-Nov-1895
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/03
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

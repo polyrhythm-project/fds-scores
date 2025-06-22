@@ -1,0 +1,121 @@
+!!!!SEGMENT: T388_Str-w34p23m228-230.krn
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: Concerto for Two Pianos
+!!!OMV: I: Con moto
+!!!OMD:
+!!!AGN: Instrumental; Keyboard
+!!!AGN-sub: Keyboard
+!!!CNT: Russian, French, American
+!!!ODT: 1935
+!!!OPR: Concerto for Two Pianos
+!!!filename: T388_Str-w34p23m228-230.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*
+*part2	*	*part2	*	*part1	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICklav	*	*ICklav	*	*ICklav	*	*ICklav	*
+*Ipiano	*	*Ipiano	*	*Ipiano	*	*Ipiano	*
+*I"Piano 2	*	*I"Piano 2	*	*I"Piano 1	*	*I"Piano 1	*
+*I'pf	*	*I'pf	*	*I'pf	*	*I'pf	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[tempo primo (Con moto)]\n[[quarter]=108]
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=228	=228	=228	=228	=228	=228	=228	=228
+*^	*	*	*	*	*	*	*
+!	!	!LO:DY:t=meno %s ma marcato	!LO:TX:a:Bi:t=détaché	!LO:DY:t=sub.- %s	!	!	!	!LO:DY:t=marc. in %s
+16DD	2.DDD^	f	16F^LL 16G 16B	p	4E	.	16bLL	p
+8.r	.	.	16E	.	.	.	16a	.
+.	.	.	16F 16G 16B	.	.	.	16g	.
+.	.	.	16EJJ	.	.	.	16fJJ	.
+4r	.	.	16FLL 16G 16B	.	4G	.	16eLL	.
+.	.	.	16E	.	.	.	16g	.
+.	.	.	16F 16G 16B	.	.	.	16b	.
+.	.	.	16EJJ	.	.	.	16eeJJ	.
+4r	.	.	16FLL 16G 16B	.	[4B	.	/16ddLL	.
+.	.	.	16E	.	.	.	16cc	.
+.	.	.	16F 16G 16B	.	.	.	16b	.
+.	.	.	16EJJ	.	.	.	16aJJ	.
+16GG	[4GGG	.	16FLL 16G 16B	.	8.BL]	.	16gLL	.
+8.r	.	.	16E	.	.	.	16f	.
+.	.	.	16F 16G 16B	.	.	.	16e	.
+.	.	.	16EJJ	.	16eJk	.	16gJJ	.
+=229	=229	=229	=229	=229	=229	=229	=229	=229
+4r	4GGG]	.	16FLL 16G 16B	.	8.DL	.	16bLL	.
+.	.	.	16E	.	.	.	16ee	.
+.	.	.	16F 16G 16B	.	.	.	16dd	.
+.	.	.	16EJJ	.	16GJk	.	16ccJJ	.
+16BB	2BBB	.	16FLL 16G 16B	.	8.BL	.	16bLL	.
+8.r	.	.	16E	.	.	.	16a	.
+.	.	.	16F 16G 16B	.	.	.	16g	.
+.	.	.	16EJJ	.	16eJk	.	16fJJ	.
+4r	.	.	16FLL 16G 16B	.	[>4C	.	16eLL	.
+.	.	.	16E	.	.	.	16g	.
+.	.	.	16F 16G 16B	.	.	.	16b	.
+.	.	.	16EJJ	.	.	.	16eeJJ	.
+4r	4EE	.	16FLL 16G 16B	.	8.CL]	.	16ddLL	.
+.	.	.	16E	.	.	.	16cc	.
+.	.	.	16F 16G 16B	.	.	.	16b	.
+.	.	.	16EJJ	.	16GJk	.	16aJJ	.
+=230	=230	=230	=230	=230	=230	=230	=230	=230
+!LO:TX:a:B:t=1    -    2	!	!	!	!	!	!	!	!
+[<8CCL 8CCC	4ryy	.	16FLL 16G 16B	.	8.BL	.	16gLL	.
+.	.	.	16E	.	.	.	16f	.
+8CCJ]	.	.	16F 16G 16B	.	.	.	16e	.
+.	.	.	16EJJ	.	16eJk	.	16gJJ	.
+!LO:TX:a:B:t=1    -    2	!	!	!	!	!	!	!	!
+[<8GGL 8GGG	4ryy	.	16FLL 16G 16B	.	8.DL	.	16bLL	.
+.	.	.	16E	.	.	.	16ee	.
+8GGJ]	.	.	16F 16G 16B	.	.	.	16dd	.
+.	.	.	16EJJ	.	16GJk	.	16ccJJ	.
+!LO:TX:a:B:t=1    -    2	!	!	!	!	!	!	!	!
+[<8BBL 8BBB	4ryy	.	16FLL 16G 16B	.	8.BL	.	16bLL	.
+.	.	.	16E	.	.	.	16a	.
+8BBJ_<	.	.	16F 16G 16B	.	.	.	16g	.
+.	.	.	16EJJ	.	16eJk	.	16fJJ	.
+*v	*v	*	*	*	*	*	*	*
+8.BBL]	.	16FLL 16G 16B	.	8.CL	.	\16eLL	.
+.	.	16E	.	.	.	16g	.
+.	.	16F 16G 16B	.	.	.	16b	.
+!LO:TX:b:B:t=2	!	!	!	!	!	!	!
+16EEJk	.	16EJJ	.	16GJk	.	16eeJJ	.
+=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!Suter_Work_ID: Str-34
+!!!Suter_Example_Number: 388
+!!!Suter_Example_ID: Str-34/23/228-330
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:25
+!!!First_Publication_Year: 1936
+!!!First_Public_Performance_Year: 1935
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 108
+!!!Example_Start_Tsig_Beat_Rate: 108
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 6:03
+!!!Example_Start_Tempo_Expression: [tempo primo (Con moto)]
+!!!Example_Start_Notated_Beat_Rate: [108]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 228
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 6:10
+!!!Example_End_Measure: 230
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=108] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [tempo primo (Con moto)] based on most recent notated tempo expression (SWFU, m. 170).
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Apr-1971
+!!!Changing_Tsig: no
+!!!Birth_Place: Lomonosov (Oranienbaum),Russia
+!!!Birth_Date: 17-Jun-1882
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV: 2021/07/28

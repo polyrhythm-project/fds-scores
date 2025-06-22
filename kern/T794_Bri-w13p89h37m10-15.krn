@@ -1,0 +1,190 @@
+!!!!SEGMENT: T794_Bri-w13p89h37m10-15.krn
+!!!COM: Britten, (Edward) Benjamin
+!!!OTL: Violin Concerto, op. 15
+!!!OMV: III: Passacaglia
+!!!OMV: III: Passacaglia
+!!!example: 794
+!!!work: Bri-13
+!!!AGN-sub: Concerto
+!!!OPR: Violin Concerto, op. 15
+!!!filename: T794_Bri-w13p89h37m10-15.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*
+*Icbass	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ituba	*	*Icor	*	*Icor	*	*Ifagot	*
+*I"Contrabass	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Solo Violin	*	*I"Tuba	*	*I"Horn in F 3	*	*I"Horn in F 1, 2	*	*I"Bassoon 1	*
+*I'cb	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'tb	*	*I'cor-fr	*	*I'cor-fr	*	*I'bn	*
+*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefF4	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*ITrd4c7	*	*	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*	*F:	*
+!!LO:TX:omd:tempo:a:t=[con moto]\n[[quarter]=60]
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
+4%3r)	[[	8D#X)	pp	8A	pp	8f#X	pp	20%3fff#X~L	.	4%3r	.	4%3r	.	4%3r	.	4%3r	.
+.	.	(32D#'LLL	.	(32A'LLL	.	(32f#'LLL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	20%3eee~	.	.	.	.	.	.	.	.	.
+.	.	32D#'	[	32A'	[	32f#'	.	.	.	.	.	.	.	.	.	.	.
+.	.	32D#'	.	32A'	.	32f#'	.	.	.	.	.	.	.	.	.	.	.
+.	.	32D#'JJJ)	.	32A'JJJ)	.	32f#'JJJ)	.	.	.	.	.	.	.	.	.	.	.
+.	.	8D#'	.	8A'	.	8f#'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	20%3ddd~	.	.	.	.	.	.	.	.	.
+.	.	(32D#'LLL	.	(32A'LLL	.	(32f#'LLL	.	.	.	.	.	.	.	.	.	.	.
+.	.	32D#'	.	32A'	.	32f#'	.	.	.	.	.	.	.	.	.	.	.
+.	.	32D#'	.	32A'	.	32f#'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	20%3ccc~	.	.	.	.	.	.	.	.	.
+.	.	32D#'JJJ)	.	32A'JJJ)	.	32f#'JJJ)	.	.	.	.	.	.	.	.	.	.	.
+.	.	8D#'	.	8A'	.	8f#'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	20%3bbn~J	.	.	.	.	.	.	.	.	.
+.	.	(32D#'LLL	.	(32A'LLL	.	(32f#'LLL	.	.	.	.	.	.	.	.	.	.	.
+.	.	32D#'	.	32A'	.	32f#'	.	.	.	.	.	.	.	.	.	.	.
+.	.	32D#'	.	32A'	.	32f#'	.	.	.	.	.	.	.	.	.	.	.
+.	.	32D#'JJJ)	.	32A'JJJ)	.	32f#'JJJ)	.	.	.	.	.	.	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+4%3r	.	8D#X'	.	8A'	.	8f#X'	.	28%3aa~L	.	4%3r	.	8A'L	p	8D#X'L 8f#X	p	4%3r	.
+.	.	.	.	.	.	.	.	28%3gg~	.	.	.	.	.	.	.	.	.
+.	.	8r	.	8r	.	8r	.	.	.	.	.	8A'	.	8D#' 8f#	.	.	.
+.	.	.	.	.	.	.	.	28%3ff#X~	.	.	.	.	.	.	.	.	.
+.	.	4r	.	4r	.	4r	.	.	.	.	.	8A'	.	8D#' 8f#	.	.	.
+.	.	.	.	.	.	.	.	28%3ee~	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8A'	.	8D#' 8f#	.	.	.
+.	.	.	.	.	.	.	.	28%3dd~	<	.	.	.	.	.	.	.	.
+.	.	[4D#v	<	[4Av	<	[4f#v	<	.	.	.	.	8A'	<	8D#' 8f#	<	.	.
+.	.	.	.	.	.	.	.	28%3cc~	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8A'J	[[	8D#'J 8f#	[[	.	.
+.	.	.	.	.	.	.	.	28%3bn~J	[	.	.	.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*
+!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!
+!LO:TX:a:t=I Solo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=poco animando	!
+!	!LO:DY:t=%s espress.	!	!	!	!	!LO:TX:a:B:t=poco animando	!	!	!	!	!	!	!	!	!	!	!LO:DY:t= %s espress.
+(8.BBBnL	mf	8D#']	[	8A']	[	8f#']	[	8a~	sf	4%3r	.	8A'	.	8D#X' 8f#X	.	(8.BBBnL	mf
+!	!	!	!	!	!	!	!	!	!LO:DY:t=%s saltando	!	!	!	!	!	!	!	!
+.	.	8r	.	8r	.	8r	.	(32Bn'uLLL 32f#X 32a	mf	.	.	8r	.	8r	.	.	.
+.	.	.	.	.	.	.	.	32B' 32f# 32a	.	.	.	.	.	.	.	.	.
+16CC#XJk)	.	.	.	.	.	.	.	32B' 32f# 32a	.	.	.	.	.	.	.	16CC#XJk)	.
+.	.	.	.	.	.	.	.	32B'JJJ 32f# 32a)	.	.	.	.	.	.	.	.	.
+4.CC#~	.	4r	.	4r	.	4r	.	8B'v 8f# 8a	.	.	.	4r	.	4r	.	4.CC#~	.
+.	.	.	.	.	.	.	.	(32B'uLLL 32f# 32a	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32B' 32f# 32a	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32B' 32f# 32a	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32B'JJJ 32f# 32a)	.	.	.	.	.	.	.	.	.
+.	.	[4Bnv	pp	[4f#Xv	pp	[4av	pp	8B'v 8f# 8a	.	.	.	4r	.	4r	.	.	.
+([8DD^	.	.	.	.	.	.	.	(32B'uLLL 32f# 32a	.	.	.	.	.	.	.	([8DD^	.
+.	.	.	.	.	.	.	.	32B' 32f# 32a	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32B' 32f# 32a	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32B'JJJ 32f# 32a)	.	.	.	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+!LO:TX:t=Solo	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8.DDL]	.	8B]	.	8f#]	.	8a]	.	8Bn'v 8f#X 8a	.	4%3r	.	4%3r	.	4%3r	.	8.DDL]	.
+.	.	8r	.	8r	.	8r	.	8B'v 8f# 8a	.	.	.	.	.	.	.	.	.
+16EEJk)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16EEJk)	.
+(8.EEL	.	4r	.	4r	.	4r	.	8B'v 8f# 8a	.	.	.	.	.	.	.	(8.EEL	<
+.	.	.	.	.	.	.	.	(32B'uLLL 32f# 32a	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32B' 32f# 32a	.	.	.	.	.	.	.	.	.
+16FFniJk)	.	.	.	.	.	.	.	32B' 32f# 32a	.	.	.	.	.	.	.	16FFniJk)	.
+.	.	.	.	.	.	.	.	32B'JJJ 32f# 32a)	.	.	.	.	.	.	.	.	.
+8FF^L	<	(4Bnv	pp <	(4f#Xv	pp <	[4av	pp <	8B'v 8f# 8a	.	.	.	.	.	.	.	(8FFL	.
+8GG^J	[[	.	.	.	.	.	.	8B'v 8f# 8a	.	.	.	.	.	.	.	8GGJ	[[
+=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
+*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:b:t=gli altri	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s sost.	!	!	!	!	!	!
+8GG#X\^	4.GG#^/	p	8c#X)	[	8e)	[	8a]	[	8c#X'u 8e 8a	sf	[2.GG#X	pp	4%3r	.	4%3r	.	4.GG#X)~	>
+8rAA	.	>	(32c#'LLL	pp	(32e'LLL	pp	(32a'LLL	pp	8r	.	.	.	.	.	.	.	.	.
+.	.	.	32c#'	.	32e'	.	32a'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	32c#'	.	32e'	.	32a'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	32c#'JJJ)	.	32e'JJJ)	.	32a'JJJ)	.	.	.	.	.	.	.	.	.	.	.
+4rAA	.	]	8c#'	.	8e'	.	8a'	.	4r	.	.	.	.	.	.	.	.	.
+.	8rc	.	(32c#'LLL	.	(32e'LLL	.	(32a'LLL	.	.	.	.	.	.	.	.	.	8r	]
+.	.	.	32c#'	.	32e'	.	32a'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	32c#'	.	32e'	.	32a'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	32c#'JJJ)	.	32e'JJJ)	.	32a'JJJ)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	(8qa~u/	f	.	.	.	.	.	.	.	.
+4rAA	4rc	.	8c#'	.	8e'	.	8a'	.	[4aaa^)	.	.	.	.	.	.	.	4r	.
+.	.	.	(32c#'LLL	.	(32e'LLL	.	(32a'LLL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	32c#'	.	32e'	.	32a'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	32c#'	.	32e'	.	32a'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	32c#'JJJ)	.	32e'JJJ)	.	32a'JJJ)	.	.	.	.	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=`	!	!	!	!	!
+4%3r	.	8c#X'	.	8e'	.	8a'	.	12aaaL]	.	2.GG#]	.	8e'L	p	8c#X'L 8a	p	4%3r	.
+.	.	.	.	.	.	.	.	12ggg^	.	.	.	.	.	.	.	.	.
+.	.	8r	.	8r	.	8r	.	.	.	.	.	8e'	.	8c#' 8a	.	.	.
+.	.	.	.	.	.	.	.	12fff#X^J	.	.	.	.	.	.	.	.	.
+.	.	4r	.	4r	.	4r	.	(20eeeLL	.	.	.	8e'	.	8c#' 8a	.	.	.
+.	.	.	.	.	.	.	.	20ddd	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	20ccc#X	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8e'	.	8c#' 8a	.	.	.
+.	.	.	.	.	.	.	.	20bbn	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	20aaJJ)	.	.	.	.	.	.	.	.	.
+.	.	(4c#Xv	<	(4ev	<	[4av	<	(24ggLL	.	.	.	8e'	.	8c#' 8a	.	.	.
+.	.	.	.	.	.	.	.	24ff#X	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	24ee	<	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	24dd	.	.	.	8e'J	.	8c#'J 8a	.	.	.
+.	.	.	.	.	.	.	.	24cc#X	.	.	.	.	.	.	.	.	.
+.	.	.	[	.	[	.	[	24bnJJ)	[	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!system-decoration: [(s1)][(s2,s3,s4)](s5)[(s6,s7,s8,s9)]
+!!!CDT: 1913/11/22-1976/12/04
+!!!CBL: Lowestoft, England
+!!!CDL: Aldeburgh, England
+!!!CNT: English
+!!!OMD:
+!!!AGN: Orchestral; Concerto
+!!!MCN: Barbirolli, John
+!!!MDT: 1940/03/28
+!!!MGN: New York Philharmonic Orchestra
+!!!MLC: New York, New York, United States of America
+!!!MPD: 1940
+!!!MPN: Brosa, Antonio
+!!!ODT: 1939 (rev. 1965)
+!!!PDT: 1965
+!!!excerpt-start-measure: 72
+!!!excerpt-end-measure: 77
+!!!excerpt-start-time: 5:35
+!!!excerpt-end-time: 5:43
+!!!EED: Jason Lee
+!!!EEV: 2022/10/07
+!!!EED2: Bryan Bell
+!!!EEV2: 2022/10/18
+!!!Suter_Work_ID: Bri-13
+!!!Suter_Example_Number: 794
+!!!Suter_Example_ID: Bri-13/89/[37]10-15
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 14:03
+!!!First_Publication_Year: 1965
+!!!First_Public_Performance_Year: 1940
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 12
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 60
+!!!Example_Start_Tsig_Beat_Rate: 60
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 5:18
+!!!Example_Start_Tempo_Expression: [con moto]
+!!!Example_Start_Notated_Beat_Rate: [60]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 72
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:30
+!!!Example_End_Measure: 77
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=60] based on most recent notated beat rate (SWFU, m. 26). Example Start Tempo Expression [con moto] based on most recent notated tempo expression (SWFU, m. 63).
+!!!Death_Place: Aldeburgh,England
+!!!Death_Date: 4-Dec-1976
+!!!Changing_Tsig: no
+!!!Birth_Place: Lowestoft,England
+!!!Birth_Date: 22-Nov-1913
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!ONB: Converted from MusicXML on 2020/01/27

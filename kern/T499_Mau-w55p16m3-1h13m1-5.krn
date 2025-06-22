@@ -1,0 +1,202 @@
+!!!!SEGMENT: T499_Mau-w55p16m3-1h13m1-5.krn
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: String Quartet No. 5
+!!!OMV: I: Allegro ma non troppo
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Czech
+!!!ODT: 1938
+!!!OPR: String Quartet No. 5
+!!!filename: T499_Mau-w55p16m3-1h13m1-5.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*
+*part4	*	*part3	*	*part2	*	*part1	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Più allegro]\n[[quarter]=112]
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!LO:DY:t=[ %s cresc. ]
+!	!	!	!	!	!	!	!LO:HP:t= 
+16BB'LL 16Fn	mf	([4ee	f	8r	.	(4ggn	f <
+16BB' 16F	.	.	.	.	.	.	.
+!	!	!	!	!	!LO:DY:ed=brack	!	!
+16BB' 16F	.	.	.	16cn'LL 16a	mf	.	.
+16BB'JJ 16F	.	.	.	16c'JJ 16a	.	.	.
+4r	.	8eeL])	.	16c'LL 16a	.	4.ffn)	.
+.	.	.	.	16c'JJ 16a	.	.	.
+.	.	(8gg-XJ	.	8r	.	.	.
+16BB'LL 16F	.	8ee-XL	.	8r	.	.	.
+16BB' 16F	.	.	.	.	.	.	.
+16BB' 16F	.	8anJ)	.	16c'LL 16a	.	(8aa-X	.
+16BB'JJ 16F	.	.	.	16c'JJ 16a	.	.	.
+4r	.	(8ffL	.	16c'LL 16a	.	4gg-X	.
+.	.	.	.	16c'JJ 16a	.	.	.
+.	.	8dd-XJ	.	8r	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+16BB'LL 16F	.	8cc-XL)	.	8r	.	4.ff)	.
+16BB' 16F	.	.	.	.	.	.	.
+16BB' 16F	.	(8gg-XJ	.	16c'LL 16a	.	.	.
+16BB'JJ 16F	.	.	.	16c'JJ 16a	.	.	.
+4r	<	8ee-XL	<	16c'LL 16a	.	.	.
+.	.	.	.	16c'JJ 16a	.	.	.
+.	.	8anJ	.	8r	.	(8aa-X	<
+16BB'LL 16F	.	4ff)	.	8r	.	4gg-X	.
+16BB' 16F	.	.	.	.	.	.	.
+16BB' 16F	.	.	.	16c'LL 16a	<	.	.
+16BB'JJ 16F	.	.	.	16c'JJ 16a	.	.	.
+4r	[	(8dd-XL	[	16c'LL 16a	.	8ee-XL)	.
+.	.	.	.	16c'JJ 16a	.	.	.
+.	.	[8b-XJ	.	8r	[	(8bb-XJ	[
+=3	=3	=3	=3	=3	=3	=3	=3
+16AA#X'LL 16F#X	.	8b-L])	.	8r	.	4.ff#X)	.
+16AA#' 16F#	.	.	.	.	.	.	.
+16AA#' 16F#	.	(8ggnJ	.	16c#X'LL 16an	.	.	.
+16AA#'JJ 16F#	.	.	.	16c#'JJ 16a	.	.	.
+4r	.	8eenL	.	16c#'LL 16a	.	.	.
+.	.	.	.	16c#'JJ 16a	.	.	.
+.	.	8b-XJ)	.	8r	.	(8aan	.
+16AA#'LL 16F#	<	(8ff#XL	.	8r	.	4ggn)	<
+16AA#' 16F#	.	.	.	.	.	.	.
+16AA#' 16F#	.	8dd#XJ)	<	16c#'LL 16a	<	.	.
+16AA#'JJ 16F#	.	.	.	16c#'JJ 16a	.	.	.
+4r	[	(8ggL	.	16c#'LL 16a	.	(8aaL	.
+.	.	.	.	16c#'JJ 16a	.	.	.
+.	.	8eeJ	[[	8r	[	[8ff#XJ	[
+!!LO:REH:t=13
+=4	=4	=4	=4	=4	=4	=4	=4
+!	!LO:DY:rj:t=poco %s	!	!	!	!	!	!
+16GG'LL 16G	f	8b-XL)	.	8r	.	8ff#L])	f
+16GG' 16G	.	.	.	.	.	.	.
+!	!	!	!	!	!LO:DY:rj:t=poco %s	!	!
+16GG' 16G	.	(8cc#XJ	f	16c#X'LL 16a#X	f	(8bb-XJ	.
+16GG'JJ 16G	.	.	.	16c#'JJ 16a#	.	.	.
+8r	.	8aL	.	16c#'LL 16a#	.	[4gg)	.
+.	.	.	.	16c#' 16a#	.	.	.
+!	!LO:DY:t=%s espress.	!	!	!	!	!	!
+(8GG	f	8gJ)	.	16c#' 16a#	.	.	.
+.	.	.	.	16c#'JJ 16a#	.	.	.
+8E-XL	.	[2b-	.	8r	.	8ggL]	.
+8B-XJ	.	.	.	16c#'LL 16a#	.	(8ggJ	.
+.	.	.	.	16c#'JJ 16a#	.	.	.
+8AnL)	<	.	.	16c#'LL 16a#	.	8ff#XL	.
+.	.	.	.	16c#' 16a#	.	.	.
+(8GJ	.	.	.	16c#' 16a#	.	8dJ)	.
+.	.	.	.	16c#'JJ 16a#	.	.	.
+*clefG2	*	*	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5
+8gL	.	8b-L]	.	8r	.	(8gL	.
+8aJ	.	(8ee-XJ	<	16c#X'LL 16a#X	.	8f#XJ	.
+.	.	.	.	16c#'JJ 16a#	.	.	.
+4b-X)	[	8ddL	.	16c#'LL 16a#	.	8GL)	.
+.	.	.	.	16c#' 16a#	.	.	.
+.	.	8gJ)	[[	16c#' 16a#	.	(8b-XJ	.
+.	.	.	.	16c#'JJ 16a#	.	.	.
+*clefF4	*	*	*	*	*	*	*
+(8GL	.	(8ccnL	.	8r	.	8f#L	.
+8AJ	.	[8b-XJ	.	16c#'LL 16a#	.	8eJ)	.
+.	.	.	.	16c#'JJ 16a#	.	.	.
+4B-X)	.	8b-L])	.	16c#'LL 16a#	.	(8gL	.
+.	.	.	.	16c#' 16a#	.	.	.
+.	.	(8ee-J	.	16c#' 16a#	.	8f#J	.
+.	.	.	.	16c#'JJ 16a#	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+(8e-XL	<	8ddL)	.	8r	.	8GL)	.
+8fJ	.	(8gJ	.	16c#X'LL 16a#X	.	(8ccJ	.
+.	.	.	.	16c#'JJ 16a#	.	.	.
+4f#X	.	8ccL	.	16c#'LL 16a#	.	8b-XL	.
+.	.	.	.	16c#' 16a#	.	.	.
+.	.	8b-XJ)	.	16c#' 16a#	.	8gJ	.
+.	.	.	.	16c#'JJ 16a#	.	.	.
+4g)	[	(4ee-X	<	8r	.	8c#XL)	.
+.	.	.	.	16c#'LL 16a#	<	(8eenJ	<
+.	.	.	.	16c#'JJ 16a#	.	.	.
+(8B-XL	.	8dd-XL)	.	16c#'LL 16a#	.	8ccL	.
+.	.	.	.	16c#' 16a#	.	.	.
+8cJ	.	[8gg-XJ	[	16c#' 16a#	.	8b-XJ)	[
+.	.	.	.	16c#'JJ 16a#	[	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4d-X	<	8ff#XL]	.	8r	.	(8cc#XL	.
+.	.	8eenJ	.	16c#X'LL 16a#X	.	8aJ	.
+.	.	.	.	16c#'JJ 16a#	.	.	.
+4e-X	.	[4gg^	.	16c#'LL 16a#	.	8e-XL)	.
+.	.	.	.	16c#' 16a#	.	.	.
+.	.	.	.	16c#' 16a#	.	[8een'^J	f
+.	.	.	.	16c#'JJ 16a#	.	.	.
+*clefG2	*	*	*	*	*	*	*
+!	!	!	!LO:DY:rj:t=molto %s	!	!	!	!
+8fnL)	f [	8ggL]	f	8r	.	12eeL]	.
+.	.	.	.	.	.	(12dd#X	.
+(8e-XJ	.	(8ff#XJ	.	16B-X'LL 16gn	f	.	.
+.	.	.	.	.	.	12cc#XJ	.
+.	.	.	.	16B-'JJ 16g	.	.	.
+8g-XL	.	8ggL	.	16B-'LL 16g	.	12ddnL	.
+.	.	.	.	16B-' 16g	.	.	.
+.	.	.	.	.	.	12ee	.
+8d-XJ)	.	8eeJ)	.	16B-' 16g	.	.	.
+.	.	.	.	.	.	12cc#J)	.
+.	.	.	.	16B-'JJ 16g	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+(8f-XL	.	(8ggL	.	8r	.	(16dd#XLL	.
+.	.	.	.	.	.	16ee	.
+8e-XJ	.	8ff#XJ)	.	16B-X'LL 16an	.	16cc#X	.
+.	.	.	.	16B-'JJ 16a	.	16dd#JJ)	.
+8g-XL	.	(8ff#L	.	16B-'LL 16a	.	(12eeL	.
+.	.	.	.	16B-' 16a	.	.	.
+.	.	.	.	.	.	12dd#	.
+8d-XJ)	.	8eeJ)	.	16B-' 16a	.	.	.
+.	.	.	.	.	.	12cc#J)	.
+.	.	.	.	16B-'JJ 16a	.	.	.
+(8f-L	.	[4gg^	.	8r	.	(12dd#L	.
+.	.	.	.	.	.	12ee	.
+8e-J	.	.	.	16B-'LL 16a	.	.	.
+.	.	.	.	.	.	12cc#J)	.
+.	.	.	.	16B-'JJ 16a	.	.	.
+[4gn)	.	8ggL]	.	16B-'LL 16a	.	(16dd#LL	.
+.	.	.	.	16B-' 16a	.	16ee	.
+.	.	[8ff#XJ	.	16B-' 16a	.	16cc#	.
+.	.	.	.	16B-'JJ 16a	.	16dd#JJ)	.
+=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Mau-55
+!!!Suter_Example_Number: 499
+!!!Suter_Example_ID: Mau-55/16/3-1[13]1-5
+!!!Premiere_Location: Los Angeles,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:05
+!!!First_Publication_Year: 1959
+!!!First_Public_Performance_Year: 1938
+!!!Example_Total_Measures: 8
+!!!Example_Timestamp_Duration: 19
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 112
+!!!Example_Start_Tsig_Beat_Rate: 112
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 4:58
+!!!Example_Start_Tempo_Expression: [Più allegro]
+!!!Example_Start_Notated_Beat_Rate: [112]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 129
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:17
+!!!Example_End_Measure: 136
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=112] based on most recent notated beat rate (SWFU, m. 110). Example Start Tempo Expression [Più allegro] based on most recent notated tempo expression (SWFU, m. 110).
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: no
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/23

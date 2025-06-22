@@ -1,0 +1,148 @@
+!!!!SEGMENT: T496_Mau-w28p2m1-11.krn
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Études rhythmiques (Rhythmic Studies) for Violin and Piano
+!!!OMV: I: Allegro
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Czech
+!!!ODT: 1931
+!!!OPR: Études rhythmiques (Rhythmic Studies) for Violin and Piano
+!!!filename: T496_Mau-w28p2m1-11.krn
+**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*
+*part2	*	*part1	*
+*staff2	*	*staff1	*
+*ICklav	*	*ICstr	*
+*Ipiano	*	*Ivioln	*
+*I"Piano	*	*I"Violin	*
+*I'pf	*	*I'vn	*
+*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=Allegro\n{[quarter]=102}
+*M2/4	*	*M2/4	*
+=1	=1	=1	=1
+*^	*	*	*
+!	!	!LO:DY:ed=paren	!	!
+8GG'<\	8rB	mf	8r	.
+8rFF	8B-X'L> 8e-'>X	.	16gLL	f
+.	.	.	16g	.
+8rFF	8A'J 8d'>	.	16g	.
+.	.	.	16f#XJJ	.
+8DD'<\	8rB	.	16gLL	.
+.	.	.	16aJ	.
+=2	=2	=2	=2.	=2.
+8GG'<\	8rB	.	/8b-XJ	<
+8rFF	8B-XL>'> 8e-'>X	.	8ccL	.
+8rFF	8AJ' 8d'>	.	8ddJ	[
+8DD'<\	8rB	.	16ccLL	.
+.	.	.	16ddJ	.
+=3	=3	=3	=3.	=3.
+8GG'<\	8rB	.	8b-XJ	.
+8rFF	8B-XL>'> 8e-'>X	.	8aL	.
+8rFF	8AJ' 8d'>	.	8dJ	.
+8DD'<\	8rB	.	16gLL	.
+.	.	.	16g	.
+=4	=4	=4	=4.	=4.
+8GG'<\	8rB	.	16g	.
+.	.	.	16f#XJJ	.
+8rFF	8B-XL>'> 8e-'>X	.	16gLL	.
+.	.	.	16aJ	.
+8rFF	8AJ' 8d'>	.	/8b-XJ	.
+8DD'<\	8rB	.	16ccLL	<
+.	.	.	\16a	.
+=5	=5	=5	=5.	=5.
+8GG'<\	8rB	.	16dd	.
+.	.	.	16b-XJJ	.
+8rFF	8B-XL>'> 8e-X'>	.	/16ccLL	[
+.	.	.	16dJ	.
+8rFF	8A'J 8d'>	.	/8b-XJ	.
+8DD'<\	8rB	.	(8cL 8d	.
+=6	=6	=6	=6.	=6.
+8GG'<\	8rB	.	8aJ)	.
+8rFF	8B-'XL> 8e-'>X	.	16gLL	.
+.	.	.	16dJ	.
+8rFF	8AJ' 8d'>	.	8e-XJ	.
+8DD'<\	8rB	.	16dLL	.
+.	.	.	16G	.
+=7	=7	=7	=7.	=7.
+8GG'<\	8rB	.	16g	.
+.	.	.	16e-XJJ	.
+8rFF	8B-XL>'> 8e-'>X	.	/16b-XLL	.
+.	.	.	16d	.
+8rFF	8AJ' 8d'>	.	/16dd	.
+.	.	.	16aJJ	.
+8AA'<\	8rB	.	8aaL	<
+=8	=8	=8	=8.	=8.
+\8D'<	8rB	.	16ggL	.
+.	.	.	16ggJ	.
+8rFF	8dL>'> 8f'>	.	16ggL	[
+.	.	.	16aaJJ	.
+8rFF	8B-'XJ 8en'>	.	16ffLL	.
+.	.	.	16aaJ	.
+8AA'<\	8rB	.	16eeL	.
+.	.	.	16aaJ	.
+=9	=9	=9	=9.	=9.
+\8D'<	8rB	.	8ddJ	.
+8rFF	8dL>'> 8f'>	.	\(8dL	.
+8rFF	8B-'XJ 8e'>	.	16b-X'L 16bb-X)	.
+.	.	.	16b-J 16bb-	.
+8AA'<\	8rB	.	8a 8aa	.
+=10	=10	=10	=10.	=10.
+\8D'<	8rB	.	\8dJ	.
+8rFF	8dL>'> 8f'>	.	16b-XLL 16bb-X	.
+.	.	.	16b-J 16bb-	.
+8rFF	8B'-XJ 8e'>	.	8aJ 8aa	.
+8AA'<\	8rB	.	8r	.
+=11	=11	=11	=11.	=11.
+\8D'<	8rB	.	(8dL	.
+8rFF	8d'/ 8f#'>X/	.	8dd^J 8ddd)	.
+8C'<\	8rB	.	16r	.
+.	.	.	16ALL	.
+8rFF	8D'/ 8d'>/	.	16B-X	.
+.	.	.	16cJJ	.
+*v	*v	*	*	*
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!system-decoration: s1[(s2)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/08/05
+!!!EED2: Daniel Wright
+!!!Suter_Work_ID: Mau-28
+!!!Suter_Example_Number: 496
+!!!Suter_Example_ID: Mau-28/2/1-11
+!!!Premiere_Location: Prague,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 1:16
+!!!First_Publication_Year: 1932
+!!!First_Public_Performance_Year: 1933
+!!!Example_Total_Measures: 11
+!!!Example_Timestamp_Duration: 13
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 102
+!!!Example_Start_Tsig_Beat_Rate: 102
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 0:00
+!!!Example_Start_Tempo_Expression: Allegro
+!!!Example_Start_Notated_Beat_Rate: {102}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 1
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:13
+!!!Example_End_Measure: 11
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {dotted-quarter=53} calculated from recording (https://ubc-naxosmusiclibrary-com.ezproxy.library.ubc.ca/catalogue/item.asp?cid=BIS-2030); tempo for audio synthesis {dotted-quarter=60} was calculated using a Digital Audio Workstation (DAW). Example Start Tempo Expression [Allegro] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: no
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/02/11
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/02

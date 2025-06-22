@@ -1,0 +1,138 @@
+!!!!SEGMENT: T320_Fal-w8p55m6-1h58m1-2.krn
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: El retablo de maese Pedro (Master Peter's Puppet Show), Puppet-Opera in One Act
+!!!OMV: Scene 4: Los Pirineos (The Pyrenees)
+!!!OMD:
+!!!AGN: Stage; Theatrical
+!!!AGN-sub: Theatrical
+!!!CNT: Spanish
+!!!ODT: 1923
+!!!OPR: El retablo de maese Pedro (Master Peter's Puppet Show), Puppet-Opera in One Act
+!!!filename: T320_Fal-w8p55m6-1h58m1-2.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**text	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*	*part3	*	*part2	*	*part1	*
+*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICidio	*	*ICbras	*	*ICbras	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Infant	*	*	*Itimpa	*	*Itromp	*	*Icor	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"TRUJAMÁN	*	*	*I"Timpani	*	*I"Trumpet in C	*	*I"2 Horns in F	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'TRU.	*	*	*I'timp	*	*I'tp	*	*I'cor-fr	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*	*	*k[]	*	*k[]	*	*k[b-]	*
+*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*E-:	*	*	*C:	*	*E-:	*	*F:	*
+!!LO:TX:omd:tempo:a:t=[[quarter]=168]
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*	*M6/8	*	*M6/8	*	*M6/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*^	*	*^	*	*^	*	*	*	*	*	*	*	*	*	*
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!LO:TX:a:t=[semplicemente, con voce tranquilla]	!LO:DY:ed=brack	!	!LO:TX:a:t=[marcato, hard sticks]	!LO:DY:ed=brack	!LO:TX:a:t=[marc., solo]	!LO:DY:ed=brack	!LO:TX:a:t=[soli, dolce marc. (lontano)]	!LO:DY:ed=brack
+8GGG'	ppp	8GG'	ppp	][2.B-	][2.E-	ppp	][2.b-	2.r	ppp	][2.ee-	][2.e-	ppp	2.b-	mp	-sen-	8GG	p	(>[4.B-X	p	(>[4.G [4.e-X	p
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8.B-L]	.	8.GL] 8.e-]	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8.A-XJ	.	8.B-J 8.f	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8GGG'	.	8GG'	.	2.B-_	2.E-_	.	2.b-_	2.r	.	2.ee-_	2.e-_	.	[2.b-	.	-dra,	8GG	.	4.B-X	.	4.G 4.e-X)	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	4.A-X	.	(>4.F 4.B-	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8GGG'	.	8GG'	.	2.B-_	2.E-_	.	2.b-_	2.r	.	2.ee-_	2.e-_	.	4b-]	.	.	8GG	.	[2.B-X)	.	[2.G [2.e-X)	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	8r	.	.	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	4.g	.	que	8r	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*grp:A	*	*grp:A	*	*grp:B	*grp:B	*	*grp:B	*grp:B	*	*grp:B	*grp:B	*	*grp:A	*	*	*grp:A	*	*grp:B	*	*grp:B	*
+8GGG'	.	8GG'	.	2.B-]	2.E-]	.	2.b-]	2.r	.	2.ee-]	2.e-]	.	2b-	.	ya	8GG	.	2.B-X_	.	2.G_ 2.e-X_	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	4cc	.	ven-	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*grp:A	*	*grp:A	*	*grp:B	*grp:B	*	*grp:B	*grp:B	*	*grp:B	*grp:B	*	*grp:B	*	*	*grp:A	*	*grp:B	*	*grp:B	*
+8GGG'	.	8GG'	.	[2.B-	[2.E-	.	[2.b-	2.r	.	[2.ee-	[2.e-	.	4.b-	.	-ga-	8GG	.	2.B-X_	.	2.G_ 2.e-X_	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	4.b-	.	-da	8r	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8GGG'	.	8GG'	.	2.B-_	2.E-_	.	2.b-_	2.r	.	2.ee-_	2.e-_	.	8.b-	.	del	8GG	.	2.B-X]	.	2.G] 2.e-]	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8.b-	.	a-	.	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	8.b-	.	-tre-	8r	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8.b-	.	-vi-	.	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+!!LO:REH:t=58
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8GGG'	.	8GG'	.	2.B-_	2.E-_	.	2.b-_	2.r	.	2.ee-_	2.e-_	.	8.b-	.	-mien-	8GG	.	4.r	.	4.r	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8.b-	.	-to	.	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	8.b-	.	del	8r	.	(4.e-X	.	(4.B- 4.g	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8.b-	.	en-	.	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+8GGG'	.	8GG'	.	2.B-_	2.E-_	.	2.b-_	2.r	.	2.ee-_	2.e-_	.	8.b-	.	-a-	8GG	.	4.B-X	.	2G 2e-X	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8.b-	.	-mo-	.	.	.	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	8.b-	.	-ra-	8r	.	4.e-X)	.	.	.
+8GGG'	.	8GG'	.	.	.	.	.	.	.	.	.	.	.	.	.	8GG	.	.	.	4B- 4f)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8.b-	.	-do	.	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+*	*	*	*	*v	*v	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3)]<s4>[(s5,s6,s7,s8,s9)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/12/06
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/04/06
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Fal-8
+!!!Suter_Example_Number: 320
+!!!Suter_Example_ID: Fal-8/55/6-1 [58]1-2
+!!!Premiere_Location: Seville,Spain
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:06
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1923
+!!!Example_Total_Measures: 8
+!!!Example_Timestamp_Duration: 8
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 168
+!!!Example_Start_Tsig_Beat_Rate: 168
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 1:03
+!!!Example_Start_Tempo_Expression: none
+!!!Example_Start_Notated_Beat_Rate: [168]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 64(532)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:11
+!!!Example_End_Measure: 71(539)
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [eighth=112] based on most recent notated beat rate (SWFU, m. 1). Editorial Note: Scene 4 starts on measure 469 of the one-act opera.
+!!!Death_Place: Alta Gracia,Argentina
+!!!Death_Date: 14-Nov-1946
+!!!Changing_Tsig: no
+!!!Birth_Place: Cádiz,Spain
+!!!Birth_Date: 23-Nov-1876
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/06/01

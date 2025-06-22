@@ -1,0 +1,178 @@
+!!!!SEGMENT: T694_Ger-w16p3m23-28.krn
+!!!COM: Gershwin, George
+!!!OTL: Porgy and Bess, Opera in Three Acts
+!!!OMV: Introduction
+!!!OMD:
+!!!AGN: Stage; Opera
+!!!AGN-sub: Opera
+!!!CNT: American
+!!!ODT: 1936
+!!!OPR: Porgy and Bess, Opera in Three Acts
+!!!filename: T694_Ger-w16p3m23-28.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*grp:A	*	*grp:B	*	*grp:B	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part19	*	*part18	*	*part17	*	*part16	*	*part15	*	*part14	*part14	*	*part13	*	*part12	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff20	*	*staff19	*	*staff18	*	*staff17	*	*staff16	*	*staff15	*staff14	*	*staff13	*	*staff12	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICidio	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Isdrum&Ipiatt	*	*Itimpa	*Ituba	*	*Itromt	*	*Itromp	*	*Icor	*	*Icor	*	*Ifagot	*	*Iclarb	*	*Iclars	*	*Ioboe	*	*Ipicco	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*I"Piano	*	*I"Snare Drum,\nCymbal	*	*I"Timpani	*I"Tuba	*	*I"Trombone 1, 2, 3	*	*I"Trumpet in Bb 1, 2, 3	*	*I"Horn in F 3, 4	*	*I"Horn in F 1, 2	*	*I"Bassoon 1, 2	*	*I"Bass Clarinet in Bb	*	*I"Clarinet in Bb 1, 2	*	*I"Oboe 1, 2	*	*I"Piccolo	*	*I"Flute	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'pf	*I'pf	*	*I'dr, cymb	*	*I'timp	*I'tb	*	*I'tn	*	*I'tp	*	*I'cor-fr	*	*I'cor-fr	*	*I'bn	*	*I'b-cl	*	*I'cl	*	*I'ob	*	*I'picc	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*clefG2	*	*clefX	*	*clefF4	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd1c2	*	*	*	*ITrd-7c-12	*	*	*
+*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[]	*	*k[]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*
+*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*E:	*	*C:	*	*C:	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*
+!!LO:TX:omd:tempo:a:t=[Allegro con brio]\n[[quarter]=112]
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Icrshc	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!LO:TX:t=Cymb	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=[1.]	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+16FF#LL	ff	16F#LL	ff	16F#LL	ff	[1an [1cc#	f	[1dd#	f	8a#XL 8cc#	(8dd#)	f	8r	2Rb\	ff	1r	8r	.	8r	.	8r	.	[1F# [1c#	f	[1A [1d#	f	(8a)	f	8r	.	(8ccc# 8ddd#)	f	8r	.	[1dddd#	f	[1ddd#	f
+16GG#	.	16G#	.	16G#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*clefF4	*clefF4	*	*sdrum	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:t=[Snare]	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=[1.2.]	!	!	!	!	!	!	!	!	!	!	!
+16C#^	.	16c#^	.	16c#^	.	.	.	.	.	16C#^L	16c#^LL	.	4Rcc/	.	f	.	4FF#	ff	4C# 4A 4d#	ff	4cc# 4ff# 4bb	ff	.	.	.	.	4C# 4A	ff	4F#	ff	4d# 4cc#	ff	4ff# 4bb	ff	.	.	.	.
+16FF#JJ	.	16F#JJ	.	16F#JJ	.	.	.	.	.	16FF#JJ	16F#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG#LL	.	16G#LL	.	16G#LL	.	.	.	.	.	16GG#LL	16G#LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BB^	.	16B^	.	16B^	.	.	.	.	.	16BB^	16B^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16F#	.	.	.	.	.	16FF#	16F#	.	8Rcc/	.	.	.	8AA	.	8D# 8c# 8f#	.	8b 8ee 8aa	.	.	.	.	.	8D# 8c#	.	8A	.	8f# 8b	.	8ee 8aa	.	.	.	.	.
+16GG#JJ	.	16G#JJ	.	16G#JJ	.	.	.	.	.	16GG#JJ	16G#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16C#^LL	.	16c#^LL	.	16c#^LL	.	.	.	.	.	16C#^LL	16c#^LL	.	4Rcc/	2r	.	.	4FF#	.	4C# 4A 4d#	.	4cc# 4ff# 4bb	.	.	.	.	.	4C# 4A	.	4F#	.	4d# 4cc#	.	4ff# 4bb	.	.	.	.	.
+16GG#	.	16G#	.	16G#	.	.	.	.	.	16GG#	16G#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16C#^	.	16c#^	.	16c#^	.	.	.	.	.	16C#^	16c#^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#JJ	.	16F#JJ	.	16F#JJ	.	.	.	.	.	16FF#JJ	16F#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG#LL	.	16G#LL	.	16G#LL	.	.	.	.	.	16GG#LL	16G#LL	.	4Rcc/	.	.	.	4FF#	.	4C# 4A 4d#	.	4cc# 4ff# 4bb	.	.	.	.	.	4C# 4A	.	4F#	.	4d# 4cc#	.	4ff# 4bb	.	.	.	.	.
+16BB^	.	16B^	.	16B^	.	.	.	.	.	16BB^	16B^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16F#	.	.	.	.	.	16FF#	16F#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG#JJ	.	16G#JJ	.	16G#JJ	.	.	.	.	.	16GG#JJ	16G#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+16AALL	.	16ALL	.	16ALL	.	2a_ 2cc#_	.	2dd#_	.	16AALL	16ALL	.	4Rcc/	1r	.	1r	4FF#	.	4C# 4A 4d#	.	4cc# 4ff# 4bb	.	2F#_ 2c#_	.	2A_ 2d#_	.	4C# 4A	.	4F#	.	4d# 4cc#	.	4ff# 4bb	.	2dddd#_	.	2ddd#_	.
+16FF#	.	16F#	.	16F#	.	.	.	.	.	16FF#	16F#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16C#^	.	16c#^	.	16c#^	.	.	.	.	.	16C#^	16c#^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#JJ	.	16F#JJ	.	16F#JJ	.	.	.	.	.	16FF#JJ	16F#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG#LL	.	16G#LL	.	16G#LL	.	.	.	.	.	16GG#LL	16G#LL	.	8Rcc/L	.	.	.	8AAL	.	8D#L 8c# 8f#	.	8bL 8ee 8aa	.	.	.	.	.	8D#L 8c#	.	8AL	.	8f#L 8b	.	8eeL 8aa	.	.	.	.	.
+16BB^	.	16B^	.	16B^	.	.	.	.	.	16BB^	16B^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16F#	.	.	.	.	.	16FF#	16F#	.	8RccOO/J[	.	.	.	[8FF#J	.	[8C#J [8A [8d#	.	[8cc#J [8ff# [8bb	.	.	.	.	.	[8C#J [8A	.	[8F#J	.	[8d#J [8cc#	.	[8ff#J [8bb	.	.	.	.	.
+16GG#JJ	.	16G#JJ	.	16G#JJ	.	.	.	.	.	16GG#JJ	16G#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BB^LL	.	16B^LL	.	16B^LL	.	8a] 8cc#]	.	8dd#]	.	16BB^LL	16B^LL	.	2RccOOO/][	.	.	.	2FF#_	.	2C#_ 2A_ 2d#_	.	2cc#_ 2ff#_ 2bb_	.	8F#] 8c#]	.	8A] 8d#]	.	2C#_ 2A_	.	2F#_	.	2d#_ 2cc#_	.	2ff#_ 2bb_	.	8dddd#]	.	8ddd#]	.
+16GG#	.	16G#	.	16G#	.	.	.	.	.	16GG#	16G#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16F#	.	4a 4cc#	.	4dd#	.	16FF#	16F#	.	.	.	.	.	.	.	.	.	.	.	4F# 4c#	.	4A 4d#	.	.	.	.	.	.	.	.	.	4dddd#	.	4ddd#	.
+16BB^JJ	.	16B^JJ	.	16B^JJ	.	.	.	.	.	16BB^JJ	16B^JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG#LL	.	16G#LL	.	16G#LL	.	.	.	.	.	16GG#LL	16G#LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16F#	.	.	.	.	.	16FF#	16F#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BB^	.	16B^	.	16B^	.	8g# 8b	.	8cc#	.	16BB^	16B^	.	.	.	.	.	.	.	.	.	.	.	8E 8B	.	8G# 8c#	.	.	.	.	.	.	.	.	.	8cccc#	.	8ccc#	.
+16GG#JJ	.	16G#JJ	.	16G#JJ	.	.	.	.	.	16GG#JJ	16G#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8FF#L	.	8F#L	.	8F#L	.	8a 8cc#	.	8dd#	.	8FF#L	8F#L	.	2RccOOO/]	2r	.	2r	2FF#]	.	2C#] 2A] 2d#]	.	2cc#] 2ff#] 2bb]	.	8F# 8c#	.	8A 8d#	.	2C#] 2A]	.	2F#]	.	2d#] 2cc#]	.	2ff#] 2bb]	.	8dddd#	.	8ddd#	.
+8C#J	.	16c#L	.	16c#L	.	4a 4cc#	.	4dd#	.	16C#L	16c#L	.	.	.	.	.	.	.	.	.	.	.	4F# 4c#	.	4A 4d#	.	.	.	.	.	.	.	.	.	4dddd#	.	4ddd#	.
+.	.	16g#JJ	.	16g#JJ	.	.	.	.	.	16G#JJ	16g#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#LL	.	16f#LL	.	16f#LL	.	.	.	.	.	16F#LL	16f#LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16C#	.	16c#	.	16c#	.	.	.	.	.	16C#	16c#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BB	.	16B	.	16B	.	8g# 8b	.	8cc#	.	16BB	16B	.	.	.	.	.	.	.	.	.	.	.	8E 8B	.	8G# 8c#	.	.	.	.	.	.	.	.	.	8cccc#	.	8ccc#	.
+16GG#JJ	.	16G#JJ	.	16G#JJ	.	.	.	.	.	16GG#JJ	16G#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Icrshc	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!	!LO:HP:t= 	!	!LO:N:head=dia	!LO:HP:t= 	!	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!	!LO:HP:t= 	!LO:TX:a:B:t=accel. e cresc.	!LO:HP:t=
+16FF#LL	<	16F#LL	<	16F#LL	<	[1a [1cc#	<	[1dd#	<	16FF#LL	16F#LL	<	8r	2Rb\	<	1r	8r	<	8r	<	8r	<	[1F# [1c#	<	[1A [1d#	<	8r	<	8r	<	8r	<	8r	<	[1dddd#	<	[1ddd#	<
+16GG#	.	16G#	.	16G#	.	.	.	.	.	16GG#	16G#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*Isdrum	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+16C#	.	16c#	.	16c#	.	.	.	.	.	16C#	16c#	.	4Rcc/	.	.	.	4FF#	.	4C# 4A 4d#	.	4cc# 4ff# 4bb	.	.	.	.	.	4C# 4A	.	4F#	.	4d# 4cc#	.	4ff# 4bb	.	.	.	.	.
+16FF#JJ	.	16F#JJ	.	16F#JJ	.	.	.	.	.	16FF#JJ	16F#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG#LL	.	16G#LL	.	16G#LL	.	.	.	.	.	16GG#LL	16G#LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BB	.	16B	.	16B	.	.	.	.	.	16BB	16B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16F#	.	.	.	.	.	16FF#	16F#	.	8Rcc/	.	.	.	8AA	.	8D# 8c# 8f#	.	8b 8ee 8aa	.	.	.	.	.	8D# 8c#	.	8A	.	8f# 8b	.	8ee 8aa	.	.	.	.	.
+16GG#JJ	.	16G#JJ	.	16G#JJ	.	.	.	.	.	16GG#JJ	16G#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16C#LL	.	16c#LL	.	16c#LL	.	.	.	.	.	16C#LL	16c#LL	.	4Rcc/	2r	.	.	4FF#	.	4C# 4A 4d#	.	4cc# 4ff# 4bb	.	.	.	.	.	4C# 4A	.	4F#	.	4d# 4cc#	.	4ff# 4bb	.	.	.	.	.
+16GG#	.	16G#	.	16G#	.	.	.	.	.	16GG#	16G#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16C#	.	16c#	.	16c#	.	.	.	.	.	16C#	16c#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#JJ	.	16F#JJ	.	16F#JJ	.	.	.	.	.	16FF#JJ	16F#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG#LL	.	16G#LL	.	16G#LL	.	.	.	.	.	16GG#LL	16G#LL	.	4Rcc/	.	.	.	4FF#	.	4C# 4A 4d#	.	4cc# 4ff# 4bb	.	.	.	.	.	4C# 4A	.	4F#	.	4d# 4cc#	.	4ff# 4bb	.	.	.	.	.
+16BB	.	16B	.	16B	.	.	.	.	.	16BB	16B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16F#	.	.	.	.	.	16FF#	16F#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG#JJ	.	16G#JJ	.	16G#JJ	.	.	.	.	.	16GG#JJ	16G#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+16AALL	.	16ALL	.	16ALL	.	2a_ 2cc#_	.	2dd#_	.	16AALL	16ALL	.	4Rcc/	1r	.	1r	4FF#	.	4C# 4A 4d#	.	4cc# 4ff# 4bb	.	2F#_ 2c#_	.	2A_ 2d#_	.	4C# 4A	.	4F#	.	4d# 4cc#	.	4ff# 4bb	.	2dddd#_	.	2ddd#_	.
+16FF#	.	16F#	.	16F#	.	.	.	.	.	16FF#	16F#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16C#	.	16c#	.	16c#	.	.	.	.	.	16C#	16c#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#JJ	.	16F#JJ	.	16F#JJ	.	.	.	.	.	16FF#JJ	16F#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG#LL	.	16G#LL	.	16G#LL	.	.	.	.	.	16GG#LL	16G#LL	.	8Rcc/L	.	.	.	8AAL	.	8D#L 8c# 8f#	.	8bL 8ee 8aa	.	.	.	.	.	8D#L 8c#	.	8AL	.	8f#L 8b	.	8eeL 8aa	.	.	.	.	.
+16BB	.	16B	.	16B	.	.	.	.	.	16BB	16B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16F#	.	.	.	.	.	16FF#	16F#	.	8RccOO/J[	.	.	.	[8FF#J	.	[8C#J [8A [8d#	.	[8cc#J [8ff# [8bb	.	.	.	.	.	[8C#J [8A	.	[8F#J	.	[8d#J [8cc#	.	[8ff#J [8bb	.	.	.	.	.
+16GG#JJ	.	16G#JJ	.	16G#JJ	.	.	.	.	.	16GG#JJ	16G#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BBLL	.	16BLL	.	16BLL	.	8a] 8cc#]	.	8dd#]	.	16BBLL	16BLL	.	2RccOOO/]	.	.	.	2FF#]	.	2C#] 2A] 2d#]	.	2cc#] 2ff#] 2bb]	.	8F#] 8c#]	.	8A] 8d#]	.	2C#] 2A]	.	2F#]	.	2d#] 2cc#]	.	2ff#] 2bb]	.	8dddd#]	.	8ddd#]	.
+16GG#	.	16G#	.	16G#	.	.	.	.	.	16GG#	16G#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16F#	.	4a 4cc#	.	4dd#	.	16FF#	16F#	.	.	.	.	.	.	.	.	.	.	.	4F# 4c#	.	4A 4d#	.	.	.	.	.	.	.	.	.	4dddd#	.	4ddd#	.
+16BBJJ	.	16BJJ	.	16BJJ	.	.	.	.	.	16BBJJ	16BJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG#LL	.	16G#LL	.	16G#LL	.	.	.	.	.	16GG#LL	16G#LL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16FF#	.	16F#	.	16F#	.	.	.	.	.	16FF#	16F#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BB	.	16B	.	16B	.	8g# 8b	.	8cc#	.	16BB	16B	.	.	.	.	.	.	.	.	.	.	.	8E 8B	.	8G# 8c#	.	.	.	.	.	.	.	.	.	8cccc#	.	8ccc#	.
+16GG#JJ	.	16G#JJ	.	16G#JJ	.	.	.	.	.	16GG#JJ	16G#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Icrshc	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:N:head=dia	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8FF#L	.	8F#L	.	8F#L	.	[1a [1cc#	.	[1dd#	.	8FF#L	8F#L	.	8r	2Rb\	.	1r	8r	.	8r	.	8r	.	[1F# [1c#	.	[1A [1d#	.	8r	.	8r	.	8r	.	8r	.	[1dddd#	.	[1ddd#	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*Isdrum	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8GG#	.	8G#	.	8G#	.	.	.	.	.	8GG#	8G#	.	4Rcc/	.	.	.	4FF#	.	4C# 4A 4d#	.	4cc# 4ff# 4bb	.	.	.	.	.	4C# 4A	.	4F#	.	4d# 4cc#	.	4ff# 4bb	.	.	.	.	.
+8C#	.	8c#	.	8c#	.	.	.	.	.	8C#	8c#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FF#J	.	8F#J	.	8F#J	.	.	.	.	.	8FF#J	8F#J	.	8Rcc/	.	.	.	8AA	.	8D# 8c# 8f#	.	8b 8ee 8aa	.	.	.	.	.	8D# 8c#	.	8A	.	8f# 8b	.	8ee 8aa	.	.	.	.	.
+8GG#L	.	8G#L	.	8G#L	.	.	.	.	.	8GG#L	8G#L	.	4Rcc/	2r	.	.	4FF#	.	4C# 4A 4d#	.	4cc# 4ff# 4bb	.	.	.	.	.	4C# 4A	.	4F#	.	4d# 4cc#	.	4ff# 4bb	.	.	.	.	.
+8BB	.	8B	.	8B	.	.	.	.	.	8BB	8B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FF#	.	8F#	.	8F#	.	.	.	.	.	8FF#	8F#	.	4Rcc/	.	.	.	4FF#	.	4C# 4A 4d#	.	4cc# 4ff# 4bb	.	.	.	.	.	4C# 4A	.	4F#	.	4d# 4cc#	.	4ff# 4bb	.	.	.	.	.
+8GG#J	.	8G#J	.	8G#J	.	.	.	.	.	8GG#J	8G#J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8AAL	.	8AL	.	8AL	.	2a_ 2cc#_	.	2dd#_	.	8AAL	8AL	.	4Rcc/	1r	.	1r	4FF#	.	4C# 4A 4d#	.	4cc# 4ff# 4bb	.	2F#_ 2c#_	.	2A_ 2d#_	.	4C# 4A	.	4F#	.	4d# 4cc#	.	4ff# 4bb	.	2dddd#_	.	2ddd#_	.
+8FF#	.	8F#	.	8F#	.	.	.	.	.	8FF#	8F#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C#	.	8c#	.	8c#	.	.	.	.	.	8C#	8c#	.	8Rcc/L	.	.	.	8AAL	.	8D#L 8c# 8f#	.	8bL 8ee 8aa	.	.	.	.	.	8D#L 8c#	.	8AL	.	8f#L 8b	.	8eeL 8aa	.	.	.	.	.
+8FF#J	.	8F#J	.	8F#J	.	.	.	.	.	8FF#J	8F#J	.	8RccOO/J[	.	.	.	[8FF#J	.	[8C#J [8A [8d#	.	[8cc#J [8ff# [8bb	.	.	.	.	.	[8C#J [8A	.	[8F#J	.	[8d#J [8cc#	.	[8ff#J [8bb	.	.	.	.	.
+8GG#L	.	8G#L	.	8G#L	.	8a] 8cc#]	.	8dd#]	.	8GG#L	8G#L	.	2RccOO/]	.	.	.	2FF#]	.	2C#] 2A] 2d#]	.	2cc#] 2ff#] 2bb]	.	8F#] 8c#]	.	8A] 8d#]	.	2C#] 2A]	.	2F#]	.	2d#] 2cc#]	.	2ff#] 2bb]	.	8dddd#]	.	8ddd#]	.
+8BB	.	8B	.	8B	.	4a 4cc#	.	4dd#	.	8BB	8B	.	.	.	.	.	.	.	.	.	.	.	4F# 4c#	.	4A 4d#	.	.	.	.	.	.	.	.	.	4dddd#	.	4ddd#	.
+8FF#	.	8F#	.	8F#	.	.	.	.	.	8FF#	8F#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG#J	.	8G#J	.	8G#J	.	8a 8cc#	.	8dd#	.	8GG#J	8G#J	.	.	.	.	.	.	.	.	.	.	.	8F# 8c#	.	8A 8d#	.	.	.	.	.	.	.	.	.	8dddd#	.	8ddd#	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8,s9,s10,s11)][(s12,s13)][({(s14,s15)})][(s16,s17,s18,s19,s20)]
+!!!RDF**kern: O = tremolo
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/05/06
+!!!EED3: Bryan Bell
+!!!EEV3: 2023/06/12
+!!!Suter_Work_ID: Ger-16
+!!!Suter_Example_Number: 694
+!!!Suter_Example_ID: Ger-16/3/23-28
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: 2/4,2/2
+!!!Full_Unit_Duration: 2:03
+!!!First_Publication_Year: 1935
+!!!First_Public_Performance_Year: 1935
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 10
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 112
+!!!Example_Start_Tsig_Beat_Rate: 112
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 0:47
+!!!Example_Start_Tempo_Expression: [Allegro con brio]
+!!!Example_Start_Notated_Beat_Rate: [112]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 23
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:57
+!!!Example_End_Measure: 28
+!!!Example_Dataset: T
+!!!Editorial_Comments: The piano score (available on Hathi Trust: https://hdl.handle.net/2027/mdp.39015056366837) contains an extra measure that is not in the orchestral score (https://archives.nyphil.org/index.php/artifact/327b6dc9-3271-43c8-9fd6-3828f0164693-0.1/fullview#page/2/mode/2up). Suter's ID is based on the piano reduction, not the orchestral score. The extra bar can be found immediately after the first 2/4 time signature. In the orchestral score, there are 6 bars of 4/4 before the second 2/4 bar (mm. 7 - 12), whereas in the piano reduction there are 7 bars of 4/4 before the second 2/4 bar of the piece (mm. 7 - 13). This differemnce does not affect the Example Start Measure Number. Example Start Notated Beat and Example Start Notated Beat Rate [quarter=112] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Allegro con brio] based on most recent notated tempo expression (SWFU, m. 1). Editorial Note:
+!!!Death_Place: Hollywood,United States
+!!!Death_Date: 11-Jul-1937
+!!!Changing_Tsig: yes
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 26-Sep-1898
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:

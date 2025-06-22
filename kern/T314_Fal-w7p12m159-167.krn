@@ -1,0 +1,184 @@
+!!!!SEGMENT: T314_Fal-w7p12m159-167.krn
+!!!COM: Falla (y Matheu), Manuel de
+!!!OTL: Fantasía Bética (Betic Fantasy) for Piano
+!!!OMV: single movement work
+!!!OMD:
+!!!AGN: Instrumental; Keyboard
+!!!AGN-sub: Keyboard
+!!!CNT: Spanish
+!!!ODT: 1919
+!!!OPR: Fantasía Bética (Betic Fantasy) for Piano
+!!!filename: T314_Fal-w7p12m159-167.krn
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*
+*staff2	*staff1	*staff1/2
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*I"Piano	*I"Piano	*
+*I'pf	*I'pf	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+!!LO:TX:omd:tempo:a:t=[Tempo primo (Allegro moderato)]\n{[quarter-dot]=59}
+*M6/8	*M6/8	*
+=160	=160	=160
+4AAA'^^< 4AA	(16ff^LL 16gg#X 16eee	sfz
+.	16dddJ)	.
+!	!	!LO:DY:ed=brack
+.	8ff 8gg# 8ddd	ff
+8AAA^^< 8AA	8ffJ 8gg# 8ddd	.
+8BBB^^<L 8BB	16gg#i^LL 16gggni	.
+.	16fff	.
+8CC^^< 8C	16eee	.
+.	16ddd	.
+8DD^^<J 8D	16gg# 16ggg	.
+.	16fffJJ	.
+=161	=161	=161
+8BBB^^<L 8BB	16gg#X^LL 16gggni	.
+.	16fff	.
+8CC^^< 8C	16eee	.
+.	16ddd	.
+8DD^^<J 8D	16gg# 16ggg	.
+.	16fffJJ	.
+8BBB^^<L 8BB	16gg#^LL 16ggg	.
+.	16fff	.
+8CC^^< 8C	16eee	.
+.	16ddd	.
+8DD^^<J 8D	16gg# 16ggg	.
+.	16fffJJ	.
+=162	=162	=162
+4AAA'^^< 4AA	(16ff^LL 16gg#X 16eee	.
+.	16dddJ)	.
+.	8ff 8gg# 8ddd	.
+8AAA^^< 8AA	8ffJ 8gg# 8ddd	.
+8BBB^^<L 8BB	8ffL 8gg# 8ddd	.
+8CC^^< 8C	8ff 8gg# 8ddd	.
+8DD^^<J 8D	8ffJ 8gg# 8ddd	.
+=163	=163	=163
+4AAA'^^< 4AA	(16ff^LL 16gg#X 16eee	.
+.	16dddJ)	.
+.	8ff 8gg# 8ddd	.
+8AAA^^< 8AA	8ffJ 8gg# 8ddd	.
+8BBB^^<L 8BB	8ffL 8gg# 8ddd	.
+8CC^^< 8C	8ff 8gg# 8ddd	.
+8DD^^<J 8D	8ffJ 8gg# 8ddd	.
+=164	=164	=164
+*grp:A	*grp:B	*
+4AAA'^^< 4AA	(16ff^LL 16gg#X 16eee	.
+.	16dddJ)	.
+.	8ff 8gg# 8ddd	.
+8AAA^^< 8AA	8ffJ 8gg# 8ddd	.
+8BBB^^<L 8BB	16gg#i^LL 16gggni	.
+.	16fff	.
+8CC^^< 8C	16eee	.
+.	16dddJJ	.
+8DD^^<J 8D	16gg#^LL 16ggg	.
+.	16fff	.
+=165	=165	=165
+8BBB^^<L 8BB	16eee	.
+.	16dddJJ	.
+8CC^^< 8C	16gg#X^LL 16gggni	.
+.	16fff	.
+8DD^^<J 8D	16eee	.
+.	16dddJJ	.
+8BBB^^<L 8BB	16gg#^LL 16ggg	.
+.	16fff	.
+8CC^^< 8C	16eee	.
+.	16ddd	.
+8DD^^<J 8D	16ggg	.
+.	16fffJJ	.
+=166	=166	=166
+*M2/4	*M2/4	*
+*	*8va	*
+!	!LO:TX:a:t=([eighth] = [eighth])	!
+.	(>(<16qqbb/LL	fff
+.	16qqeee/JJ	.
+!LO:TX:b:t=Ped.	!LO:TUP:b	!
+8EEE^^< 8EE	40ggg#X^^LLL\ 40bbb)	.
+.	40fff#X	.
+.	40eee	.
+.	40bb	.
+*	*X8va	*
+!	!LO:TX:t=P:problem: Tuplet number should be below beams, not below bottom staff.	!
+.	40gg#X 40bb	.
+*clefG2	*	*
+8rb	40ff#X	.
+.	40ee	.
+.	40b	.
+.	40g#X<	.
+.	40e<JJJ/	.
+4ryy	8B<^<)	.
+.	8rb<	.
+*	*clefF4	*
+=167	=167	=167
+2ryy	(32AALLL	p <
+.	32BB	.
+.	32C	.
+.	32D	.
+.	32E	.
+!	!LO:TX:a:Bi:t=gliss.	!
+!	!LO:TX:t=P:problem: Missing gliss line, and split in beams.	!
+.	32F	.
+.	32GHHJJ	.
+.	8.ryy	.
+.	32ryy	.
+*	*clefG2	*
+.	32eehhLL	.
+.	32ffJJJ	[
+=168	=168	=168
+8ryy	32gg<LLL<	ff
+.	32ff<	.
+.	32ee<	.
+.	32dd<	.
+16ryy	32cc<	.
+.	32b<	.
+!LO:TX:a:B:i:t=gliss.	!	!
+!LO:TX:t=P:problem: Missing gliss line, and split in beams.	!	!
+32ryy	32a<HHJJ	.
+4ryy	4ryy	.
+*clefF4	*	*
+32ryy	[32BB<hhJk)	.
+=	=	=
+*-	*-	*-
+!!!RDF**kern: i = editorial accidental, paren
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED: Kelsey Lussier
+!!!EEV: 2021/08/06
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/01/28
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Fal-7
+!!!Suter_Example_Number: 314
+!!!Suter_Example_ID: Fal-7/12/159-167
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: 2/4
+!!!Full_Unit_Duration: 13:06
+!!!First_Publication_Year: 1922
+!!!First_Public_Performance_Year: 1920
+!!!Example_Total_Measures: 9
+!!!Example_Timestamp_Duration: 15
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 59
+!!!Example_Start_Tsig_Beat_Rate: 59
+!!!Example_Start_Tsig_Beat: dotted-quarter
+!!!Example_Start_Tsig: 6/8
+!!!Example_Start_Timestamp: 5:35
+!!!Example_Start_Tempo_Expression: [Tempo primo (Allegro moderato)]
+!!!Example_Start_Notated_Beat_Rate: {59}
+!!!Example_Start_Notated_Beat: {dotted-quarter}
+!!!Example_Start_Measure: 160
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:50
+!!!Example_End_Measure: 168
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=88] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Tempo primo (Allegro moderato)] based on most recent notated tempo expressions (SWFU, m. 146 and m. 1). Editorial Note: Although the Suter ID identifies this example as comprising mm. 159-167, based on contents the actual measures are mm. 160-168.
+!!!Death_Place: Alta Gracia,Argentina
+!!!Death_Date: 14-Nov-1946
+!!!Changing_Tsig: yes
+!!!Birth_Place: Cádiz,Spain
+!!!Birth_Date: 23-Nov-1876
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/06/01

@@ -1,0 +1,203 @@
+!!!!SEGMENT: T214_Sch-w33p28-29m124-129.krn
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Moses und Aron (Moses and Aaron), Opera
+!!!OMV: Act I, Scene 2: Moses begegnet Aron in der Wüste. (Moses meets Aron in the desert.)
+!!!OMD:
+!!!AGN: Stage; Opera
+!!!AGN-sub: Opera
+!!!CNT: Austrian
+!!!ODT: 1932
+!!!OPR: Moses und Aron (Moses and Aaron), Opera
+!!!filename: T214_Sch-w33p28-29m124-129.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**dynam	**kern	**text	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*	*grp:A	*	*	*grp:B	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*	*part8	*	*	*part7	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*	*staff9	*	*	*staff8	*staff7	*staff7/8	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICvox	*	*	*ICvox	*	*	*ICstr	*ICstr	*	*ICbras	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Icello	*	*Icello	*	*Icello	*	*Istim	*	*	*Itenor	*	*	*Iarpa	*Iarpa	*	*Ituba	*	*Itromt	*	*Iclars	*	*Iflt	*	*Iflt	*	*Ipicco	*
+*I"Contrabass 1	*	*I"Solo Violoncello 4	*	*I"Solo Violoncello 3	*	*I"Solo Violoncello 2	*	*I"Solo Violoncello 1	*	*I"MOSES	*	*	*I"ARON	*	*	*I"Harp	*I"Harp	*	*I"Tuba	*	*I"Trombone 3	*	*I"Clarinet in Bb 1	*	*I"Flute 2	*	*I"Flute 1	*	*I"Piccolo	*
+*I'cb	*	*I'vc	*	*I'vc	*	*I'vc	*	*I'vc	*	*I'MOSES	*	*	*I'ARON	*	*	*I'arp	*I'arp	*	*I'tb	*	*I'tn	*	*I'cl	*	*I'fl	*	*I'fl	*	*I'picc	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*	*clefGv2	*	*	*clefF4	*clefG2	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*k[]	*	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*C:	*	*	*C:	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[a tempo (Grazioso (nicht hastig))]\n[[quarter]=66]
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*	*M4/4	*	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+*Xtuplet	*Xtuplet	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*Xtuplet	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*	*	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8r	.	1r	.	1r	.	1r	.	1r	.	1r	.	.	2r	.	.	1r	1r	.	1r	.	(2AAn	.	1r	.	1r	.	1r	.	1r	.
+!LO:TX:t=zus. o. D.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8DDD#	f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4.BBBBn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	2BB-)	fp >	.	.	.	.	.	.	.	.
+[8CCCn	fp >	.	.	.	.	.	.	.	.	.	.	.	(4C#	Du-	p	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4CCC]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	]]	.	.	.	.	.	.	.	.	.	.	.	8Dn)	.	.	.	.	.	.	.	.	]]	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*M12/8	*M12/8	*	*	*	*	*	*	*	*M12/8	*	*M12/8	*	*M12/8	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*haupt	*
+1r	.	1r	.	1r	.	1r	.	1r	.	1r	.	.	2.Dn	Sohn	.	12EnL	24r	pp	1r	.	1r	.	1r	.	12r	.	12r	.	(6ddd#X	p
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aanLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dn	24bbb-X	.	.	.	.	.	.	.	12ccn'L	pp	12bbn'L	pp	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aa	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12EJ	24bbb-JJ	.	.	.	.	.	.	.	12cc'J	.	12bb'J	.	12ccc#X)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dL	24r	.	.	.	.	.	.	.	12cc'L	.	12bb'L	.	12r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ggnLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12EJ	24aaa-X	.	.	.	.	.	.	.	12r	.	12r	.	12eee#X'L	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gg	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	24aaa-JJ	.	.	.	.	.	.	.	12cc'J	.	12bb'J	.	12fff#X'J	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GnL	24r	.	.	.	.	.	.	.	12r	.	12r	.	[6fff#	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24cccnLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12fn	24bbbn	.	.	.	.	.	.	.	12bb-XL	.	12aaanL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ccc	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	24bbbJJ	.	.	.	.	.	.	.	12bb-J	.	12aaaJ	.	24fff#LL]	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24r	.	.	.	.	.	.	.	.	.	.	.	(24ggg#XJJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8.GG#XL	mei-	<	12fL	24r	.	.	.	.	.	.	.	12bb-L	.	12aaaL	.	12eee')	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ddddnLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	24ccc#X	.	.	.	.	.	.	.	12r	.	12r	.	6ddd#X	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24dddd	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12r	24ccc#JJ	.	.	.	.	.	.	.	12bb-J	.	12aaaJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	16F#XJk	-ner	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*
+*Xtuplet	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*	*	*
+2r	.	1r	.	1r	.	1r	.	1r	.	4r	.	.	(4F#X	Vä-	[	12FnL	24r	.	1r	.	2r	.	1r	.	12ddnL	.	12gg#XL	.	(6ccc#X^	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24eeeenLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12f#X	24ddd#X	.	.	.	.	.	.	.	12dd	.	12gg#	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24eeee	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xhaupt	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12FJ	24ddd#JJ	.	.	.	.	.	.	.	12b-XJ	.	12aanJ	.	12bb)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TUP:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	24r	.	.	2Gn)	.	>	12gnL	24r	.	.	.	.	.	.	.	12b-	.	12aa	.	12r	.
+*	*	*	*	*	*	*	*	*	*	*head:x	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	24G	Du	mf	.	.	.	.	24eeeeLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12AL	Sohn	.	.	.	.	12CnJ	24ddd#	.	.	.	.	.	.	.	12r	.	12r	.	6r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24eeeeJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	24AL	meines	.	.	.	.	12r	12r	.	.	.	.	.	.	.	12r	.	12r	.	.	.
+.	.	.	.	.	.	.	.	.	.	24G#XJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TUP:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4r	.	.	.	.	.	.	.	.	.	12BL	Vaters,	.	.	.	.	3.r	3.r	.	.	.	(2FF#X	p	.	.	3.r	.	3.r	.	3.r	.
+.	.	.	.	.	.	.	.	.	.	12FJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TUP:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8r	.	.	.	.	.	.	.	.	.	12B-XL	Bruder	.	4Fn	-ter,	]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12A	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+[8AA-X	fp	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12G#XJ	des	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*Xtuplet	*
+!	!	!	!	!	!	!	!	!	!	!LO:TUP:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4AA-X]	.	1r	.	1r	.	2r	.	2r	.	6cn	Gei-	.	8r	.	.	1r	1r	.	1r	.	2GGn	.	1r	.	1r	.	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	4BBn	schickt	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12c	-stes,	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TUP:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2FFFn	fp	.	.	.	.	.	.	.	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	24FnKL	aus	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12G	dem	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8AAn	dich	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12F#XJ	der	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TUP:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	2c	p	(4e-X	p	12.cL	Ein-	.	(8AA	mir	.	.	.	.	.	.	4.DDn)	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	24Ak	-zi-	.	4BB-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12G#XJ	-ge	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TUP:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8DD-X'	sf	.	.	.	.	.	.	4en)	.	24G#XLL	sprechen	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	24FnJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12DnJ	will:	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	8BB-	der	.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!	!	!	!	!	!	!LO:TUP:r=4:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+2r	.	1r	.	1r	.	(8BBn	.	[2An	.	12.r	.	.	(4.Cn	gro-	.	1r	3.r	.	2r	.	1r	.	1r	.	1r	.	3.r	.	1r	.
+.	.	.	.	.	.	4AA#X	.	.	.	24DnKL	Vernimm	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12EnJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!LO:TUP:b	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	6B-X	mich	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8BB	.	.	.	.	.	.	4.E-X)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	24An	und	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=o.D.	!	!	!	!	!	!	!	!	!	!	!
+4r	.	.	.	.	.	4AA#)	.	4A]	.	4Bn	ihn	.	.	.	.	.	6.r	.	4EEn'~	pp	.	.	.	.	.	.	6.r	.	.	.
+!LO:TX:a:i:t=marcato	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8DDD#X'L	pp	.	.	.	.	4r	.	4r	.	12r	.	.	4EEn	-ße	.	.	12.r	.	[4AAAn	.	.	.	.	.	.	.	12r	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*haupt	*	*	*
+.	.	.	.	.	.	.	.	.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12b-X'L	p	.	.
+[8BBBn^J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24dnLL	pp	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12C	und	.	.	.	.	.	24d	.	.	.	.	.	.	.	.	.	12ccn'J	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24dJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*M12/8	*	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*	*	*	*
+4BBB]	.	1r	.	1r	.	1r	.	1r	.	6D	sa-	.	2EEn	Gott?	.	12Dn'L	24r	.	8AAAL]	.	1r	.	3.r	.	3.r	.	([6a-X	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gg-XLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12cn'J	24fffn	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gg-	.	[8BBB-X'^J	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12D	-ge,	.	.	.	.	12r	24fffJJ	.	.	.	.	.	.	.	.	.	24a-LL]	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24r	.	.	.	.	.	.	.	.	.	24gnJJ)	.	.	.
+16CCn'	sfpp	.	.	.	.	.	.	.	.	12DL	was	.	.	.	.	12r	24r	.	16BBB-]	.	.	.	.	.	.	.	12g'	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24cc#XLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12C#X	du	.	.	.	.	12AA-X 12G-X	24dddn	.	.	.	.	.	.	.	.	.	6fn	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24cc#	.	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12AAnJ	.	.	.	.	.	12r	24dddJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.
+2r	.	.	.	.	.	.	.	.	.	4Fn	verstehst.	.	2r	.	.	12BBnL	24r	.	2r	.	.	.	6.r	.	6.r	.	12r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ddd#XLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12An	24een	.	.	.	.	.	.	.	.	.	(12b-XL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ddd#	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12BBJ	24eeJJ	.	.	.	.	.	.	.	.	.	12ccnJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24r	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	4r	.	.	.	.	.	12G-XL	24r	.	.	.	.	.	12r	.	12r	.	12.dd-XL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aaa-XLL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12fn	24gg-	.	.	.	.	.	12ccn'	p	12bb-'	p	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aaa-	.	.	.	.	.	.	.	.	.	24ee-Xk)	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12BnJ	24r	.	.	.	.	.	12r	.	12r	.	[12b-XJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24dddnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)][({(s7,s8)})][(s9,s10)][([(s11,s12,s13,s14,s15)])]
+!!!EED: Gabreilla Vici
+!!!EEV: 2021/11/24
+!!!EED2: Jason Lee
+!!!EEV2: 2022/04/29
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Sch-33
+!!!Suter_Example_Number: 214
+!!!Suter_Example_ID: Sch-33/28-29/124-129
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: 12/8
+!!!Full_Unit_Duration: 7:29
+!!!First_Publication_Year: 1957
+!!!First_Public_Performance_Year: 1957
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 27
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 66
+!!!Example_Start_Tsig_Beat_Rate: 66
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 1:04
+!!!Example_Start_Tempo_Expression: [a tempo (Grazioso (nicht hastig))]
+!!!Example_Start_Notated_Beat_Rate: [66]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 27
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:31
+!!!Example_End_Measure: 32
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=66] based on most recent notated beat rate (SWFU, m. 26). Example Start Tempo Expression [a tempo (Grazioso (nicht hastig))] based on most recent notated tempo expressions (SWFU, m. 26 and m. 1).
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: yes
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/05/31

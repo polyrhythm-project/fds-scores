@@ -1,0 +1,173 @@
+!!!!SEGMENT: T640_Hin-w48p7s1-3.krn
+!!!COM: Hindemith, Paul
+!!!OTL: Duet for Viola and Violincello
+!!!OMV: single movement work
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: German
+!!!ODT: 1934
+!!!OPR: Duet for Viola and Violincello
+!!!filename: T640_Hin-w48p7s1-3.krn
+**kern	**kern	**dynam
+*grp:A	*grp:A	*
+*part2	*part1	*part1/2
+*staff2	*staff1	*
+*ICstr	*ICstr	*
+*Icello	*Iviola	*
+*I"Violoncello	*I"Viola	*
+*I'vc	*I'vla	*
+*clefG2	*clefC3	*
+*k[]	*k[]	*
+=327	=327	=327
+!!LO:TX:omd:tempo:a:t=[Schnelle Achtel]\n{[eighth]=162}
+!	!LO:TX:a:i:t=[pizz.]	!
+!	!	!LO:DY:ed=brack
+8gL]	8FL	p
+(16cL	8gJ	.
+16d)	.	.
+(16e	8r	<
+16gJJ)	.	.
+=328	=328	=328
+*grp:B	*grp:B	*
+(16aLL	4r	.
+16g)	.	.
+(16a	.	.
+16ccJJ)	.	.
+=329	=329	=329
+!	!LO:TX:a:i:t=arco	!
+4cc#X	(16FLL	.
+.	16GJ)	.
+.	8A-XJ	.
+=330	=330	=330
+*grp:A	*grp:A	*
+(>8qdd/	.	.
+4cc#X)	8A-XL	.
+.	8A-	.
+(>8qdd#X/	.	.
+[8cc#)	8A-J	.
+=331	=331	=331
+.	(<8qB-X/	[
+8cc#]	8A-XL	.
+(>8qee/	.	.
+4cc#X)	8G)	.
+.	8FJ	.
+=332	=332	=332
+*grp:B	*grp:B	*
+(>8qff#X/	.	.
+4cc#X^)	8r	mf
+!	!LO:TX:a:i:t=pizz.	!
+.	8EL	.
+4b^	8d	.
+.	8AJ	.
+=333	=333	=333
+*grp:A	*grp:A	*
+(8b-XL	8DL	.
+8f)	8cJ	.
+8a-XJ	8r	.
+=334	=334	=334
+(<8qa-X/	.	.
+8gL	8C#XL	.
+8f)	8BJ	.
+8e-XJ	8r	.
+=335	=335	=335
+8r	8F#XL	.
+(16dLL	8e	.
+16f)	.	.
+(16b-X	8BJ	.
+16ccJJ)	.	.
+=336	=336	=336
+*grp:B	*grp:B	*
+4cc#X^	8EL	.
+.	8dJ	.
+4b^	8r	.
+.	8D#X	.
+=337	=337	=337
+*grp:A	*grp:A	*
+(8b-XL	8c#XL	.
+8f)	8r	.
+8a-XJ	8cnJ	>
+=338	=338	=338
+(<8qa-X/	.	.
+8gL	8b-XL	.
+8f)	8g	.
+8e-XJ	8BnJ	.
+=339	=339	=339
+8r	8aL	.
+(16dLL	8r	.
+16f)	.	.
+(16b-X	8B-XJ	.
+16ccJJ)	.	.
+=340	=340	=340
+*grp:B	*grp:B	*
+4cc#X^	8a-X	.
+.	8r	.
+4b^	8E-XL	.
+.	8d-XJ	.
+=341	=341	=341
+*grp:A	*grp:A	*
+(8b-XL	8A-XL	.
+8f)	8r	.
+8a-XJ	8E-XJ	]
+=342	=342	=342
+(<8qa-X/	.	.
+8gL	8d-XL	.
+8f)	8A-XJ	.
+8e-XJ	8r	<
+=343	=343	=343
+8r	8E-X	.
+(16dLL	8r	.
+16f)	.	.
+(16b-X	8r	.
+16ccJJ)	.	.
+=344	=344	=344
+*grp:B	*grp:B	*
+!	!LO:TX:a:i:t=arco	!
+(16cc#XLL	(16c#XLL	[f
+16dd#XJ)	16d#XJ)	.
+8eeJ	8eJ	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/08/27
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/25
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Hin-48
+!!!Suter_Example_Number: 640
+!!!Suter_Example_ID: Hin-48/7/lignes 1 à 3
+!!!Premiere_Location: London,England
+!!!Other_Tsigs: {2/8},{3/8},{4/8},{3/8},{4/8},{3/8},{4/8},{3/8},{2/8}
+!!!Full_Unit_Duration: 6:05
+!!!First_Publication_Year: 1957
+!!!First_Public_Performance_Year: 1934
+!!!Example_Total_Measures: 18
+!!!Example_Timestamp_Duration: 20
+!!!Example_Start_Tsig_Type: unmetered
+!!!Example_Start_Tsig_Mean_Beat_Rate: 162
+!!!Example_Start_Tsig_Beat_Rate: 162
+!!!Example_Start_Tsig_Beat: {eighth}
+!!!Example_Start_Tsig: {3/8}
+!!!Example_Start_Timestamp: 5:06
+!!!Example_Start_Tempo_Expression: [Schnelle Achtel]
+!!!Example_Start_Notated_Beat_Rate: {162}
+!!!Example_Start_Notated_Beat: {eighth}
+!!!Example_Start_Measure: 265
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:26
+!!!Example_End_Measure: 282
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {eighth=162} calculated from recording (https://ubc-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=CRC2798); tempo for audio synthesis {eighth=154} was calculated using a Digital Audio Workstation (DAW). Example Start Tempo Expression [Schnelle Achtel] based on most recent notated tempo expression (SWFU, m. 1). Editorial Note: Full Unit Start Time Signature {2/8} based on a calculation of the number of eighth beats in the first unmetered measure, which subsequently changes. Full Unit Start Tsig Type \"none\" is used as there are no regular groupings of beats.
+!!!Death_Place: Frankfurt,Germany
+!!!Death_Date: 28-Dec-1963
+!!!Changing_Tsig: {yes}
+!!!Birth_Place: Hanau,Germany
+!!!Birth_Date: 16-Nov-1895
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/06/09
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

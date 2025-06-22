@@ -1,0 +1,87 @@
+!!!!SEGMENT: T141_Jan-w38p7m5-7.krn
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: Slezské písně, ze sbírky Heleny Salichové (Silesian Songs, from Helena Salichová’s Collection) for Voice and Piano
+!!!OMV: No. 4: To naše staveni z drobneho kameni (That Cottage of Ours Made of Tiny Stones)
+!!!OMD:
+!!!AGN: Vocal; Solo
+!!!AGN-sub: Solo
+!!!CNT: Czech
+!!!ODT: 1918
+!!!OPR: Slezské písně, ze sbírky Heleny Salichové (Silesian Songs, from Helena Salichová’s Collection) for Voice and Piano
+!!!filename: T141_Jan-w38p7m5-7.krn
+**kern	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*grp:A	*	*grp:B	*	*
+*part2	*part2	*	*part1	*	*
+*staff3	*staff2	*	*staff1	*	*
+*ICklav	*ICklav	*	*ICvox	*	*
+*Ipiano	*Ipiano	*	*Isoprn	*	*
+*I"Piano	*I"Piano	*	*I"Solo Soprano	*	*
+*I'pf	*I'pf	*	*I's	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[b-]	*k[b-]	*	*k[b-]	*	*
+*F:	*F:	*	*F:	*	*
+!!LO:TX:omd:tempo:a:t=[[quarter]=58]
+*M3/4	*M3/4	*	*M3/4	*	*
+=5	=5	=5	=5	=5	=5
+*^	*	*	*	*	*
+!	!LO:TX:t=P:problem: Ties should not be obstructing notes below the staff.	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack
+8FFL	[2.FF	(8fL	p	8cc	cho-	mf
+8DD	.	8d	.	8cc	-di	.
+8CC	.	8c)	.	8b-	tam	.
+8GG	.	(8g	.	8a	sy-	.
+8FF	.	8f	.	8g	-ne-	.
+8CCJ	.	8cJ)	.	8a	-ček	.
+=6	=6	=6	=6	=6	=6	=6
+8FFL	2.FF_	(8fL	<	8f	ně-	.
+8DD	.	8d	.	8d	-da	.
+8CC	.	8c)	.	4c	po-	<
+8BB-	.	(8b-	.	.	.	.
+8AA	.	8a	.	4f	-zdra-	.
+8FFJ	.	8fJ)	[	.	.	.
+=7	=7	=7	=7	=7	=7	=7
+(8DL	2.FF]	(8ddL	.	4g	-ve-	[
+8C	.	8cc	.	.	.	.
+8AA)	.	8a)	.	2a	-ni,	.
+(8G	.	(8gg	.	.	.	.
+8F	.	8ff	.	.	.	.
+8CJ)	.	8ccJ)	.	.	.	.
+*v	*v	*	*	*	*	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED: Daniel Wright
+!!!EEV: 2021/12/03
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Jan-38
+!!!Suter_Example_Number: 141
+!!!Suter_Example_ID: Jan-38/7/5-7
+!!!Premiere_Location: Prague,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:44
+!!!First_Publication_Year: 1920
+!!!First_Public_Performance_Year: 1919
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 8
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 58
+!!!Example_Start_Tsig_Beat_Rate: 58
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 0:12
+!!!Example_Start_Tempo_Expression: none
+!!!Example_Start_Notated_Beat_Rate: [58]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 5
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:20
+!!!Example_End_Measure: 7
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=58] based on most recent notated beat rate (SWFU, m. 1).
+!!!Death_Place: Moravaská Ostrava,Czech Republic
+!!!Death_Date: 12-Aug-1928
+!!!Changing_Tsig: no
+!!!Birth_Place: Hukvaldy,Moravia
+!!!Birth_Date: 3-Jul-1854
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/13

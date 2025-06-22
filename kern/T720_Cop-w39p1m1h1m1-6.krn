@@ -1,0 +1,109 @@
+!!!!SEGMENT: T720_Cop-w39p1m1h1m1-6.krn
+!!!COM: Copland, Aaron
+!!!OTL: Nonet for 3 Violins, 3 Violas and 3 Violincellos
+!!!OMV: single movement work
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: American
+!!!ODT: 1960
+!!!OPR: Nonet for 3 Violins, 3 Violas and 3 Violincellos
+!!!filename: T720_Cop-w39p1m1h1m1-6.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*grp:A	*	*grp:B	*
+*part6	*	*part5	*	*part4	*	*part3	*part2	*	*part1	*
+*staff6	*	*staff5	*	*staff4	*	*staff3	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*ICstr	*	*ICstr	*
+*Icello	*	*Icello	*	*Icello	*	*Iviola	*Iviola	*	*Iviola	*
+*I"Violoncello III	*	*I"Violoncello II	*	*I"Violoncello I	*	*I"Viola III	*I"Viola II	*	*I"Viola I	*
+*I'vc	*	*I'vc	*	*I'vc	*	*I'vla	*I'vla	*	*I'vla	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefC3	*clefC3	*	*clefC3	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Slow and solemn]\n[[quarter]=56]
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!
+[2.E	p	[2.D	p	[2.A	p	1r	1r	.	2r	.
+.	.	.	.	.	.	.	.	.	4r	.
+!	!	!	!	!	!	!	!	!	!LO:TX:a:t=poco vibrato (somewhat deadened)	!LO:DY:t=%s legato molto
+8E]	.	8D]	.	8A]	.	.	.	.	4Dv	mp
+8r	.	8r	.	8r	.	.	.	.	.	.
+!!LO:REH:t=1
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4r	.	4r	.	4r	.	1r	2r	.	2A	.
+2D	p	2C	p	2B	p	.	.	.	.	.
+.	.	.	.	.	.	.	4r	.	2G	.
+!	!	!	!	!	!	!	!LO:TX:a:t=poco vibrato (somewhat deadened)	!LO:DY:t=%s legato molto	!	!
+4E	.	4D	.	4A	.	.	4Dv	mp	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2E-X	.	2BB-X	.	2c	.	1r	2A	.	4A	.
+.	.	.	.	.	.	.	.	.	2d	.
+2B-X	.	2D	.	2E-X	.	.	2G	.	.	.
+.	.	.	.	.	.	.	.	.	4c	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2.D-X	.	2.E-X	.	2d	.	1r	2.B-X	.	4B-X	.
+.	.	.	.	.	.	.	.	.	2G	.
+.	.	.	.	4B-X	.	.	.	.	.	.
+4BB-X	.	4E-	.	4d	.	.	4E-X	.	4d	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*grp:B	*	*grp:A	*
+!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=gradualmente più espr.	!
+2G	.	2F	.	2.c	.	1r	4r	.	2.c	.
+!	!	!	!	!	!	!	!LO:TX:b:i:t=gradualmente più espr.	!	!	!
+.	.	.	.	.	.	.	4G	.	.	.
+2E-X	.	2F	.	.	.	.	[2A-X	.	.	.
+.	.	.	.	4r	.	.	.	.	4c	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+!LO:TX:b:i:t=gradualmente più espr.	!	!	!	!	!	!	!	!	!	!
+4r	.	2.G-X	.	2r	.	1r	4A-]	.	2.e-X	.
+4FF	.	.	.	.	.	.	4A-X	.	.	.
+*	*	*	*	*clefC4	*	*	*	*	*	*
+!	!	!	!	!	!LO:DY:t=%s più espr. 	!	!	!	!	!
+2C	< [	.	.	(4a-X~v	mp	.	2B-X	.	.	.
+.	.	4F	< [	4a-~)	.	.	.	.	4e-	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*grp:B	*	*grp:A	*
+2.B-X	mp	2.c	mp	4a-X	.	1r	4c	.	2a-X	.
+.	.	.	.	2f	.	.	2f	.	.	.
+.	.	.	.	.	.	.	.	.	4c	.
+4AA-X	.	4B-X	.	4g	.	.	4B-X	.	4g	.
+=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4,s5,s6)]
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/05/06
+!!!EED3: Bryan Bell
+!!!EEV3: 2023/06/13
+!!!Suter_Work_ID: Cop-39
+!!!Suter_Example_Number: 720
+!!!Suter_Example_ID: Cop-39/1/1[1]1-6
+!!!Premiere_Location: Washington DC,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 17:21
+!!!First_Publication_Year: 1962
+!!!First_Public_Performance_Year: 1961
+!!!Example_Total_Measures: 7
+!!!Example_Timestamp_Duration: 33
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 56
+!!!Example_Start_Tsig_Beat_Rate: 56
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 0:32
+!!!Example_Start_Tempo_Expression: [Slow and solemn]
+!!!Example_Start_Notated_Beat_Rate: [56]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 8
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:05
+!!!Example_End_Measure: 14
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=56] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Slow and solemn] based on most recent notated tempo expression (SWFU, m. 1). Full Unit Duration calculated from Disc 2 Track 15 (0:00) to Disc 2 Track 17 (4:55) (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=5099708932329). Example Start and End Time based on Disc 2 Track 15 \"I. Slow and solemn\" (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=5099708932329).
+!!!Death_Place: North Tarrytown,United States
+!!!Death_Date: 2-Dec-1990
+!!!Changing_Tsig: no
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 14-Nov-1900
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:

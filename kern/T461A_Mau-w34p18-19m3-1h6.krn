@@ -1,0 +1,94 @@
+!!!!SEGMENT: T461A_Mau-w34p18-19m3-1h6.krn
+!!!COM: Martinů, Bohuslav (Jan)
+!!!OTL: Serenade No. 3 for Oboe, Clarinet, Four Violins and Violincello
+!!!OMV: II: Thema con Variazioni (Theme and Variations)
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Czech
+!!!ODT: 1932
+!!!OPR: Serenade No. 3 for Oboe, Clarinet, Four Violins and Violincello
+!!!filename: T461A_Mau-w34p18-19m3-1h6.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*
+*Icello	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Iclars	*	*Ioboe	*
+*I"Violoncello	*	*I"Violin 4	*	*I"Violin 3	*	*I"Violin 2	*	*I"Violin 1	*	*I"Clarinet in Bb	*	*I"Oboe	*
+*I'vc	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'cl	*	*I'ob	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Allegretto]\n{[quarter-dot]=90}
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:t=poco %s	!	!LO:DY:t=poco %s
+8BB'L)	f	8f#X'L)	f	8d#X)	f	8BL)	mf	8b)	ff	8r	.	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!LO:DY:rj:t=poco %s	!	!LO:DY:rj:t=poco %s
+8AA#X')	.	8a#X')	.	8r)	.	8A#X	.	8r	.	(16f#XLL	f <	(16dd#XLL	f <
+.	.	.	.	.	.	.	.	.	.	16bJ	.	16ff#XJ	.
+8BB'J	.	8b'J	.	8r	.	8BJ	.	4r	.	8dd#X'J)	[	8bb'J)	[
+8r'	.	8r	.	8r	.	8r	.	.	.	(16ddLL	>	(16aaLL	>
+.	.	.	.	.	.	.	.	.	.	16aJ	.	16ffnJ	.
+!	!LO:DY:rj:t=poco %s	!	!LO:DY:rj:t=poco %s	!	!LO:DY:rj:t=poco %s	!	!LO:DY:rj:t=poco %s	!	!LO:DY:rj:t=poco %s	!	!	!	!
+8A#X'L	f <	8r	f	8A#X'L	f	8a#X'L	f	8aa#X'L	f	8f'J)	]	8dd#'J)	]
+(8BJ	[	(8b 8bb	< [	(8BJ	.	(8bJ	.	(8bbJ	.	8r	.	8r	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8An'/L)	.	8an 8aan)	.	8A'L)	.	8an')	.	8aan')	.	8r	.	8r	.
+8GG#X'	.	8r	.	8G#X'	.	8r	.	8r	.	(16fLLn	<	(16ddLL	<
+.	.	.	.	.	.	.	.	.	.	16aJ	.	16ffJ	.
+8AAn'J	.	8r	.	8A'J	.	8r	.	8r	.	8dd'J)	[	8aa'J)	[
+8r'	.	8r	.	8r'	.	8r	.	8r	.	(16dd-XLL	.	(16aa-XLL	.
+.	.	.	.	.	.	.	.	.	.	16a-XJ	.	16ffJ	.
+8G#X'L	<	8gg#X'L	<	8G#'L	<	8g#X'L	<	8gg#X'L	<	8f'J)	.	8dd-X'J)	.
+(8AJ	.	(8aaJ	.	(8AJ	.	(8aJ	.	(8aaJ	.	8r	.	8r	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8F#X'L)	[	8ff#X')	[	8f#X)	[	8f#XL)	[	8ff#X')	[	8r	.	8r	.
+8E#X'	.	8r	.	8r	.	8e#X	.	8r	.	(16fLL	.	(16bLL	<
+.	.	.	.	.	.	.	.	.	.	16b-J	.	16ddJ	.
+8F#'J	.	8r	.	8r	.	8f#J	.	8r	.	8dd'J)	.	8ffn'J)	.
+8r'	.	8r	.	8r	.	8r	.	8r	.	(16b-LL	.	(16eeLL	[
+.	.	.	.	.	.	.	.	.	.	16a-XJ	.	16ddJ	.
+8E#'L	<	8ee#X'L	<	8e#X'L	<	8e#X'L	<	8ee#X'L	<	8eX'J)	.	8b'J)	.
+(8F#J	[	(8ff#J	[	(8f#J	[	(8f#J	[	(8ff#J	[	8r	.	8r	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4,s5,s6,s7)]
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/11/19
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Mau-34
+!!!Suter_Example_Number: 461A
+!!!Suter_Example_ID: Mau-34/18 et 19/3-1[6]
+!!!Premiere_Location: Prague,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:51
+!!!First_Publication_Year: 1949
+!!!First_Public_Performance_Year: 1947
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 4
+!!!Example_Start_Tsig_Type: compound duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 90
+!!!Example_Start_Tsig_Beat_Rate: 90
+!!!Example_Start_Tsig_Beat: dotted-quarter
+!!!Example_Start_Tsig: 6/8
+!!!Example_Start_Timestamp: 2:03
+!!!Example_Start_Tempo_Expression: [Allegretto]
+!!!Example_Start_Notated_Beat_Rate: {90}
+!!!Example_Start_Notated_Beat: {dotted-quarter}
+!!!Example_Start_Measure: 70
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:07
+!!!Example_End_Measure: 72
+!!!Example_Dataset: T
+!!!Editorial_Comments: Original Suter's example ID was \"Mau-34/18 et 19/3-1[6] et [6]6-8\"; because it did not comprise adjacent measures, it has been divided & transcribed as such. No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {dotted-quarter=90} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=SU3643-2). Example Start Tempo Expression [Allegretto] based on most recent notated tempo expression (SWFU, m. 57).
+!!!Death_Place: Liestal,Switzerland
+!!!Death_Date: 28-Aug-1959
+!!!Changing_Tsig: no
+!!!Birth_Place: Polička,Bohemia
+!!!Birth_Date: 8-Dec-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/24

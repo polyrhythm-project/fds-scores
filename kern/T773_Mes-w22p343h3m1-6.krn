@@ -1,0 +1,129 @@
+!!!!SEGMENT: T773_Mes-w22p343h3m1-6.krn
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Turangalîla, Symphony for Solo Piano, Ondes Martenot and Orchestra
+!!!OMV: IX: Turangalîla 3
+!!!OMD:
+!!!AGN: Orchestral; Concerto
+!!!AGN-sub: Concerto
+!!!CNT: French
+!!!ODT: 1948 (rev. 1990)
+!!!OPR: Turangalîla, Symphony for Solo Piano, Ondes Martenot and Orchestra
+!!!filename: T773_Mes-w22p343h3m1-6.krn
+**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part15	*part15	*	*part14	*	*part13	*	*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff16	*staff15	*	*staff14	*	*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICklav	*ICklav	*	*ICidio	*	*ICidio	*	*ICklav	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICidio	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Ipiano	*Ipiano	*	*Ivibra	*	*Iglock	*	*Iclest	*	*Ichime	*	*Igong	*	*Itdrum	*	*Imarac	*	*Ipiatt	*	*Iwblok	*	*Icor	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Ioboe	*
+*I"Piano	*I"Piano	*	*I"Vibraphone	*	*I"Glockenspiel	*	*I"Celesta	*	*I"Tubular Bells	*	*I"Tam-Tam	*	*I"Tenor Drum	*	*I"Maracas	*	*I"Suspended Cymbal	*	*I"Wood Block	*	*I"4 Horns in F	*	*I"3 Bassoons	*	*I"2 Clarinets in Bb	*	*I"English Horn	*	*I"2 Oboes	*
+*I'pf	*I'pf	*	*I'vib	*	*I'glock	*	*I'cel	*	*I'tub	*	*I'tam-tam	*	*I't-dr	*	*I'marac	*	*I'cymb	*	*I'block	*	*I'cor-fr	*	*I'bn	*	*I'cl	*	*I'cor-en	*	*I'ob	*
+*clefG2	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefX	*	*clefX	*	*clefX	*	*clefX	*	*clefX	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*	*	*	*	*	*ITrd-14c-24	*	*ITrd-7c-12	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*ITrd4c7	*	*	*
+*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[b-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*C:	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*	*	*
+!!LO:TX:omd:tempo:a:t=[Bien modéré]\n[[eighth]=100]
+*M2/4	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!!LO:REH:t=3
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!LO:TX:b:rj:i:t=g.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!LO:TX:a:rj:i:t=d.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!LO:TX:a:t=(sonne 2 8ves au dessus)	!	!LO:TX:a:t=(sonne à l' 8ve aiguë)	!	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!	!	!
+8d~L 8dd	8ddd~L 8dddd	f	2r	.	8dddd~L	mf	8ddd~L 8dddd	mf	2r	.	4Rd/_	p	16Rf/KL	p	4.Ra/]	p	4Rcc_\	p	[2Ree\	p	2r	.	2r	.	2r	.	2r	.	2r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8Rf/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8E-X~J 8e-X	8ee-X~J 8eee-X	.	.	.	8eee-X~J	.	8ee-X~J 8eee-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	[16Rf/Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ALL 16a	16aaLL 16aaa	.	.	.	16aaaLL	.	16aaLL 16aaa	.	.	.	8.Rd/L]	.	8Rf/L]	.	.	.	8.Rcc\L]	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BnJ 16bn	16bbnJ 16bbbn	.	.	.	16bbbnJ	.	16bbnJ 16bbbn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8f~J 8ff	8fff~J 8ffff	.	.	.	8ffff~J	.	8fff~J 8ffff	.	.	.	.	.	[8Rf/J	.	[8Ra/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	[16Rd/Jk	.	.	.	.	.	[16Rcc\Jk	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1. et 2.	!	!	!	!	!	!	!
+(8d^L 8dd	(8ddd^L 8dddd	.	2r	.	(8dddd^L	.	(8ddd^L 8dddd	.	2r	.	2Rd/_	.	4Rf/_	.	4Ra/_	.	2Rcc\_	.	8.Ree\L]	.	2r	.	4r	.	2r	.	4r	.	4r	.
+8enJ 8een)	8eeenJ 8eeeen)	.	.	.	8eeeenJ)	.	8eeenJ 8eeeen)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:rj:t=à 2	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16Ree\Jk	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(<8qD-X/	f	.	.	(<8qd-X/	f	(8qd-X/	f
+*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4r	4r	.	.	.	4r	.	4r	.	.	.	.	.	16Rf/KL]	.	8.Ra/L]	.	.	.	4Ree\_	.	.	.	4E-X,)	.	.	.	4e-X,)	.	4e-X,)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8.Rf/J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16Ra/Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8d~L 8dd	8ddd~L 8dddd	.	4r	.	8dddd~L	.	8ddd~L 8dddd	.	4r	.	4.Rd/]	.	8Rf/]	.	4Ra/_	.	8Rcc\]	.	8.Ree\L]	.	4r	.	4r	.	4r	.	2r	.	2r	.
+8E-X~J 8e-X	8ee-X~J 8eee-X	.	.	.	8eee-X~J	.	8ee-X~J 8eee-X	.	.	.	.	.	4Rf/	.	.	.	[4.Rcc\	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16Ree\Jk	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1.	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:b:t=2.	!	!	!	!	!	!	!	!	!
+8A~ 8a	8aa~ 8aaa	.	[4g#X [4gn [4a	mf	8aaa~	.	8aa~ 8aaa	.	8r	.	.	.	.	.	8.Ra/]	.	.	.	4Ree\_	.	8r	.	8r	.	8r	.	.	.	.	.
+*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:rj:t=à 2	!	!	!	!	!
+8r	8r	.	.	.	8r	.	8r	.	8a~	f	[8Rd/	.	8r	.	.	.	.	.	.	.	8A~ 8a	f	8A~	f	8a~	f	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2r	2r	.	8g#XL] 8gnX] 8a]	.	2r	.	2r	.	2e-X~	.	8Rd/L]	.	4r	.	[2Ra/	.	4Rcc\_	.	4Ree\]	.	2E-X~, 2e-X	.	2E-X~,	.	2e-~,	.	2r	.	2r	.
+.	.	.	[8c#XJ [8d [8e-X	.	.	.	.	.	.	.	[8Rd/J	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	4c#] 4d] 4e-]	.	.	.	.	.	.	.	8.Rd/L]	.	16r	.	.	.	8.Rcc\]	.	[4Ree\	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	[8.Rf/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	[16Rd/Jk	.	.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:TX:b:rj:i:t=g.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!LO:TX:a:rj:i:t=d.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8d~L 8dd	8ddd~L 8dddd	f	2r	.	8dddd~L	mf	8ddd~L 8dddd	mf	2r	.	4.Rd/]	.	2Rf/]	.	4Ra/_	.	2r	.	4.Ree\]	.	2r	.	2r	.	2r	.	2r	.	2r	.
+8E-X~J 8e-X	8ee-X~J 8eee-X	.	.	.	8eee-X~J	.	8ee-X~J 8eee-X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16ALL 16a	16aaLL 16aaa	.	.	.	16aaaLL	.	16aaLL 16aaa	.	.	.	.	.	.	.	8.Ra/L]	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BnJ 16bn	16bbnJ 16bbbn	.	.	.	16bbbnJ	.	16bbnJ 16bbbn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8f~J 8ff	8fff~J 8ffff	.	.	.	8ffff~J	.	8fff~J 8ffff	.	.	.	[8Rd/	.	.	.	.	.	.	.	[8Ree\	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16Ra/Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=1. et 2.	!	!	!	!	!	!	!
+(8d^L 8dd	(8ddd^L 8dddd	.	2r	.	(8dddd^L	.	(8ddd^L 8dddd	.	2r	.	16Rd/KL]	.	[2Rf/	.	2Ra/_	.	8r	.	2Ree\_	.	2r	.	4r	.	2r	.	4r	.	4r	.
+.	.	.	.	.	.	.	.	.	.	.	8Rd/	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:t=à 2	!
+8enJ 8een)	8eeenJ 8eeeen)	.	.	.	8eeeenJ)	.	8eeenJ 8eeeen)	.	.	.	.	.	.	.	.	.	[4.Rcc\	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	16Rd/Jk	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(<8qD-X/	f	.	.	(<8qd-X/	f	(8qd-X/	f
+*	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4r	4r	.	.	.	4r	.	4r	.	.	.	[4Rd/	.	.	.	.	.	.	.	.	.	.	.	4E-X,)	.	.	.	4e-X,)	.	4e-X,)	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5)][(s6,s7,s8,s9,s10,s11)][(s12,s13,s14)][({(s15,s16)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Gabriella Vici
+!!!EEV: 2021/11/11
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Mes-22
+!!!Suter_Example_Number: 773
+!!!Suter_Example_ID: Mes-22/343/[3]1-6
+!!!Premiere_Location: Boston,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:24
+!!!First_Publication_Year: 1953
+!!!First_Public_Performance_Year: 1949
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 15
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 50
+!!!Example_Start_Tsig_Beat_Rate: 50
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 1:10
+!!!Example_Start_Tempo_Expression: [Bien modéré]
+!!!Example_Start_Notated_Beat_Rate: [100]
+!!!Example_Start_Notated_Beat: [eighth]
+!!!Example_Start_Measure: 27
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:25
+!!!Example_End_Measure: 32
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [eighth=100] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Bien modéré] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Apr-1992
+!!!Changing_Tsig: no
+!!!Birth_Place: Avignon,France
+!!!Birth_Date: 10-Dec-1908
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/24

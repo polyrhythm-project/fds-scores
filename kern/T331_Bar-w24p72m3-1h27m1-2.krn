@@ -1,0 +1,300 @@
+!!!!SEGMENT: T331_Bar-w24p72m3-1h27m1-2.krn
+!!!COM: Bartók, Béla
+!!!OTL: A csodálatos mandarin (The Miraculous Mandarin), Pantomime in One Act, op. 19
+!!!OMV: single movement work
+!!!OMD:
+!!!AGN: Stage; Ballet
+!!!AGN-sub: Ballet
+!!!CNT: Hungarian
+!!!ODT: 1919 (rev. 1931)
+!!!OPR: A csodálatos mandarin (The Miraculous Mandarin), Pantomime in One Act, op. 19
+!!!filename: T331_Bar-w24p72m3-1h27m1-2.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+*part9	*	*part8	*	*part7	*	*part6	*	*part5	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*ICstr	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Iarpa	*Iarpa	*	*Icor	*	*Ifagot	*	*Iclars	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin I	*	*I"Harp	*I"Harp	*	*I"Horn in F 1, 3	*	*I"Bassoon 1	*	*I"Clarinet in Bb 1	*	*I"Flute 1, 2	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'arp	*I'arp	*	*I'cor-fr	*	*I'bn	*	*I'cl	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefF4	*clefF4	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=[Allegretto]\n[[quarter]=152]
+*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*	*M5/4	*
+=264	=264	=264	=264	=264	=264	=264	=264	=264	=264	=264	=264	=264	=264	=264	=264	=264	=264	=264
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*^	*
+*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:a:B:t=[con sord. due Sole]	!	!LO:DY:ed=brack	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:TX:a:B:t=1.	!LO:DY:ed=brack	!	!	!LO:TX:a:B:t=1.	!	!LO:DY:ed=brack
+4%5r	.	4%5r	.	32cLLL	32CLLL	pp	4%5r	.	4C	4c	p	4%5r	.	4b-X]	p	4%5r	.	][1c	4%5rc	pp
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	4DD-X	4D-X	.	.	.	4a	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	4FF-X	4F-X	.	.	.	4d	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:TX:a:B:t=Solo con sord.	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	4GGn	4Gn	.	.	.	4e-X	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cJJJ	32CJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cLLL	32CLLL	.	.	.	4BBn	4Bn	.	.	.	4b-)	.	.	.	4c]	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cJJJ	32CJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=265	=265	=265	=265	=265	=265	=265	=265	=265	=265	=265	=265	=265	=265	=265	=265	=265	=265	=265	=265	=265
+!	!	!	!	!	!	!	!	!LO:DY:t=%s senza alcuna espr., non vibrato	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=2.	!	!
+4%5r	.	4%5r	.	32cLLL	32CLLL	.	([4.a	pp	4C	4c	.	4%5r	.	((<2a	.	4%5r	.	4%5rff	[1c	pp
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	4DD-X	4D-X	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:TX:t=P:problem: missing portamento line	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	32c	32C	.	8a]	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqg/LL	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqf/JJ)	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	[4.e-X	.	4FF-X	4F-X	.	.	.	(<2e-X	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	4GGn	4Gn	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:TX:t=P:problem:missing portamento line	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	32c	32C	.	8e-]	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cJJJ	32CJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqf/LL	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqg/JJ)	.	.	.	.	.	.
+.	.	.	.	32cLLL	32CLLL	.	[4a	.	4BBn	4Bn	.	.	.	[4a	.	.	.	.	4c_	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cJJJ	32CJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=266	=266	=266	=266	=266	=266	=266	=266	=266	=266	=266	=266	=266	=266	=266	=266	=266	=266	=266	=266	=266
+4%5r	.	4%5r	.	32cLLL	32CLLL	.	8aL_	.	4C	4c	.	4%5r	.	(<4a]	.	4%5r	.	4%5rff	1c_	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!LO:TX:t=P:problem: missing portamento line	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	32c	32C	.	8aJ]	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqb/LL	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqcc#X/JJ	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	[2ddo	.	4DD-X	4D-X	.	.	.	[2dd)	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	4FF-X	4F-X	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	4ddo])	.	4GGn	4Gn	.	.	.	4dd])	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cJJJ	32CJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cLLL	32CLLL	.	4r	.	4BBn	4Bn	.	.	.	4r	.	.	.	.	4c]	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=1.3.	!	!	!	!	!	!	!	!
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32c	32C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cJJJ	32CJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=a2	!	!
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
+!!LO:REH:t=27
+=267	=267	=267	=267	=267	=267	=267	=267	=267	=267	=267	=267	=267	=267	=267	=267	=267	=267	=267
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:B	*
+!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=con sord.	!	!	!	!LO:TX:a:B:t=1.	!	!	!
+4r	p	4r	p	32C 32A 32c 32fLLL	pp	(2dd	.	4C	4c	.	[1A [1c	pp	4%5r	.	[1f	p	(>2dd	p
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:a:B:t=4 Sole con sord.	!	!LO:TX:a:B:t=2 Soli	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:B:t=1. 2.	!
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!LO:TX:a:B:t=pizz.	!	!LO:TX:a:B:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:B:t=con sord.	!	!LO:TX:a:B:t=con sord.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4FFF#X	.	4FF#X	.	32C 32A 32c 32f	.	.	.	4r	4r	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4AAA	.	4AA	.	32C 32A 32c 32f	.	4a-X	.	4r	4r	.	.	.	.	.	.	.	4a-X	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=-	=-	=-	=-	=-	=-	=:	=:	=-	=-	=-	=-	=-	=-	=-	=-	=-	=:	=:
+!	!	!	!	!LO:TX:t=P:problem:Tremolo is broken by invisible barline.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC	.	4C	.	32C 32A 32c 32f	.	4dd	.	2r	2r	.	.	.	.	.	.	.	4dd	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32fJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4EE	.	4E	.	32C 32A 32c 32fLLL	.	[4ee-X	.	.	.	.	4A_ 4c_	.	.	.	4f_	.	[4ee-X	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32fJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=268	=268	=268	=268	=268	=268	=268	=268	=268	=268	=268	=268	=268	=268	=268	=268	=268	=268	=268
+4FFn	.	4Fn	.	32C 32A 32c 32fLLL	.	4ee-]	.	4%5r	4%5r	.	1A_ 1c_	.	4%5r	.	1f_	.	4ee-]	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4FFF#X	.	4FF#X	.	32C 32A 32c 32f	.	4dd	.	.	.	.	.	.	.	.	.	.	4dd	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4AAA	.	4AA	.	32C 32A 32c 32f	.	4a-X	.	.	.	.	.	.	.	.	.	.	4a-X	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=-	=-	=-	=-	=-	=-	=:	=:	=-	=-	=-	=-	=-	=-	=-	=-	=-	=:	=:
+!	!	!	!	!LO:TX:t=P:problem:Tremolo is broken by invisible barline.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC	.	4C	.	32C 32A 32c 32f	.	4ee-X	.	.	.	.	.	.	.	.	.	.	4ee-X	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32fJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4EE	.	4E	.	32C 32A 32c 32fLLL	.	4g)	.	.	.	.	4A_ 4c_	.	.	.	4f_	.	4g)	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32f	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32C 32A 32c 32fJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*Xtremolo	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4)][({(s5,s6)})][(s7,s8,s9,s10)]
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!EED: Kelsey Lussier
+!!!EEV: 2021/08/06
+!!!EED2: Daniel Wright
+!!!EEV2: 2022/02/03
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Bar-24
+!!!Suter_Example_Number: 331
+!!!Suter_Example_ID: Bar-24/72/3-1[27]1-2
+!!!Premiere_Location: Cologne,Germany
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 31:39
+!!!First_Publication_Year: 1924
+!!!First_Public_Performance_Year: 1926
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 11
+!!!Example_Start_Tsig_Type: unequal duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 152
+!!!Example_Start_Tsig_Beat_Rate: 152
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 5/4
+!!!Example_Start_Timestamp: 0:40
+!!!Example_Start_Tempo_Expression: [Allegretto]
+!!!Example_Start_Notated_Beat_Rate: [152]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 264
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:51
+!!!Example_End_Measure: 268
+!!!Example_Dataset: T
+!!!Editorial_Comments: Full Unit Total Measures is based on the stage version of the work, which is presumed as primary based on the Premiere Location. Example Start Time and Example End Time are given within the track titled \"The shy young man... (Sostenuto).\" The start and end times based on the SWFU are 9:03-9:14. Example Start Notated Beat and Example Start Notated Beat Rate [quarter=152] based on most recent notated beat rate (SWFU, m. 261). Example Start Tempo Expression [Allegretto] based on most recent notated tempo expression (SWFU, m. 261).
+!!!Death_Place: New York,United States
+!!!Death_Date: 26-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Sînnicolau Mare (Nagyszentmiklós),Romania (Hungary)
+!!!Birth_Date: 25-Mar-1881
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/06/01

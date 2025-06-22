@@ -1,0 +1,119 @@
+!!!!SEGMENT: T140_Jan-w33p39m405-408oh11m1-4.krn
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: Šumařovo dítě (The Fiddler’s Child), Ballad for Orchestra
+!!!OMV: single movement work
+!!!OMD:
+!!!AGN: Orchestral; Programmatic
+!!!AGN-sub: Programmatic
+!!!CNT: Czech
+!!!ODT: 1913
+!!!OPR: Šumařovo dítě (The Fiddler’s Child), Ballad for Orchestra
+!!!filename: T140_Jan-w33p39m405-408oh11m1-4.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*
+*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ivioln	*	*Icor	*	*Ifagot	*	*Iclars	*	*Ioboe	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Solo Violin	*	*I"Horn in F	*	*I"Bassoon	*	*I"Clarinet in Bb	*	*I"Oboe	*	*I"Flute	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'vn	*	*I'cor-fr	*	*I'bn	*	*I'cl	*	*I'ob	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd4c7	*	*	*	*ITrd1c2	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-]	*	*k[]	*	*k[b-e-]	*	*k[]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=Con moto, a tempo\n[[quarter]=80]
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*
+!!LO:REH:t=11
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!LO:DY:t=[ %s ]	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s natur	!	!	!	!	!	!	!	!	!	!	!	!
+[4.FF#Xtt	ff	8r	.	8%3r	.	8%3r	.	4.b-X^^ 4.bb-X	ff	(16eeeLL	ff	(32gg#XLLL	ff	[4.G-X [4.B-X [4.e	mf	8%3r	.	(4.b-^^ 4.bb-	f	8%3r	.	(4.b-X^^ 4.bb-X	f
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16gg#XJ)	.	32gg#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#JJ	.	.	.	.	.	.	.	.	.	.	.
+.	.	8.r	.	.	.	.	.	.	.	8gg#J	.	32gg#LL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32gg#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#JJ	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	(16eeeLL	.	32gg#LL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!LO:DY:rj:t=[ %s ]	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	(32A#XLLL	ff	.	.	.	.	.	.	16gg#J)	.	32gg#	.	.	.	.	.	.	.	.	.	.	.
+.	.	32G#XJJJ	.	.	.	.	.	.	.	.	.	32aa#JJJ	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4.FF#_ttt	.	32B#XLLL	.	8r	.	8r	.	4.dd-X^^ 4.ddd-X	.	8gg#XJ	.	32gg#XLLL	.	4.G-_ 4.B-_ 4.e_	.	8%3r	.	4.dd-X^^ 4.ddd-X	.	8%3r	.	4.dd-X^^ 4.ddd-X	.
+.	.	32A#XJJ	.	.	.	.	.	.	.	.	.	32aa#X	.	.	.	.	.	.	.	.	.	.	.
+.	.	32d#XLL	.	.	.	.	.	.	.	.	.	32gg#	.	.	.	.	.	.	.	.	.	.	.
+.	.	32c#XJJJ	.	.	.	.	.	.	.	.	.	32aa#JJ	.	.	.	.	.	.	.	.	.	.	.
+.	.	32e)	.	16r	.	16r	.	.	.	(16eeeLL	.	32gg#LL	.	.	.	.	.	.	.	.	.	.	.
+.	.	16.r	.	.	.	.	.	.	.	.	.	32aa#	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!	!	!LO:DY:rj	!	!LO:DY:rj	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	(32bnLLL	ff	(32bnLLL	ff	.	.	16gg#J)	.	32gg#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32a#XJJ	.	32a#XJJ	.	.	.	.	.	32aa#JJ	.	.	.	.	.	.	.	.	.	.	.
+.	.	8r	.	32cc#XLL	.	32cc#XLL	.	.	.	8gg#J	.	32gg#LL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32b	.	32b	.	.	.	.	.	32aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dd	.	32dd	.	.	.	.	.	32gg#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32cc#JJJ	.	32cc#JJJ	.	.	.	.	.	32aa#JJJ	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4.FF#_ttt	.	8%3r	.	32een)	.	32een)	.	4.cc^^ 4.ccc	.	(16eeeLL	.	32gg#XLLL	.	4.G-_ 4.B-_ 4.e_	.	8%3r	.	4.cc^^ 4.ccc	.	8%3r	.	4.cc^^ 4.ccc	.
+.	.	.	.	32r	.	32r	.	.	.	.	.	32aa#X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16r	.	16r	.	.	.	16gg#XJ)	.	32gg#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#JJ	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8r	.	8r	.	.	.	8gg#J	.	32gg#LL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32gg#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#JJ	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8r	.	8r	.	.	.	(16eeeLL	.	32gg#LL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16gg#J)	.	32gg#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#JJJ	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4.FF#]ttt	.	8%3r	.	8%3r	.	8%3r	.	4.ddn^^ 4.dddn	.	8gg#XJ	.	32gg#XLLL	.	4.G-] 4.B-] 4.e]	.	8r	.	4.ddn^^ 4.dddn)	.	8r	.	4.ddn^^ 4.dddn)	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#X	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32gg#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#JJ	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	(16eeeLL	.	32gg#LL	.	.	.	8.r	.	.	.	8.r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16gg#J)	.	32gg#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#JJ	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8gg#J	.	32gg#LL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32gg#	.	.	.	32eLLL 32g#X	ff	.	.	32ggLLL 32bb#X	ff	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32aa#JJJ)	.	.	.	32eJJJ 32g#	.	.	.	32ggJJJ 32bb#	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5)]<s6>[(s7,s8,s9,s10,s11,s12)]
+!!!EED:Jason Lee
+!!!EEV:2022/01/04
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Jan-33
+!!!Suter_Example_Number: 140
+!!!Suter_Example_ID: Jan-33/39/405-408 ou [11]1-4
+!!!Premiere_Location: Prague,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 11:40
+!!!First_Publication_Year: 1914
+!!!First_Public_Performance_Year: 1917
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 4
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat_Rate: 160
+!!!Example_Start_Tsig_Beat: eighth
+!!!Example_Start_Tsig: 3/8
+!!!Example_Start_Timestamp: 9:22
+!!!Example_Start_Tempo_Expression: Con moto, a tempo
+!!!Example_Start_Notated_Beat_Rate: [80]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 405
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 9:26
+!!!Example_End_Measure: 408
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=80] based on most recent notated beat rate (SWFU, m. 355).
+!!!Death_Place: Moravaská Ostrava,Czech Republic
+!!!Death_Date: 12-Aug-1928
+!!!Changing_Tsig: no
+!!!Birth_Place: Hukvaldy,Moravia
+!!!Birth_Date: 3-Jul-1854
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/09

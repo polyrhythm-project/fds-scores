@@ -1,0 +1,135 @@
+!!!!SEGMENT: T637_Hin-w47p72h21m10-15.krn
+!!!COM: Hindemith, Paul
+!!!OTL: Mathis der Maler (Mathis the Painter) Symphony
+!!!OMV: III: Versuchung des heiligen Antonius (The Temptation of St. Anthony)
+!!!OMD:
+!!!AGN: Orchestral; Programmatic
+!!!AGN-sub: Programmatic
+!!!CNT: German
+!!!ODT: 1934
+!!!OPR: Mathis der Maler (Mathis the Painter) Symphony
+!!!filename: T637_Hin-w47p72h21m10-15.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ifagot	*	*Iclars	*	*Ioboe	*	*Iflt	*	*Ipicco	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Bassoon 1, 2	*	*I"Clarinet in Bb 1, 2	*	*I"Oboe 1, 2	*	*I"Flute	*	*I"Piccolo	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'bn	*	*I'cl	*	*I'ob	*	*I'fl	*	*I'picc	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*ITrd1c2	*	*	*	*	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[]	*	*k[]	*	*k[]	*
+!!LO:TX:omd:tempo:a:t=[Im Zeitmaß]\n[[quarter]=144]
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*tremolo	*	*	*	*	*	*tremolo	*	*	*
+!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!
+4r	.	4r	.	(2D	p	16A 16cLL	pp	4r	.	2r	.	16fLL	pp	2r	.
+.	.	.	.	.	.	16A 16c	.	.	.	.	.	16fJJ	.	.	.
+.	.	.	.	.	.	16B 16d	.	.	.	.	.	8r	.	.	.
+.	.	.	.	.	.	16B 16d	.	.	.	.	.	.	.	.	.
+!LO:TX:b:t=pizz.	!	!LO:TX:b:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!
+8BBB-X	pp	8BB-X	pp	.	.	16c 16e-X	.	8r	.	.	.	4r	.	.	.
+.	.	.	.	.	.	16c 16e-XJJ	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!
+8r	.	8r	.	.	.	8r	.	16e- 16f#XL	pp	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16e- 16f#XJ	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8AAA	.	8AA	.	2C#X)	.	4r	.	16f 16a-XLL	.	4r	.	2r	.	2r	.
+.	.	.	.	.	.	.	.	16f 16a-X	.	.	.	.	.	.	.
+8r	.	8r	.	.	.	.	.	16g-X 16b--X	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16g-X 16b--XJJ	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!
+8GGG	.	8GG	.	.	.	16D#X 16cLL	.	4r	.	16d#X 16ccLL	pp	.	.	.	.
+.	.	.	.	.	.	16D#X 16c	.	.	.	16d#X 16cc	.	.	.	.	.
+8r	.	8r	.	.	.	16D# 16A	.	.	.	16d# 16a	.	.	.	.	.
+.	.	.	.	.	.	16D# 16AJJ	.	.	.	16d# 16aJJ	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8FFF#X	.	8FF#X	.	4r	.	16D#X 16BL	.	8r	.	16d#X 16bL	.	2r	.	2r	.
+.	.	.	.	.	.	16D#X 16BJ	.	.	.	16d#X 16bJ	.	.	.	.	.
+8r	.	8r	.	.	.	8r	.	16b- 16dd-XLL	.	8r	.	.	.	.	.
+.	.	.	.	.	.	.	.	16b- 16dd-X	.	.	.	.	.	.	.
+8FFF	.	8FFn	.	8C#XL	.	4r	.	16cc 16ee-	.	4r	.	.	.	.	.
+.	.	.	.	.	.	.	.	16cc 16ee-	.	.	.	.	.	.	.
+8r	.	8r	.	8F#XJ	.	.	.	16dd-X 16ff-X	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16dd-X 16ff-XJJ	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*tremolo	*
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack
+4r	.	4r	.	(4.G	.	4r	.	2r	.	4r	.	16bLL	.	16dddLL	pp
+.	.	.	.	.	.	.	.	.	.	.	.	16b	.	16ddd	.
+.	.	.	.	.	.	.	.	.	.	.	.	16cc#X	.	16eee	.
+.	.	.	.	.	.	.	.	.	.	.	.	16cc#X	.	16eee	.
+8EEE	.	8EE	.	.	.	8r	.	.	.	8r	.	16dd	.	16fff	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ddJJ	.	16fffJJ	.
+8r	.	8r	.	8E)	.	16G 16eL	.	.	.	16g 16eeL	.	8r	.	8r	.
+.	.	.	.	.	.	16G 16eJ	.	.	.	16g 16eeJ	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4r	.	4r	.	[2A	.	16G 16c#XLL	.	2r	.	16g 16cc#XLL/	.	4r	.	4r	.
+.	.	.	.	.	.	16G 16c#X	.	.	.	16g 16cc#X	.	.	.	.	.
+.	.	.	.	.	.	16G 16d#X	.	.	.	16g 16dd#X	.	.	.	.	.
+.	.	.	.	.	.	16G 16d#XJJ	.	.	.	16g 16dd#XJJ	.	.	.	.	.
+*	*	*	*	*	*	*Xtremolo	*	*	*	*	*	*	*	*	*
+8EEE-X	.	8EE-X	.	.	.	4r	.	.	.	4r	.	16cc#XLL	.	16eeeLL	.
+.	.	.	.	.	.	.	.	.	.	.	.	16cc#X	.	16eee	.
+8r	.	8r	.	.	.	.	.	.	.	.	.	16dd#X	.	16fff#X	.
+.	.	.	.	.	.	.	.	.	.	.	.	16dd#XJJ	.	16fff#XJJ	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+8BBB-X	.	8BB-X	.	8A]	.	2r	.	2r	.	8r	.	16eeL	.	16gggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	16eeJ	.	16gggJ	.
+*	*	*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*Xtremolo	*
+8r	.	8r	.	(4F#Xi	.	.	.	.	.	16d 16bLL	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	16d 16b	.	.	.	.	.
+8AAA-X	.	8AA-X	.	.	.	.	.	.	.	16e 16cc#X	.	4r	.	4r	.
+.	.	.	.	.	.	.	.	.	.	16e 16cc#X	.	.	.	.	.
+8r	.	8r	.	8B	.	.	.	.	.	16fn 16ddn	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16fn 16ddnJJ	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*Xtremolo	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8)]
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/08/27
+!!!EED2: Jason Lee
+!!!EEV2: 2022/02/23
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Hin-47
+!!!Suter_Example_Number: 637
+!!!Suter_Example_ID: Hin-47/72/[21]10-15
+!!!Premiere_Location: Berlin,Germany
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 12:50
+!!!First_Publication_Year: 1934
+!!!First_Public_Performance_Year: 1934
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 144
+!!!Example_Start_Tsig_Beat_Rate: 144
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 9:22
+!!!Example_Start_Tempo_Expression: [Im Zeitmaß]
+!!!Example_Start_Notated_Beat_Rate: [144]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 315
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 9:27
+!!!Example_End_Measure: 320
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=144] based on most recent notated beat rate (SWFU, m. 235). Example Start Tempo Expression [Im Zeitmaß] based on most recent notated tempo expression (SWFU, m. 306).
+!!!Death_Place: Frankfurt,Germany
+!!!Death_Date: 28-Dec-1963
+!!!Changing_Tsig: no
+!!!Birth_Place: Hanau,Germany
+!!!Birth_Date: 16-Nov-1895
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/06/09
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

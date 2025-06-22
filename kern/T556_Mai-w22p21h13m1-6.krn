@@ -1,0 +1,129 @@
+!!!!SEGMENT: T556_Mai-w22p21h13m1-6.krn
+!!!COM: Martin, Frank
+!!!OTL: Ballad for Trombone and Piano (Orchestral Version)
+!!!OMV: single movement work
+!!!OMD:
+!!!AGN: Orchestral; Concerto
+!!!AGN-sub: Concerto
+!!!CNT: Swiss
+!!!ODT: 1941
+!!!OPR: Ballad for Trombone and Piano (Orchestral Version)
+!!!filename: T556_Mai-w22p21h13m1-6.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Solo Trombone	*	*I"Clarinet in Bb	*	*I"Clarinet in Bb	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'tn	*	*I'cl	*	*I'cl	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICbras	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Itromt	*	*Iclars	*	*Iclars	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-]	*	*k[b-e-]	*
+!!LO:TX:omd:tempo:a:t=[A Tempo (Allegro giusto)]\n[[half]=116]
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!!LO:REH:t=13
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!	!	!	!	!	!	!	!	!	!	!LO:TX:b:i:t=dolce cantabile	!LO:DY:ed= brack	!	!	!	!
+2r	.	2r	.	2r)	.	4r)	.	4r)	.	([1bN>	mf	2r)	.	2r	.
+.	.	.	.	.	.	(>4G'	pp	(>4c'	pp	.	.	.	.	.	.
+4CC'	pp	4CC' 4GG	pp	4E'	pp	4G'	.	4c'	.	.	.	(12GL	p	(12cL	p
+.	.	.	.	.	.	.	.	.	.	.	.	12F#X	.	12F#X	.
+.	.	.	.	.	.	.	.	.	.	.	.	12GJ	.	12cJ	.
+4r	.	4r	.	4r	.	4G')	.	4c')	.	.	.	8F#)	.	8F#)	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4CC'	.	4CC' 4GG	.	4E'	.	(>4G'	.	(>4c'	.	4b]	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	(8GL	.	(8cL	.
+4r	.	4r	.	4r	.	4G'	.	4c'	.	2a#X)	.	8F#XJ)	.	8F#XJ)	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.
+4CC'	.	4CC' 4GG	.	4E'	.	4G'	.	4c'	.	.	.	(8GL	.	(8cL	.
+.	.	.	.	.	.	.	.	.	.	.	.	8F#)	.	8F#)	.
+4r	.	4r	.	4r	.	[4G	.	[4c	.	(8bL	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	8a#J)	.	(8GJ	.	(8cJ	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*rep	*	*rep	*	*rep	*	*	*	*	*	*	*	*	*	*	*
+4CC'	.	4CC' 4GG	.	4E'	.	4G])	.	4c])	.	([1f#X	.	8AL)	.	8AL)	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.
+4r	.	4r	.	4r	.	4r	.	4r	.	.	.	(8A	.	(8c	.
+.	.	.	.	.	.	.	.	.	.	.	.	8B-J)	.	8B-J)	.
+4CC'	.	4CC' 4GG	.	4E'	.	4G'	.	4c'	.	.	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	(8AL	.	(8cL	.
+4r	.	4r	.	4r	.	4r	.	4r	.	.	.	8B-J)	.	8B-J)	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.
+*Xrep	*	*Xrep	*	*Xrep	*	*	*	*	*	*	*	*	*	*	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*rep	*	*rep	*	*rep	*	*	*	*	*	*	*	*	*	*	*
+4CC'	.	4CC' 4GG	.	4E'	.	4G'	.	4c'	.	4f#]	.	(8AL	.	(8cL	.
+.	.	.	.	.	.	.	.	.	.	.	.	8B-)	.	8B-)	.
+4r	.	4r	.	4r	.	4r	.	4r	.	2d#X)	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	8B-'J	.	8c'J	.
+4CC'	.	4CC' 4GG	.	4E'	.	4G'	.	4c'	.	.	.	4r	.	4r	.
+4r	.	4r	.	4r	.	4r	.	4r	.	4r	.	(4B-	.	(4c	.
+*Xrep	*	*Xrep	*	*Xrep	*	*	*	*	*	*	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*rep	*	*rep	*	*rep	*	*	*	*	*	*	*	*	*	*	*
+4CC'	.	4CC' 4GG	.	4E'	.	4r	.	4r	.	(1d#X	.	8B-)	.	8c)	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.
+4r	.	4r	.	4r	.	(>4G'	.	(>4c'	.	.	.	4r	.	4r	.
+4CC'	.	4CC' 4GG	.	4E'	.	4G'	.	4c'	.	.	.	(12B-L	.	(12cL	.
+.	.	.	.	.	.	.	.	.	.	.	.	12A	.	12A	.
+.	.	.	.	.	.	.	.	.	.	.	.	12B-J	.	12cJ	.
+4r	.	4r	.	4r	.	4G')	.	4c')	.	.	.	8A)	.	8A)	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.
+*Xrep	*	*Xrep	*	*Xrep	*	*	*	*	*	*	*	*	*	*	*
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*rep	*	*rep	*	*	*	*	*	*	*	*	*	*	*	*	*
+4CC'	.	4CC' 4GG	.	4E'	.	(>4G'i	.	(>4c'i	.	2.dn)	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	(8B-L	.	(8cL	.
+4r	.	4r	.	4r	.	4G'	.	4c'	.	.	.	8AJ)	.	8AJ)	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8r	.
+4CC'	.	4CC' 4GG	.	4E-X'	.	4G'	.	4c'	.	.	.	(8B-L	.	(8cL	.
+.	.	.	.	.	.	.	.	.	.	.	.	8A)	.	8A)	.
+4r	.	4r	.	4r	.	[4G	.	[4c	.	8r	.	8r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	(8dii	.	(8B-Jii	.	(8cJii	.
+*Xrep	*	*Xrep	*	*	*	*	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3)][(s4,s5)]s6,s7,s8
+!!!RDF**kern: N = hairpin accent
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/08/28
+!!!EED2: Gabriella Vici
+!!!EEV2: 2022/02/10
+!!!EED3: Bryan Bell
+!!!Suter_Work_ID: Mai-22
+!!!Suter_Example_Number: 556
+!!!Suter_Example_ID: Mai-22/21/[13]1-6
+!!!Premiere_Location: Geneva,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 8:19
+!!!First_Publication_Year: 1941
+!!!First_Public_Performance_Year: 1942
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 116
+!!!Example_Start_Tsig_Beat_Rate: 116
+!!!Example_Start_Tsig_Beat: half
+!!!Example_Start_Tsig: 2/2
+!!!Example_Start_Timestamp: 4:21
+!!!Example_Start_Tempo_Expression: [A Tempo (Allegro giusto)]
+!!!Example_Start_Notated_Beat_Rate: [116]
+!!!Example_Start_Notated_Beat: [half]
+!!!Example_Start_Measure: 125
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 4:27
+!!!Example_End_Measure: 130
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [half=116] based on most recent notated beat rate (SWFU, m. 58). Example Start Tempo Expression [A Tempo (Allegro giusto)] based on most recent notated tempo expressions (SWFU, m. 91 and m. 58).
+!!!Death_Place: Naarden,Netherlands
+!!!Death_Date: 21-Nov-1974
+!!!Changing_Tsig: no
+!!!Birth_Place: Geneva,Switzerland
+!!!Birth_Date: 15-Sep-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV3: 2023/06/02

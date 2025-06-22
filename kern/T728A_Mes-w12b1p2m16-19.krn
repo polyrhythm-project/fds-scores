@@ -1,0 +1,156 @@
+!!!!SEGMENT: T728A_Mes-w12b1p2m16-19.krn
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: La Nativité du Seigneur (The Lord's Nativity), Nine Meditations for Organ
+!!!OMV: I: La Vierge et l'Enfant (The Virgin and the Child)
+!!!OMD:
+!!!AGN: Instrumental; Keyboard
+!!!AGN-sub: Keyboard
+!!!CNT: French
+!!!ODT: 1935
+!!!OPR: La Nativité du Seigneur (The Lord's Nativity), Nine Meditations for Organ
+!!!filename: T728A_Mes-w12b1p2m16-19.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*
+*staff3	*	*staff2	*	*staff1	*
+*part1	*	*part1	*	*part1	*
+*ICklav	*	*ICklav	*	*ICklav	*
+*Iorgan	*	*Iorgan	*	*Iorgan	*
+*I"Pedals	*	*I"Organ	*	*I"Organ	*
+*I'Ped.	*	*I'Org.	*	*I'Org.	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+=1	=1	=1	=1	=1	=1
+!!LO:TX:omd:tempo:a:t=Un peu vif\n{[eighth]=165}
+!LO:TX:a:i:t=legato	!	!LO:TX:a:t=R–gambe voix cel	!	!	!
+!	!	!LO:TX:a:i:t=staccato	!	!	!
+4.D	mf	8g#X L 8cc 8ff	p	2.r	.
+.	.	8a#X 8dd 8ff#X	.	.	.
+.	.	8b J 8ee 8gg#X	.	.	.
+4.G#X	.	8ccn L 8ffn 8aa#X	.	.	.
+.	.	8dd 8ff#X 8bb	.	.	.
+.	.	8ee J 8gg#X 8ccc	.	.	.
+4F	.	8ffn L 8aa#X 8ddd	.	4r	.
+.	.	8ee 8gg# 8ccc	.	.	.
+4E	.	8dd 8ff#X 8bb	.	8r	.
+!	!	!	!	!LO:TX:a:t=G–montre 8 bourdon 16	!LO:DY:t=%s legato
+.	.	8b 8ee 8gg#X	.	28eeLL	f
+.	.	.	.	28ffn	.
+.	.	.	.	28ff#X	.
+.	.	.	.	28gg#X	.
+8G#	.	8a#X J 8dd 8ff#X	.	.	.
+.	.	.	.	28aa#X	.
+.	.	.	.	28bb	.
+.	.	.	.	28cccJJ	.
+=2	=2	=2	=2	=2	=2
+4D	.	8g#X L 8cc 8ffn	.	8.dddL	.
+.	.	8a#X 8dd 8ff#X	.	.	.
+.	.	.	.	16eeek	.
+[8G#X	.	8b J 8ee 8gg#X	.	[8dddJ	.
+4.G#]	.	8ccn L 8ffn 8aa#X	.	16dddLL]	.
+.	.	.	.	16eeeJJ	.
+.	.	8dd 8ff#X 8bb	.	[4ddd	.
+.	.	8ee J 8gg#X 8ccc	.	.	.
+4Fn	.	8ffn L 8aa#X 8ddd	.	8dddL]	.
+!	!	!	!	!LO:TUP:b:r=8:num=3	!
+.	.	8ee 8gg# 8ccc	.	24eeeL	.
+.	.	.	.	24ddd	.
+.	.	.	.	24cccJ	.
+4E	.	8dd 8ff#X 8bb	.	24dddL	.
+.	.	.	.	24ccc	.
+.	.	.	.	24eeeJJ	.
+.	.	8b 8ee 8gg#X	.	[4ddd	.
+8G#	.	8a#X J 8dd 8ff#X	.	.	.
+=3	=3	=3	=3	=3	=3
+4.D	.	8g#X L 8cc 8ffn	.	8dddL]	.
+.	.	8a#X 8dd 8ff#X	.	28eeL	.
+.	.	.	.	28ffn	.
+.	.	.	.	28ff#X	.
+.	.	.	.	28gg#X	.
+.	.	8b J 8ee 8gg#X	.	.	.
+.	.	.	.	28aa#X	.
+.	.	.	.	28bb	.
+.	.	.	.	28cccJJ	.
+4G#X	.	8ccn L 8ffn 8aa#X	.	8.dddL	.
+.	.	8dd 8ff#X 8bb	.	.	.
+.	.	.	.	16eeek	.
+[8F	.	8ee J 8gg#X 8ccc	.	[8dddJ	.
+4.F]	.	8ffn L 8aa#X 8ddd	.	8dddL]	.
+!	!	!	!	!LO:TUP:b:r=8:num=3	!
+.	.	8ee 8gg# 8ccc	.	24eeeL	.
+.	.	.	.	24ddd	.
+.	.	.	.	24cccJ	.
+.	.	8dd 8ee 8aa#X	.	24dddL	.
+.	.	.	.	24ccc	.
+.	.	.	.	24eeeJJ	.
+8EL	.	8b 8ee 8gg#X	.	32dddLLL	.
+.	.	.	.	32ee	.
+.	.	.	.	32ffn	.
+.	.	.	.	32ff#X	.
+8G#J	.	8a#X J 8dd 8ff#X	.	32gg#X	.
+.	.	.	.	32aa#X	.
+.	.	.	.	32bb	.
+.	.	.	.	32cccJJJ	.
+=4	=4	=4	=4	=4	=4
+4.D	.	8g#X L 8cc 8ffn	.	8.dddL	.
+.	.	8a#X 8dd 8ff#X	.	.	.
+.	.	.	.	16eeek	.
+.	.	8b J 8ee 8gg#X	.	[8dddJ	.
+8FL	.	8cc L 8ffn 8aa#X	.	16dddLL]	.
+.	.	.	.	16eeeJJ	.
+8E	.	8dd 8ff#X 8bb	.	[4ddd	.
+8G#XJ	.	8ee J 8gg#X 8ccc	.	.	.
+4D	.	8ffn L 8aa#X 8ddd	.	8dddL]	.
+!	!	!	!	!LO:TUP:b:r=8:num=3	!
+.	.	8ee 8gg# 8ccc	.	24eeeL	.
+.	.	.	.	24ddd	.
+.	.	.	.	24cccJ	.
+[8E	.	8dd 8ff#X 8bb	.	24dddL	.
+.	.	.	.	24ccc	.
+.	.	.	.	24eeeJJ	.
+8EL]	.	8b 8ee 8gg#X	.	24dddLL	.
+.	.	.	.	24eee	.
+.	.	.	.	24dddJ	.
+8G#J	.	8a#X J 8dd 8ff#X	.	16cccL	.
+.	.	.	.	16bbJJ	.
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]s3
+!!!EED: Jason Lee
+!!!EEV: 2021/09/21
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Mes-12
+!!!Suter_Example_Number: 728A
+!!!Suter_Example_ID: Mes-12^1/2/16-19
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 5:29
+!!!First_Publication_Year: 1936
+!!!First_Public_Performance_Year: 1936
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 16
+!!!Example_Start_Tsig_Type: unmetered
+!!!Example_Start_Tsig_Mean_Beat_Rate: 165
+!!!Example_Start_Tsig_Beat_Rate: 165
+!!!Example_Start_Tsig_Beat: {eighth}
+!!!Example_Start_Tsig: {11/8}
+!!!Example_Start_Timestamp: 2:24
+!!!Example_Start_Tempo_Expression: Un peu vif
+!!!Example_Start_Notated_Beat_Rate: {165}
+!!!Example_Start_Notated_Beat: {eighth}
+!!!Example_Start_Measure: 16
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:40
+!!!Example_End_Measure: 19
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {eighth=165} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=BIS-CD-1770-72); tempo for audio synthesis {eighth=155} was calculated using a Digital Audio Workstation (DAW). Editorial Note: Full Unit Start Time Signature {13/16} based on a calculation of the number of sixteenth beats in the first two unmetered measures, which subsequently changes. Full Unit Start Tsig Type \"none\" is used as there are no regular groupings of beats.
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Apr-1992
+!!!Changing_Tsig: no
+!!!Birth_Place: Avignon,France
+!!!Birth_Date: 10-Dec-1908
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/03
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

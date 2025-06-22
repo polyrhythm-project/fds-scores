@@ -1,0 +1,200 @@
+!!!!SEGMENT: T287_Rav-w35p53-54h29m1-h30m1.krn
+!!!COM: Ravel, (Joseph) Maurice
+!!!OTL: Piano Concerto for the Left Hand in D Major
+!!!OMV: single movement work
+!!!OMD:
+!!!AGN: Orchestral; Concerto
+!!!AGN-sub: Concerto
+!!!CNT: French
+!!!ODT: 1930
+!!!OPR: Piano Concerto for the Left Hand in D Major
+!!!filename: T287_Rav-w35p53-54h29m1-h30m1.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part4	*	*part3	*	*part2	*	*part2	*	*part1	*
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*
+*Icello	*	*Iviola	*	*Iarpa	*	*Iarpa	*	*Ifagot	*
+*I"Violoncello	*	*I"Viola	*	*I"Harp	*	*I"Harp	*	*I"Bassoon	*
+*I'vc	*	*I'vla	*	*I'arp	*	*I'arp	*	*I'bn	*
+*clefF4	*	*clefC3	*	*clefF4	*	*clefG2	*	*clefC4	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Allegro]\n[[quarter-dot]=138]
+*M6/8	*	*M6/8	*	*M2/4	*	*M2/4	*	*M2/4	*
+!!LO:REH:t=29
+=287	=287	=287	=287	=287	=287	=287	=287	=287	=287
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!	!	!	!LO:DY:ed=brack
+*Xtuplet	*	*Xtuplet	*	*	*	*	*	*	*
+12CC' 12GG	pp	12E'	pp	2r	.	2r	.	8r	p
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	([4.g^	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+=288	=288	=288	=288	=288	=288	=288	=288	=288	=288
+12CC' 12GG	.	12E'	.	2r	.	2r	.	4.g]	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	[8b-X	.
+12r	.	12r	.	.	.	.	.	.	.
+=289	=289	=289	=289	=289	=289	=289	=289	=289	=289
+12CC' 12GG	.	12E'	.	2r	.	2r	.	4b-X]	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	[4a	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+=290	=290	=290	=290	=290	=290	=290	=290	=290	=290
+12CC' 12GG	.	12E'	.	2r	.	2r	.	8a]	.
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4.g)	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+=291	=291	=291	=291	=291	=291	=291	=291	=291	=291
+12CC' 12GG	.	12E'	.	2r	.	2r	.	(4.b-X	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	[8a	.
+12r	.	12r	.	.	.	.	.	.	.
+=292	=292	=292	=292	=292	=292	=292	=292	=292	=292
+12CC' 12GG	.	12E'	.	2r	.	2r	.	4a]	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	[4g	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+=293	=293	=293	=293	=293	=293	=293	=293	=293	=293
+12CC' 12GG	.	12E'	.	2r	.	2r	.	8g])	.
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	(4.b-X^	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+=294	=294	=294	=294	=294	=294	=294	=294	=294	=294
+12CC' 12GG	.	12E'	.	2r	.	2r	.	4.b-X~	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	[8a	.
+12r	.	12r	.	.	.	.	.	.	.
+=295	=295	=295	=295	=295	=295	=295	=295	=295	=295
+12CC' 12GG	.	12E'	.	2r	.	2r	.	2a_	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+=296	=296	=296	=296	=296	=296	=296	=296	=296	=296
+12CC' 12GG	.	12E'	.	2r	.	2r	.	8a]	.
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	[4.g	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+=297	=297	=297	=297	=297	=297	=297	=297	=297	=297
+12CC' 12GG	.	12E'	.	2r	.	2r	.	4.g])	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	([8e-X	.
+12r	.	12r	.	.	.	.	.	.	.
+=298	=298	=298	=298	=298	=298	=298	=298	=298	=298
+12CC' 12GG	.	12E'	.	2r	.	2r	.	2e-X_	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+=299	=299	=299	=299	=299	=299	=299	=299	=299	=299
+12CC' 12GG	.	12E'	.	2r	.	2r	.	8e-X]	.
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	4.d)	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+=300	=300	=300	=300	=300	=300	=300	=300	=300	=300
+12CC' 12GG	.	12E'	.	2r	.	2r	.	(>4.G	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	[8B-X	.
+12r	.	12r	.	.	.	.	.	.	.
+=301	=301	=301	=301	=301	=301	=301	=301	=301	=301
+12CC' 12GG	.	12E'	.	2r	.	2r	.	4B-X]	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	.	.	.	.	[4c	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+*	*	*	*	*clefG2	*	*	*	*	*
+!!LO:REH:t=30
+=302	=302	=302	=302	=302	=302	=302	=302	=302	=302
+12CC' 12GG	.	12E'	pp	(>32GNLLL	p	2ryy	.	8c]	.
+.	.	.	.	32A#XN	.	.	.	.	.
+.	.	.	.	32B-XN	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	32cN	.	.	.	.	.
+.	.	.	.	32dN	.	.	.	[4.d)	.
+!	!	!	!	!LO:TX:t=P:problem:there should be a line extending from the F# to the end of the measure, indicating duration and range of the Harp gliss.	!	!	!	!	!
+.	.	.	.	32f#XNHJJJ	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	16ryy	.	.	.	.	.
+12GG' 12E	.	12D#X'	.	4hryy	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+12r	.	12r	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][({(s2,s3)})][(s4,s5)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = cue sized
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/13
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Rav-35
+!!!Suter_Example_Number: 287
+!!!Suter_Example_ID: Rav-35/53-54/[29]1-[30]1
+!!!Premiere_Location: Vienna,Austria
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 17:29
+!!!First_Publication_Year: 1930
+!!!First_Public_Performance_Year: 1932
+!!!Example_Total_Measures: 16
+!!!Example_Timestamp_Duration: 13
+!!!Example_Start_Tsig_Type: polydurational
+!!!Example_Start_Tsig_Mean_Beat_Rate: 138
+!!!Example_Start_Tsig_Beat_Rate: 138;138
+!!!Example_Start_Tsig_Beat: dotted-quarter;quarter
+!!!Example_Start_Tsig: 6/8;2/4
+!!!Example_Start_Timestamp: 10:33
+!!!Example_Start_Tempo_Expression: [Allegro]
+!!!Example_Start_Notated_Beat_Rate: [138]
+!!!Example_Start_Notated_Beat: [dotted-quarter]
+!!!Example_Start_Measure: 287
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 10:46
+!!!Example_End_Measure: 302
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-quarter=138] based on most recent notated beat rate (SWFU, m. 120). Example Start Tempo Expression [Allegro] based on most recent notated tempo expression (SWFU, m. 120)
+!!!Death_Place: Paris,France
+!!!Death_Date: 28-Dec-1937
+!!!Changing_Tsig: no
+!!!Birth_Place: Ciboure,France
+!!!Birth_Date: 7-Mar-1875
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/01/27

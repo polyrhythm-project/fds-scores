@@ -1,0 +1,123 @@
+!!!!SEGMENT: T189_Sch-w3p32m14-15.krn
+!!!COM: Schoenberg [Schönberg], Arnold (Franz Walter)
+!!!OTL: Vier Lieder (Four Songs) for Voice and Piano, op. 2
+!!!OMV: No. 4: Waldsonne (Sun in the Forest)
+!!!OMD:
+!!!AGN: Vocal; Solo
+!!!AGN-sub: Solo
+!!!CNT: Austrian
+!!!ODT: 1900
+!!!OPR: Vier Lieder (Four Songs) for Voice and Piano, op. 2
+!!!filename: T189_Sch-w3p32m14-15.krn
+**kern	**kern	**dynam	**kern	**text	**dynam
+*grp:A	*grp:B	*	*grp:A	*	*
+*part2	*part2	*	*part1	*	*
+*staff3	*staff2	*staff2/3	*staff1	*	*
+*ICklav	*ICklav	*	*ICvox	*	*
+*Ipiano	*Ipiano	*	*Isoprn	*	*
+*I"Piano	*I"Piano	*	*I"Solo Soprano	*	*
+*I'pf	*I'pf	*	*I's	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[f#c#]	*k[f#c#]	*	*k[f#c#]	*	*
+*D:	*D:	*	*D:	*	*
+!!LO:TX:omd:tempo:a:t=[im Zeitmaß (Etwas bewegt)]\n{[quarter]=69}
+*M4/4	*M4/4	*	*M4/4	*	*
+*met(c)	*met(c)	*	*met(c)	*	*
+!!LO:REH:t=14
+=1	=1	=1	=1	=1	=1
+*	*^	*	*	*	*
+!	!LO:S:a	!	!LO:DY:t=[ %s ]	!	!	!
+(8AAL	(12f#L	4c#X	p	8f#	–klun-	.
+.	12g	.	.	.	.	.
+!LO:T:a	!	!	!	!	!	!
+[8EJ	.	.	.	8g	-ge-	.
+.	12eJ	.	.	.	.	.
+*	*v	*v	*	*	*	*
+*	*Xtuplet	*	*	*	*
+*	*^	*	*	*	*
+!	!	!	!LO:HP:a	!	!	!
+8EL]	12B#XL	4G	<	4e	-nen:	<
+.	12c#	.	.	.	.	.
+[8F#J	.	.	.	.	.	.
+.	12AJ	.	[	.	.	.
+!	!	!	!LO:HP:a	!	!	!
+*grp:B	*grp:A	*grp:A	*	*	*	*
+12F#L]	4.bn	4.cn 4.d#X	>	(8ccnL	gol-	[
+12G	.	.	.	.	.	.
+.	.	.	.	8bJ)	.	>
+12F#J	.	.	.	.	.	.
+*Xtuplet	*	*	*	*	*	*
+12AL	.	.	.	8a	-den	.
+12G	.	.	.	.	.	.
+.	8a)	8c 8d#	]	8f#	er-	.
+12F#J)	.	.	.	.	.	]]
+*	*v	*v	*	*	*	*
+!!LO:REH:t=15
+=2	=2	=2	=2	=2	=2
+*	*tuplet	*	*	*	*
+*	*^	*	*	*	*
+*grp:A	*grp:B	*grp:B	*	*	*	*
+(8AAL	(12f#L	4c#X	.	8f#	-wa-	.
+.	12g	.	.	.	.	.
+!LO:T:a	!	!	!	!	!	!
+[8EJ	.	.	.	4g	-chen	.
+.	12eJ	.	.	.	.	.
+*	*v	*v	*	*	*	*
+*	*Xtuplet	*	*	*	*
+*	*^	*	*	*	*
+8EL]	12B#XL	4G	<	.	.	.
+.	12e	.	.	.	.	.
+[8F#J	.	.	.	8e	sie	<
+.	12AJ	.	.	.	.	.
+*	*v	*v	*	*	*	*
+*tuplet	*	*	*	*	*
+*	*^	*	*	*	*
+*grp:B	*grp:A	*grp:A	*	*	*	*
+12F#L]	4.e 4.ee	2a 2cc#	[	4.ee	wie-	[
+12G	.	.	<	.	.	.
+12F#J	.	.	.	.	.	.
+*Xtuplet	*	*	*	*	*	*
+12AL	.	.	.	.	.	.
+12G	.	.	.	.	.	.
+.	8d#X 8dd#X)	.	.	8dd#X	-der,	.
+12F#J)	.	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[({(s2,s3)})]
+!!!EED:Jason Lee
+!!!EEV:2021/11/12
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Sch-3
+!!!Suter_Example_Number: 189
+!!!Suter_Example_ID: Sch-3/32/14-15
+!!!Premiere_Location: Vienna,Austria
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:50
+!!!First_Publication_Year: 1903
+!!!First_Public_Performance_Year: 1904
+!!!Example_Total_Measures: 2
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 69
+!!!Example_Start_Tsig_Beat_Rate: 69
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 0:50
+!!!Example_Start_Tempo_Expression: [im Zeitmaß (Etwas bewegt)]
+!!!Example_Start_Notated_Beat_Rate: {69}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 14
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:57
+!!!Example_End_Measure: 15
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=69} calculated from recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=C10514); tempo for audio synthesis {quarter=68} was calculated using a Digital Audio Workstation (DAW). Example Start Tempo Expression [im Zeitmaß (Etwas bewegt)] based on most recent notated tempo expressions (SWFU, m. 13 and m. 1).
+!!!Death_Place: Los Angeles,United States
+!!!Death_Date: 13-Jul-1951
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 13-Sep-1874
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/24

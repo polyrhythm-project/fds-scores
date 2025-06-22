@@ -1,0 +1,101 @@
+!!!!SEGMENT: T168_Deb-w44p11h4m11-14.krn
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: En blanc et noir (In White and Black) for Two Pianos
+!!!OMV: I: Avec emportement (With Anger)
+!!!OMD:
+!!!AGN: Instrumental; Keyboard
+!!!AGN-sub: Keyboard
+!!!CNT: French
+!!!ODT: 1915
+!!!OPR: En blanc et noir (In White and Black) for Two Pianos
+!!!filename: T168_Deb-w44p11h4m11-14.krn
+**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*grp:B	*
+*part2	*	*part2	*	*part1	*part1	*
+*staff4	*	*staff3	*	*staff2	*staff1	*staff1/2
+*ICklav	*	*ICklav	*	*ICklav	*ICklav	*
+*Ipiano	*	*Ipiano	*	*Ipiano	*Ipiano	*
+*I"Piano 2	*	*I"Piano 2	*	*I"Piano 1	*I"Piano 1	*
+*I'pf	*	*I'pf	*	*I'pf	*I'pf	*
+*clefF4	*	*clefG2	*	*clefF4	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*k[]	*
+*C:	*	*C:	*	*C:	*C:	*
+!!LO:TX:omd:tempo:a:t=[A Tempo (Tempo 1)]\n[[half-dot]=66]
+*M3/4	*	*M3/4	*	*M3/4	*M3/4	*
+=166	=166	=166	=166	=166	=166	=166
+*	*	*^	*	*^	*	*
+!	!	!	!	!LO:DY:ed=brack	!	!	!	!
+4%3r	.	(<4bb-X 4bbb-X	4ryy	pp	4.ryy	4.AAA\ 4.AA\	4.E< 4.A< (>4.c#X'> 4.e	pp
+.	.	4..dd-X 4..ddd-X	4.ryy	.	.	.	.	.
+.	.	.	.	.	4.ryy	4rFF	4.G< 4.B-X< 4.e-X'> 4.g	.
+.	.	.	16ryy	.	.	8rFF	.	.
+.	.	16bb-	16b-X)	.	.	.	.	.
+*	*	*	*	*	*v	*v	*	*
+=167	=167	=167	=167	=167	=167	=167	=167
+4r	.	(4dd-X	4d-X	.	4%3r	4.c'> 4.en 4.g 4.cc	.
+*clefG2	*	*	*	*	*	*	*
+16r	.	4..b-X 4..bb-X	4ryy	.	.	.	.
+(16gLL	<	.	.	.	.	.	.
+16cc	.	.	.	.	.	4.B-X'> 4.d-X 4.f 4.b-X)	.
+16ggJJ	.	.	.	.	.	.	.
+4ee)	[	.	4ryy	.	.	.	.
+.	.	16dd- 16ddd-X)	.	.	.	.	.
+=168	=168	=168	=168	=168	=168	=168	=168
+*	*	*	*	*	*^	*	*
+4%3r	.	(<4bb-X 4bbb-X	4ryy	.	4.ryy	4.AAA\ 4.AA\	4.E< 4.A< (>4.c#X'> 4.e	.
+.	.	4..dd-X 4..ddd-X	4.ryy	.	.	.	.	.
+.	.	.	.	.	4.ryy	4rFF	4.G< 4.B-X< 4.e-X'> 4.g	.
+.	.	.	16ryy	.	.	8rFF	.	.
+.	.	16bb-	16b-X)	.	.	.	.	.
+*	*	*	*	*	*v	*v	*	*
+=169	=169	=169	=169	=169	=169	=169	=169
+4r	.	(4dd-X	4d-X	.	4%3r	4.c'> 4.en 4.g 4.cc	.
+16r	.	4..b-X 4..bb-X	4ryy	.	.	.	.
+(16gLL	<	.	.	.	.	.	.
+16cc	.	.	.	.	.	4.B-X'> 4.d-X 4.f 4.b-X)	.
+16ggJJ	.	.	.	.	.	.	.
+4ee)	[	.	4ryy	.	.	.	.
+.	.	16dd- 16ddd-X)	.	.	.	.	.
+*	*	*	*	*	*clefG2	*	*
+*	*	*v	*v	*	*	*	*
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/06
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Deb-44
+!!!Suter_Example_Number: 168
+!!!Suter_Example_ID: Deb-44/11/[4]11-14
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 4:32
+!!!First_Publication_Year: 1915
+!!!First_Public_Performance_Year: 1916
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 4
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 198
+!!!Example_Start_Tsig_Beat_Rate: 198
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 3:25
+!!!Example_Start_Tempo_Expression: [A Tempo (Tempo 1)]
+!!!Example_Start_Notated_Beat_Rate: [66]
+!!!Example_Start_Notated_Beat: [dotted-half]
+!!!Example_Start_Measure: 166
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 3:29
+!!!Example_End_Measure: 169
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-half=66] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [A tempo (Tempo 1)] based on most recent notated tempo expressions (SWFU, m. 156 and m. 135).
+!!!Death_Place: Paris,France
+!!!Death_Date: 25-Mar-1918
+!!!Changing_Tsig: no
+!!!Birth_Place: St Germain-en-Laye,France
+!!!Birth_Date: 22-Aug-1862
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/02/08

@@ -1,0 +1,131 @@
+!!!!SEGMENT: T422_Var-w1p1m1-3.krn
+!!!COM: Varèse, Edgard [Edgar] (Victor Achille Charles)
+!!!OTL: Amériques (America) for Orchestra
+!!!OMV: single movement work
+!!!OMD:
+!!!AGN: Orchestral; Symphonic
+!!!AGN-sub: Symphonic
+!!!CNT: French, American
+!!!ODT: 1921 (rev. 1929)
+!!!OPR: Amériques (America) for Orchestra
+!!!filename: T422_Var-w1p1m1-3.krn
+**kern	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*grp:A	*	*grp:A	*grp:A	*	*grp:B	*	*grp:B	*
+*part4	*part4	*	*part3	*part3	*	*part2	*	*part1	*
+*staff6	*staff5	*staff5/6	*staff4	*staff3	*staff3/4	*staff2	*	*staff1	*
+*ICstr	*ICstr	*	*ICstr	*ICstr	*	*ICww	*	*ICww	*
+*Iarpa	*Iarpa	*	*Iarpa	*Iarpa	*	*Ifagot	*	*Iflt_a	*
+*I"Harp 2	*I"Harp 2	*	*I"Harp 1	*I"Harp 1	*	*I"3 Bassoons	*	*I"Alto Flute in G	*
+*I'arp	*I'arp	*	*I'arp	*I'arp	*	*I'bn	*	*I'a-fl	*
+*clefF4	*clefG2	*	*clefF4	*clefG2	*	*clefC4	*	*clefG2	*
+*	*	*	*	*	*	*	*	*ITrd3c5	*
+*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[f#]	*
+!!LO:TX:omd:tempo:a:t=Moderato poco lento\n[quarter]=60
+*M6/4	*M6/4	*	*M6/4	*M6/4	*	*M6/4	*	*M6/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:b:t=* Timpanic sounds - the right hand strikes the most sonorous partof the sounding board with the tip of the 3rd finger. The left hand plays normally.	!	!	!	!	!	!	!	!	!
+2%3r	2%3r	.	2%3r	2%3r	.	2%3r	.	([2b	mf
+.	.	.	.	.	.	.	.	16bLL>]	.
+.	.	.	.	.	.	.	.	32cL	.
+.	.	.	.	.	.	.	.	32gJJ	.
+.	.	.	.	.	.	.	.	8cJ	.
+.	.	.	.	.	.	.	.	12dL	.
+.	.	.	.	.	.	.	.	12A	.
+.	.	.	.	.	.	.	.	[12eJ	.
+!	!	!	!	!	!	!	!	!LO:TX:a:i:t=rall.	!
+.	.	.	.	.	.	.	.	2e_	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M5/4	*M5/4	*	*M5/4	*M5/4	*	*M5/4	*	*M5/4	*
+!	!LO:TX:a:t=*	!	!	!LO:TX:a:t=*	!	!	!	!LO:TX:a:i:t=a tempo	!
+4r	4r	p	4r	4r	.	4%5r	.	16.eLL])	.
+.	.	.	.	.	.	.	.	32rJ	.
+.	.	.	.	.	.	.	.	([8bJ	.
+*	*head:dia	*	*	*head:dia	*	*	*	*	*
+!	!LO:TX:a:t=T	!	!	!LO:TX:a:t=T	!	!	!	!	!
+(16d-XLL	16dLL	.	(16d-XLL	16dLL	p	.	.	4b_	.
+16B-X')	16r	.	16B-X')	16r	.	.	.	.	.
+(16d-	16dJJ	.	(16d-	16dJJ	.	.	.	.	.
+16B-'JJ)	16r	.	16B-'JJ)	16r	.	.	.	.	.
+(16d-LL	16dLL	.	(16d-LL	16dLL	.	.	.	16bLL>]	.
+16B-')	16r	.	16B-')	16r	.	.	.	32cL	.
+.	.	.	.	.	.	.	.	32gJJ	.
+(16d-	16dJJ	.	(16d-	16dJJ	.	.	.	8cJ	.
+16B-'JJ)	16r	.	16B-'JJ)	16r	.	.	.	.	.
+(16d-LL	16dLL	.	(16d-LL	16dLL	.	.	.	12dL	.
+16B-')	16r	.	16B-')	16r	.	.	.	.	.
+.	.	.	.	.	.	.	.	12A	.
+(16d-	16dJJ	.	(16d-	16dJJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	[12eJ	.
+16B-'JJ)	16r	.	16B-'JJ)	16r	.	.	.	.	.
+(16d-LL	16dLL	.	(16d-LL	16dLL	.	.	.	4e_	.
+16B-')	16r	.	16B-')	16r	.	.	.	.	.
+(16d-	16dJJ	.	(16d-	16dJJ	.	.	.	.	.
+16B-'JJ)	16r	.	16B-'JJ)	16r	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M4/4	*M4/4	*	*M4/4	*M4/4	*	*M4/4	*	*M4/4	*
+!	!LO:TX:a:t=T	!	!	!LO:TX:a:t=T	!	!	!	!	!
+(16d-XLL	16dLL	.	(16d-XLL	16dLL	.	4r	.	16.eLL])	.
+16B-X')	16r	.	16B-X')	16r	.	.	.	.	.
+.	.	.	.	.	.	.	.	32rJ	.
+(16d-	16dJJ	.	(16d-	16dJJ	.	.	.	([8bJ	.
+16B-'JJ)	16r	.	16B-'JJ)	16r	.	.	.	.	.
+!	!	!	!	!	!	!LO:TX:a:rj:t=1.	!	!	!
+!	!	!	!	!	!	!	!LO:DY:rj:t=incisif %s	!	!
+(16d-LL	16dLL	.	(16d-LL	16dLL	.	24fLL	p	4b_	.
+.	.	.	.	.	.	24f#X	.	.	.
+16B-')	16r	.	16B-')	16r	.	.	.	.	.
+.	.	.	.	.	.	24gJ	.	.	.
+(16d-	16dJJ	.	(16d-	16dJJ	.	[8a-XJ	.	.	.
+16B-'JJ)	16r	.	16B-'JJ)	16r	.	.	.	.	.
+(16d-LL	16dLL	.	(16d-LL	16dLL	.	2a-]	.	16bLL>]	.
+16B-')	16r	.	16B-')	16r	.	.	.	32cL	.
+.	.	.	.	.	.	.	.	32gJJ	.
+(16d-	16dJJ	.	(16d-	16dJJ	.	.	.	8cJ	.
+16B-'JJ)	16r	.	16B-'JJ)	16r	.	.	.	.	.
+(16d-LL	16dLL	.	(16d-LL	16dLL	.	.	.	12dL	.
+16B-')	16r	.	16B-')	16r	.	.	.	.	.
+.	.	.	.	.	.	.	.	12A	.
+(16d-	16dJJ	.	(16d-	16dJJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	[12eJ	.
+16B-'JJ)	16r	.	16B-'JJ)	16r	.	.	.	.	.
+=||	=||	=||	=||	=||	=||	=||	=||	=||	=||
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][(s2)][({(s3,s4)})][({(s5,s6)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED: Rafael Laurindo
+!!!EEV: 2021/07/29
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Var-1
+!!!Suter_Example_Number: 422
+!!!Suter_Example_ID: Var-1/1/1-3
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: 5/4,4/4
+!!!Full_Unit_Duration: 25:08
+!!!First_Publication_Year: 1929
+!!!First_Public_Performance_Year: 1929
+!!!Example_Total_Measures: 3
+!!!Example_Timestamp_Duration: 20
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 20
+!!!Example_Start_Tsig_Beat_Rate: 20
+!!!Example_Start_Tsig_Beat: dotted-half
+!!!Example_Start_Tsig: 6/4
+!!!Example_Start_Timestamp: 0:00
+!!!Example_Start_Tempo_Expression: Moderato poco lento
+!!!Example_Start_Notated_Beat_Rate: 60
+!!!Example_Start_Notated_Beat: quarter
+!!!Example_Start_Measure: 1
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:20
+!!!Example_End_Measure: 3
+!!!Example_Dataset: T
+!!!Editorial_Comments: Editorial Note: This work was composed in 1921 and first published in 1925 and premiered in 1926 (9-Apr-1926, Academy of Music, Philadelphia, United States, with Leopold Stokowski conducting the Philadelphia Orchestra). The work was revised in 1929, and this is the version that Suter uses the 1929 version (the example is not included in the previous version). See: https://chouwenchung.org/composition/ameriques-1929/
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Nov-1965
+!!!Changing_Tsig: yes
+!!!Birth_Place: Paris,France
+!!!Birth_Date: 22-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/02/09

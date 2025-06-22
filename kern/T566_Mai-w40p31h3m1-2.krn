@@ -1,0 +1,78 @@
+!!!!SEGMENT: T566_Mai-w40p31h3m1-2.krn
+!!!COM: Martin, Frank
+!!!OTL: String Quartet
+!!!OMV: IV: Allegretto leggero
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Swiss
+!!!ODT: 1967
+!!!OPR: String Quartet
+!!!filename: T566_Mai-w40p31h3m1-2.krn
+**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:B	*grp:B	*	*grp:B	*
+*part4	*	*part3	*part2	*	*part1	*
+*staff4	*	*staff3	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*Ivioln	*	*Ivioln	*
+*I"Violoncello	*	*I"Viola	*I"Violin II	*	*I"Violin I	*
+*I'vc	*	*I'vla	*I'vn	*	*I'vn	*
+*clefF4	*	*clefC3	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*k[]	*	*k[]	*
+*C:	*	*C:	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[Allegretto leggero]\n[[quarter-dot]=52]
+*M6/8	*	*M6/8	*M6/8	*	*M6/8	*
+!!LO:REH:t=3
+=1	=1	=1	=1	=1	=1	=1
+!LO:TX:a:t=arco	!	!	!	!LO:DY:rj:ed=brack	!	!LO:DY:rj:ed=brack
+8r	.	4%3r	(4aa	f >	(4ccc#X	f >
+!	!LO:DY:t=%s un poco marc.	!	!	!	!	!
+[4DD^	mp	.	.	.	.	.
+.	.	.	8ff)	p ]	8cc#X)	p ]
+4DD]	.	.	8aa'L	.	8ccc#'L	.
+.	.	.	8ff'	.	8cc#'	.
+[8AA^	.	.	8gg#X'J	.	8cccn'J	.
+=2	=2	=2	=2	=2	=2	=2
+4AA]	.	4%3r	8ee'L	.	8ccn'L	.
+.	.	.	8gg#X'	.	8ccc'	.
+[8E^	.	.	8dd#X'J	.	8cc'J	.
+8EL]	.	.	8ggn'L	.	8bb'L	.
+8Bn^	.	.	8ee-X'	.	8bb-X'	.
+[8c^J	.	.	8gg-X'J	.	8b-X'J	.
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Mai-40
+!!!Suter_Example_Number: 566
+!!!Suter_Example_ID: Mai-40/31/[3]1-2
+!!!Premiere_Location: Zürich,Switzerland
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 3:36
+!!!First_Publication_Year: 1968
+!!!First_Public_Performance_Year: 1968
+!!!Example_Total_Measures: 2
+!!!Example_Timestamp_Duration: 3
+!!!Example_Start_Tsig_Type: compound duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 52
+!!!Example_Start_Tsig_Beat_Rate: 52
+!!!Example_Start_Tsig_Beat: dotted-quarter
+!!!Example_Start_Tsig: 6/8
+!!!Example_Start_Timestamp: 0:48
+!!!Example_Start_Tempo_Expression: [Allegretto leggero]
+!!!Example_Start_Notated_Beat_Rate: [52]
+!!!Example_Start_Notated_Beat: [dotted-quarter]
+!!!Example_Start_Measure: 24
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:51
+!!!Example_End_Measure: 25
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-quarter=52] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Allegretto leggero] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Naarden,Netherlands
+!!!Death_Date: 21-Nov-1974
+!!!Changing_Tsig: no
+!!!Birth_Place: Geneva,Switzerland
+!!!Birth_Date: 15-Sep-1890
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/23

@@ -1,0 +1,205 @@
+!!!!SEGMENT: T174_Deb-w23p38-39m4-1h20.krn
+!!!COM: Debussy, (Achille-)Claude
+!!!OTL: La mer (The Sea), Three Symphonic Sketches
+!!!OMV: II: Jeux de vagues (Play of the Waves)
+!!!OMD:
+!!!AGN: Orchestral; Programmatic
+!!!AGN-sub: Programmatic
+!!!CNT: French
+!!!ODT: 1905
+!!!OPR: La mer (The Sea), Three Symphonic Sketches
+!!!filename: T174_Deb-w23p38-39m4-1h20.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part10	*	*part9	*	*part8	*	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff10	*	*staff9	*	*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ifagot	*	*Iclars	*	*Icangl	*	*Ioboe	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Bassoon	*	*I"Clarinet in A	*	*I"English Horn	*	*I"Oboe	*	*I"Flute	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'bn	*	*I'cl	*	*I'cor-en	*	*I'ob	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefC4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*ITrd2c3	*	*ITrd4c7	*	*	*	*	*
+*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*
+*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*	*E:	*
+!!LO:TX:omd:tempo:a:t=[Assez animé]\n[[quarter]=138]
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*^	*
+*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*
+!	!	!LO:TX:a:t=[pizz.]	!	!	!	!	!	!LO:TX:a:t=Div.	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!LO:DY:t=più %s	!	!LO:DY:t=più %s	!	!LO:DY:ed=brack	!	!	!LO:DY:t=più %s	!	!	!	!	!	!LO:DY:ed=brack	!	!	!LO:TX:a:B:t=1°	!	!
+4%3r	.	4.EE	p <	32E 32BLLL	p <	8d#'	p	(4dd#	4d#	p <	4%3r	.	4%3r	.	[2.g#	p<	4%3r	.	(12gg#L	2.r	p <
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12bb)	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12aa#XJ	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	4r	.	4ddn	4dn	.	.	.	.	.	.	.	.	.	(12aa#L	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12gg#)	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4.BB	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12gg#J	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	4r	.	4b	4B	.	.	.	.	.	.	.	.	.	12gg#L	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ccc#	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12bbJ	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32BJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(>8qbb/	.	.
+4.CC#	p	4.C#	[[	32B/ 32dn/LLL	[	4%3r	.	4ff#	4f#	[	4%3r	.	4%3r	.	2.g#]	.	4%3r	.	(12aa#XL)	2.r	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12gg#)	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[	.	.	12gg#J	.	[
+.	.	.	.	32B 32dn	>	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	4ee#X	4e#X	>	.	.	.	.	.	>	.	.	12gg#L	.	>
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12bb	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4.GG#	.	4.G#	> ]	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12aa#J	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	4ff#)	4f#	.	.	.	.	.	.	.	.	.	12gg#L	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12aa#	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	12bbJ	.	.
+.	.	.	.	32B 32dn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32B 32dnJJJ	]]	.	.	.	.	]]	.	.	.	.	.	]	.	.	.	.	]]
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!LO:TX:a:t=Unis.	!	!	!LO:TX:a:B:rj:t=1° et 2°	!	!LO:TX:a:B:rj:t=1°	!	!	!	!LO:TX:a:B:rj:t=1°	!	!LO:TX:b:rj:B:t=2°	!	!
+*	*	*	*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*Xtuplet	*	*	*	*
+4%3r	.	4.EE	p <	32E 32BLLL	p <	(4d#	p <	(4dd#	p <	(2.B	(2.B	p <	(12g#L	p <	[2.g#	p <	(12gg#L	p <	8gg#	(>12gg#L	p
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	12b)	.	.	.	12bb)	.	.	12bb)	<
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8rfff	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	12a#XJ	.	.	.	12aa#XJ	.	.	12aa#XJ	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	4dn	.	4ddn	.	.	.	.	(12a#L	.	.	.	(12aa#L	.	4rfff	(>12aa#L	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	12g#)	.	.	.	12gg#)	.	.	12gg#)	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4.BB	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	12g#J	.	.	.	12gg#J	.	.	12gg#J	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	4B	.	4b	.	.	.	.	12g#L	.	.	.	12gg#L	.	4rfff	12gg#L	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	12cc#	.	.	.	12ccc#	.	.	12ccc#	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	12bJ	.	.	.	12bbJ	.	.	12bbJ	.
+.	.	.	.	32E 32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32E 32BJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!	!	!	!	!LO:TX:a:t=Div.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	(>8qb/	.	.	.	(>8qbb/	.	(>8qbb/	.
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*	*tremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4.CC#	p <	4.C#	.	32dnLLL	32A#XLLL	.	4f#	.	4ff#	.	2.dn)	4A#X	.	(12a#XL)	.	2.g#]	.	(12aa#XL)	.	(12aa#XL)	.
+.	.	.	.	32dn	32A#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32A#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12g#)	.	.	.	12gg#)	.	12gg#)	.
+.	.	.	.	32dn	32A#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32A#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32A#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12g#J	.	.	.	12gg#J	.	12gg#J	.
+.	.	.	.	32dn	32A#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32A#XJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32BLLL	.	4e#X	.	4ee#X	.	.	4B	.	12g#L	.	.	.	12gg#L	.	12gg#L	.
+.	.	.	.	32dn	32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12b	.	.	.	12bb	.	12bb	.
+.	.	.	.	32dn	32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4.GG#	.	4.G#	.	32dn	32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12g#J	.	.	.	12gg#J	.	12gg#J	.
+.	.	.	.	32dn	32B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32BJJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32B#XLLL	.	4dn)	.	4ddn)	.	.	4B#X)	.	12f#L	.	.	.	12ff#L	.	12ff#L	.
+.	.	.	.	32dn	32B#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32B#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12e#X	.	.	.	12ee#X	.	12ee#X	.
+.	.	.	.	32dn	32B#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32B#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dn	32B#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dJ	.	.	.	12ddnJ	[	12ddnJ	[ [[
+.	.	.	.	32dn	32B#X	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	[[	.	[[	32dnJJJ	32B#XJJJ	[	.	[[	.	[[	.	.	[[	.	[[	.	[[	.	.	.	.
+*	*	*	*	*Xtremolo	*Xtremolo	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1[(s2,s3)]s4,s5)][([(s6,s7)]s8[(s9,s10)])]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Deb-23
+!!!Suter_Example_Number: 174
+!!!Suter_Example_ID: Deb-23/38-39/4-1[20]
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 6:09
+!!!First_Publication_Year: 1905
+!!!First_Public_Performance_Year: 1905
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 4
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 138
+!!!Example_Start_Tsig_Beat_Rate: 138
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 0:57
+!!!Example_Start_Tempo_Expression: [Assez animé]
+!!!Example_Start_Notated_Beat_Rate: [138]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 44
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:01
+!!!Example_End_Measure: 47
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=138] based on most recent notated beat rate (SWFU, m. 36). Example Start Tempo Expression [Assez animé] based on most recent notated tempo expression (SWFU, m. 36).
+!!!Death_Place: Paris,France
+!!!Death_Date: 25-Mar-1918
+!!!Changing_Tsig: no
+!!!Birth_Place: St Germain-en-Laye,France
+!!!Birth_Date: 22-Aug-1862
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/26

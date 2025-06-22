@@ -1,0 +1,207 @@
+!!!!SEGMENT: T407_Web-w20p3am11-16.krn
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: Drei Volkstexte (Three Traditional Rhymes) for Soprano, Clarinet, Bass Clarinet, Violin and Viola, op. 17
+!!!OMV: No. 1: Gemächlich (Leisurely)
+!!!OMD:
+!!!AGN: Vocal; Solo
+!!!AGN-sub: Solo
+!!!CNT: Austrian
+!!!ODT: 1925
+!!!OPR: Drei Volkstexte (Three Traditional Rhymes) for Soprano, Clarinet, Bass Clarinet, Violin and Viola, op. 17
+!!!filename: T407_Web-w20p3am11-16.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**text	**text	**dynam
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*	*
+*part4	*	*part3	*	*part2	*	*part1	*	*	*
+*staff4	*	*staff3	*	*staff2	*	*staff1	*	*	*
+*ICww	*	*ICww	*	*ICstr	*	*ICvox	*	*	*
+*Iclarb	*	*Iclars	*	*Ivioln	*	*Isoprn	*	*	*
+*I"Bass Clarinet in Bb	*	*I"Clarinet in Bb	*	*I"Violin	*	*I"Solo Soprano	*	*	*
+*I'b-cl	*	*I'cl	*	*I'vn	*	*I's	*	*	*
+*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*	*
+*ITrd7c12	*	*ITrd1c2	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*	*
+*C:	*	*B-:	*	*C:	*	*C:	*	*	*
+!!LO:TX:omd:tempo:a:t=[Gemächlich (Leisurely)]\n[[quarter]=56]
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*	*
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack
+8.r	.	24r	.	32r	.	8eL]	.	.	f
+.	.	.	.	(32aaa-XLLL	f	.	.	.	.
+.	.	(24fnLL	f	.	.	.	.	.	.
+.	.	.	.	32ggn)	.	.	.	.	.
+.	.	24F#XJJ)	.	.	.	.	.	.	.
+.	.	.	.	(32aaa-JJ	.	.	.	.	.
+.	.	24r	.	32ggLL)	.	16ee-XL)	-len	-they	.
+.	.	.	.	(32aaa-	.	.	.	.	.
+.	.	(12AnX	fp	.	.	.	.	.	.
+32d#XLLL	sfp	.	.	32ggJJJ)	.	16ccn~JJ	von	be	.
+(32d#JJJ	.	.	.	32r	.	.	.	.	.
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*	*
+!	!	!LO:TUP:num=3	!	!LO:TX:a:i:t=espr.	!	!	!	!	!
+!	!	!LO:TUP:br	!	!	!	!	!	!	!
+20EnLL)	.	24bb-LL)	.	12r	.	12bn~	dir	bless'd	.
+.	.	24r	.	.	.	.	.	.	.
+(20FFn	.	.	.	.	.	.	.	.	.
+.	.	24fn'	.	[6aaan	p	(6g#X	ge-	and	.
+20F#X	.	.	.	.	.	.	.	.	.
+.	.	(24f	.	.	.	.	.	.	.
+20d	.	.	.	.	.	.	.	.	.
+.	.	24F#X)	.	.	.	.	.	.	.
+20D#XJJ)	.	.	.	.	.	.	.	.	.
+.	.	24F#'JJ	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+*grp:B	*	*grp:A	*	*grp:B	*	*grp:A	*	*	*
+!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+!LO:TUP:br	!	!	!	!LO:TUP:br	!	!	!	!	!
+!LO:TUP:num=3	!	!	!	!LO:TX:t=P:problem: These 2 groups of 16th tuplets should be beamed together.	!	!	!	!	!
+24Cn'LL	.	32r	.	24aaaLL]	.	4.ddn	-seg-	kept	>
+.	.	32Bn'LLL	.	.	.	.	.	.	.
+24C'	.	.	.	24r	.	.	.	.	.
+.	.	32B'	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!
+(24G#X	.	.	.	24fffn~J	.	.	.	.	.
+.	.	32B'JJ	.	.	.	.	.	.	.
+!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+24AAn)	.	32G#X'LL	.	24fff~L	.	.	.	.	.
+.	.	32G#'	.	.	.	.	.	.	.
+24r	.	.	.	24en~JJ	.	.	.	.	.
+.	.	32aX'	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:a:t=arco	!	!	!	!	!
+!	!	!	!	!LO:TX:a:i:t=espr.	!	!	!	!	!
+24Fn'JJ	.	.	.	24r	.	.	.	.	.
+.	.	32a'JJJ	.	.	.	.	.	.	.
+*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*	*
+16r	.	24r	.	12cccc#X~L	pp	.	.	.	.
+.	.	(24cnLL	pp	.	.	.	.	.	.
+16FF#X~LL	pp	.	.	.	.	.	.	.	.
+.	.	24bnJJ)	.	12eee-X~	.	.	.	.	.
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*	*
+16r	.	32fn'LLL	.	.	.	8b-X	-net	from	.
+.	.	32f'	.	.	.	.	.	.	.
+.	.	.	.	12cn~J	.	.	.	.	.
+(16AAnJJ	.	32F#X'	.	.	.	.	.	.	.
+.	.	32F#'JJJ	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*	*
+16A#X)	.	(24c#XLL	.	32r	.	8an)	sein,	harm,	p ]
+.	.	.	.	(32bbbnLLL	f	.	.	.	.
+.	.	24ddnXJJ)	.	.	.	.	.	.	.
+16r	.	.	.	32bb-X)	.	.	.	.	.
+.	.	24r	.	.	.	.	.	.	.
+.	.	.	.	(32bbbJJ	.	.	.	.	.
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*	*
+8r	.	16r	.	32bb-LL)	.	16r	.	.	.
+.	.	.	.	(32bbb	.	.	.	.	.
+.	.	32f#X'^LLL	f	32bb-JJJ)	.	16ffn~	du	we	f
+.	.	32f#'^	.	32r	.	.	.	.	.
+8r	.	32Gn'^JJJ	.	8r	.	(16g#XLL	hei-	pray	.
+.	.	32r	.	.	.	.	.	.	.
+.	.	16r	.	.	.	16aan')	-li-	you,	.
+16.r	.	8r	.	16.r	.	16aa'	-ge	Ho-	.
+.	.	.	.	.	.	16ffn~JJ	Drei-	-ly	.
+.	.	.	.	8qqeeen/	sf	.	.	.	.
+!	!	!	!	!LO:N:head=dia	!	!	!	!	!
+32FFn'	sf	.	.	32aan'o	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*	*	*
+!	!	!LO:TX:t=P:problem: These 2 groups of 16th tuplets should be beamed together.	!	!LO:N:head=dia	!	!	!	!	!
+!	!	!LO:TUP:r=8	!	!	!	!	!	!	!
+32FFn'LLL	p	24r	.	32aan'oLLL	p	(16g#XLL	-fal-	Tri-	>
+!	!	!	!	!LO:N:head=dia	!	!	!	!	!
+32FF'	.	.	.	32aa'o	.	.	.	.	.
+.	.	24cccn'LL	p	.	.	.	.	.	.
+!	!	!	!	!LO:N:head=dia	!	!	!	!	!
+32FF'	.	.	.	32aa'o	.	16aan')	-tig-	-ni-	]
+.	.	(24ccc^J	.	.	.	.	.	.	.
+!	!	!	!	!LO:N:head=dia	!	!	!	!	!
+32FF'JJ	.	.	.	32aa'oJJ	.	.	.	.	.
+!	!	!	!	!LO:N:head=dia	!	!	!	!	!
+!	!	!LO:TUP:r=8	!	!	!	!	!	!	!
+32FF'LL	.	24cc#XL)	.	32aa'oLL	.	16aa'JJ	-keit	-ty,	p
+!	!	!	!	!LO:N:head=dia	!	!	!	!	!
+32FF'	.	.	.	32aa'o	.	.	.	.	.
+.	.	24dn'JJ	.	.	.	.	.	.	.
+!	!	!	!	!LO:N:head=dia	!	!	!	!	!
+32FF'	.	.	.	32aa'o	.	16r	.	.	.
+.	.	24r	.	.	.	.	.	.	.
+!	!	!	!	!LO:N:head=dia	!	!	!	!	!
+32FF'JJJ	.	.	.	32aa'oJJJ	.	.	.	.	.
+*grp:B	*	*grp:B	*	*grp:A	*	*grp:A	*	*	*
+12r	.	12r	.	4r	.	16r	.	.	.
+.	.	.	.	.	.	16bn~	von	from	f
+12r	.	12r	.	.	.	.	.	.	.
+.	.	.	.	.	.	([8bb-X	nun	now	.
+(8qgn'/	sfp	.	.	.	.	.	.	.	.
+24G#X'LL)	.	24gn'LL	sfp	.	.	.	.	.	.
+24G#'JJ	.	24g'JJ	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*	*	*
+!	!	!	!	!LO:TUP:r=8	!	!	!	!	!
+!	!	!	!	!LO:TX:t=P:problem: These 2 groups of 16th tuplets should be beamed together.	!	!	!	!	!
+12r	.	12r	.	24r	.	16bb-LL]	.	.	.
+.	.	.	.	(24ggg#X^LL	f	.	.	.	.
+.	.	.	.	.	.	16een)	an	on	.
+24dn'LL	sfp	24cc#X'LL	sfp	24an'J)	.	.	.	.	.
+24d'JJ	.	24cc#'JJ	.	(24ggg#L	p	16e-X~	bis	in	.
+12r	.	12r	.	24a'JJ)	.	.	.	.	.
+.	.	.	.	.	.	16ddn~JJ	in	all	.
+.	.	.	.	24r	.	.	.	.	.
+!LO:TUP:br:a	!	!	!	!	!	!	!	!	!
+12r	.	12r	.	24r	.	16r	.	.	.
+.	.	.	.	12ggg#X~	p	.	.	.	.
+.	.	.	.	.	.	(16bbnLL	E-	e-	p
+12r	.	24gn'^LL	pp	.	.	.	.	.	.
+.	.	24g'JJ	.	24r	.	16b-X	.	-ter-	.
+(8qgn'/	.	.	.	.	.	.	.	.	.
+24G#X'^LL)	.	12r	.	24r	.	.	.	.	.
+.	.	.	.	.	.	16anJJ)	-wig-	-ni-	.
+!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!
+24G#'JJ	.	.	.	24dd#X'^	pp	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*	*	*
+2r	.	2r	.	16en'LL	.	12r	.	.	.
+.	.	.	.	16cc#X'	.	.	.	.	.
+.	.	.	.	.	.	12cn~	-keit!	-ty.	.
+.	.	.	.	16dddn'JJ	.	.	.	.	.
+.	.	.	.	.	.	12r	.	.	.
+.	.	.	.	16r	.	.	.	.	.
+.	.	.	.	4r	.	4r	.	.	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2,s3,s4)]
+!!!EED: Daniel Wright
+!!!EEV: 2021/12/06
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Web-20
+!!!Suter_Example_Number: 407
+!!!Suter_Example_ID: Web-20/3a/11-16
+!!!Premiere_Location: New York,United States
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 0:40
+!!!First_Publication_Year: 1955
+!!!First_Public_Performance_Year: 1952
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 14
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 56
+!!!Example_Start_Tsig_Beat_Rate: 56
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 0:26
+!!!Example_Start_Tempo_Expression: [Gemächlich (Leisurely)]
+!!!Example_Start_Notated_Beat_Rate: [56]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 11
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:40
+!!!Example_End_Measure: 16
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=56] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Gemächlich (Leisurely)] based on most recent notated tempo expression (SWFU, m. 1). \"3a\" is the page number as notated on Suter's score. Note that Naxos lists the name of this movement as \"Armer Sunder, du\".
+!!!Death_Place: Mittersill,Austria
+!!!Death_Date: 15-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 3-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/04/01

@@ -1,0 +1,113 @@
+!!!!SEGMENT: T127_Jan-w4p34h7m2-3.krn
+!!!COM: Janáček, Leoš [Leo Eugen]
+!!!OTL: Idyla (Idyll) for String Orchestra
+!!!OMV: V: Adagio - Presto - Tempo I
+!!!OMD:
+!!!AGN: Orchestral; Symphonic
+!!!AGN-sub: Symphonic
+!!!CNT: Czech
+!!!ODT: 1878
+!!!OPR: Idyla (Idyll) for String Orchestra
+!!!filename: T127_Jan-w4p34h7m2-3.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:A	*	*grp:A	*
+*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*
+*clefF4	*	*clefG2	*	*clefC3	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*
+*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
+*D:	*	*D:	*	*D:	*	*D:	*	*D:	*
+!!LO:TX:omd:tempo:a:t=[Tempo I (Adagio)]\n{[quarter]=43}
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+*	*	*	*	*	*	*^	*	*	*
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!
+2AA	p	(4a	mf	16c#LL	p	(2c#	(2A	pp	(10bbL	p
+!	!LO:HP:a:t= 	!	!LO:HP:a:t= 	!	!LO:HP:a:t= 	!	!	!LO:HP:a:t= 	!	!LO:HP:a
+.	>	.	>	16e	>	.	.	>	.	>
+.	.	.	.	.	.	.	.	.	10aa	.
+.	.	.	.	16a	.	.	.	.	.	.
+.	.	.	.	16AJJ	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	10ee	.
+.	.	8g#XL	.	16c#LL	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	10a	.
+.	.	.	.	16e	.	.	.	.	.	.
+.	.	8gnJ)	.	16a	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	10eeJ)	.
+.	.	.	.	16AJJ	.	.	.	.	.	.
+2r	.	(4.f#	.	16dLL	.	2a)	2d)	.	2ff#	.
+.	.	.	.	16e	.	.	.	.	.	.
+.	.	.	.	16f#	.	.	.	.	.	.
+.	.	.	.	16AJJ	.	.	.	.	.	.
+.	.	.	.	16dLL	.	.	.	.	.	.
+.	.	.	.	16e	.	.	.	.	.	.
+.	.	8d)	.	16f#	.	.	.	.	.	.
+.	.	.	.	16AJJ	.	.	.	.	.	.
+*	*	*clefF4	*	*	*	*	*	*	*	*
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+2AA	.	(4A	<	16c#LL	.	(2c#	(2A	.	(10bbL	.
+.	.	.	.	16d	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	10aa	.
+.	.	.	.	16e	.	.	.	.	.	.
+.	.	.	.	16AJJ	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	10gg	.
+.	.	8BL	.	16c#LL	>	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	10a	.
+.	.	.	.	16d	.	.	.	.	.	.
+.	.	8c#J)	[	16e	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	10ggJ)	.
+.	.	.	.	16BJJ	.	.	.	.	.	.
+.	.	(8qc#/	>	.	.	.	.	.	.	.
+2r	.	(4f#)	.	\16ALL	.	2f#)	2f#)	.	2a	.
+.	.	.	.	16c#	.	.	.	.	.	.
+.	.	.	.	16f#	.	.	.	.	.	.
+.	.	.	.	16AJJ	.	.	.	.	.	.
+.	.	8eL	]	16c#LL	.	.	.	.	.	.
+.	.	.	.	16e	.	.	.	.	.	.
+.	.	8dJ)	.	16f#	.	.	.	.	.	.
+.	.	.	.	16AJJ	]	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*	*	*
+=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [([({(s1,s2)})]s3,s4,s5)]
+!!!RDF**dynam: > = dimin.
+!!!EED: Daniel Wright
+!!!EEV: 2021/10/8
+!!!EED2: Rafael Laurindo
+!!!Suter_Work_ID: Jan-4
+!!!Suter_Example_Number: 127
+!!!Suter_Example_ID: Jan-4/34/[7]2-3
+!!!Premiere_Location: Brno,Czech Republic
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 7:27
+!!!First_Publication_Year: 1951
+!!!First_Public_Performance_Year: 1878
+!!!Example_Total_Measures: 2
+!!!Example_Timestamp_Duration: 11
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 43
+!!!Example_Start_Tsig_Beat_Rate: 43
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 4/4
+!!!Example_Start_Timestamp: 5:54
+!!!Example_Start_Tempo_Expression: [Tempo I (Adagio)]
+!!!Example_Start_Notated_Beat_Rate: {43}
+!!!Example_Start_Notated_Beat: {quarter}
+!!!Example_Start_Measure: 72
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 6:05
+!!!Example_End_Measure: 73
+!!!Example_Dataset: T
+!!!Editorial_Comments: No notated tempo. Example Start Notated Beat and Example Start Notated Beat Rate {quarter=43} calculated based on recording (https://ubc-nml3-naxosmusiclibrary-com.eu1.proxy.openathens.net/catalogue/item.asp?cid=C283921A). Example Start Tempo Expression [Tempo I (Adagio)] based on most recent notated tempo expression (SWFU, m. 63).
+!!!Death_Place: Moravaská Ostrava,Czech Republic
+!!!Death_Date: 12-Aug-1928
+!!!Changing_Tsig: no
+!!!Birth_Place: Hukvaldy,Moravia
+!!!Birth_Date: 3-Jul-1854
+!!!Audio_Example_Quarter_Note_Tempo: 43
+!!!Audio_Example_Duration: 11.256
+!!!EEV2: 2022/03/10

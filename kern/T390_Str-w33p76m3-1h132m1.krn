@@ -1,0 +1,112 @@
+!!!!SEGMENT: T390_Str-w33p76m3-1h132m1.krn
+!!!COM: Stravinsky, Igor (Fyodorovich)
+!!!OTL: Perséphone (Persephone), Melodrama in Three Scenes for Solo Tenor, Choir and Orchestra
+!!!OMV: II: Perséphone aux enfers (Persephone in the Underworld)
+!!!OMD:
+!!!AGN: Stage; Theatrical
+!!!AGN-sub: Theatrical
+!!!CNT: Russian, French, American
+!!!ODT: 1934
+!!!OPR: Perséphone (Persephone), Melodrama in Three Scenes for Solo Tenor, Choir and Orchestra
+!!!filename: T390_Str-w33p76m3-1h132m1.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*
+*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICidio	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Itimpa	*	*Ituba	*	*Iclars	*	*Iflt	*	*Iflt	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Timpani	*	*I"Tuba	*	*I"Clarinet in Bb 1	*	*I"Flute 2	*	*I"Flute 1	*
+*I'cb	*	*I'vc	*	*I'timp	*	*I'tb	*	*I'cl	*	*I'fl	*	*I'fl	*
+*clefF4	*	*clefF4	*	*clefF4	*	*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*ITrd1c2	*	*	*	*	*
+*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*k[]	*	*k[b-e-a-d-g-c-]	*	*k[b-e-]	*	*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*
+*G-:	*	*G-:	*	*C:	*	*G-:	*	*	*	*G-:	*	*G-:	*
+!!LO:TX:omd:tempo:a:t=[[quarter]=60]
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=293	=293	=293	=293	=293	=293	=293	=293	=293	=293	=293	=293	=293	=293
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!LO:TX:a:i:t=[staccato.]	!LO:DY:ed=brack	!LO:TX:a:i:t=[sempre marcatissimo]	!LO:DY:ed=brack	!	!	!LO:TX:a:i:t=[marcato]	!LO:DY:ed=brack	!LO:TX:a:t=[solo]	!LO:DY:ed=brack
+4r	p	4r	p	8AA-XL	p	8r	mf	4%3r	.	8g-'	mf	[4g-	mf
+.	.	.	.	8C-XJ	.	8CC-'	.	.	.	8r	.	.	.
+!	!	!LO:TX:a:t=[pizz.]	!	!	!	!	!	!	!	!	!	!	!
+4r	.	8E-	.	8E-X	.	4r	.	.	.	16.r	.	16.g-LL])	.
+.	.	.	.	.	.	.	.	.	.	32e-'KKL	.	(32e-Jk	.
+.	.	8r	.	8r	.	.	.	.	.	8f'J	.	[8fJ	.
+!LO:TX:a:t=[pizz.]	!	!	!	!	!	!	!	!	!	!	!	!	!
+8CC-	.	4r	.	/8C-L	.	4r	.	.	.	16.r	.	16.fLL])	.
+.	.	.	.	.	.	.	.	.	.	32e-'KKL	.	(32e-Jk	.
+8r	.	.	.	8E-J	.	.	.	.	.	8cc-'J	.	[8cc-J	.
+=294	=294	=294	=294	=294	=294	=294	=294	=294	=294	=294	=294	=294	=294
+4%3r	.	8AA-	.	8AA-XL	.	4r	.	4r	.	16.r	.	16.cc-LL])	.
+.	.	.	.	.	.	.	.	.	.	32e-'KLL	.	(32e-k	.
+.	.	8r	.	8C-XJ	.	.	.	.	.	16.f'	.	16.f)	.
+.	.	.	.	.	.	.	.	.	.	32e-'JJk	.	(32e-JJk	.
+.	.	4r	.	8E-XL	.	8EE-'	.	4r	.	16.a-'LL	.	16.a-LL)	.
+.	.	.	.	.	.	.	.	.	.	32dn'k	.	(32dnk	.
+.	.	.	.	8AA-J	.	8r	.	.	.	16d-X'JJ	.	16.d-X)	.
+.	.	.	.	.	.	.	.	.	.	16r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	[32cn~JJk	.
+!	!	!	!	!	!	!	!	!LO:TX:a:t=Solo	!LO:DY:t=%s marc.	!	!	!	!
+.	.	8r	.	8r	.	4r	.	(16.A^LL	mf	4r	.	4c_	.
+.	.	.	.	.	.	.	.	32Fk)	.	.	.	.	.
+.	.	8E-	.	8E-	.	.	.	(16.A^	.	.	.	.	.
+.	.	.	.	.	.	.	.	32FJJk)	.	.	.	.	.
+=295	=295	=295	=295	=295	=295	=295	=295	=295	=295	=295	=295	=295	=295
+8AAA-	.	4%3r	.	8AA-XL	.	4r	.	16.r^	.	4%3r	.	2.cnX]	.
+.	.	.	.	.	.	.	.	32F'KLL	.	.	.	.	.
+8r	.	.	.	8C-XJ	.	.	.	(16.A^	.	.	.	.	.
+.	.	.	.	.	.	.	.	32FJJk)	.	.	.	.	.
+4r	.	.	.	8E-XL	.	8r	.	(16.A-X^LL	.	.	.	.	.
+.	.	.	.	.	.	.	.	32Fk)	.	.	.	.	.
+.	.	.	.	8AA-J	.	8AAA-'	.	(16.A^	.	.	.	.	.
+.	.	.	.	.	.	.	.	32FJJk)	.	.	.	.	.
+4r	.	.	.	8C-	.	4r	.	16.r	.	.	.	.	.
+.	.	.	.	.	.	.	.	(32FKLL	.	.	.	.	.
+.	.	.	.	8r	.	.	.	16e-)	.	.	.	.	.
+.	.	.	.	.	.	.	.	16F',JJ	.	.	.	.	.
+!!LO:REH:t=132
+=296	=296	=296	=296	=296	=296	=296	=296	=296	=296	=296	=296	=296	=296
+8AAA-	.	4%3r	.	8AA-XL	.	4r	.	4%3r	.	16.r	.	16.r	.
+.	.	.	.	.	.	.	.	.	.	32e-'KKL	.	(32e-KKL	.
+8r	.	.	.	8C-XJ	.	.	.	.	.	8a-'J	.	[8a-J	.
+8EE-	.	.	.	8E-XL	.	4r	.	.	.	4r	.	4a-_	.
+8r	.	.	.	8AA-J	.	.	.	.	.	.	.	.	.
+4r	.	.	.	/8C-L	.	8CC-'	.	.	.	8r	.	8a-L_	.
+.	.	.	.	8E-J	.	8r	.	.	.	16.r	.	16.a-L])	.
+.	.	.	.	.	.	.	.	.	.	32e-'	.	(32e-JJk	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7)]
+!!!EED: Daniel Wright
+!!!Suter_Work_ID: Str-33
+!!!Suter_Example_Number: 390
+!!!Suter_Example_ID: Str-33/76/3-1[132]1
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 22:47
+!!!First_Publication_Year: 1934
+!!!First_Public_Performance_Year: 1934
+!!!Example_Total_Measures: 4
+!!!Example_Timestamp_Duration: 10
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 60
+!!!Example_Start_Tsig_Beat_Rate: 60
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 11:31
+!!!Example_Start_Tempo_Expression: none
+!!!Example_Start_Notated_Beat_Rate: [60]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 293
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 11:41
+!!!Example_End_Measure: 296
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=60] based on most recent notated beat rate (SWFU, m. 265).
+!!!Death_Place: New York,United States
+!!!Death_Date: 6-Apr-1971
+!!!Changing_Tsig: no
+!!!Birth_Place: Lomonosov (Oranienbaum),Russia
+!!!Birth_Date: 17-Jun-1882
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV: 2021/07/27

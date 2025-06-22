@@ -1,0 +1,111 @@
+!!!!SEGMENT: T648_Hin-w69p10m67-72.krn
+!!!COM: Hindemith, Paul
+!!!OTL: Sonata for Harp
+!!!OMV: II: Lebhaft (Lively)
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: German
+!!!ODT: 1939
+!!!OPR: Sonata for Harp
+!!!filename: T648_Hin-w69p10m67-72.krn
+**kern	**kern	**dynam
+*grp:A	*grp:B	*
+*part1	*part1	*
+*staff2	*staff1	*
+*I"Harp	*I"Harp	*
+*I'arp	*I'arp	*
+*ICstr	*ICstr	*
+*Iarpa	*Iarpa	*
+*clefG2	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+!!LO:TX:omd:tempo:a:t=[Lebhaft]\n[[half-dot]=80]
+*M3/4	*M3/4	*
+=67	=67	=67
+!LO:TX:b:B:t=do ♮c	!	!
+!LO:TX:b:B:t=fa ♮f	!	!LO:DY:ed=brack
+4e-X	8b-XL	mf
+.	8ee-X	.
+4B-X	8ff	.
+.	8bb-XJ	.
+4e-	8ccnL	.
+.	8ff	.
+=68	=68	=68
+4f	8ggn	.
+!LO:TX:b:B:t=sol ♭g	!	!
+.	8cccJ	.
+8G-XL	8dd-XL	.
+8B-XJ	8gg-X	.
+4f	8aa-X	.
+.	8ddd-XJ	.
+=69	=69	=69
+4e-X	8ee-XL	.
+.	8aa-X	.
+4A-X	8bb-X	.
+.	8eee-XJ	.
+4e-	8ffL	.
+.	8bb-	.
+=70	=70	=70
+!LO:TX:b:B:t=do ♭c	!	!
+2f 2b-X	8ccc	.
+.	8fffJ	.
+.	8gg-XL	.
+.	8ccc-X	.
+4d-X 4g-X	8ddd-X	.
+.	8ggg-XJ	.
+=71	=71	=71
+4e-X 4a-X	8eee-XL	.
+.	8aaa-X	.
+8dd-XL	8bbb-X	.
+8a-J	8ddd-X	.
+4dd-	8ggg-X	.
+.	8aaa-XJ	.
+=72	=72	=72
+2e-X 2a-X	8ccc-XL	.
+.	8fff	.
+.	8ggg-X	.
+.	8bb-X	.
+4B-X 4f	8eee-X	.
+.	8fffJ	.
+=	=	=
+*-	*-	*-
+!!!system-decoration: [({(s1,s2)})]
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/09/03
+!!!EED2: Daniel Wright
+!!!Suter_Work_ID: Hin-69
+!!!Suter_Example_Number: 648
+!!!Suter_Example_ID: Hin-69/10/67-72
+!!!Premiere_Location: Rome,Italy
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:17
+!!!First_Publication_Year: 1940
+!!!First_Public_Performance_Year: 1940
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 5
+!!!Example_Start_Tsig_Type: simple triple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 240
+!!!Example_Start_Tsig_Beat_Rate: 240
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 0:51
+!!!Example_Start_Tempo_Expression: [Lebhaft]
+!!!Example_Start_Notated_Beat_Rate: [80]
+!!!Example_Start_Notated_Beat: [dotted-half]
+!!!Example_Start_Measure: 67
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 0:56
+!!!Example_End_Measure: 72
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [dotted-half=80] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [Lebhaft] based on most recent notated tempo expression (SWFU, m. 1).
+!!!Death_Place: Frankfurt,Germany
+!!!Death_Date: 28-Dec-1963
+!!!Changing_Tsig: no
+!!!Birth_Place: Hanau,Germany
+!!!Birth_Date: 16-Nov-1895
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/03
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/03

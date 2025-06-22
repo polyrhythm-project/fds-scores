@@ -1,0 +1,126 @@
+!!!!SEGMENT: T703_Cop-w3p8m4-1h6m1.krn
+!!!COM: Copland, Aaron
+!!!OTL: Music for the Theatre, Suite for Chamber Orchestra
+!!!OMV: I: Prologue
+!!!OMD:
+!!!AGN: Orchestral; Programmatic
+!!!AGN-sub: Programmatic
+!!!CNT: American
+!!!ODT: 1925
+!!!OPR: Music for the Theatre, Suite for Chamber Orchestra
+!!!filename: T703_Cop-w3p8m4-1h6m1.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*grp:B	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*
+*part12	*	*part11	*	*part10	*	*part9	*	*part8	*	*part7	*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*	*part1	*
+*staff13	*	*staff12	*	*staff11	*	*staff10	*	*staff9	*	*staff8	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICidio	*	*ICidio	*	*ICbras	*	*ICww	*	*ICww	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Ibdrum	*	*Isdrum	*	*Itromp	*	*Ifagot	*	*Iclars	*	*Ipicco	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*I"Piano	*	*I"Bass Drum	*	*I"Snare Drum	*	*I"Trumpet in C 1	*	*I"Bassoon	*	*I"Clarinet in Eb	*	*I"Piccolo	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'pf	*I'pf	*	*I'b-dr	*	*I'dr	*	*I'tp	*	*I'bn	*	*I'cl	*	*I'picc	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*stria1	*	*stria1	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefG2	*	*clefX	*	*clefX	*	*clefG2	*	*clefF4	*	*clefG2	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd-2c-3	*	*ITrd-7c-12	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[b-e-a-]	*	*k[]	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*C:	*	*C:	*	*	*	*	*	*	*	*	*
+!!LO:TX:omd:tempo:a:t=[Subito Allegro molto]\n[[quarter]=144]
+*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*	*M3/4	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/LL	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/	.	.	.	.	.	.	.	.	.
+!LO:TX:b:t=[(accents very strongly marked)]	!	!	!	!	!	!	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=[VL 1, VL 2, Violas very strong accent on second beat throughout]	!	!	!	!	!	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/JJ	.	.	.	.	.	.	.	.	.
+!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!LO:DY:ed=brack	!	!	!LO:DY:ed=brack	!	!	!	!LO:DY:ed=brack	!	!	!	!	!	!	!	!
+8AAA^L	f	8AA^L 8E	f	8A^	f	8d^	f	8f#X^	f	8AA^L 8E	8A^ 8d 8f#X	ff	4%3r	.	8Re^\L	f	4%3r	.	8AA^L	f	)8eeXL	ff	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:DY:ed=brack
+8DD'J	.	8D'J	.	8r	.	8r	.	8r	.	8D'J	8r	.	.	.	8Re'\J	.	.	.	8D'J	.	8bX'J	.	8bb'	f
+4r	.	8r	.	8B^L	.	8e^L	.	8g#X^L	.	8r	8B^L 8e 8g#X	.	.	.	8r	.	.	.	4r	.	8ee^	.	8eee^L	.
+.	.	8AA' 8E	.	8A'J	.	8d'J	.	8f#'J	.	8AA' 8E	8A'J 8d 8f#	.	.	.	8Re'\	.	.	.	.	.	4ee~	.	8eee'J	.
+8DD^	.	8D^	.	8r	.	8r	.	8r	.	8D^	8r	.	.	.	8Re^\	.	.	.	8D^	.	.	.	8r	.
+8r	.	8r	.	8B'	.	8e'	.	8g#'	.	8r	8B' 8e 8g#	.	.	.	8r	.	.	.	8r	.	8b'	.	8bb'	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/LL	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/JJ	.	.	.	.	.	.	.	.	.
+8AAA^L	.	8AA^L 8E	.	8A^	.	8d^	.	8f#X^	.	8AA^L 8E	8A^ 8d 8f#X	.	4%3r	.	8Re^\L	.	4%3r	.	8AA^L	.	8eeX^L	.	8eee^L	.
+8DD'J	.	8D'J	.	8r	.	8r	.	8r	.	8D'J	8r	.	.	.	8Re'\J	.	.	.	8D'J	.	8bX'J	.	8bb'J	.
+4r	.	8r	.	8B^L	.	8e^L	.	8g#X^L	.	8r	8B^L 8e 8g#X	.	.	.	8r	.	.	.	4r	.	8ee'	.	8eee'	.
+.	.	8AA' 8E	.	8A'J	.	8d'J	.	8f#'J	.	8AA' 8E	8A'J 8d 8f#	.	.	.	8Re'\	.	.	.	.	.	4ee^	.	4eee^	.
+8DD^	.	8D^	.	8r	.	8r	.	8r	.	8D^	8r	.	.	.	8Re^\	.	.	.	8D^	.	.	.	.	.
+8r	.	8r	.	8B'	.	8e'	.	8g#'	.	8r	8B' 8e 8g#	.	.	.	8r	.	.	.	8r	.	[8ee^	.	[8eee^	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/LL	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/JJ	.	.	.	.	.	.	.	.	.
+8AAA^L	.	8AA^L 8E	.	8A^	.	8d^	.	8f#X^	.	8AA^L 8E	8A^ 8d 8f#X	.	4%3r	.	8Re^\L	.	4%3r	.	8AA^L	.	4ee_	.	4eee_	.
+8DD'J	.	8D'J	.	8r	.	8r	.	8r	.	8D'J	8r	.	.	.	8Re'\J	.	.	.	8D'J	.	.	.	.	.
+4r	.	8r	.	8B^L	.	8e^L	.	8g#X^L	.	8r	8B^L 8e 8g#X	.	.	.	8r	.	.	.	4r	.	8eeL]	.	8eeeL]	.
+.	.	8AA' 8E	.	8A'J	.	8d'J	.	8f#'J	.	8AA' 8E	8A'J 8d 8f#	.	.	.	8Re'\	.	.	.	.	.	8aX'J	.	8aa'J	.
+8DD^	.	8D^	.	8r	.	8r	.	8r	.	8D^	8r	.	.	.	8Re^\	.	.	.	8D^	.	[4ff#X~	.	[4fff#X~	.
+8r	.	8r	.	8B'	.	8e'	.	8g#'	.	8r	8B' 8e 8g#	.	.	.	8r	.	.	.	8r	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/LL	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16qqRe/JJ	.	.	.	.	.	.	.	.	.
+8AAA^L	.	8AA^L 8E	.	8A^	.	8d^	.	8f#X^	.	8AA^L 8E	8A^ 8d 8f#X	.	4%3r	.	8Re^\L	.	4%3r	.	8AA^L	.	4ff#]	.	4fff#]	.
+8DD'J	.	8D'J	.	8r	.	8r	.	8r	.	8D'J	8r	.	.	.	8Re'\J	.	.	.	8D'J	.	.	.	.	.
+4r	.	8r	.	8B^L	.	8e^L	.	8g#X^L	.	8r	8B^L 8e 8g#X	.	.	.	8r	.	.	.	4r	.	2eeX~	.	2eee~	.
+.	.	8AA' 8E	.	8A'J	.	8d'J	.	8f#'J	.	8AA' 8E	8A'J 8d 8f#	.	.	.	8Re'\	.	.	.	.	.	.	.	.	.
+8DD^	.	8D^	.	8r	.	8r	.	8r	.	8D^	8r	.	.	.	8Re^\	.	.	.	8D^	.	.	.	.	.
+8r	.	8r	.	8B'	.	8e'	.	8g#'	.	8r	8B' 8e 8g#	.	.	.	8r	.	.	.	8r	.	.	.	.	.
+!!LO:REH:t=6
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+*grp:A	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:B	*	*grp:A	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*	*grp:A	*	*grp:B	*	*grp:B	*
+*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*	*M7/8	*
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:rj:i:t=(Jazz)	!	!	!	!	!	!LO:TX:a:t=sempre [eighth] = [eighth]	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:rj:i:t=con sord.	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:rj:i:t=Solo 	!	!	!	!	!	!	!
+8DD^	.	8DD^L	.	8r	.	8r	.	8r	.	8DD^L	8r	ff	8Re^\	f	8%7r	.	8ff#X^L	f	8DD^	sf	[4dd~	.	[4ddd~	.
+8r'	.	8AA'J 8E	.	8r	.	8r	.	8r	.	8AA'J 8E	8r	.	8r	.	.	.	8gg'J	.	8r	.	.	.	.	.
+!	!	!	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+=	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.
+8r	.	8r	.	8A^ 8f#X	.	8A^ 8f#X	.	8d^ 8a	.	8r	8A^ 8d 8f#X 8a	.	8r	.	.	.	8aa^L	.	8r	.	4dd]	.	4ddd]	.
+8DD^	.	8DD^L	.	8r	.	8r	.	8r	.	8DD^L	8r	.	8Re^\	.	.	.	8dd'	.	8DD^	sf	.	.	.	.
+8r'	.	8BB'J 8F#X	.	8r	.	8r	.	8r	.	8BB'J 8F#X	8r	.	8r	.	.	.	8dd'J	.	8r	.	8r	.	8r	.
+=	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.	=.
+8r	.	8r	.	8B^ 8g#X	.	8B^ 8g#X	.	8e^ 8b	.	8r	8B^ 8e 8g#X 8b	.	8r	.	.	.	8ff#^L	.	8r	.	4r	.	4r	.
+8DD^	.	8DD^	.	8r	.	8r	.	8r	.	8DD^	8r	.	8Re^\	.	.	.	8gg'J	.	8DD^	sf	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4)][(s5,s6)][({(s7,s8)})][(s9,s10,s11,s12,s13)]
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/05/06
+!!!EED3: Bryan Bell
+!!!EEV3: 2023/09/5
+!!!Suter_Work_ID: Cop-3
+!!!Suter_Example_Number: 703
+!!!Suter_Example_ID: Cop-3/8/4-1[6]1
+!!!Premiere_Location: Boston,United States
+!!!Other_Tsigs: 7/8
+!!!Full_Unit_Duration: 5:52
+!!!First_Publication_Year: 1932
+!!!First_Public_Performance_Year: 1925
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 7
+!!!Example_Start_Tsig_Type: changing
+!!!Example_Start_Tsig_Mean_Beat_Rate: 144
+!!!Example_Start_Tsig_Beat_Rate: 144
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 3/4
+!!!Example_Start_Timestamp: 2:50
+!!!Example_Start_Tempo_Expression: [Subito Allegro molto]
+!!!Example_Start_Notated_Beat_Rate: [144]
+!!!Example_Start_Notated_Beat: [quarter]
+!!!Example_Start_Measure: 44
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:57
+!!!Example_End_Measure: 48
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [quarter=144] based on most recent notated beat rate (SWFU, m. 37). Example Start Tempo Expression [Subito Allegro molto] based on most recent notated tempo expression (SWFU, m. 37).
+!!!Death_Place: North Tarrytown,United States
+!!!Death_Date: 2-Dec-1990
+!!!Changing_Tsig: yes
+!!!Birth_Place: Brooklyn,United States
+!!!Birth_Date: 14-Nov-1900
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:

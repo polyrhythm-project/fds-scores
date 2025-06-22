@@ -1,0 +1,274 @@
+!!!!SEGMENT: T404_Web-w22p5m17-24.krn
+!!!COM: Webern, Anton (Friedrich Wilhelm von)
+!!!OTL: Movement 'Ruhig' (Quiet) for String Trio
+!!!OMV: single movement work
+!!!OMD:
+!!!AGN: Instrumental; Chamber
+!!!AGN-sub: Chamber
+!!!CNT: Austrian
+!!!ODT: 1925
+!!!OPR: Movement 'Ruhig' (Quiet) for String Trio
+!!!filename: T404_Web-w22p5m17-24.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*
+*part3	*	*part2	*	*part1	*
+*staff3	*	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*
+*Icello	*	*Iviola	*	*Ivioln	*
+*I"Violoncello	*	*I"Viola	*	*I"Violin I	*
+*I'vc	*	*I'vla	*	*I'vn	*
+*clefF4	*	*clefC3	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*C:	*	*C:	*	*C:	*
+!!LO:TX:omd:tempo:a:t=[a tempo (Ruhig fließend)]\n[[sixteenth]=52]
+*M2/8	*	*M2/8	*	*M2/8	*
+!!LO:REH:t=17
+=17	=17	=17	=17	=17	=17
+32.r	.	64r	.	48r	.
+.	.	64ccn'LLLL	p	.	.
+.	.	.	.	48r	.
+.	.	(64cc	>	.	.
+!	!	!	!	!LO:TX:a:t=(pizz.)	!
+.	.	.	.	48Gn~"	p
+!LO:TX:a:t=pizz.	!	!	!	!	!
+64GG#X'"	pp	64Bn'JJJJ)	]	.	.
+*grp:B	*	*grp:A	*	*grp:B	*
+!LO:TUP:a	!	!	!	!LO:TUP:a	!
+48r	.	(64BLLLL	pp >	48r	.
+.	.	64b-X')	.	.	.
+!LO:TX:a:t=arco	!	!	!	!	!
+24A~	< [ >	.	.	48r	pp
+.	.	64b-'	.	.	.
+!	!	!	!	!LO:TX:a:t=arco	!
+.	.	.	.	[48ee-X	<
+.	.	64b-'JJJJ	]	.	.
+*	*	*clefG2	*	*	*
+!LO:TX:a:t=pizz.	!	!	!	!LO:TUP:a	!
+48r	]	64r'	.	24ee-]	[ >
+.	.	(32dddnLLL	p >	.	.
+48FFn~LLL"	pp >	.	.	.	.
+48En~JJJ"	]	.	.	48r	]
+.	.	64ff#X'JJJk)	.	.	.
+*	*	*clefC3	*	*	*
+*grp:B	*	*grp:B	*	*grp:A	*
+!	!	!LO:TUP:a	!	!	!
+16r	.	48r	]	64r	pp
+.	.	.	.	(64ccnLLLL	<
+!	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	48gn~LLL"	pp	.	.
+.	.	.	.	64bbn	[ >
+.	.	48G#X~JJJ"	.	.	.
+.	.	.	.	64b-XJJJJ)	]
+!!LO:REH:t=18
+=18	=18	=18	=18	=18	=18
+*grp:B	*	*grp:A	*	*grp:A	*
+!LO:TUP:a	!	!	!	!	!
+!LO:TX:a:t=(pizz.)	!	!	!	!	!
+48r	.	32.r	.	64r	.
+!	!	!	!	!LO:TX:a:t=pizz.	!
+.	.	.	.	64aaan'LLLL"	p >
+48C#X'LLL"	pp <	.	.	.	.
+.	.	.	.	64eee-X'"	.
+48dn'JJJ"	[	.	.	.	.
+!	!	!LO:TX:a:t=arco	!	!	!
+.	.	(64fnLLLL	p >	64een'JJJJ"	.
+*grp:A	*	*grp:A	*	*grp:B	*
+!	!	!	!	!LO:TUP:a	!
+64r	.	64F#X	.	48r	]
+64GGn'LLLL"	>	64cnJJJJ)	]	.	.
+!	!	!	!	!LO:TX:a:t=arco	!
+.	.	.	.	(48bnLLL	p <
+64g#X'"	.	32r	.	.	.
+.	.	.	.	48bb-XJJJ	.
+64An'JJJJ"	]	.	.	.	.
+*grp:A	*	*grp:A	*	*grp:B	*
+!	!	!LO:TX:a:t=pizz.	!	!LO:TUP:br:a	!
+32.r	.	64r	.	24ccc#XLL	[ >
+.	.	64E-X'LLLL"	pp >	.	.
+.	.	64dn'JJJJ"	.	.	.
+.	.	.	.	48ffnJJk	.
+64EEn'"	pp	64r	]	.	.
+*grp:B	*	*grp:B	*	*grp:A	*
+!	!	!LO:TUP:a	!	!	!
+48r	pp	48r	.	64r	]
+!	!	!	!	!LO:TX:a:t=pizz.	!
+.	.	.	.	64f#X'LLLL"	pp
+!LO:TX:a:t=arco	!	!	!	!	!
+24Cn~	<	48r	.	.	.
+.	[	.	.	64Gn'"	.
+!	!	!LO:TX:a:t=arco	!	!	!
+.	>	([48bn	pp < [	.	.
+.	]	.	.	64g#X'JJJJ"	.
+!!LO:REH:t=19
+=19	=19	=19	=19	=19	=19
+*grp:A	*	*grp:B	*	*grp:A	*
+32r	.	48bLLL]	>	32.r	.
+.	.	48B-X	.	.	.
+!LO:TX:a:t=pizz.	!	!	!	!	!
+64AAn'LLLL"	pp >	.	.	.	.
+.	.	48cnJJJ)	.	.	.
+!	!	!	!	!LO:TX:a:t=arco	!
+64E-X'JJJJ"	.	.	.	64ddn'	pp
+*grp:B	*	*grp:A	*	*grp:B	*
+!	!	!LO:TX:a:t=pizz.	!	!	!
+16r	]	32.r	]	(48fnLLL	>
+.	.	.	.	48een	.
+.	.	.	.	48fff#XJJJ)	.
+.	.	64Gn" 64cn"	ppp	.	.
+*grp:B	*	*grp:A	*	*grp:A	*
+*clefC4	*	*	*	*	*
+!LO:TX:a:t=arco	!	!LO:TX:a:t=arco	!	!	!
+48r	.	32r	.	32.r	]
+(48bnLLL	p >	.	.	.	.
+*	*	*clefG2	*	*	*
+.	.	(64g#XLLLL	p	.	.
+48B-XJJJ)	]	.	.	.	.
+!	!	!LO:TX:t=○	!	!	!
+.	.	64aanJJJJ)	<	64c#X'	p >
+*clefF4	*	*	*	*	*
+*grp:B	*	*grp:B	*	*grp:A	*
+48r	.	48r	[	(32.ee-XLLL	.
+24DDn~	pp < [ > ]	48r	.	.	.
+*	*	*clefC3	*	*	*
+!	!	!LO:TX:a:t=pizz.	!	!	!
+.	.	48Fn~"	pp	.	.
+.	.	.	.	64enJJJk)	]
+!!LO:REH:t=20
+=20	=20	=20	=20	=20	=20
+*grp:A	*	*grp:A	*	*grp:B	*
+32r	.	16r	.	48r	pp
+.	.	.	.	(48ccnLLL	>
+!LO:TX:a:t=pizz.	!	!	!	!	!
+64Gn'LLLL"	pp >	.	.	.	.
+.	.	.	.	48BnJJJ)	]
+64g#X'JJJJ"	.	.	.	.	.
+*grp:B	*	*grp:A	*	*grp:B	*
+48r	]	32r	.	16r	.
+48r	.	.	.	.	.
+!	!	!LO:TX:a:t=arco	!	!	!
+.	.	(16b-XLL	p <	.	.
+48An~"	pp	.	.	.	.
+*grp:A	*	*grp:A	*	*grp:B	*
+!	!	!	!	!LO:TUP:a	!
+16r	.	.	.	48r	.
+.	.	.	.	48r	.
+.	.	16cc#X	[ >	.	.
+*	*	*	*	*8va	*
+.	.	.	.	(48eeee-X	p
+*	*	*	*	*X8va	*
+64FFn~LLLL"	p >	.	.	48dddnLLL	>
+64En~"	.	.	.	.	.
+.	.	.	.	48ff#X	.
+64r	.	32cnJJk)	]	.	.
+.	.	.	.	48GnJJJ)	]
+64BBn'JJJJ"	]	.	.	.	.
+!!LO:REH:t=21
+=21	=21	=21	=21	=21	=21
+*grp:B	*	*grp:A	*	*grp:A	*
+16r	.	16r	.	\(32g#XLLL	pp
+.	.	.	.	32bb-XJ)	<
+!LO:TX:a:t=(pizz.)	!	!LO:TX:a:t=pizz.	!	!	!
+!LO:TUP:a	!	!	!	!	!
+48r	.	32.r	.	16AnJJ	[ >
+48C#X~LLL"	pp >	.	.	.	.
+48e-X~JJJ"	.	.	.	.	.
+*	*	*clefG2	*	*	*
+.	.	64ddn'"	pp	.	.
+!	!	!LO:TX:a:t=arco	!	!	!
+!LO:TUP:a	!	!LO:TUP:a	!	!	!
+24r	]	40r	.	8r	]
+!	!	!LO:TX:a:t=am Steg - - ┐	!	!	!
+.	.	(\40ffnLLL	pp >	.	.
+24En~LL"	ppp >	.	.	.	.
+.	.	40f#X	.	.	.
+.	.	40cn	.	.	.
+24Gn~JJ"	]	.	.	.	.
+.	.	40bnJJJ)	]	.	.
+!!LO:REH:t=22
+=22	=22	=22	=22	=22	=22
+48r	.	16r	.	32.r	pp
+!LO:TX:a:t=arco	!	!	!	!	!
+[24GG#X	pp <	.	.	.	.
+.	.	.	.	(64b-X	<
+*	*	*clefC3	*	*	*
+*grp:B	*	*grp:B	*	*grp:B	*
+!	!	!LO:TUP:a	!	!	!
+24GG#]	[ >	48r	pp <	48aanLLL	[
+.	.	24c#X~	[ >	96ee-X'JJJk)	>
+!	!	!	!	!LO:TX:a:B:vgrp=1:t=rit. -    -	!
+.	.	.	]	32r	]
+48r	]	.	.	.	ppp
+*grp:B	*	*grp:B	*	*grp:A	*
+8r	.	8r	.	(16dddnLL	.
+.	.	.	.	16ffnJJ)	>]
+!!LO:REH:t=23
+=23	=23	=23	=23	=23	=23
+*grp:A	*	*grp:B	*	*grp:A	*
+!	!	!	!	!LO:TX:a:B:vgrp=1:t=-   tempo	!
+32r	.	16r	.	16r	.
+32En'LLL	pp	.	.	.	.
+*grp:A	*	*grp:A	*	*grp:B	*
+32f#X'	< [	32.r	.	48r	.
+.	.	.	.	(48ccnLLL	pp >
+32Gn'JJJ	>]	.	.	.	.
+.	.	.	.	48BnJJJ)	.
+.	.	([64gg#X	pp	.	.
+*grp:A	*	*grp:B	*	*grp:A	*
+32r	.	12gg#L]	<	16r	]
+32BB-X'LLL	pp >	.	[	.	.
+!	!	!	!	!LO:TX:a:B:vgrp=1:t=rit. -    -	!
+32An'JJJ	.	.	>	(32ccc#XHLLL	pp
+.	.	24dd#XJk)	.	.	.
+32r	]	.	]	32dnhJJJ)	.
+!!LO:REH:t=24
+=24	=24	=24	=24	=24	=24
+!	!	!	!	!LO:TX:a:B:vgrp=1::t=-     tempo	!
+16r	.	48r	.	16r	.
+.	.	(48fnLLL	ppp	.	.
+.	.	48EnJJJ)	.	.	.
+*clefC4	*	*	*	*	*
+!	!	!	!	!LO:TX:a:t=pizz.	!
+32.r	.	48r	.	32f#X'LLL	ppp >
+.	.	24Dn~	pp	.	.
+.	.	.	.	32Gn'JJJ	.
+64bn~	ppp	.	.	.	.
+8r	.	8r	.	8r'	]
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]
+!!!EED: Daniel Wright
+!!!EEV: 2021/07/28
+!!!EED2: Gabriella Vici
+!!!Suter_Work_ID: Web-22
+!!!Suter_Example_Number: 404
+!!!Suter_Example_ID: Web-22/5/17-24
+!!!Premiere_Location: Vienna,Austria
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 2:04
+!!!First_Publication_Year: 1966
+!!!First_Public_Performance_Year: 1963
+!!!Example_Total_Measures: 8
+!!!Example_Timestamp_Duration: 42
+!!!Example_Start_Tsig_Type: simple quadruple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 52
+!!!Example_Start_Tsig_Beat_Rate: 52
+!!!Example_Start_Tsig_Beat: sixteenth
+!!!Example_Start_Tsig: 4/16
+!!!Example_Start_Timestamp: 1:22
+!!!Example_Start_Tempo_Expression: [a tempo (Ruhig fließend)]
+!!!Example_Start_Notated_Beat_Rate: [52]
+!!!Example_Start_Notated_Beat: [sixteenth]
+!!!Example_Start_Measure: 17
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 2:04
+!!!Example_End_Measure: 24
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [sixteenth=52] based on most recent notated beat rate (SWFU, m. 1). Example Start Tempo Expression [a tempo (Ruhig fließend)] based on most recent notated tempo expressions (SWFU, m. 13 and m. 1).
+!!!Death_Place: Mittersill,Austria
+!!!Death_Date: 15-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Vienna,Austria
+!!!Birth_Date: 3-Dec-1883
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/02/09

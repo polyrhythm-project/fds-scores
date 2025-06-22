@@ -1,0 +1,152 @@
+!!!!SEGMENT: T740_Mes-w18p51m24-28.krn
+!!!COM: Messiaen, Olivier (Eugène Prosper Charles)
+!!!OTL: Visions de l'Amen (Visions of the Amen) for Two Pianos
+!!!OMV: V: Amen des anges, des saints, du chant des oiseaux (Amen of the Angels, the Saints and the Birdsongs)
+!!!OMD:
+!!!AGN: Instrumental; Keyboard
+!!!AGN-sub: Keyboard
+!!!CNT: French
+!!!ODT: 1943
+!!!OPR: Visions de l'Amen (Visions of the Amen) for Two Pianos
+!!!filename: T740_Mes-w18p51m24-28.krn
+**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:B	*grp:B	*
+*part2	*	*part2	*	*part1	*part1	*
+*staff4	*	*staff3	*	*staff2	*staff1	*
+*ICklav	*	*ICklav	*	*ICklav	*ICklav	*
+*Ipiano	*	*Ipiano	*	*Ipiano	*Ipiano	*
+*I"Piano 2	*	*I"Piano 2	*	*I"Piano 1	*I"Piano 1	*
+*I'pf	*	*I'pf	*	*I'pf	*I'pf	*
+*clefF4	*	*clefG2	*	*clefG2	*clefG2	*
+*k[f#c#g#]	*	*k[f#c#g#]	*	*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*	*A:	*	*A:	*A:	*
+!!LO:TX:omd:tempo:a:t=[Un peu lent]\n[[eighth]=66]
+*M2/4	*	*M2/4	*	*M2/4	*M2/4	*
+*	*	*	*	*	*8va	*
+=1	=1	=1	=1	=1	=1	=1
+.	.	.	.	(>16qqee/LL	(>16qqgggg#X/LL	pp
+.	.	.	.	16qqaa/	16qqffff#X/	.
+.	.	.	.	16qqbb-X/JJ	16qqcccc#X/JJ	.
+*	*	*^	*	*	*	*
+*	*	*	*^	*	*	*	*
+!	!LO:DY:t=%s expressif	!	!	!	!	!	!LO:TX:b:t=(en laissant résonner)	!
+(>8AL	mf	2ryy	4r	8rbb	.	8.ddd#XL)	8.fffnL 8.gggn)	.
+!	!	!	!	!	!LO:DY:a	!	!	!
+.	.	.	.	.	pp	.	.	.
+.	.	.	.	(8qaa/ 8qddd#X	.	.	.	.
+8c#J	.	.	.	[8ee/ [8ccc#)	.	.	.	.
+.	.	.	.	.	.	(>16qqee/LL	(>16qqgggg#X/LL	.
+.	.	.	.	.	.	16qqaa/	16qqffff#X/	.
+.	.	.	.	.	.	16qqbb-X/JJ	16qqcccc#X/JJ	.
+.	.	.	.	.	.	[16ddd#XJk)	[16fffnJk [16gggn)	.
+(<16qqB-X/LL	.	.	.	.	.	.	.	.
+16qqc#/JJ	.	.	(<8qa\ 8qdd#X	.	.	.	.	.
+!	!	!	!	!	!LO:DY:rj	!	!	!
+8B-XL)	.	.	8.eL 8.cc#)L	16ee/KL] 16ccc#]	p	4ddd#]	4fff] 4ggg]	.
+.	.	.	.	(<8qaa/ 8qddd#X	.	.	.	.
+.	.	.	.	[8.ee/J [8.ccc#)	.	.	.	.
+8AJ	.	.	.	.	.	.	.	.
+.	.	.	(>8qa\ 8qdd#X	.	.	.	.	.
+.	.	.	[16eJk [16cc#)J	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+.	.	.	.	.	.	(>16qqee/LL	(>16qqgggg#X/LL	.
+.	.	.	.	.	.	16qqaa/	16qqffff#X/	.
+.	.	.	.	.	.	16qqbb-X/JJ	16qqcccc#X/JJ	.
+4e	.	2ryy	4e] 4cc#]	8ee/] 8ccc#]	.	2ddd#X)	2fffn 2gggn)	.
+.	.	.	.	(8qaa/ 8qddd#XJ	.	.	.	.
+.	.	.	.	[4.ee/ [4.ccc#)	.	.	.	.
+.	.	.	(<8qa\ 8qdd#XJ	.	.	.	.	.
+16d#XLL	.	.	[4e [4cc#)	.	.	.	.	.
+16eJ	.	.	.	.	.	.	.	.
+8c#J	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+.	.	.	.	.	.	(>16qqee/LL	(>16qqgggg#X/LL	.
+.	.	.	.	.	.	16qqaa/	16qqffff#X/	.
+.	.	.	.	.	.	16qqbb-X/JJ	16qqcccc#X/JJ	.
+8AL	.	2ryy	4e] 4cc#]	8ee/L] 8ccc#]	.	[4ddd#X)	[4fffn [4gggn)	.
+.	.	.	.	(<8qaa/ 8qddd#X	.	.	.	.
+8GnJ	.	.	.	[8ee/J [8ccc#)	.	.	.	.
+.	.	.	(8qa\ 8qdd#XJ	.	.	.	.	.
+8eL	.	.	[4e [4cc#)	16ee/KL] 16ccc#]	.	16ddd#KL]	16fffKL] 16ggg]	.
+.	.	.	.	.	.	(>16qqee/LL	(>16qqgggg#/LL	.
+.	.	.	.	.	.	16qqaa/	16qqffff#/	.
+.	.	.	.	(<8qaa/ 8qddd#X	.	16qqbb-/JJ	16qqcccc#/JJ	.
+.	.	.	.	[8.ee/J [8.ccc#)	.	8.ddd#J)	8.fffJ 8.ggg)	.
+8d#XJ	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+.	.	.	.	.	.	(>16qqee/LL	(>16qqgggg#X/LL	.
+.	.	.	.	.	.	16qqaa/	16qqffff#X/	.
+.	.	.	.	.	.	16qqbb-X/JJ	16qqcccc#X/JJ	.
+8B-XL	.	2ryy	16eKL] 16cc#]L	8ee/] 8ccc#]	.	4ddd#X)	4fffn 4gggn)	.
+.	.	.	(>8qa\ 8qdd#X	.	.	.	.	.
+.	.	.	8.eJ 8.cc#)J	.	.	.	.	.
+.	.	.	.	(8qaa/ 8qddd#XJ	.	.	.	.
+8AJ)	.	.	.	4ee/ 4ccc#)	.	.	.	.
+.	.	.	.	.	.	(>16qqee/LL	(>16qqgggg#X/LL	.
+.	.	.	.	.	.	16qqaa/	16qqffff#X/	.
+.	.	.	(>8qa\ 8qdd#X	.	.	16qqbb-X/JJ	16qqcccc#X/JJ	.
+(>8B-X^L	<	.	4e 4cc#)	.	.	8.ddd#XL)	8.fffnL 8.gggn)	.
+.	.	.	.	(8qaa/ 8qddd#XJ	.	.	.	.
+16AL	.	.	.	[8ee/ [8ccc#)	.	.	.	.
+.	.	.	.	.	.	(>16qqee/LL	(>16qqgggg#/LL	.
+.	.	.	.	.	.	16qqaa/	16qqffff#/	.
+.	.	.	.	.	.	16qqbb-X/JJ	16qqcccc#/JJ	.
+[16GnJJ	.	.	.	.	.	[16ddd#Jk)	[16fffJk [16ggg)	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+.	.	.	(<8qa\ 8qdd#X	.	.	.	.	.
+16GKL]	.	2ryy	8.eL 8.cc#)L	16ee/KL] 16ccc#]	.	4.ddd#X]	4.fffn] 4.gggn]	.
+.	.	.	.	(<8qaa/ 8qddd#X	.	.	.	.
+!	!LO:DY:rj:t=più %s	!	!	!	!	!	!	!
+8e~	f	.	.	[8.ee/J [8.ccc#)	.	.	.	.
+.	.	.	(>8qa\ 8qdd#X	.	.	.	.	.
+[16d#XJk	.	.	[16ekJ [16cc#)J	.	.	.	.	.
+16d#KL]	.	.	4e_ 4cc#_	4ee/] 4ccc#]	.	.	.	.
+8B-X	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(>16qqee/LL	(>16qqgggg#X/LL	.
+.	.	.	.	.	.	16qqaa/	16qqffff#/	.
+.	.	.	.	.	.	16qqbb-X/JJ	16qqcccc#X/JJ	.
+.	.	.	.	.	.	[8ddd#X)	[8fffn [8gggn)	.
+[16AJk)	.	.	.	.	.	.	.	.
+*	*	*v	*v	*v	*	*	*	*
+*	*	*	*	*	*X8va	*
+=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [({(s1,s2)})][({(s3,s4)})]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!EED2: Rafael Laurindo
+!!!EEV2: 2022/05/06
+!!!EED3: Bryan Bell
+!!!EEV3: 2023/06/16
+!!!Suter_Work_ID: Mes-18
+!!!Suter_Example_Number: 740
+!!!Suter_Example_ID: Mes-18/51/24-28
+!!!Premiere_Location: Paris,France
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 7:26
+!!!First_Publication_Year: 1950
+!!!First_Public_Performance_Year: 1943
+!!!Example_Total_Measures: 5
+!!!Example_Timestamp_Duration: 21
+!!!Example_Start_Tsig_Type: simple duple
+!!!Example_Start_Tsig_Mean_Beat_Rate: 33
+!!!Example_Start_Tsig_Beat_Rate: 33
+!!!Example_Start_Tsig_Beat: quarter
+!!!Example_Start_Tsig: 2/4
+!!!Example_Start_Timestamp: 1:16
+!!!Example_Start_Tempo_Expression: [Un peu lent]
+!!!Example_Start_Notated_Beat_Rate: [66]
+!!!Example_Start_Notated_Beat: [eighth]
+!!!Example_Start_Measure: 24
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 1:37
+!!!Example_End_Measure: 28
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Notated Beat and Example Start Notated Beat Rate [eighth=66] based on most recent notated beat rate (SWFU, m. 12). Example Start Tempo Expression [Un peu lent] based on most recent notated tempo expression (SWFU, m. 12).
+!!!Death_Place: Paris,France
+!!!Death_Date: 27-Apr-1992
+!!!Changing_Tsig: no
+!!!Birth_Place: Avignon,France
+!!!Birth_Date: 10-Dec-1908
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:

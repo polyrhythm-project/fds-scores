@@ -1,0 +1,125 @@
+!!!!SEGMENT: T325_Bar-w2p48m340-345.krn
+!!!COM: Bartók, Béla
+!!!OTL: Scherzo for Piano and Orchestra
+!!!OMV: II: Scherzo
+!!!OMD:
+!!!AGN: Orchestral; Concerto
+!!!AGN-sub: Concerto
+!!!CNT: Hungarian
+!!!ODT: 1904
+!!!OPR: Scherzo for Piano and Orchestra
+!!!filename: T325_Bar-w2p48m340-345.krn
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam	**kern	**dynam
+*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*	*grp:A	*grp:A	*	*grp:B	*
+*part7	*	*part6	*	*part5	*	*part4	*	*part3	*	*part2	*part2	*	*part1	*
+*staff8	*	*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*staff2	*	*staff1	*
+*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICstr	*	*ICklav	*ICklav	*	*ICww	*
+*Icbass	*	*Icello	*	*Iviola	*	*Ivioln	*	*Ivioln	*	*Ipiano	*Ipiano	*	*Iclars	*
+*I"Contrabass	*	*I"Violoncello	*	*I"Viola	*	*I"Violin II	*	*I"Violin I	*	*I"Piano	*I"Piano	*	*I"Clarinet in Bb	*
+*I'cb	*	*I'vc	*	*I'vla	*	*I'vn	*	*I'vn	*	*I'pf	*I'pf	*	*I'cl	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefF4	*clefF4	*	*clefG2	*
+*ITrd7c12	*	*	*	*	*	*	*	*	*	*	*	*	*ITrd1c2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*k[]	*	*k[b-e-]	*
+*	*	*	*	*	*	*	*	*	*	*Xtuplet	*	*	*	*
+!!LO:TX:omd:tempo:a:t=[half-dot]=76; [half]=76
+!!LO:TX:omd:tempo:a:t=a tempo (Allegro vivace)
+*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*	*M2/4	*M2/4	*	*M6/8	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*Xtuplet	*	*	*Xtuplet	*	*	*
+!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!	!	!	!	!LO:DY:t=%s poco marcato	!	!LO:DY:t=%s sempre stacc.
+8%3AAA	pp	8%3AA	pp	16%3r~	.	16%3r~	.	16%3r~	.	8%3AAA~ 8%3EE 8%3AA	8%3E~ 8%3A	p	8eeXL	pp
+.	.	.	.	.	.	.	.	.	.	.	.	.	8cc	.
+!	!	!	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!LO:TX:a:t=pizz.	!	!	!	!	!	!
+.	.	.	.	16%3EL	pp	16%3cL	pp	16%3eL	pp	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8ddJ	.
+8%3EEE	.	8%3EE	.	16%3r	.	16%3r	.	16%3r~	.	8%3BBB~ 8%3EE 8%3BB	8%3E~ 8%3B	.	8bXL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8cc	.
+.	.	.	.	16%3EJ	.	16%3BJ	.	16%3eJ	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8g#XJ	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8%3AAA	.	8%3AA	.	16%3r~	.	16%3r~	.	16%3r~	.	8%3CC~ 8%3EE 8%3C	8%3E~ 8%3c	.	8eXL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8e	.
+.	.	.	.	16%3EL	.	16%3AL	.	16%3eL	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8eJ	.
+8%3BBB	.	8%3BB	.	16%3r~	.	16%3r	.	16%3r~	.	8%3BBB~ 8%3EE 8%3BB	8%3E~ 8%3B	.	8eL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8f#X	.
+.	.	.	.	16%3EJ	.	16%3G#XJ	.	16%3eJ	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8g#XJ	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8%3CC	.	8%3C	.	16%3r~	.	16%3r~	.	16%3r~	.	16%3AAAL 16%3EE 16%3AA	16%3EL 16%3A	.	8aL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8bX	.
+.	.	.	.	16%3EL	.	16%3AL	.	16%3eL	.	16%3GGG#XJ 16%3EE 16%3GG#X	16%3EJ 16%3G#X	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8ccJ	.
+8%3EEE	.	8%3EE	.	16%3r~	.	16%3r~	.	16%3r~	.	8%3AAA~ 8%3EE 8%3AA	8%3E~ 8%3A	.	8ddL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8eeX	.
+.	.	.	.	16%3EJ	.	16%3AJ	.	16%3eJ	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8ff#XJ	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8%3CC#X	.	8%3C#X	.	16%3r~	.	16%3r~	.	16%3r~	.	16%3BBB-XL 16%3EE 16%3BB-X	16%3EL 16%3B-X	.	8ffnL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8aa	.
+.	.	.	.	16%3EL	.	16%3GnL	.	16%3AnL	.	16%3AAAJ 16%3EE 16%3AA	16%3EJ 16%3A	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8gg#XJ	.
+8%3EEE	.	8%3EE	.	16%3r~	.	16%3r~	.	16%3r~	.	8%3BBB-~ 8%3EE 8%3BB-	8%3E~ 8%3B-	.	8bb-L	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8aa	.
+.	.	.	.	16%3EJ	.	16%3GJ	.	16%3B-XJ	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8ffJ	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8%3EE	.	8%3E	.	16%3r~	.	16%3r~	.	16%3r~	.	16%3BBBnL 16%3BBn	16%3EL 16%3F#X 16%3Bn	.	8eeXL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8bX	.
+.	.	.	.	16%3F#XL	.	16%3AnL	.	16%3A#XL	.	16%3AA#XJ	16%3A#XJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8ccJ	.
+8%3EEE	.	8%3EE	.	16%3r~	.	16%3r~	.	16%3r~	.	8%3BB~	8%3D#X~ 8%3F# 8%3B	.	8cc#XL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8dd	.
+.	.	.	.	16%3F#J	.	16%3AJ	.	16%3BnJ	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8dd#XJ	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*	*	*	*	*8ba	*	*	*	*
+8%3EE	.	8%3E	.	16%3r~	.	16%3r~	.	16%3r~	.	16%3EEL	16%3G#XL 16%3B 16%3e	.	8eeXL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8b-X	.
+.	.	.	.	16%3EL	.	16%3G#XL	.	16%3BL	.	16%3EEEJ	16%3EJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8bXJ	.
+8%3EEE	.	8%3EE	.	16%3r~	.	16%3r~	.	16%3r~	.	8%3EE~	8%3e~	.	8ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8cc#X	.
+.	.	.	.	16%3G#XJ	.	16%3BJ	.	16%3eJ	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8ddnJ	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1)][({(s2,s3)})][([(s4,s5)]s6,s7,s8)]
+!!!EED: Claudio de Freitas
+!!!EEV: 2021/10/01
+!!!EED2: Jason Lee
+!!!Suter_Work_ID: Bar-2
+!!!Suter_Example_Number: 325
+!!!Suter_Example_ID: Bar-2/48/340-345
+!!!Premiere_Location: Budapest,Hungary
+!!!Other_Tsigs: none
+!!!Full_Unit_Duration: 9:57
+!!!First_Publication_Year: 1961
+!!!First_Public_Performance_Year: 1961
+!!!Example_Total_Measures: 6
+!!!Example_Timestamp_Duration: 6
+!!!Example_Start_Tsig_Type: polydurational
+!!!Example_Start_Tsig_Mean_Beat_Rate: 152
+!!!Example_Start_Tsig_Beat_Rate: 152;152
+!!!Example_Start_Tsig_Beat: dotted-quarter;quarter
+!!!Example_Start_Tsig: 6/8(2/4)
+!!!Example_Start_Timestamp: 5:43
+!!!Example_Start_Tempo_Expression: a tempo (Allegro vivace)
+!!!Example_Start_Notated_Beat_Rate: 76;76
+!!!Example_Start_Notated_Beat: dotted-half;half
+!!!Example_Start_Measure: 237(340)
+!!!Example_Metadata_Validated: Y
+!!!Example_End_Timestamp: 5:49
+!!!Example_End_Measure: 242(345)
+!!!Example_Dataset: T
+!!!Editorial_Comments: Example Start Tempo Expression [a tempo (Allegro vivace)] based on most recent notated tempo expressions (SWFU, m. 225 and m. 237). Note that Suter refers to measure numbers that count throughout the entire work and do not re-start with each informal section division. The measure count without subdvisions into movements is shown in parentheses.
+!!!Death_Place: New York,United States
+!!!Death_Date: 26-Sep-1945
+!!!Changing_Tsig: no
+!!!Birth_Place: Sînnicolau Mare (Nagyszentmiklós),Romania (Hungary)
+!!!Birth_Date: 25-Mar-1881
+!!!Audio_Example_Quarter_Note_Tempo:
+!!!Audio_Example_Duration:
+!!!EEV2: 2022/03/14
+!!!EED-tempo: Ève Poudrier
+!!!EEV: 2024/04/05
