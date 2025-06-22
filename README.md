@@ -1,9 +1,9 @@
 
 
-Polyrhythm Project FDS data set
+Polyrhythm Project FDS Dataset
 =================================
 
-The FDS (Full data set) for the Polyrhythm Project.
+The FDS (Full dataset) for the Polyrhythm Project.
 
 The [kern](https://github.com/polyrhythm-project/fds-scores/tree/main/kern)
 directory contains the digital score, currently consisting of 710 examples.
