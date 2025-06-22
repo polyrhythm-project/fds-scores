@@ -34,7 +34,7 @@ Example:
 | `Jan` | the composer code (Leoš Janáček in this case |
 | `w30` | 30th work by Janáček represented in the Full dataset |
 | `p11m124-127` | example is on page 11 from measure 124–127 in the reference edition |
-| `.krn` | file extension for kern Humdrum data.  The graphical notation of the digital scores can be viewed at the bottom of the website example pages (https://polyrhythm.humdrum.org/example/?id=129 in this case, or copied into the text editor of [VHV](https://verovio.humdrum.org?file=https://github.com/polyrhythm-project/fds-scores/blob/main/kern/R129_Jan-w30p11m124-127.krn) |
+| `.krn` | file extension for kern Humdrum data.  The graphical notation of the digital scores can be viewed at the bottom of the website example pages (https://polyrhythm.humdrum.org/example/?id=129 in this case), or copied into the text editor of [VHV](https://verovio.humdrum.org?file=https://github.com/polyrhythm-project/fds-scores/blob/main/kern/R129_Jan-w30p11m124-127.krn) |
 
 
 
