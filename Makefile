@@ -19,6 +19,12 @@
 ##                Automatically create MIDI files from the kern files.  You
 ##                must first install verovio (https://verovio.humdrum.org).
 ##                   make midi
+##                Automatically create MEI files from the kern files.  You
+##                must first install verovio (https://verovio.humdrum.org).
+##                   make mei
+##                Automatically create MusicXML files from the kern files. 
+##                This can also be done with Converter21 in Python:
+##                   make musicxml
 ##
 
 .PHONY: kern midi mei musicxml
@@ -71,6 +77,7 @@ musicxml:
 		echo Creating musicxml/$$(basename $$file .krn).musicxml; \
 		PERL_LWP_SSL_VERIFY_HOSTNAME=0 humdrum2musicxml $$file > musicxml/$$(basename $$file .krn).musicxml; \
 	done
+
 
 clean:
 	-rm -rf midi
