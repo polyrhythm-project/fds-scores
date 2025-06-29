@@ -23,7 +23,7 @@ Data conversions
 
 The Humdrum kern files can be converted to MIDI, MEI or MusicXML data.  See
 the [Makefile](https://github.com/polyrhythm-project/fds-scores/blob/main/Makefile)
-for examples of how to do this.  For MIDI and MEI, use [verovio](https://verovio.org].
+for examples of how to do this.  For MIDI and MEI, use [verovio](https://verovio.org).
 For MusicXML use [Converter21](https://github.com/gregchapman-dev/converter21) in Python.
 
 
