@@ -13,8 +13,8 @@ Files in the
 directory that start with `R` are the Reserve dataset, which is a
 random sample of four examples for each of the 20 composers represented
 in the Full dataset (plus four additional examples marked with an
-`x` after the example number which are for piano reductions of the
-respective example.
+`x` after the example number which are for piano variants of the
+respective example).
 
 Other files are prefixed with `T` to indicate they are from the Test dataset.
 
