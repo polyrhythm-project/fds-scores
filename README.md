@@ -6,7 +6,7 @@ Polyrhythm Project FDS Dataset
 The FDS (Full dataset) for the Polyrhythm Project.
 
 The [kern](https://github.com/polyrhythm-project/fds-scores/tree/main/kern)
-directory contains the digital score, currently consisting of 710 examples.
+directory contains the digital scores, currently consisting of 710 examples.
 
 Files in the
 [kern](https://github.com/polyrhythm-project/fds-scores/tree/main/kern)
