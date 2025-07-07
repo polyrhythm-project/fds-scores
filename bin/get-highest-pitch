@@ -1,0 +1,31 @@
+#!/usr/bin/perl
+
+use strict;
+use Getopt::Long;
+
+my $verboseQ = 1;
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'v|verbose=s' => \$verboseQ
+);
+
+while (my $id = <>) {
+	chomp $id;
+	if (!$id) {
+		print "\n";
+		next;
+	}
+	if ($id !~ /^\d/) {
+		print "\n";
+		next;
+	}
+	my $value = `prange [RT]${id}_*.krn | ridx -H | tail -n 1 | sed 's/	.*//'`;
+	chomp $value;
+	if ($verboseQ) {
+		print "$id\t";
+	}
+	print "$value\n";
+}
+
+
+

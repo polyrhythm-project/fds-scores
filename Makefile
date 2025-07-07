@@ -86,3 +86,10 @@ clean:
 
 
 
+### Musical Features #####################################################
+
+hp: highest-pitch
+highest-pitch:
+	@(cd kern && cat ../bin/ids.txt | ../bin/get-highest-pitch -v)
+
+
