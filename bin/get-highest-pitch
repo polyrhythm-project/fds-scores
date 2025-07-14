@@ -3,10 +3,10 @@
 use strict;
 use Getopt::Long;
 
-my $verboseQ = 1;
+my $verboseQ = 0;
 Getopt::Long::Configure("bundling");
 GetOptions (
-   'v|verbose=s' => \$verboseQ
+   'v|verbose' => \$verboseQ
 );
 
 while (my $id = <>) {

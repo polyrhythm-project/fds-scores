@@ -85,11 +85,37 @@ clean:
 	-rm -rf musicxml
 
 
-
-### Musical Features #####################################################
+##############################
+##
+## Musical Features
+##
 
 hp: highest-pitch
 highest-pitch:
-	@(cd kern && cat ../bin/ids.txt | ../bin/get-highest-pitch -v)
+	@(cd kern && cat ../bin/ids.txt | ../bin/get-highest-pitch)
+
+
+lp: lowest-pitch
+lowest-pitch:
+	@(cd kern && cat ../bin/ids.txt | ../bin/get-lowest-pitch)
+
+
+mp: mean-pitch
+mean-pitch:
+	@(cd kern && cat ../bin/ids.txt | ../bin/get-mean-pitch)
+
+cec: composite-events-count
+composite-events-count:
+	@(cd kern && cat ../bin/ids.txt | ../bin/get-composite-events-count)
+
+edr: event-density-ratio
+event-density-ratio:
+	@(cd kern && cat ../bin/ids.txt | ../bin/get-event-density-ratio)
+
+nr: nested-ratio
+nested-ratio:
+	@(cd kern && cat ../bin/ids.txt | ../bin/get-nested-ratio)
+	
+
 
 
