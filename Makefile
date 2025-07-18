@@ -145,3 +145,8 @@ sonority-dissonance:
 	@(cd kern && cat ../bin/ids.txt | ../bin/get-sonority-dissonance)
 
 
+pr: polarity-ratio
+polarity-ratio:
+	@(cd kern && cat ../bin/ids.txt | ../bin/get-polarity-ratio)
+
+
