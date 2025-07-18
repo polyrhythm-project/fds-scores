@@ -87,6 +87,20 @@ clean:
 
 ##############################
 ##
+## FDS is a merger of RDS and TDS files in the kern directory.  Updates to the files
+##    should be done in those two repositories rather than here, and then the "make copy"
+##    command should copy the two repositories' kern files into the kern directory.
+##
+
+make copy:
+	-rm kern/*.krn
+	cp ../rds-scores/kern/*.krn kern/
+	cp ../tds-scores/kern/*.krn kern/
+
+
+
+##############################
+##
 ## Musical Features
 ##
 
@@ -104,18 +118,30 @@ mp: mean-pitch
 mean-pitch:
 	@(cd kern && cat ../bin/ids.txt | ../bin/get-mean-pitch)
 
+
+# composte-events-count not used anymore (use event-counts, which this is the first column there).
 cec: composite-events-count
 composite-events-count:
 	@(cd kern && cat ../bin/ids.txt | ../bin/get-composite-events-count)
 
+
+ec: event-counts
+event-counts:
+	@(cd kern && cat ../bin/ids.txt | ../bin/get-event-counts)
+
+
 edr: event-density-ratio
 event-density-ratio:
 	@(cd kern && cat ../bin/ids.txt | ../bin/get-event-density-ratio)
+
 
 nr: nested-ratio
 nested-ratio:
 	@(cd kern && cat ../bin/ids.txt | ../bin/get-nested-ratio)
 	
 
+sd: sonority-dissonance
+sonority-dissonance:
+	@(cd kern && cat ../bin/ids.txt | ../bin/get-sonority-dissonance)
 
 

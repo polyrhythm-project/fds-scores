@@ -1,0 +1,110 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Sat Jun 19 20:12:51 PDT 2021
+# Last Modified: Wed May  3 02:56:19 PDT 2023
+# Filename:      bin/getNestedRatio
+# Syntax:        perl 5
+#
+# Description:   Calculate group nested score.
+#                Equation: composite-coincide-notes divided by composite-total-notes
+#                lower ratio = less integration; 
+#                higher ratio = more integration; 
+#                less integrated = more complex; 
+#                more integrated = less complex
+#
+# The command "composite -egc" will produce these reference records:
+#    !!!group-b-event-count: 31         # number of events in group B
+#    !!!group-a-event-count: 28         # number of events in group A
+#    !!!composite-event-count: 47       # number of events in full composite rhythm
+#    !!!coincidence-event-count: 14     # number of events in concidence 
+#
+#
+
+use strict;
+use Getopt::Long;
+
+my $composite = `which composite`;
+chomp $composite;
+die "Cannot find composite tool.  Install humlib (https://github.com/craigsapp/humlib)\n" if $composite =~ /^\s*$/;
+
+my $verboseQ = 0;   # -v will list data values used to calculate nested ratio
+my $file;           # -f will list add the source filename after the result.
+
+Getopt::Long::Configure("bundling");
+GetOptions (
+   'v|verbose' => \$verboseQ,
+   'f|file:s' => \$file
+);
+
+if ($file !~ /^\s*$/) {
+	my $value = processFile($file);
+	print "$value\n";
+	return 0;
+} else {
+	while (my $id = <>) {
+		chomp $id;
+		my $file = getFileByID($id);
+		if ($file =~ /^\s*$/) {
+			print "\n";
+			next;
+		}
+		print "$file ===================================\n" if $verboseQ;
+		my $value = processFile($file);
+		print "$value\n";
+	}
+}
+
+
+
+##############################
+##
+## getFileById --
+##
+
+sub getFileByID {
+	my ($id) = @_;
+	my @files = glob("[RT]{$id}_*");
+	return "" if @files == 0;
+	return $files[0] if @files == 1;
+	return "" if @files > 1;
+}
+
+
+##############################
+##
+## processFile -- extract data and calculate score
+##
+##   !!!group-b-event-count: 31         # number of events in group B
+##   !!!group-a-event-count: 28         # number of events in group A
+##   !!!composite-event-count: 47       # number of events in full composite rhythm
+##   !!!coincidence-event-count: 14     # number of events in concidence 
+## 
+
+sub processFile {
+	my ($file) = @_;
+	#my @contents = `cat $file | $composite -Begc | $composite -Begc`;
+	my @contents = `cat $file | $composite -Begc`;
+	chomp @contents;
+	my $coincideNotes = -1;
+	my $compositeNotes = -1;
+	foreach my $line (@contents) {
+		if ($line =~ /^!!!composite-event-count:\s*(\d+)/) {
+			$compositeNotes = $1;
+		} elsif ($line =~ /^!!!coincidence-event-count:\s*(\d+)/) {
+			$coincideNotes = $1;
+		}
+	}
+	if ($compositeNotes <= 0) {
+		print "ERROR Composite Notes: $compositeNotes for file $file\n";
+	} elsif ($coincideNotes < 0) {
+		print "ERROR Coincidence Notes: $compositeNotes for file $file\n";
+	} else {
+		my $value = $coincideNotes / $compositeNotes;
+		my $value = int($value * 1000.0 + 0.5) / 1000.0;
+		return $value;
+	}
+}
+
+
+
